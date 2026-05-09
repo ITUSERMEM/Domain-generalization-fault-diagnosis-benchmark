@@ -48,4 +48,4 @@ The current code is the initial version, and we will integrate it into a complet
 | CCDG | PU | [6,8,9]→7 | 59.13% | 31.33% | 54.21±3.80% | ✅ |
 | CCDG | PU | [7,8,9]→6 | 98.67% | 54.08% | 94.77±7.99% | ✅ |
 | CNN-C | CWRU | [0,1,2]→3 | 99.65% | 93.00% | 98.42±1.29% | 🔄 |
-| CNN-C | CWRU | [0,1,3]→2 | 100.00% | 93.75% | 99.70±1.33% | 🔄 |
+| CNN-C | CWRU | [0,1,3]→2 | 100.00% | 93.75% | 99.82±1.02% | 🔄 |
