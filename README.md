@@ -43,4 +43,4 @@ The current code is the initial version, and we will integrate it into a complet
 | CCDG | CWRU | [0,1,3]→2 | 100.00% | 92.40% | 99.87±0.88% | ✅ |
 | CCDG | CWRU | [0,2,3]→1 | 99.85% | 90.95% | 95.27±2.31% | ✅ |
 | CCDG | CWRU | [1,2,3]→0 | 99.90% | 89.85% | 97.33±2.04% | ✅ |
-| CCDG | PU | [6,7,8]→9 | 35.50% | 18.96% | 27.63±3.22% | 🔄 |
+| CCDG | PU | [6,7,8]→9 | 35.54% | 18.46% | 27.76±3.13% | 🔄 |
