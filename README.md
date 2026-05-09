@@ -31,4 +31,4 @@ The current code is the initial version, and we will integrate it into a complet
 | DDC | PU | [6,7,9]→8 | 99.38% | 54.71% | 94.38±9.05% | ✅ |
 | DDC | PU | [6,8,9]→7 | 55.00% | 29.21% | 48.17±4.83% | ✅ |
 | DDC | PU | [7,8,9]→6 | 98.71% | 53.54% | 93.98±8.33% | ✅ |
-| DCORAL | CWRU | [0,1,2]→3 | 99.90% | 93.35% | 98.81±0.99% | 🔄 |
+| DCORAL | CWRU | [0,1,2]→3 | 99.90% | 92.50% | 98.84±0.95% | 🔄 |
