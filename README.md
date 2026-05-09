@@ -50,4 +50,4 @@ The current code is the initial version, and we will integrate it into a complet
 | CNN-C | CWRU | [0,1,2]→3 | 99.65% | 93.00% | 98.42±1.29% | 🔄 |
 | CNN-C | CWRU | [0,1,3]→2 | 100.00% | 93.30% | 99.87±0.89% | 🔄 |
 | CNN-C | CWRU | [0,2,3]→1 | 100.00% | 90.90% | 99.05±1.82% | 🔄 |
-| CNN-C | CWRU | [1,2,3]→0 | 99.95% | 91.00% | 98.75±1.45% | 🔄 |
+| CNN-C | CWRU | [1,2,3]→0 | 99.95% | 90.20% | 98.73±1.35% | 🔄 |
