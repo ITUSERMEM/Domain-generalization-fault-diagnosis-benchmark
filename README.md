@@ -26,4 +26,4 @@ The current code is the initial version, and we will integrate it into a complet
 | DDC | CWRU | [0,1,2]→3 | 99.75% | 92.75% | 97.81±0.96% | ✅ |
 | DDC | CWRU | [0,1,3]→2 | 100.00% | 92.80% | 99.90±0.75% | ✅ |
 | DDC | CWRU | [0,2,3]→1 | 99.85% | 90.90% | 98.59±1.43% | ✅ |
-| DDC | CWRU | [1,2,3]→0 | 99.75% | 90.85% | 99.21±1.06% | 🔄 |
+| DDC | CWRU | [1,2,3]→0 | 99.85% | 89.70% | 99.20±1.21% | 🔄 |
