@@ -21,4 +21,4 @@ The current code is the initial version, and we will integrate it into a complet
 | DANN | CWRU | [1,2,3]→0 | 100.00% | 85.65% | 96.63±3.36% | ✅ |
 | DANN | PU | [6,7,8]→9 | 55.62% | 12.38% | 31.60±8.77% | ✅ |
 | DANN | PU | [6,7,9]→8 | 99.83% | 42.83% | 89.01±14.49% | ✅ |
-| DANN | PU | [6,8,9]→7 | 62.75% | 18.96% | 47.33±8.68% | 🔄 |
+| DANN | PU | [6,8,9]→7 | 62.75% | 18.54% | 46.97±8.25% | 🔄 |
