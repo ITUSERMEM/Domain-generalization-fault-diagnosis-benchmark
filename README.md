@@ -38,4 +38,4 @@ The current code is the initial version, and we will integrate it into a complet
 | DCORAL | PU | [6,7,8]→9 | 48.50% | 17.46% | 35.34±7.06% | ✅ |
 | DCORAL | PU | [6,7,9]→8 | 99.71% | 51.04% | 95.03±8.99% | ✅ |
 | DCORAL | PU | [6,8,9]→7 | 55.21% | 24.42% | 49.92±4.16% | ✅ |
-| DCORAL | PU | [7,8,9]→6 | 99.29% | 56.46% | 91.44±11.40% | 🔄 |
+| DCORAL | PU | [7,8,9]→6 | 99.67% | 53.71% | 94.94±9.12% | 🔄 |
