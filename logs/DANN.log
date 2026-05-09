@@ -62563,3 +62563,3274 @@ Train iter: 1690 [(34%)]	Loss: -0.023938	soft_Loss: 0.036662	confu_Loss: 0.06487
 Train iter: 1700 [(34%)]	Loss: -0.012695	soft_Loss: 0.024337	confu_Loss: 0.039588
 
 load6_train set: Average loss: 1478.0185, Accuracy: 28315/28800 (98.32%)
+
+
+load6_train set: Average loss: 115.7606, Accuracy: 2366/2400 (98.58%)
+
+learning rate 0.0016
+Train iter: 1710 [(34%)]	Loss: -0.014658	soft_Loss: 0.020076	confu_Loss: 0.037084
+Train iter: 1720 [(34%)]	Loss: -0.023288	soft_Loss: 0.020637	confu_Loss: 0.046836
+Train iter: 1730 [(35%)]	Loss: -0.009716	soft_Loss: 0.025530	confu_Loss: 0.037533
+Train iter: 1740 [(35%)]	Loss: 0.018804	soft_Loss: 0.052839	confu_Loss: 0.036199
+Train iter: 1750 [(35%)]	Loss: -0.008445	soft_Loss: 0.025232	confu_Loss: 0.035774
+Train iter: 1760 [(35%)]	Loss: -0.007002	soft_Loss: 0.034918	confu_Loss: 0.044477
+Train iter: 1770 [(35%)]	Loss: -0.031491	soft_Loss: 0.021961	confu_Loss: 0.056646
+Train iter: 1780 [(36%)]	Loss: -0.024700	soft_Loss: 0.024561	confu_Loss: 0.052145
+Train iter: 1790 [(36%)]	Loss: -0.006502	soft_Loss: 0.020904	confu_Loss: 0.028978
+Train iter: 1800 [(36%)]	Loss: -0.014694	soft_Loss: 0.021434	confu_Loss: 0.038158
+
+load6_train set: Average loss: 8321.6406, Accuracy: 25444/28800 (88.35%)
+
+
+load6_train set: Average loss: 278.8060, Accuracy: 2305/2400 (96.04%)
+
+learning rate 0.0016
+Train iter: 1810 [(36%)]	Loss: -0.019419	soft_Loss: 0.022524	confu_Loss: 0.044251
+Train iter: 1820 [(36%)]	Loss: -0.009019	soft_Loss: 0.027439	confu_Loss: 0.038424
+Train iter: 1830 [(37%)]	Loss: -0.012568	soft_Loss: 0.017943	confu_Loss: 0.032123
+Train iter: 1840 [(37%)]	Loss: -0.000615	soft_Loss: 0.032860	confu_Loss: 0.035207
+Train iter: 1850 [(37%)]	Loss: -0.001399	soft_Loss: 0.056590	confu_Loss: 0.060929
+Train iter: 1860 [(37%)]	Loss: -0.027037	soft_Loss: 0.011468	confu_Loss: 0.040417
+Train iter: 1870 [(37%)]	Loss: -0.014312	soft_Loss: 0.024630	confu_Loss: 0.040838
+Train iter: 1880 [(38%)]	Loss: -0.017266	soft_Loss: 0.025513	confu_Loss: 0.044818
+Train iter: 1890 [(38%)]	Loss: -0.024195	soft_Loss: 0.013356	confu_Loss: 0.039305
+Train iter: 1900 [(38%)]	Loss: -0.020381	soft_Loss: 0.017246	confu_Loss: 0.039349
+
+load6_train set: Average loss: 14055.3682, Accuracy: 24414/28800 (84.77%)
+
+
+load6_train set: Average loss: 327.4996, Accuracy: 2276/2400 (94.83%)
+
+learning rate 0.0015
+Train iter: 1910 [(38%)]	Loss: -0.017646	soft_Loss: 0.017490	confu_Loss: 0.036711
+Train iter: 1920 [(38%)]	Loss: -0.013012	soft_Loss: 0.030608	confu_Loss: 0.045536
+Train iter: 1930 [(39%)]	Loss: -0.035929	soft_Loss: 0.025411	confu_Loss: 0.063980
+Train iter: 1940 [(39%)]	Loss: -0.012873	soft_Loss: 0.017699	confu_Loss: 0.031861
+Train iter: 1950 [(39%)]	Loss: -0.002778	soft_Loss: 0.032274	confu_Loss: 0.036501
+Train iter: 1960 [(39%)]	Loss: -0.023229	soft_Loss: 0.020905	confu_Loss: 0.045921
+Train iter: 1970 [(39%)]	Loss: -0.003705	soft_Loss: 0.024177	confu_Loss: 0.028987
+Train iter: 1980 [(40%)]	Loss: -0.037406	soft_Loss: 0.016977	confu_Loss: 0.056497
+Train iter: 1990 [(40%)]	Loss: -0.011751	soft_Loss: 0.022802	confu_Loss: 0.035868
+Train iter: 2000 [(40%)]	Loss: -0.028089	soft_Loss: 0.011400	confu_Loss: 0.040963
+
+load6_train set: Average loss: 14631.1071, Accuracy: 24223/28800 (84.11%)
+
+
+load6_train set: Average loss: 390.4450, Accuracy: 2256/2400 (94.00%)
+
+learning rate 0.0015
+Train iter: 2010 [(40%)]	Loss: -0.040840	soft_Loss: 0.013590	confu_Loss: 0.056420
+Train iter: 2020 [(40%)]	Loss: -0.015028	soft_Loss: 0.014952	confu_Loss: 0.031054
+Train iter: 2030 [(41%)]	Loss: -0.035114	soft_Loss: 0.009477	confu_Loss: 0.046157
+Train iter: 2040 [(41%)]	Loss: -0.039314	soft_Loss: 0.012151	confu_Loss: 0.053236
+Train iter: 2050 [(41%)]	Loss: -0.059283	soft_Loss: 0.012857	confu_Loss: 0.074571
+Train iter: 2060 [(41%)]	Loss: -0.006054	soft_Loss: 0.015362	confu_Loss: 0.022124
+Train iter: 2070 [(41%)]	Loss: -0.007585	soft_Loss: 0.021231	confu_Loss: 0.029749
+Train iter: 2080 [(42%)]	Loss: -0.054628	soft_Loss: 0.016672	confu_Loss: 0.073561
+Train iter: 2090 [(42%)]	Loss: -0.022733	soft_Loss: 0.016357	confu_Loss: 0.040305
+Train iter: 2100 [(42%)]	Loss: -0.033535	soft_Loss: 0.009199	confu_Loss: 0.044035
+
+load6_train set: Average loss: 4019.6110, Accuracy: 27283/28800 (94.73%)
+
+
+load6_train set: Average loss: 115.1795, Accuracy: 2362/2400 (98.42%)
+
+learning rate 0.0015
+Train iter: 2110 [(42%)]	Loss: -0.008814	soft_Loss: 0.027442	confu_Loss: 0.037338
+Train iter: 2120 [(42%)]	Loss: -0.023822	soft_Loss: 0.007937	confu_Loss: 0.032688
+Train iter: 2130 [(43%)]	Loss: -0.049309	soft_Loss: 0.007703	confu_Loss: 0.058646
+Train iter: 2140 [(43%)]	Loss: -0.022656	soft_Loss: 0.022870	confu_Loss: 0.046804
+Train iter: 2150 [(43%)]	Loss: -0.057354	soft_Loss: 0.024252	confu_Loss: 0.083851
+Train iter: 2160 [(43%)]	Loss: -0.011477	soft_Loss: 0.031687	confu_Loss: 0.044329
+Train iter: 2170 [(43%)]	Loss: 0.013516	soft_Loss: 0.045166	confu_Loss: 0.032486
+Train iter: 2180 [(44%)]	Loss: -0.030122	soft_Loss: 0.014114	confu_Loss: 0.045381
+Train iter: 2190 [(44%)]	Loss: -0.050511	soft_Loss: 0.013224	confu_Loss: 0.065352
+Train iter: 2200 [(44%)]	Loss: -0.020762	soft_Loss: 0.012194	confu_Loss: 0.033776
+
+load6_train set: Average loss: 441.2114, Accuracy: 28604/28800 (99.32%)
+
+
+load6_train set: Average loss: 101.5818, Accuracy: 2365/2400 (98.54%)
+
+learning rate 0.0014
+Train iter: 2210 [(44%)]	Loss: -0.022031	soft_Loss: 0.014781	confu_Loss: 0.037709
+Train iter: 2220 [(44%)]	Loss: 0.007877	soft_Loss: 0.036828	confu_Loss: 0.029643
+Train iter: 2230 [(45%)]	Loss: -0.027477	soft_Loss: 0.019939	confu_Loss: 0.048525
+Train iter: 2240 [(45%)]	Loss: -0.017107	soft_Loss: 0.019982	confu_Loss: 0.037940
+Train iter: 2250 [(45%)]	Loss: -0.025218	soft_Loss: 0.011642	confu_Loss: 0.037688
+Train iter: 2260 [(45%)]	Loss: -0.029733	soft_Loss: 0.008317	confu_Loss: 0.038888
+Train iter: 2270 [(45%)]	Loss: -0.046694	soft_Loss: 0.011299	confu_Loss: 0.059244
+Train iter: 2280 [(46%)]	Loss: -0.018999	soft_Loss: 0.011564	confu_Loss: 0.031210
+Train iter: 2290 [(46%)]	Loss: -0.021073	soft_Loss: 0.008846	confu_Loss: 0.030538
+Train iter: 2300 [(46%)]	Loss: -0.037500	soft_Loss: 0.011608	confu_Loss: 0.050105
+
+load6_train set: Average loss: 3978.2586, Accuracy: 27379/28800 (95.07%)
+
+
+load6_train set: Average loss: 400.3820, Accuracy: 2269/2400 (94.54%)
+
+learning rate 0.0014
+Train iter: 2310 [(46%)]	Loss: -0.046484	soft_Loss: 0.010389	confu_Loss: 0.058006
+Train iter: 2320 [(46%)]	Loss: -0.030647	soft_Loss: 0.009770	confu_Loss: 0.041206
+Train iter: 2330 [(47%)]	Loss: 0.001531	soft_Loss: 0.036771	confu_Loss: 0.035914
+Train iter: 2340 [(47%)]	Loss: -0.041095	soft_Loss: 0.007488	confu_Loss: 0.049493
+Train iter: 2350 [(47%)]	Loss: -0.043812	soft_Loss: 0.008685	confu_Loss: 0.053461
+Train iter: 2360 [(47%)]	Loss: -0.041241	soft_Loss: 0.013254	confu_Loss: 0.055475
+Train iter: 2370 [(47%)]	Loss: -0.030169	soft_Loss: 0.009736	confu_Loss: 0.040608
+Train iter: 2380 [(48%)]	Loss: -0.010208	soft_Loss: 0.018469	confu_Loss: 0.029173
+Train iter: 2390 [(48%)]	Loss: -0.033035	soft_Loss: 0.013016	confu_Loss: 0.046830
+Train iter: 2400 [(48%)]	Loss: -0.038471	soft_Loss: 0.007377	confu_Loss: 0.046608
+
+load6_train set: Average loss: 12462.2761, Accuracy: 25620/28800 (88.96%)
+
+
+load6_train set: Average loss: 1185.1662, Accuracy: 2177/2400 (90.71%)
+
+learning rate 0.0013
+Train iter: 2410 [(48%)]	Loss: -0.029410	soft_Loss: 0.012140	confu_Loss: 0.042226
+Train iter: 2420 [(48%)]	Loss: -0.047254	soft_Loss: 0.014657	confu_Loss: 0.062898
+Train iter: 2430 [(49%)]	Loss: -0.038474	soft_Loss: 0.009752	confu_Loss: 0.048980
+Train iter: 2440 [(49%)]	Loss: -0.027326	soft_Loss: 0.026793	confu_Loss: 0.054947
+Train iter: 2450 [(49%)]	Loss: -0.042702	soft_Loss: 0.007578	confu_Loss: 0.051034
+Train iter: 2460 [(49%)]	Loss: -0.028750	soft_Loss: 0.007438	confu_Loss: 0.036720
+Train iter: 2470 [(49%)]	Loss: -0.051964	soft_Loss: 0.005071	confu_Loss: 0.057857
+Train iter: 2480 [(50%)]	Loss: -0.035684	soft_Loss: 0.011956	confu_Loss: 0.048312
+Train iter: 2490 [(50%)]	Loss: -0.038502	soft_Loss: 0.007740	confu_Loss: 0.046882
+Train iter: 2500 [(50%)]	Loss: -0.056159	soft_Loss: 0.015207	confu_Loss: 0.072334
+
+load6_train set: Average loss: 3890.8066, Accuracy: 27117/28800 (94.16%)
+
+
+load6_train set: Average loss: 88.9135, Accuracy: 2373/2400 (98.88%)
+
+learning rate 0.0013
+Train iter: 2510 [(50%)]	Loss: -0.033500	soft_Loss: 0.012256	confu_Loss: 0.046365
+Train iter: 2520 [(50%)]	Loss: -0.034711	soft_Loss: 0.011097	confu_Loss: 0.046405
+Train iter: 2530 [(51%)]	Loss: -0.052106	soft_Loss: 0.006864	confu_Loss: 0.059723
+Train iter: 2540 [(51%)]	Loss: -0.046004	soft_Loss: 0.003982	confu_Loss: 0.050612
+Train iter: 2550 [(51%)]	Loss: -0.049926	soft_Loss: 0.007719	confu_Loss: 0.058352
+Train iter: 2560 [(51%)]	Loss: -0.063597	soft_Loss: 0.004689	confu_Loss: 0.069106
+Train iter: 2570 [(51%)]	Loss: -0.034918	soft_Loss: 0.010882	confu_Loss: 0.046340
+Train iter: 2580 [(52%)]	Loss: -0.036684	soft_Loss: 0.008859	confu_Loss: 0.046070
+Train iter: 2590 [(52%)]	Loss: -0.065240	soft_Loss: 0.005079	confu_Loss: 0.071115
+Train iter: 2600 [(52%)]	Loss: -0.058449	soft_Loss: 0.004431	confu_Loss: 0.063578
+
+load6_train set: Average loss: 5585.4225, Accuracy: 26709/28800 (92.74%)
+
+
+load6_train set: Average loss: 72.5486, Accuracy: 2375/2400 (98.96%)
+
+learning rate 0.0013
+Train iter: 2610 [(52%)]	Loss: -0.062151	soft_Loss: 0.011139	confu_Loss: 0.074087
+Train iter: 2620 [(52%)]	Loss: -0.031187	soft_Loss: 0.008495	confu_Loss: 0.040105
+Train iter: 2630 [(53%)]	Loss: -0.057900	soft_Loss: 0.004090	confu_Loss: 0.062638
+Train iter: 2640 [(53%)]	Loss: -0.037063	soft_Loss: 0.012622	confu_Loss: 0.050194
+Train iter: 2650 [(53%)]	Loss: -0.089813	soft_Loss: 0.009480	confu_Loss: 0.100289
+Train iter: 2660 [(53%)]	Loss: -0.042076	soft_Loss: 0.005367	confu_Loss: 0.047909
+Train iter: 2670 [(53%)]	Loss: -0.061930	soft_Loss: 0.008241	confu_Loss: 0.070848
+Train iter: 2680 [(54%)]	Loss: -0.049606	soft_Loss: 0.009294	confu_Loss: 0.059456
+Train iter: 2690 [(54%)]	Loss: -0.085752	soft_Loss: 0.010385	confu_Loss: 0.097026
+Train iter: 2700 [(54%)]	Loss: -0.042543	soft_Loss: 0.014355	confu_Loss: 0.057414
+
+load6_train set: Average loss: 12619.9933, Accuracy: 25021/28800 (86.88%)
+
+
+load6_train set: Average loss: 161.2124, Accuracy: 2357/2400 (98.21%)
+
+learning rate 0.0012
+Train iter: 2710 [(54%)]	Loss: -0.049672	soft_Loss: 0.009165	confu_Loss: 0.059360
+Train iter: 2720 [(54%)]	Loss: -0.052575	soft_Loss: 0.005933	confu_Loss: 0.059018
+Train iter: 2730 [(55%)]	Loss: -0.058256	soft_Loss: 0.020070	confu_Loss: 0.078995
+Train iter: 2740 [(55%)]	Loss: -0.066529	soft_Loss: 0.012639	confu_Loss: 0.079831
+Train iter: 2750 [(55%)]	Loss: -0.053033	soft_Loss: 0.006098	confu_Loss: 0.059616
+Train iter: 2760 [(55%)]	Loss: -0.071827	soft_Loss: 0.004939	confu_Loss: 0.077383
+Train iter: 2770 [(55%)]	Loss: -0.052322	soft_Loss: 0.012385	confu_Loss: 0.065217
+Train iter: 2780 [(56%)]	Loss: -0.074461	soft_Loss: 0.008566	confu_Loss: 0.083668
+Train iter: 2790 [(56%)]	Loss: -0.067384	soft_Loss: 0.008518	confu_Loss: 0.076478
+Train iter: 2800 [(56%)]	Loss: -0.064886	soft_Loss: 0.006157	confu_Loss: 0.071571
+
+load6_train set: Average loss: 2400.2352, Accuracy: 27744/28800 (96.33%)
+
+
+load6_train set: Average loss: 175.1871, Accuracy: 2343/2400 (97.62%)
+
+learning rate 0.0012
+Train iter: 2810 [(56%)]	Loss: -0.065116	soft_Loss: 0.006239	confu_Loss: 0.071874
+Train iter: 2820 [(56%)]	Loss: -0.084598	soft_Loss: 0.005926	confu_Loss: 0.091170
+Train iter: 2830 [(57%)]	Loss: -0.080671	soft_Loss: 0.006922	confu_Loss: 0.088206
+Train iter: 2840 [(57%)]	Loss: -0.068296	soft_Loss: 0.016630	confu_Loss: 0.085508
+Train iter: 2850 [(57%)]	Loss: -0.065025	soft_Loss: 0.013430	confu_Loss: 0.078982
+Train iter: 2860 [(57%)]	Loss: -0.070965	soft_Loss: 0.005007	confu_Loss: 0.076472
+Train iter: 2870 [(57%)]	Loss: -0.063065	soft_Loss: 0.006275	confu_Loss: 0.069787
+Train iter: 2880 [(58%)]	Loss: -0.075935	soft_Loss: 0.008608	confu_Loss: 0.085078
+Train iter: 2890 [(58%)]	Loss: -0.092688	soft_Loss: 0.008622	confu_Loss: 0.101937
+Train iter: 2900 [(58%)]	Loss: -0.067898	soft_Loss: 0.004350	confu_Loss: 0.072687
+
+load6_train set: Average loss: 2631.0119, Accuracy: 27651/28800 (96.01%)
+
+
+load6_train set: Average loss: 48.1679, Accuracy: 2382/2400 (99.25%)
+
+learning rate 0.0012
+Train iter: 2910 [(58%)]	Loss: -0.081462	soft_Loss: 0.005063	confu_Loss: 0.087040
+Train iter: 2920 [(58%)]	Loss: -0.054572	soft_Loss: 0.010067	confu_Loss: 0.065016
+Train iter: 2930 [(59%)]	Loss: -0.083209	soft_Loss: 0.009641	confu_Loss: 0.093381
+Train iter: 2940 [(59%)]	Loss: -0.087798	soft_Loss: 0.008067	confu_Loss: 0.096402
+Train iter: 2950 [(59%)]	Loss: -0.075204	soft_Loss: 0.007740	confu_Loss: 0.083399
+Train iter: 2960 [(59%)]	Loss: -0.073041	soft_Loss: 0.011254	confu_Loss: 0.084749
+Train iter: 2970 [(59%)]	Loss: -0.077095	soft_Loss: 0.007475	confu_Loss: 0.085016
+Train iter: 2980 [(60%)]	Loss: -0.114439	soft_Loss: 0.003447	confu_Loss: 0.118496
+Train iter: 2990 [(60%)]	Loss: -0.079344	soft_Loss: 0.013230	confu_Loss: 0.093044
+Train iter: 3000 [(60%)]	Loss: -0.069334	soft_Loss: 0.010619	confu_Loss: 0.080351
+
+load6_train set: Average loss: 1556.1847, Accuracy: 28152/28800 (97.75%)
+
+
+load6_train set: Average loss: 34.9208, Accuracy: 2389/2400 (99.54%)
+
+learning rate 0.0012
+Train iter: 3010 [(60%)]	Loss: -0.096385	soft_Loss: 0.004911	confu_Loss: 0.101790
+Train iter: 3020 [(60%)]	Loss: -0.091372	soft_Loss: 0.004409	confu_Loss: 0.096238
+Train iter: 3030 [(61%)]	Loss: -0.083401	soft_Loss: 0.018555	confu_Loss: 0.102433
+Train iter: 3040 [(61%)]	Loss: -0.087540	soft_Loss: 0.005233	confu_Loss: 0.093199
+Train iter: 3050 [(61%)]	Loss: -0.143055	soft_Loss: 0.002776	confu_Loss: 0.146487
+Train iter: 3060 [(61%)]	Loss: -0.102798	soft_Loss: 0.003127	confu_Loss: 0.106392
+Train iter: 3070 [(61%)]	Loss: -0.087833	soft_Loss: 0.003049	confu_Loss: 0.091275
+Train iter: 3080 [(62%)]	Loss: -0.100694	soft_Loss: 0.009017	confu_Loss: 0.110175
+Train iter: 3090 [(62%)]	Loss: -0.082331	soft_Loss: 0.006831	confu_Loss: 0.089532
+Train iter: 3100 [(62%)]	Loss: -0.104935	soft_Loss: 0.012067	confu_Loss: 0.117477
+
+load6_train set: Average loss: 612.6038, Accuracy: 28507/28800 (98.98%)
+
+
+load6_train set: Average loss: 49.1745, Accuracy: 2383/2400 (99.29%)
+
+learning rate 0.0011
+Train iter: 3110 [(62%)]	Loss: -0.096841	soft_Loss: 0.005566	confu_Loss: 0.102816
+Train iter: 3120 [(62%)]	Loss: -0.100299	soft_Loss: 0.004528	confu_Loss: 0.105237
+Train iter: 3130 [(63%)]	Loss: -0.123462	soft_Loss: 0.012106	confu_Loss: 0.136088
+Train iter: 3140 [(63%)]	Loss: -0.102831	soft_Loss: 0.008947	confu_Loss: 0.112197
+Train iter: 3150 [(63%)]	Loss: -0.115725	soft_Loss: 0.003338	confu_Loss: 0.119501
+Train iter: 3160 [(63%)]	Loss: -0.123437	soft_Loss: 0.009863	confu_Loss: 0.133781
+Train iter: 3170 [(63%)]	Loss: -0.123870	soft_Loss: 0.005503	confu_Loss: 0.129831
+Train iter: 3180 [(64%)]	Loss: -0.149045	soft_Loss: 0.005603	confu_Loss: 0.155184
+Train iter: 3190 [(64%)]	Loss: -0.139720	soft_Loss: 0.014212	confu_Loss: 0.154454
+Train iter: 3200 [(64%)]	Loss: -0.160366	soft_Loss: 0.007387	confu_Loss: 0.168312
+
+load6_train set: Average loss: 3454.5416, Accuracy: 27397/28800 (95.13%)
+
+
+load6_train set: Average loss: 357.4836, Accuracy: 2282/2400 (95.08%)
+
+learning rate 0.0011
+Train iter: 3210 [(64%)]	Loss: -0.133358	soft_Loss: 0.012938	confu_Loss: 0.146773
+Train iter: 3220 [(64%)]	Loss: -0.121527	soft_Loss: 0.011398	confu_Loss: 0.133350
+Train iter: 3230 [(65%)]	Loss: -0.104008	soft_Loss: 0.012189	confu_Loss: 0.116561
+Train iter: 3240 [(65%)]	Loss: -0.132359	soft_Loss: 0.003148	confu_Loss: 0.135923
+Train iter: 3250 [(65%)]	Loss: -0.118753	soft_Loss: 0.004114	confu_Loss: 0.123237
+Train iter: 3260 [(65%)]	Loss: -0.156211	soft_Loss: 0.005744	confu_Loss: 0.162433
+Train iter: 3270 [(65%)]	Loss: -0.167148	soft_Loss: 0.004329	confu_Loss: 0.171973
+Train iter: 3280 [(66%)]	Loss: -0.157495	soft_Loss: 0.009496	confu_Loss: 0.167464
+Train iter: 3290 [(66%)]	Loss: -0.144090	soft_Loss: 0.005918	confu_Loss: 0.150425
+Train iter: 3300 [(66%)]	Loss: -0.164630	soft_Loss: 0.004369	confu_Loss: 0.169459
+
+load6_train set: Average loss: 2735.9150, Accuracy: 27636/28800 (95.96%)
+
+
+load6_train set: Average loss: 359.4350, Accuracy: 2286/2400 (95.25%)
+
+learning rate 0.0011
+Train iter: 3310 [(66%)]	Loss: -0.160023	soft_Loss: 0.005505	confu_Loss: 0.165970
+Train iter: 3320 [(66%)]	Loss: -0.158860	soft_Loss: 0.004674	confu_Loss: 0.163963
+Train iter: 3330 [(67%)]	Loss: -0.171970	soft_Loss: 0.005072	confu_Loss: 0.177496
+Train iter: 3340 [(67%)]	Loss: -0.165571	soft_Loss: 0.003338	confu_Loss: 0.169334
+Train iter: 3350 [(67%)]	Loss: -0.159934	soft_Loss: 0.009125	confu_Loss: 0.169476
+Train iter: 3360 [(67%)]	Loss: -0.183007	soft_Loss: 0.004075	confu_Loss: 0.187534
+Train iter: 3370 [(67%)]	Loss: -0.154048	soft_Loss: 0.003946	confu_Loss: 0.158368
+Train iter: 3380 [(68%)]	Loss: -0.161446	soft_Loss: 0.007685	confu_Loss: 0.169524
+Train iter: 3390 [(68%)]	Loss: -0.157380	soft_Loss: 0.013063	confu_Loss: 0.170831
+Train iter: 3400 [(68%)]	Loss: -0.177290	soft_Loss: 0.006499	confu_Loss: 0.184198
+
+load6_train set: Average loss: 5099.5079, Accuracy: 26830/28800 (93.16%)
+
+
+load6_train set: Average loss: 459.2246, Accuracy: 2257/2400 (94.04%)
+
+learning rate 0.0011
+Train iter: 3410 [(68%)]	Loss: -0.167680	soft_Loss: 0.003699	confu_Loss: 0.171753
+Train iter: 3420 [(68%)]	Loss: -0.176233	soft_Loss: 0.006488	confu_Loss: 0.183112
+Train iter: 3430 [(69%)]	Loss: -0.187126	soft_Loss: 0.003938	confu_Loss: 0.191464
+Train iter: 3440 [(69%)]	Loss: -0.175698	soft_Loss: 0.004316	confu_Loss: 0.180385
+Train iter: 3450 [(69%)]	Loss: -0.195067	soft_Loss: 0.005615	confu_Loss: 0.201087
+Train iter: 3460 [(69%)]	Loss: -0.220658	soft_Loss: 0.005188	confu_Loss: 0.226292
+Train iter: 3470 [(69%)]	Loss: -0.198036	soft_Loss: 0.003452	confu_Loss: 0.201879
+Train iter: 3480 [(70%)]	Loss: -0.193369	soft_Loss: 0.002616	confu_Loss: 0.196357
+Train iter: 3490 [(70%)]	Loss: -0.207485	soft_Loss: 0.004886	confu_Loss: 0.212766
+Train iter: 3500 [(70%)]	Loss: -0.195410	soft_Loss: 0.008723	confu_Loss: 0.204506
+
+load6_train set: Average loss: 901.3455, Accuracy: 28396/28800 (98.60%)
+
+
+load6_train set: Average loss: 205.9236, Accuracy: 2328/2400 (97.00%)
+
+learning rate 0.0011
+Train iter: 3510 [(70%)]	Loss: -0.205761	soft_Loss: 0.009143	confu_Loss: 0.215288
+Train iter: 3520 [(70%)]	Loss: -0.182557	soft_Loss: 0.005588	confu_Loss: 0.188475
+Train iter: 3530 [(71%)]	Loss: -0.201490	soft_Loss: 0.002934	confu_Loss: 0.204775
+Train iter: 3540 [(71%)]	Loss: -0.243901	soft_Loss: 0.003200	confu_Loss: 0.247517
+Train iter: 3550 [(71%)]	Loss: -0.210406	soft_Loss: 0.005253	confu_Loss: 0.216015
+Train iter: 3560 [(71%)]	Loss: -0.237525	soft_Loss: 0.004221	confu_Loss: 0.242137
+Train iter: 3570 [(71%)]	Loss: -0.220643	soft_Loss: 0.005911	confu_Loss: 0.226913
+Train iter: 3580 [(72%)]	Loss: -0.221465	soft_Loss: 0.003517	confu_Loss: 0.225332
+Train iter: 3590 [(72%)]	Loss: -0.220135	soft_Loss: 0.004947	confu_Loss: 0.225425
+Train iter: 3600 [(72%)]	Loss: -0.238826	soft_Loss: 0.003983	confu_Loss: 0.243172
+
+load6_train set: Average loss: 4417.1478, Accuracy: 27112/28800 (94.14%)
+
+
+load6_train set: Average loss: 63.1164, Accuracy: 2382/2400 (99.25%)
+
+learning rate 0.0010
+Train iter: 3610 [(72%)]	Loss: -0.239454	soft_Loss: 0.006155	confu_Loss: 0.245970
+Train iter: 3620 [(72%)]	Loss: -0.259634	soft_Loss: 0.005458	confu_Loss: 0.265472
+Train iter: 3630 [(73%)]	Loss: -0.247253	soft_Loss: 0.003353	confu_Loss: 0.250959
+Train iter: 3640 [(73%)]	Loss: -0.246541	soft_Loss: 0.002677	confu_Loss: 0.249562
+Train iter: 3650 [(73%)]	Loss: -0.247119	soft_Loss: 0.003248	confu_Loss: 0.250705
+Train iter: 3660 [(73%)]	Loss: -0.253123	soft_Loss: 0.005218	confu_Loss: 0.258683
+Train iter: 3670 [(73%)]	Loss: -0.280203	soft_Loss: 0.003377	confu_Loss: 0.283949
+Train iter: 3680 [(74%)]	Loss: -0.260016	soft_Loss: 0.003049	confu_Loss: 0.263399
+Train iter: 3690 [(74%)]	Loss: -0.273625	soft_Loss: 0.004253	confu_Loss: 0.278224
+Train iter: 3700 [(74%)]	Loss: -0.261092	soft_Loss: 0.003121	confu_Loss: 0.264536
+
+load6_train set: Average loss: 3368.7978, Accuracy: 27404/28800 (95.15%)
+
+
+load6_train set: Average loss: 54.1753, Accuracy: 2384/2400 (99.33%)
+
+learning rate 0.0010
+Train iter: 3710 [(74%)]	Loss: -0.265673	soft_Loss: 0.005003	confu_Loss: 0.271001
+Train iter: 3720 [(74%)]	Loss: -0.285572	soft_Loss: 0.003965	confu_Loss: 0.289878
+Train iter: 3730 [(75%)]	Loss: -0.278664	soft_Loss: 0.007708	confu_Loss: 0.286702
+Train iter: 3740 [(75%)]	Loss: -0.260901	soft_Loss: 0.005600	confu_Loss: 0.266802
+Train iter: 3750 [(75%)]	Loss: -0.285879	soft_Loss: 0.005189	confu_Loss: 0.291390
+Train iter: 3760 [(75%)]	Loss: -0.280493	soft_Loss: 0.004360	confu_Loss: 0.285161
+Train iter: 3770 [(75%)]	Loss: -0.269594	soft_Loss: 0.003586	confu_Loss: 0.273471
+Train iter: 3780 [(76%)]	Loss: -0.325979	soft_Loss: 0.004484	confu_Loss: 0.330808
+Train iter: 3790 [(76%)]	Loss: -0.353504	soft_Loss: 0.004655	confu_Loss: 0.358525
+Train iter: 3800 [(76%)]	Loss: -0.318733	soft_Loss: 0.003550	confu_Loss: 0.322606
+
+load6_train set: Average loss: 1086.4673, Accuracy: 28319/28800 (98.33%)
+
+
+load6_train set: Average loss: 184.4515, Accuracy: 2341/2400 (97.54%)
+
+learning rate 0.0010
+Train iter: 3810 [(76%)]	Loss: -0.314805	soft_Loss: 0.006153	confu_Loss: 0.321274
+Train iter: 3820 [(76%)]	Loss: -0.319915	soft_Loss: 0.007698	confu_Loss: 0.327928
+Train iter: 3830 [(77%)]	Loss: -0.342745	soft_Loss: 0.003005	confu_Loss: 0.346076
+Train iter: 3840 [(77%)]	Loss: -0.355483	soft_Loss: 0.008668	confu_Loss: 0.364488
+Train iter: 3850 [(77%)]	Loss: -0.326067	soft_Loss: 0.006486	confu_Loss: 0.332854
+Train iter: 3860 [(77%)]	Loss: -0.356736	soft_Loss: 0.002968	confu_Loss: 0.360023
+Train iter: 3870 [(77%)]	Loss: -0.353743	soft_Loss: 0.005775	confu_Loss: 0.359831
+Train iter: 3880 [(78%)]	Loss: -0.355716	soft_Loss: 0.004099	confu_Loss: 0.360122
+Train iter: 3890 [(78%)]	Loss: -0.383504	soft_Loss: 0.003262	confu_Loss: 0.387090
+Train iter: 3900 [(78%)]	Loss: -0.379276	soft_Loss: 0.003979	confu_Loss: 0.383570
+
+load6_train set: Average loss: 2926.4240, Accuracy: 27776/28800 (96.44%)
+
+
+load6_train set: Average loss: 226.4467, Accuracy: 2329/2400 (97.04%)
+
+learning rate 0.0010
+Train iter: 3910 [(78%)]	Loss: -0.347491	soft_Loss: 0.003353	confu_Loss: 0.351127
+Train iter: 3920 [(78%)]	Loss: -0.382092	soft_Loss: 0.005607	confu_Loss: 0.388004
+Train iter: 3930 [(79%)]	Loss: -0.364943	soft_Loss: 0.002815	confu_Loss: 0.368042
+Train iter: 3940 [(79%)]	Loss: -0.383298	soft_Loss: 0.004080	confu_Loss: 0.387671
+Train iter: 3950 [(79%)]	Loss: -0.400092	soft_Loss: 0.002994	confu_Loss: 0.403385
+Train iter: 3960 [(79%)]	Loss: -0.438087	soft_Loss: 0.005493	confu_Loss: 0.443903
+Train iter: 3970 [(79%)]	Loss: -0.376939	soft_Loss: 0.003947	confu_Loss: 0.381158
+Train iter: 3980 [(80%)]	Loss: -0.393684	soft_Loss: 0.002826	confu_Loss: 0.396787
+Train iter: 3990 [(80%)]	Loss: -0.404812	soft_Loss: 0.005360	confu_Loss: 0.410453
+Train iter: 4000 [(80%)]	Loss: -0.437721	soft_Loss: 0.003623	confu_Loss: 0.441641
+
+load6_train set: Average loss: 123.3414, Accuracy: 28670/28800 (99.55%)
+
+
+load6_train set: Average loss: 49.1167, Accuracy: 2382/2400 (99.25%)
+
+learning rate 0.0010
+Train iter: 4010 [(80%)]	Loss: -0.464644	soft_Loss: 0.004415	confu_Loss: 0.469368
+Train iter: 4020 [(80%)]	Loss: -0.463955	soft_Loss: 0.002383	confu_Loss: 0.466638
+Train iter: 4030 [(81%)]	Loss: -0.481438	soft_Loss: 0.005491	confu_Loss: 0.487237
+Train iter: 4040 [(81%)]	Loss: -0.459370	soft_Loss: 0.004669	confu_Loss: 0.464326
+Train iter: 4050 [(81%)]	Loss: -0.453340	soft_Loss: 0.003883	confu_Loss: 0.457501
+Train iter: 4060 [(81%)]	Loss: -0.498537	soft_Loss: 0.002332	confu_Loss: 0.501167
+Train iter: 4070 [(81%)]	Loss: -0.500202	soft_Loss: 0.005430	confu_Loss: 0.505926
+Train iter: 4080 [(82%)]	Loss: -0.486878	soft_Loss: 0.009706	confu_Loss: 0.496868
+Train iter: 4090 [(82%)]	Loss: -0.483196	soft_Loss: 0.002758	confu_Loss: 0.486226
+Train iter: 4100 [(82%)]	Loss: -0.520486	soft_Loss: 0.002459	confu_Loss: 0.523233
+
+load6_train set: Average loss: 459.9324, Accuracy: 28591/28800 (99.27%)
+
+
+load6_train set: Average loss: 22.2025, Accuracy: 2393/2400 (99.71%)
+
+learning rate 0.0009
+Train iter: 4110 [(82%)]	Loss: -0.500348	soft_Loss: 0.003261	confu_Loss: 0.503881
+Train iter: 4120 [(82%)]	Loss: -0.538759	soft_Loss: 0.005362	confu_Loss: 0.544409
+Train iter: 4130 [(83%)]	Loss: -0.533950	soft_Loss: 0.003088	confu_Loss: 0.537316
+Train iter: 4140 [(83%)]	Loss: -0.531567	soft_Loss: 0.004042	confu_Loss: 0.535881
+Train iter: 4150 [(83%)]	Loss: -0.538574	soft_Loss: 0.009957	confu_Loss: 0.548804
+Train iter: 4160 [(83%)]	Loss: -0.558161	soft_Loss: 0.002088	confu_Loss: 0.560522
+Train iter: 4170 [(83%)]	Loss: -0.580062	soft_Loss: 0.001900	confu_Loss: 0.582240
+Train iter: 4180 [(84%)]	Loss: -0.570327	soft_Loss: 0.006410	confu_Loss: 0.577008
+Train iter: 4190 [(84%)]	Loss: -0.592468	soft_Loss: 0.004549	confu_Loss: 0.597291
+Train iter: 4200 [(84%)]	Loss: -0.606866	soft_Loss: 0.003716	confu_Loss: 0.610856
+
+load6_train set: Average loss: 501.4679, Accuracy: 28566/28800 (99.19%)
+
+
+load6_train set: Average loss: 20.1042, Accuracy: 2395/2400 (99.79%)
+
+learning rate 0.0009
+Train iter: 4210 [(84%)]	Loss: -0.601735	soft_Loss: 0.002493	confu_Loss: 0.604494
+Train iter: 4220 [(84%)]	Loss: -0.606659	soft_Loss: 0.003491	confu_Loss: 0.610414
+Train iter: 4230 [(85%)]	Loss: -0.623374	soft_Loss: 0.002442	confu_Loss: 0.626081
+Train iter: 4240 [(85%)]	Loss: -0.649383	soft_Loss: 0.002005	confu_Loss: 0.651658
+Train iter: 4250 [(85%)]	Loss: -0.639177	soft_Loss: 0.002167	confu_Loss: 0.641605
+Train iter: 4260 [(85%)]	Loss: -0.670180	soft_Loss: 0.003365	confu_Loss: 0.673814
+Train iter: 4270 [(85%)]	Loss: -0.643571	soft_Loss: 0.003507	confu_Loss: 0.647331
+Train iter: 4280 [(86%)]	Loss: -0.658877	soft_Loss: 0.005050	confu_Loss: 0.664181
+Train iter: 4290 [(86%)]	Loss: -0.691898	soft_Loss: 0.006778	confu_Loss: 0.698939
+Train iter: 4300 [(86%)]	Loss: -0.689736	soft_Loss: 0.002577	confu_Loss: 0.692569
+
+load6_train set: Average loss: 218.8121, Accuracy: 28665/28800 (99.53%)
+
+
+load6_train set: Average loss: 34.2897, Accuracy: 2388/2400 (99.50%)
+
+learning rate 0.0009
+Train iter: 4310 [(86%)]	Loss: -0.697281	soft_Loss: 0.003642	confu_Loss: 0.701176
+Train iter: 4320 [(86%)]	Loss: -0.743789	soft_Loss: 0.002221	confu_Loss: 0.746274
+Train iter: 4330 [(87%)]	Loss: -0.720309	soft_Loss: 0.005890	confu_Loss: 0.726451
+Train iter: 4340 [(87%)]	Loss: -0.725379	soft_Loss: 0.004619	confu_Loss: 0.730246
+Train iter: 4350 [(87%)]	Loss: -0.745023	soft_Loss: 0.002863	confu_Loss: 0.748136
+Train iter: 4360 [(87%)]	Loss: -0.750621	soft_Loss: 0.004691	confu_Loss: 0.755559
+Train iter: 4370 [(87%)]	Loss: -0.773981	soft_Loss: 0.003346	confu_Loss: 0.777576
+Train iter: 4380 [(88%)]	Loss: -0.805258	soft_Loss: 0.005158	confu_Loss: 0.810670
+Train iter: 4390 [(88%)]	Loss: -0.795855	soft_Loss: 0.004626	confu_Loss: 0.800727
+Train iter: 4400 [(88%)]	Loss: -0.823055	soft_Loss: 0.002688	confu_Loss: 0.825991
+
+load6_train set: Average loss: 2190.7546, Accuracy: 27924/28800 (96.96%)
+
+
+load6_train set: Average loss: 412.0210, Accuracy: 2280/2400 (95.00%)
+
+learning rate 0.0009
+Train iter: 4410 [(88%)]	Loss: -0.804384	soft_Loss: 0.003670	confu_Loss: 0.808293
+Train iter: 4420 [(88%)]	Loss: -0.827100	soft_Loss: 0.006374	confu_Loss: 0.833716
+Train iter: 4430 [(89%)]	Loss: -0.847841	soft_Loss: 0.005104	confu_Loss: 0.853187
+Train iter: 4440 [(89%)]	Loss: -0.847118	soft_Loss: 0.004563	confu_Loss: 0.851918
+Train iter: 4450 [(89%)]	Loss: -0.893482	soft_Loss: 0.003779	confu_Loss: 0.897506
+Train iter: 4460 [(89%)]	Loss: -0.866119	soft_Loss: 0.003506	confu_Loss: 0.869857
+Train iter: 4470 [(89%)]	Loss: -0.895081	soft_Loss: 0.003983	confu_Loss: 0.899299
+Train iter: 4480 [(90%)]	Loss: -0.903866	soft_Loss: 0.005393	confu_Loss: 0.909493
+Train iter: 4490 [(90%)]	Loss: -0.913944	soft_Loss: 0.003751	confu_Loss: 0.917926
+Train iter: 4500 [(90%)]	Loss: -0.917771	soft_Loss: 0.005716	confu_Loss: 0.923715
+
+load6_train set: Average loss: 4398.9317, Accuracy: 27392/28800 (95.11%)
+
+
+load6_train set: Average loss: 726.8645, Accuracy: 2203/2400 (91.79%)
+
+learning rate 0.0009
+Train iter: 4510 [(90%)]	Loss: -0.926870	soft_Loss: 0.004970	confu_Loss: 0.932066
+Train iter: 4520 [(90%)]	Loss: -0.920225	soft_Loss: 0.003675	confu_Loss: 0.924119
+Train iter: 4530 [(91%)]	Loss: -0.941874	soft_Loss: 0.003369	confu_Loss: 0.945463
+Train iter: 4540 [(91%)]	Loss: -0.952851	soft_Loss: 0.004069	confu_Loss: 0.957138
+Train iter: 4550 [(91%)]	Loss: -0.968564	soft_Loss: 0.002215	confu_Loss: 0.970996
+Train iter: 4560 [(91%)]	Loss: -0.970880	soft_Loss: 0.002381	confu_Loss: 0.973474
+Train iter: 4570 [(91%)]	Loss: -0.979521	soft_Loss: 0.010480	confu_Loss: 0.990214
+Train iter: 4580 [(92%)]	Loss: -1.002718	soft_Loss: 0.005267	confu_Loss: 1.008196
+Train iter: 4590 [(92%)]	Loss: -1.002127	soft_Loss: 0.002052	confu_Loss: 1.004386
+Train iter: 4600 [(92%)]	Loss: -1.008440	soft_Loss: 0.002876	confu_Loss: 1.011521
+
+load6_train set: Average loss: 573.6072, Accuracy: 28547/28800 (99.12%)
+
+
+load6_train set: Average loss: 24.3986, Accuracy: 2395/2400 (99.79%)
+
+learning rate 0.0009
+Train iter: 4610 [(92%)]	Loss: -1.012519	soft_Loss: 0.001555	confu_Loss: 1.014275
+Train iter: 4620 [(92%)]	Loss: -1.013533	soft_Loss: 0.007754	confu_Loss: 1.021485
+Train iter: 4630 [(93%)]	Loss: -1.024016	soft_Loss: 0.002124	confu_Loss: 1.026336
+Train iter: 4640 [(93%)]	Loss: -1.033561	soft_Loss: 0.003407	confu_Loss: 1.037162
+Train iter: 4650 [(93%)]	Loss: -1.041399	soft_Loss: 0.003066	confu_Loss: 1.044656
+Train iter: 4660 [(93%)]	Loss: -1.040298	soft_Loss: 0.002963	confu_Loss: 1.043448
+Train iter: 4670 [(93%)]	Loss: -1.051482	soft_Loss: 0.003395	confu_Loss: 1.055062
+Train iter: 4680 [(94%)]	Loss: -1.052813	soft_Loss: 0.007189	confu_Loss: 1.060185
+Train iter: 4690 [(94%)]	Loss: -1.061465	soft_Loss: 0.003030	confu_Loss: 1.064675
+Train iter: 4700 [(94%)]	Loss: -1.060912	soft_Loss: 0.001970	confu_Loss: 1.063058
+
+load6_train set: Average loss: 3940.2652, Accuracy: 27544/28800 (95.64%)
+
+
+load6_train set: Average loss: 451.7086, Accuracy: 2279/2400 (94.96%)
+
+learning rate 0.0009
+Train iter: 4710 [(94%)]	Loss: -1.066453	soft_Loss: 0.006011	confu_Loss: 1.072638
+Train iter: 4720 [(94%)]	Loss: -1.065942	soft_Loss: 0.002659	confu_Loss: 1.068771
+Train iter: 4730 [(95%)]	Loss: -1.073385	soft_Loss: 0.002310	confu_Loss: 1.075862
+Train iter: 4740 [(95%)]	Loss: -1.072095	soft_Loss: 0.003704	confu_Loss: 1.075963
+Train iter: 4750 [(95%)]	Loss: -1.076291	soft_Loss: 0.004080	confu_Loss: 1.080533
+Train iter: 4760 [(95%)]	Loss: -1.080432	soft_Loss: 0.004483	confu_Loss: 1.085074
+Train iter: 4770 [(95%)]	Loss: -1.080539	soft_Loss: 0.003252	confu_Loss: 1.083947
+Train iter: 4780 [(96%)]	Loss: -1.082484	soft_Loss: 0.003837	confu_Loss: 1.086474
+Train iter: 4790 [(96%)]	Loss: -1.084924	soft_Loss: 0.003449	confu_Loss: 1.088523
+Train iter: 4800 [(96%)]	Loss: -1.085482	soft_Loss: 0.004221	confu_Loss: 1.089851
+
+load6_train set: Average loss: 153.5981, Accuracy: 28669/28800 (99.55%)
+
+
+load6_train set: Average loss: 44.5697, Accuracy: 2385/2400 (99.38%)
+
+learning rate 0.0009
+Train iter: 4810 [(96%)]	Loss: -1.083929	soft_Loss: 0.004225	confu_Loss: 1.088298
+Train iter: 4820 [(96%)]	Loss: -1.085754	soft_Loss: 0.005376	confu_Loss: 1.091271
+Train iter: 4830 [(97%)]	Loss: -1.087761	soft_Loss: 0.004890	confu_Loss: 1.092791
+Train iter: 4840 [(97%)]	Loss: -1.089868	soft_Loss: 0.003253	confu_Loss: 1.093257
+Train iter: 4850 [(97%)]	Loss: -1.089685	soft_Loss: 0.004356	confu_Loss: 1.094174
+Train iter: 4860 [(97%)]	Loss: -1.092682	soft_Loss: 0.002432	confu_Loss: 1.095246
+Train iter: 4870 [(97%)]	Loss: -1.091816	soft_Loss: 0.004340	confu_Loss: 1.096285
+Train iter: 4880 [(98%)]	Loss: -1.093972	soft_Loss: 0.002335	confu_Loss: 1.096434
+Train iter: 4890 [(98%)]	Loss: -1.092732	soft_Loss: 0.003987	confu_Loss: 1.096843
+Train iter: 4900 [(98%)]	Loss: -1.093818	soft_Loss: 0.003631	confu_Loss: 1.097571
+
+load6_train set: Average loss: 1453.2958, Accuracy: 28178/28800 (97.84%)
+
+
+load6_train set: Average loss: 94.4623, Accuracy: 2368/2400 (98.67%)
+
+learning rate 0.0008
+Train iter: 4910 [(98%)]	Loss: -1.089853	soft_Loss: 0.007351	confu_Loss: 1.097323
+Train iter: 4920 [(98%)]	Loss: -1.094263	soft_Loss: 0.003544	confu_Loss: 1.097924
+Train iter: 4930 [(99%)]	Loss: -1.094114	soft_Loss: 0.003566	confu_Loss: 1.097795
+Train iter: 4940 [(99%)]	Loss: -1.092068	soft_Loss: 0.005958	confu_Loss: 1.098138
+Train iter: 4950 [(99%)]	Loss: -1.093508	soft_Loss: 0.004798	confu_Loss: 1.098417
+Train iter: 4960 [(99%)]	Loss: -1.095165	soft_Loss: 0.003131	confu_Loss: 1.098403
+Train iter: 4970 [(99%)]	Loss: -1.094289	soft_Loss: 0.003995	confu_Loss: 1.098390
+Train iter: 4980 [(100%)]	Loss: -1.093678	soft_Loss: 0.004800	confu_Loss: 1.098582
+Train iter: 4990 [(100%)]	Loss: -1.094985	soft_Loss: 0.003428	confu_Loss: 1.098515
+Train iter: 5000 [(100%)]	Loss: -1.091381	soft_Loss: 0.007014	confu_Loss: 1.098495
+
+load6_train set: Average loss: 922.8257, Accuracy: 28370/28800 (98.51%)
+
+
+load6_train set: Average loss: 254.4063, Accuracy: 2314/2400 (96.42%)
+
+(2400, 3200)
+DeepALL_ADV(
+  (sharedNet): CNN(
+    (layer1): Sequential(
+      (0): Conv1d(1, 16, kernel_size=(64,), stride=(1,))
+      (1): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer2): Sequential(
+      (0): Conv1d(16, 32, kernel_size=(16,), stride=(1,))
+      (1): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer3): Sequential(
+      (0): Conv1d(32, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer4): Sequential(
+      (0): Conv1d(64, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): AdaptiveMaxPool1d(output_size=4)
+    )
+  )
+  (cls_fc): Linear(in_features=256, out_features=12, bias=True)
+  (domain_fc): AdversarialNetwork_multi(
+    (ad_layer1): Linear(in_features=256, out_features=128, bias=True)
+    (ad_layer2): Linear(in_features=128, out_features=3, bias=True)
+    (relu1): ReLU()
+    (relu2): ReLU()
+    (dropout1): Dropout(p=0.5, inplace=False)
+    (dropout2): Dropout(p=0.5, inplace=False)
+    (softmax): Softmax(dim=None)
+  )
+)
+learning rate 0.0050
+Train iter: 10 [(0%)]	Loss: 2.750161	soft_Loss: 2.761153	confu_Loss: 1.099231
+Train iter: 20 [(0%)]	Loss: 2.141726	soft_Loss: 2.162431	confu_Loss: 1.035393
+Train iter: 30 [(1%)]	Loss: 1.757308	soft_Loss: 1.785566	confu_Loss: 0.942221
+Train iter: 40 [(1%)]	Loss: 1.802374	soft_Loss: 1.835167	confu_Loss: 0.820272
+Train iter: 50 [(1%)]	Loss: 1.694775	soft_Loss: 1.733078	confu_Loss: 0.766689
+Train iter: 60 [(1%)]	Loss: 1.585359	soft_Loss: 1.631620	confu_Loss: 0.771948
+Train iter: 70 [(1%)]	Loss: 1.382100	soft_Loss: 1.430439	confu_Loss: 0.691685
+Train iter: 80 [(2%)]	Loss: 1.286269	soft_Loss: 1.345581	confu_Loss: 0.742987
+Train iter: 90 [(2%)]	Loss: 1.479095	soft_Loss: 1.546370	confu_Loss: 0.749517
+Train iter: 100 [(2%)]	Loss: 1.139946	soft_Loss: 1.201850	confu_Loss: 0.621103
+
+load6_train set: Average loss: 51513.3615, Accuracy: 11203/28800 (38.90%)
+
+
+load6_train set: Average loss: 3476.0061, Accuracy: 1064/2400 (44.33%)
+
+learning rate 0.0044
+Train iter: 110 [(2%)]	Loss: 1.273742	soft_Loss: 1.338168	confu_Loss: 0.588054
+Train iter: 120 [(2%)]	Loss: 1.177715	soft_Loss: 1.246574	confu_Loss: 0.576571
+Train iter: 130 [(3%)]	Loss: 1.268153	soft_Loss: 1.334744	confu_Loss: 0.515122
+Train iter: 140 [(3%)]	Loss: 1.165862	soft_Loss: 1.239513	confu_Loss: 0.529509
+Train iter: 150 [(3%)]	Loss: 1.162676	soft_Loss: 1.230033	confu_Loss: 0.452408
+Train iter: 160 [(3%)]	Loss: 1.110710	soft_Loss: 1.183085	confu_Loss: 0.456201
+Train iter: 170 [(3%)]	Loss: 1.072282	soft_Loss: 1.140441	confu_Loss: 0.404789
+Train iter: 180 [(4%)]	Loss: 1.051474	soft_Loss: 1.125329	confu_Loss: 0.414725
+Train iter: 190 [(4%)]	Loss: 1.112833	soft_Loss: 1.186482	confu_Loss: 0.392278
+Train iter: 200 [(4%)]	Loss: 1.113491	soft_Loss: 1.197515	confu_Loss: 0.425709
+
+load6_train set: Average loss: 32428.2182, Accuracy: 15692/28800 (54.49%)
+
+
+load6_train set: Average loss: 2471.1937, Accuracy: 1395/2400 (58.12%)
+
+learning rate 0.0039
+Train iter: 210 [(4%)]	Loss: 1.015919	soft_Loss: 1.091855	confu_Loss: 0.366903
+Train iter: 220 [(4%)]	Loss: 0.977662	soft_Loss: 1.052147	confu_Loss: 0.344011
+Train iter: 230 [(5%)]	Loss: 0.934326	soft_Loss: 1.014572	confu_Loss: 0.355027
+Train iter: 240 [(5%)]	Loss: 0.889484	soft_Loss: 0.970796	confu_Loss: 0.345279
+Train iter: 250 [(5%)]	Loss: 0.915053	soft_Loss: 0.997510	confu_Loss: 0.336673
+Train iter: 260 [(5%)]	Loss: 0.763392	soft_Loss: 0.840109	confu_Loss: 0.301685
+Train iter: 270 [(5%)]	Loss: 0.915166	soft_Loss: 0.993933	confu_Loss: 0.298786
+Train iter: 280 [(6%)]	Loss: 0.909022	soft_Loss: 0.991635	confu_Loss: 0.302717
+Train iter: 290 [(6%)]	Loss: 0.748943	soft_Loss: 0.826494	confu_Loss: 0.274871
+Train iter: 300 [(6%)]	Loss: 0.834628	soft_Loss: 0.899284	confu_Loss: 0.221946
+
+load6_train set: Average loss: 29132.8135, Accuracy: 16115/28800 (55.95%)
+
+
+load6_train set: Average loss: 2378.4530, Accuracy: 1323/2400 (55.12%)
+
+learning rate 0.0035
+Train iter: 310 [(6%)]	Loss: 0.811716	soft_Loss: 0.881271	confu_Loss: 0.231514
+Train iter: 320 [(6%)]	Loss: 0.827755	soft_Loss: 0.890386	confu_Loss: 0.202356
+Train iter: 330 [(7%)]	Loss: 0.810669	soft_Loss: 0.882448	confu_Loss: 0.225349
+Train iter: 340 [(7%)]	Loss: 0.773805	soft_Loss: 0.843676	confu_Loss: 0.213361
+Train iter: 350 [(7%)]	Loss: 0.641283	soft_Loss: 0.700587	confu_Loss: 0.176302
+Train iter: 360 [(7%)]	Loss: 0.634493	soft_Loss: 0.697646	confu_Loss: 0.182936
+Train iter: 370 [(7%)]	Loss: 0.610020	soft_Loss: 0.710511	confu_Loss: 0.283881
+Train iter: 380 [(8%)]	Loss: 0.705286	soft_Loss: 0.777591	confu_Loss: 0.199349
+Train iter: 390 [(8%)]	Loss: 0.676703	soft_Loss: 0.743676	confu_Loss: 0.180344
+Train iter: 400 [(8%)]	Loss: 0.641099	soft_Loss: 0.722557	confu_Loss: 0.214391
+
+load6_train set: Average loss: 26319.7365, Accuracy: 18457/28800 (64.09%)
+
+
+load6_train set: Average loss: 1905.6795, Accuracy: 1725/2400 (71.88%)
+
+learning rate 0.0032
+Train iter: 410 [(8%)]	Loss: 0.657033	soft_Loss: 0.765159	confu_Loss: 0.278334
+Train iter: 420 [(8%)]	Loss: 0.572789	soft_Loss: 0.640621	confu_Loss: 0.170892
+Train iter: 430 [(9%)]	Loss: 0.587423	soft_Loss: 0.661783	confu_Loss: 0.183460
+Train iter: 440 [(9%)]	Loss: 0.605854	soft_Loss: 0.659880	confu_Loss: 0.130611
+Train iter: 450 [(9%)]	Loss: 0.569476	soft_Loss: 0.617291	confu_Loss: 0.113332
+Train iter: 460 [(9%)]	Loss: 0.470367	soft_Loss: 0.556291	confu_Loss: 0.199786
+Train iter: 470 [(9%)]	Loss: 0.537847	soft_Loss: 0.580228	confu_Loss: 0.096717
+Train iter: 480 [(10%)]	Loss: 0.483389	soft_Loss: 0.528771	confu_Loss: 0.101699
+Train iter: 490 [(10%)]	Loss: 0.470991	soft_Loss: 0.509328	confu_Loss: 0.084403
+Train iter: 500 [(10%)]	Loss: 0.573229	soft_Loss: 0.623938	confu_Loss: 0.109731
+
+load6_train set: Average loss: 18075.9111, Accuracy: 21270/28800 (73.85%)
+
+
+load6_train set: Average loss: 1397.2974, Accuracy: 1749/2400 (72.88%)
+
+learning rate 0.0030
+Train iter: 510 [(10%)]	Loss: 0.535814	soft_Loss: 0.579390	confu_Loss: 0.092725
+Train iter: 520 [(10%)]	Loss: 0.396344	soft_Loss: 0.456776	confu_Loss: 0.126507
+Train iter: 530 [(11%)]	Loss: 0.487165	soft_Loss: 0.559839	confu_Loss: 0.149726
+Train iter: 540 [(11%)]	Loss: 0.437913	soft_Loss: 0.488560	confu_Loss: 0.102735
+Train iter: 550 [(11%)]	Loss: 0.425998	soft_Loss: 0.484329	confu_Loss: 0.116541
+Train iter: 560 [(11%)]	Loss: 0.442693	soft_Loss: 0.506177	confu_Loss: 0.124975
+Train iter: 570 [(11%)]	Loss: 0.355897	soft_Loss: 0.403772	confu_Loss: 0.092895
+Train iter: 580 [(12%)]	Loss: 0.399291	soft_Loss: 0.476641	confu_Loss: 0.147992
+Train iter: 590 [(12%)]	Loss: 0.388409	soft_Loss: 0.446214	confu_Loss: 0.109088
+Train iter: 600 [(12%)]	Loss: 0.406100	soft_Loss: 0.461102	confu_Loss: 0.102416
+
+load6_train set: Average loss: 24233.4848, Accuracy: 20220/28800 (70.21%)
+
+
+load6_train set: Average loss: 1442.2903, Accuracy: 1805/2400 (75.21%)
+
+learning rate 0.0028
+Train iter: 610 [(12%)]	Loss: 0.320554	soft_Loss: 0.391863	confu_Loss: 0.131053
+Train iter: 620 [(12%)]	Loss: 0.345075	soft_Loss: 0.408957	confu_Loss: 0.115911
+Train iter: 630 [(13%)]	Loss: 0.297609	soft_Loss: 0.360493	confu_Loss: 0.112685
+Train iter: 640 [(13%)]	Loss: 0.335613	soft_Loss: 0.400856	confu_Loss: 0.115494
+Train iter: 650 [(13%)]	Loss: 0.276665	soft_Loss: 0.339243	confu_Loss: 0.109464
+Train iter: 660 [(13%)]	Loss: 0.307075	soft_Loss: 0.378759	confu_Loss: 0.123943
+Train iter: 670 [(13%)]	Loss: 0.361144	soft_Loss: 0.421138	confu_Loss: 0.102557
+Train iter: 680 [(14%)]	Loss: 0.306421	soft_Loss: 0.354884	confu_Loss: 0.081930
+Train iter: 690 [(14%)]	Loss: 0.234475	soft_Loss: 0.306200	confu_Loss: 0.119947
+Train iter: 700 [(14%)]	Loss: 0.198636	soft_Loss: 0.257866	confu_Loss: 0.098003
+
+load6_train set: Average loss: 17561.3609, Accuracy: 21479/28800 (74.58%)
+
+
+load6_train set: Average loss: 1524.6657, Accuracy: 1854/2400 (77.25%)
+
+learning rate 0.0026
+Train iter: 710 [(14%)]	Loss: 0.307487	soft_Loss: 0.365413	confu_Loss: 0.094855
+Train iter: 720 [(14%)]	Loss: 0.312437	soft_Loss: 0.370732	confu_Loss: 0.094497
+Train iter: 730 [(15%)]	Loss: 0.264357	soft_Loss: 0.313708	confu_Loss: 0.079206
+Train iter: 740 [(15%)]	Loss: 0.287083	soft_Loss: 0.331921	confu_Loss: 0.071269
+Train iter: 750 [(15%)]	Loss: 0.282386	soft_Loss: 0.319830	confu_Loss: 0.058953
+Train iter: 760 [(15%)]	Loss: 0.214496	soft_Loss: 0.267914	confu_Loss: 0.083326
+Train iter: 770 [(15%)]	Loss: 0.234144	soft_Loss: 0.268793	confu_Loss: 0.053560
+Train iter: 780 [(16%)]	Loss: 0.216064	soft_Loss: 0.278294	confu_Loss: 0.095342
+Train iter: 790 [(16%)]	Loss: 0.331701	soft_Loss: 0.373771	confu_Loss: 0.063896
+Train iter: 800 [(16%)]	Loss: 0.258809	soft_Loss: 0.293683	confu_Loss: 0.052518
+
+load6_train set: Average loss: 13578.9239, Accuracy: 23657/28800 (82.14%)
+
+
+load6_train set: Average loss: 1145.9470, Accuracy: 1936/2400 (80.67%)
+
+learning rate 0.0024
+Train iter: 810 [(16%)]	Loss: 0.213570	soft_Loss: 0.273304	confu_Loss: 0.089210
+Train iter: 820 [(16%)]	Loss: 0.189499	soft_Loss: 0.243176	confu_Loss: 0.079514
+Train iter: 830 [(17%)]	Loss: 0.171065	soft_Loss: 0.223373	confu_Loss: 0.076870
+Train iter: 840 [(17%)]	Loss: 0.198801	soft_Loss: 0.242569	confu_Loss: 0.063821
+Train iter: 850 [(17%)]	Loss: 0.223793	soft_Loss: 0.249180	confu_Loss: 0.036736
+Train iter: 860 [(17%)]	Loss: 0.201911	soft_Loss: 0.256573	confu_Loss: 0.078509
+Train iter: 870 [(17%)]	Loss: 0.194927	soft_Loss: 0.258223	confu_Loss: 0.090246
+Train iter: 880 [(18%)]	Loss: 0.234590	soft_Loss: 0.269867	confu_Loss: 0.049938
+Train iter: 890 [(18%)]	Loss: 0.152777	soft_Loss: 0.201562	confu_Loss: 0.068578
+Train iter: 900 [(18%)]	Loss: 0.135736	soft_Loss: 0.171186	confu_Loss: 0.049490
+
+load6_train set: Average loss: 39248.3132, Accuracy: 17748/28800 (61.62%)
+
+
+load6_train set: Average loss: 3614.1865, Accuracy: 1480/2400 (61.67%)
+
+learning rate 0.0023
+Train iter: 910 [(18%)]	Loss: 0.195095	soft_Loss: 0.240136	confu_Loss: 0.062458
+Train iter: 920 [(18%)]	Loss: 0.139736	soft_Loss: 0.209043	confu_Loss: 0.095478
+Train iter: 930 [(19%)]	Loss: 0.147432	soft_Loss: 0.191843	confu_Loss: 0.060788
+Train iter: 940 [(19%)]	Loss: 0.160308	soft_Loss: 0.237152	confu_Loss: 0.104519
+Train iter: 950 [(19%)]	Loss: 0.130538	soft_Loss: 0.185735	confu_Loss: 0.074612
+Train iter: 960 [(19%)]	Loss: 0.140596	soft_Loss: 0.201881	confu_Loss: 0.082342
+Train iter: 970 [(19%)]	Loss: 0.143383	soft_Loss: 0.195794	confu_Loss: 0.070002
+Train iter: 980 [(20%)]	Loss: 0.142024	soft_Loss: 0.229583	confu_Loss: 0.116271
+Train iter: 990 [(20%)]	Loss: 0.166997	soft_Loss: 0.198041	confu_Loss: 0.040990
+Train iter: 1000 [(20%)]	Loss: 0.101715	soft_Loss: 0.154269	confu_Loss: 0.069006
+
+load6_train set: Average loss: 30977.4848, Accuracy: 19053/28800 (66.16%)
+
+
+load6_train set: Average loss: 2518.3952, Accuracy: 1649/2400 (68.71%)
+
+learning rate 0.0022
+Train iter: 1010 [(20%)]	Loss: 0.127337	soft_Loss: 0.176114	confu_Loss: 0.063697
+Train iter: 1020 [(20%)]	Loss: 0.101953	soft_Loss: 0.138916	confu_Loss: 0.048012
+Train iter: 1030 [(21%)]	Loss: 0.113608	soft_Loss: 0.163326	confu_Loss: 0.064242
+Train iter: 1040 [(21%)]	Loss: 0.109310	soft_Loss: 0.153275	confu_Loss: 0.056519
+Train iter: 1050 [(21%)]	Loss: 0.084536	soft_Loss: 0.132116	confu_Loss: 0.060860
+Train iter: 1060 [(21%)]	Loss: 0.106910	soft_Loss: 0.138118	confu_Loss: 0.039722
+Train iter: 1070 [(21%)]	Loss: 0.139265	soft_Loss: 0.193829	confu_Loss: 0.069116
+Train iter: 1080 [(22%)]	Loss: 0.122287	soft_Loss: 0.150171	confu_Loss: 0.035154
+Train iter: 1090 [(22%)]	Loss: 0.110370	soft_Loss: 0.165237	confu_Loss: 0.068852
+Train iter: 1100 [(22%)]	Loss: 0.052483	soft_Loss: 0.128222	confu_Loss: 0.094614
+
+load6_train set: Average loss: 5036.4725, Accuracy: 27299/28800 (94.79%)
+
+
+load6_train set: Average loss: 492.6288, Accuracy: 2212/2400 (92.17%)
+
+learning rate 0.0021
+Train iter: 1110 [(22%)]	Loss: 0.103830	soft_Loss: 0.135025	confu_Loss: 0.038797
+Train iter: 1120 [(22%)]	Loss: 0.094690	soft_Loss: 0.142842	confu_Loss: 0.059626
+Train iter: 1130 [(23%)]	Loss: 0.087257	soft_Loss: 0.143364	confu_Loss: 0.069181
+Train iter: 1140 [(23%)]	Loss: 0.079880	soft_Loss: 0.138061	confu_Loss: 0.071439
+Train iter: 1150 [(23%)]	Loss: 0.066019	soft_Loss: 0.098098	confu_Loss: 0.039228
+Train iter: 1160 [(23%)]	Loss: 0.085241	soft_Loss: 0.132543	confu_Loss: 0.057612
+Train iter: 1170 [(23%)]	Loss: 0.084551	soft_Loss: 0.161353	confu_Loss: 0.093176
+Train iter: 1180 [(24%)]	Loss: 0.055519	soft_Loss: 0.097664	confu_Loss: 0.050933
+Train iter: 1190 [(24%)]	Loss: 0.049701	soft_Loss: 0.104485	confu_Loss: 0.065959
+Train iter: 1200 [(24%)]	Loss: 0.042947	soft_Loss: 0.090818	confu_Loss: 0.057424
+
+load6_train set: Average loss: 34356.6603, Accuracy: 18457/28800 (64.09%)
+
+
+load6_train set: Average loss: 1646.9872, Accuracy: 1751/2400 (72.96%)
+
+learning rate 0.0020
+Train iter: 1210 [(24%)]	Loss: 0.054667	soft_Loss: 0.086758	confu_Loss: 0.038355
+Train iter: 1220 [(24%)]	Loss: 0.007258	soft_Loss: 0.081532	confu_Loss: 0.088458
+Train iter: 1230 [(25%)]	Loss: 0.085567	soft_Loss: 0.141083	confu_Loss: 0.065888
+Train iter: 1240 [(25%)]	Loss: 0.048567	soft_Loss: 0.127948	confu_Loss: 0.093891
+Train iter: 1250 [(25%)]	Loss: 0.086969	soft_Loss: 0.111846	confu_Loss: 0.029326
+Train iter: 1260 [(25%)]	Loss: 0.019305	soft_Loss: 0.086203	confu_Loss: 0.078605
+Train iter: 1270 [(25%)]	Loss: 0.055304	soft_Loss: 0.092026	confu_Loss: 0.043010
+Train iter: 1280 [(26%)]	Loss: 0.067125	soft_Loss: 0.106340	confu_Loss: 0.045786
+Train iter: 1290 [(26%)]	Loss: -0.007985	soft_Loss: 0.089000	confu_Loss: 0.112887
+Train iter: 1300 [(26%)]	Loss: 0.024498	soft_Loss: 0.067885	confu_Loss: 0.050349
+
+load6_train set: Average loss: 11939.6893, Accuracy: 24798/28800 (86.10%)
+
+
+load6_train set: Average loss: 428.1238, Accuracy: 2242/2400 (93.42%)
+
+learning rate 0.0019
+Train iter: 1310 [(26%)]	Loss: 0.015881	soft_Loss: 0.062124	confu_Loss: 0.053505
+Train iter: 1320 [(26%)]	Loss: 0.050194	soft_Loss: 0.094135	confu_Loss: 0.050695
+Train iter: 1330 [(27%)]	Loss: 0.046730	soft_Loss: 0.079427	confu_Loss: 0.037615
+Train iter: 1340 [(27%)]	Loss: 0.046755	soft_Loss: 0.074298	confu_Loss: 0.031598
+Train iter: 1350 [(27%)]	Loss: 0.006735	soft_Loss: 0.063525	confu_Loss: 0.064973
+Train iter: 1360 [(27%)]	Loss: 0.035929	soft_Loss: 0.090025	confu_Loss: 0.061726
+Train iter: 1370 [(27%)]	Loss: 0.035576	soft_Loss: 0.067916	confu_Loss: 0.036805
+Train iter: 1380 [(28%)]	Loss: 0.056206	soft_Loss: 0.079446	confu_Loss: 0.026380
+Train iter: 1390 [(28%)]	Loss: 0.020171	soft_Loss: 0.072902	confu_Loss: 0.059707
+Train iter: 1400 [(28%)]	Loss: -0.003816	soft_Loss: 0.062263	confu_Loss: 0.074636
+
+load6_train set: Average loss: 4691.2021, Accuracy: 27094/28800 (94.08%)
+
+
+load6_train set: Average loss: 117.3955, Accuracy: 2383/2400 (99.29%)
+
+learning rate 0.0018
+Train iter: 1410 [(28%)]	Loss: 0.061155	soft_Loss: 0.103895	confu_Loss: 0.048159
+Train iter: 1420 [(28%)]	Loss: 0.039327	soft_Loss: 0.076730	confu_Loss: 0.042045
+Train iter: 1430 [(29%)]	Loss: 0.043466	soft_Loss: 0.080260	confu_Loss: 0.041264
+Train iter: 1440 [(29%)]	Loss: -0.029088	soft_Loss: 0.049843	confu_Loss: 0.088320
+Train iter: 1450 [(29%)]	Loss: 0.009556	soft_Loss: 0.050040	confu_Loss: 0.045198
+Train iter: 1460 [(29%)]	Loss: 0.033720	soft_Loss: 0.067027	confu_Loss: 0.037105
+Train iter: 1470 [(29%)]	Loss: -0.017341	soft_Loss: 0.047247	confu_Loss: 0.071799
+Train iter: 1480 [(30%)]	Loss: 0.008674	soft_Loss: 0.067257	confu_Loss: 0.064987
+Train iter: 1490 [(30%)]	Loss: 0.022116	soft_Loss: 0.069538	confu_Loss: 0.052497
+Train iter: 1500 [(30%)]	Loss: 0.000487	soft_Loss: 0.056370	confu_Loss: 0.061740
+
+load6_train set: Average loss: 4211.0584, Accuracy: 27243/28800 (94.59%)
+
+
+load6_train set: Average loss: 240.3550, Accuracy: 2323/2400 (96.79%)
+
+learning rate 0.0018
+Train iter: 1510 [(30%)]	Loss: 0.036224	soft_Loss: 0.092982	confu_Loss: 0.062582
+Train iter: 1520 [(30%)]	Loss: 0.009905	soft_Loss: 0.043126	confu_Loss: 0.036559
+Train iter: 1530 [(31%)]	Loss: 0.032920	soft_Loss: 0.064719	confu_Loss: 0.034928
+Train iter: 1540 [(31%)]	Loss: 0.022914	soft_Loss: 0.059331	confu_Loss: 0.039926
+Train iter: 1550 [(31%)]	Loss: -0.012537	soft_Loss: 0.048934	confu_Loss: 0.067271
+Train iter: 1560 [(31%)]	Loss: 0.017499	soft_Loss: 0.056065	confu_Loss: 0.042130
+Train iter: 1570 [(31%)]	Loss: -0.014708	soft_Loss: 0.032004	confu_Loss: 0.050939
+Train iter: 1580 [(32%)]	Loss: 0.001088	soft_Loss: 0.036138	confu_Loss: 0.038156
+Train iter: 1590 [(32%)]	Loss: 0.016481	soft_Loss: 0.060283	confu_Loss: 0.047604
+Train iter: 1600 [(32%)]	Loss: 0.012294	soft_Loss: 0.049374	confu_Loss: 0.040231
+
+load6_train set: Average loss: 4526.0361, Accuracy: 27128/28800 (94.19%)
+
+
+load6_train set: Average loss: 95.5212, Accuracy: 2384/2400 (99.33%)
+
+learning rate 0.0017
+Train iter: 1610 [(32%)]	Loss: 0.023290	soft_Loss: 0.061583	confu_Loss: 0.041480
+Train iter: 1620 [(32%)]	Loss: -0.036681	soft_Loss: 0.027166	confu_Loss: 0.069052
+Train iter: 1630 [(33%)]	Loss: -0.008303	soft_Loss: 0.045649	confu_Loss: 0.058260
+Train iter: 1640 [(33%)]	Loss: 0.017294	soft_Loss: 0.046571	confu_Loss: 0.031566
+Train iter: 1650 [(33%)]	Loss: 0.007213	soft_Loss: 0.057425	confu_Loss: 0.054057
+Train iter: 1660 [(33%)]	Loss: -0.031140	soft_Loss: 0.054409	confu_Loss: 0.091967
+Train iter: 1670 [(33%)]	Loss: -0.018908	soft_Loss: 0.065981	confu_Loss: 0.091126
+Train iter: 1680 [(34%)]	Loss: -0.018011	soft_Loss: 0.024629	confu_Loss: 0.045709
+Train iter: 1690 [(34%)]	Loss: 0.001165	soft_Loss: 0.044506	confu_Loss: 0.046396
+Train iter: 1700 [(34%)]	Loss: -0.023255	soft_Loss: 0.019169	confu_Loss: 0.045353
+
+load6_train set: Average loss: 12321.7562, Accuracy: 24978/28800 (86.73%)
+
+
+load6_train set: Average loss: 1377.1666, Accuracy: 1999/2400 (83.29%)
+
+learning rate 0.0016
+Train iter: 1710 [(34%)]	Loss: -0.023770	soft_Loss: 0.044807	confu_Loss: 0.073215
+Train iter: 1720 [(34%)]	Loss: -0.039937	soft_Loss: 0.023569	confu_Loss: 0.067714
+Train iter: 1730 [(35%)]	Loss: -0.014819	soft_Loss: 0.037833	confu_Loss: 0.056069
+Train iter: 1740 [(35%)]	Loss: 0.011441	soft_Loss: 0.042673	confu_Loss: 0.033217
+Train iter: 1750 [(35%)]	Loss: -0.001104	soft_Loss: 0.029783	confu_Loss: 0.032810
+Train iter: 1760 [(35%)]	Loss: 0.001878	soft_Loss: 0.044929	confu_Loss: 0.045678
+Train iter: 1770 [(35%)]	Loss: -0.004014	soft_Loss: 0.050532	confu_Loss: 0.057806
+Train iter: 1780 [(36%)]	Loss: -0.017626	soft_Loss: 0.023181	confu_Loss: 0.043196
+Train iter: 1790 [(36%)]	Loss: -0.017307	soft_Loss: 0.015743	confu_Loss: 0.034946
+Train iter: 1800 [(36%)]	Loss: -0.013823	soft_Loss: 0.023956	confu_Loss: 0.039902
+
+load6_train set: Average loss: 26563.0076, Accuracy: 21583/28800 (74.94%)
+
+
+load6_train set: Average loss: 1048.6043, Accuracy: 1985/2400 (82.71%)
+
+learning rate 0.0016
+Train iter: 1810 [(36%)]	Loss: -0.007843	soft_Loss: 0.032064	confu_Loss: 0.042104
+Train iter: 1820 [(36%)]	Loss: -0.006756	soft_Loss: 0.022107	confu_Loss: 0.030420
+Train iter: 1830 [(37%)]	Loss: -0.008068	soft_Loss: 0.021311	confu_Loss: 0.030931
+Train iter: 1840 [(37%)]	Loss: 0.007584	soft_Loss: 0.046509	confu_Loss: 0.040940
+Train iter: 1850 [(37%)]	Loss: 0.024157	soft_Loss: 0.055676	confu_Loss: 0.033117
+Train iter: 1860 [(37%)]	Loss: -0.042495	soft_Loss: 0.014581	confu_Loss: 0.059911
+Train iter: 1870 [(37%)]	Loss: 0.005286	soft_Loss: 0.035646	confu_Loss: 0.031837
+Train iter: 1880 [(38%)]	Loss: -0.011173	soft_Loss: 0.020971	confu_Loss: 0.033677
+Train iter: 1890 [(38%)]	Loss: -0.034506	soft_Loss: 0.017476	confu_Loss: 0.054411
+Train iter: 1900 [(38%)]	Loss: -0.021952	soft_Loss: 0.024792	confu_Loss: 0.048883
+
+load6_train set: Average loss: 2599.0307, Accuracy: 27816/28800 (96.58%)
+
+
+load6_train set: Average loss: 146.9668, Accuracy: 2343/2400 (97.62%)
+
+learning rate 0.0015
+Train iter: 1910 [(38%)]	Loss: -0.020880	soft_Loss: 0.019757	confu_Loss: 0.042459
+Train iter: 1920 [(38%)]	Loss: -0.017437	soft_Loss: 0.027171	confu_Loss: 0.046568
+Train iter: 1930 [(39%)]	Loss: -0.021028	soft_Loss: 0.026544	confu_Loss: 0.049620
+Train iter: 1940 [(39%)]	Loss: -0.031101	soft_Loss: 0.017590	confu_Loss: 0.050745
+Train iter: 1950 [(39%)]	Loss: 0.000271	soft_Loss: 0.038742	confu_Loss: 0.040061
+Train iter: 1960 [(39%)]	Loss: -0.026311	soft_Loss: 0.024532	confu_Loss: 0.052901
+Train iter: 1970 [(39%)]	Loss: -0.008469	soft_Loss: 0.023374	confu_Loss: 0.033106
+Train iter: 1980 [(40%)]	Loss: -0.034803	soft_Loss: 0.026965	confu_Loss: 0.064169
+Train iter: 1990 [(40%)]	Loss: -0.017988	soft_Loss: 0.025568	confu_Loss: 0.045214
+Train iter: 2000 [(40%)]	Loss: -0.038380	soft_Loss: 0.017627	confu_Loss: 0.058097
+
+load6_train set: Average loss: 9045.9347, Accuracy: 25864/28800 (89.81%)
+
+
+load6_train set: Average loss: 118.3665, Accuracy: 2362/2400 (98.42%)
+
+learning rate 0.0015
+Train iter: 2010 [(40%)]	Loss: -0.031625	soft_Loss: 0.010384	confu_Loss: 0.043545
+Train iter: 2020 [(40%)]	Loss: -0.010956	soft_Loss: 0.026327	confu_Loss: 0.038619
+Train iter: 2030 [(41%)]	Loss: -0.027225	soft_Loss: 0.017672	confu_Loss: 0.046473
+Train iter: 2040 [(41%)]	Loss: -0.053490	soft_Loss: 0.006726	confu_Loss: 0.062287
+Train iter: 2050 [(41%)]	Loss: -0.032539	soft_Loss: 0.013587	confu_Loss: 0.047681
+Train iter: 2060 [(41%)]	Loss: 0.004308	soft_Loss: 0.020426	confu_Loss: 0.016650
+Train iter: 2070 [(41%)]	Loss: 0.000794	soft_Loss: 0.032147	confu_Loss: 0.032367
+Train iter: 2080 [(42%)]	Loss: -0.031896	soft_Loss: 0.027333	confu_Loss: 0.061106
+Train iter: 2090 [(42%)]	Loss: -0.036816	soft_Loss: 0.013322	confu_Loss: 0.051696
+Train iter: 2100 [(42%)]	Loss: -0.052440	soft_Loss: 0.015859	confu_Loss: 0.070378
+
+load6_train set: Average loss: 1829.8973, Accuracy: 27998/28800 (97.22%)
+
+
+load6_train set: Average loss: 211.1293, Accuracy: 2332/2400 (97.17%)
+
+learning rate 0.0015
+Train iter: 2110 [(42%)]	Loss: -0.020814	soft_Loss: 0.024292	confu_Loss: 0.046452
+Train iter: 2120 [(42%)]	Loss: -0.057858	soft_Loss: 0.007721	confu_Loss: 0.067497
+Train iter: 2130 [(43%)]	Loss: -0.046969	soft_Loss: 0.012140	confu_Loss: 0.060802
+Train iter: 2140 [(43%)]	Loss: -0.038398	soft_Loss: 0.020488	confu_Loss: 0.060539
+Train iter: 2150 [(43%)]	Loss: -0.011168	soft_Loss: 0.024355	confu_Loss: 0.036500
+Train iter: 2160 [(43%)]	Loss: -0.018692	soft_Loss: 0.022191	confu_Loss: 0.041985
+Train iter: 2170 [(43%)]	Loss: -0.017072	soft_Loss: 0.027210	confu_Loss: 0.045453
+Train iter: 2180 [(44%)]	Loss: -0.029706	soft_Loss: 0.012468	confu_Loss: 0.043266
+Train iter: 2190 [(44%)]	Loss: -0.036843	soft_Loss: 0.013673	confu_Loss: 0.051798
+Train iter: 2200 [(44%)]	Loss: -0.023828	soft_Loss: 0.009668	confu_Loss: 0.034328
+
+load6_train set: Average loss: 40238.3813, Accuracy: 19994/28800 (69.42%)
+
+
+load6_train set: Average loss: 1416.9915, Accuracy: 1875/2400 (78.12%)
+
+learning rate 0.0014
+Train iter: 2210 [(44%)]	Loss: -0.017317	soft_Loss: 0.030002	confu_Loss: 0.048471
+Train iter: 2220 [(44%)]	Loss: 0.004866	soft_Loss: 0.043624	confu_Loss: 0.039683
+Train iter: 2230 [(45%)]	Loss: -0.024710	soft_Loss: 0.016132	confu_Loss: 0.041798
+Train iter: 2240 [(45%)]	Loss: -0.016494	soft_Loss: 0.016788	confu_Loss: 0.034045
+Train iter: 2250 [(45%)]	Loss: -0.032055	soft_Loss: 0.009422	confu_Loss: 0.042408
+Train iter: 2260 [(45%)]	Loss: -0.039903	soft_Loss: 0.009894	confu_Loss: 0.050893
+Train iter: 2270 [(45%)]	Loss: -0.043004	soft_Loss: 0.011569	confu_Loss: 0.055751
+Train iter: 2280 [(46%)]	Loss: -0.023505	soft_Loss: 0.013925	confu_Loss: 0.038221
+Train iter: 2290 [(46%)]	Loss: -0.032627	soft_Loss: 0.007052	confu_Loss: 0.040501
+Train iter: 2300 [(46%)]	Loss: -0.044701	soft_Loss: 0.011851	confu_Loss: 0.057700
+
+load6_train set: Average loss: 17200.9347, Accuracy: 24686/28800 (85.72%)
+
+
+load6_train set: Average loss: 1867.8675, Accuracy: 2067/2400 (86.12%)
+
+learning rate 0.0014
+Train iter: 2310 [(46%)]	Loss: -0.052464	soft_Loss: 0.016935	confu_Loss: 0.070780
+Train iter: 2320 [(46%)]	Loss: -0.020118	soft_Loss: 0.012477	confu_Loss: 0.033231
+Train iter: 2330 [(47%)]	Loss: -0.020043	soft_Loss: 0.025166	confu_Loss: 0.046074
+Train iter: 2340 [(47%)]	Loss: -0.047517	soft_Loss: 0.016182	confu_Loss: 0.064892
+Train iter: 2350 [(47%)]	Loss: -0.077480	soft_Loss: 0.007240	confu_Loss: 0.086275
+Train iter: 2360 [(47%)]	Loss: -0.025747	soft_Loss: 0.016486	confu_Loss: 0.042993
+Train iter: 2370 [(47%)]	Loss: -0.025628	soft_Loss: 0.007069	confu_Loss: 0.033273
+Train iter: 2380 [(48%)]	Loss: -0.022024	soft_Loss: 0.016749	confu_Loss: 0.039443
+Train iter: 2390 [(48%)]	Loss: -0.033322	soft_Loss: 0.007317	confu_Loss: 0.041327
+Train iter: 2400 [(48%)]	Loss: -0.042641	soft_Loss: 0.009605	confu_Loss: 0.053113
+
+load6_train set: Average loss: 1939.6649, Accuracy: 27961/28800 (97.09%)
+
+
+load6_train set: Average loss: 185.7012, Accuracy: 2337/2400 (97.38%)
+
+learning rate 0.0013
+Train iter: 2410 [(48%)]	Loss: -0.043409	soft_Loss: 0.010489	confu_Loss: 0.054774
+Train iter: 2420 [(48%)]	Loss: -0.047418	soft_Loss: 0.012586	confu_Loss: 0.060960
+Train iter: 2430 [(49%)]	Loss: -0.026197	soft_Loss: 0.012449	confu_Loss: 0.039250
+Train iter: 2440 [(49%)]	Loss: -0.036977	soft_Loss: 0.016771	confu_Loss: 0.054570
+Train iter: 2450 [(49%)]	Loss: -0.059569	soft_Loss: 0.007085	confu_Loss: 0.067655
+Train iter: 2460 [(49%)]	Loss: -0.028188	soft_Loss: 0.006243	confu_Loss: 0.034937
+Train iter: 2470 [(49%)]	Loss: -0.050827	soft_Loss: 0.013401	confu_Loss: 0.065154
+Train iter: 2480 [(50%)]	Loss: -0.037027	soft_Loss: 0.009121	confu_Loss: 0.046800
+Train iter: 2490 [(50%)]	Loss: -0.035504	soft_Loss: 0.009564	confu_Loss: 0.045692
+Train iter: 2500 [(50%)]	Loss: -0.069788	soft_Loss: 0.010876	confu_Loss: 0.081759
+
+load6_train set: Average loss: 15139.4027, Accuracy: 24853/28800 (86.30%)
+
+
+load6_train set: Average loss: 849.2450, Accuracy: 2172/2400 (90.50%)
+
+learning rate 0.0013
+Train iter: 2510 [(50%)]	Loss: -0.047804	soft_Loss: 0.014361	confu_Loss: 0.062991
+Train iter: 2520 [(50%)]	Loss: -0.043483	soft_Loss: 0.013680	confu_Loss: 0.057908
+Train iter: 2530 [(51%)]	Loss: -0.060290	soft_Loss: 0.005894	confu_Loss: 0.067029
+Train iter: 2540 [(51%)]	Loss: -0.059105	soft_Loss: 0.006996	confu_Loss: 0.066929
+Train iter: 2550 [(51%)]	Loss: -0.059415	soft_Loss: 0.009846	confu_Loss: 0.070110
+Train iter: 2560 [(51%)]	Loss: -0.084154	soft_Loss: 0.008359	confu_Loss: 0.093625
+Train iter: 2570 [(51%)]	Loss: -0.040181	soft_Loss: 0.008658	confu_Loss: 0.049415
+Train iter: 2580 [(52%)]	Loss: -0.049598	soft_Loss: 0.014063	confu_Loss: 0.064396
+Train iter: 2590 [(52%)]	Loss: -0.055400	soft_Loss: 0.011982	confu_Loss: 0.068145
+Train iter: 2600 [(52%)]	Loss: -0.062883	soft_Loss: 0.007479	confu_Loss: 0.071142
+
+load6_train set: Average loss: 1836.4638, Accuracy: 27985/28800 (97.17%)
+
+
+load6_train set: Average loss: 38.1542, Accuracy: 2390/2400 (99.58%)
+
+learning rate 0.0013
+Train iter: 2610 [(52%)]	Loss: -0.081195	soft_Loss: 0.007366	confu_Loss: 0.089524
+Train iter: 2620 [(52%)]	Loss: -0.034128	soft_Loss: 0.023840	confu_Loss: 0.058586
+Train iter: 2630 [(53%)]	Loss: -0.048970	soft_Loss: 0.013013	confu_Loss: 0.062630
+Train iter: 2640 [(53%)]	Loss: -0.037648	soft_Loss: 0.009220	confu_Loss: 0.047348
+Train iter: 2650 [(53%)]	Loss: -0.083064	soft_Loss: 0.008239	confu_Loss: 0.092219
+Train iter: 2660 [(53%)]	Loss: -0.060028	soft_Loss: 0.007750	confu_Loss: 0.068445
+Train iter: 2670 [(53%)]	Loss: -0.064545	soft_Loss: 0.007140	confu_Loss: 0.072375
+Train iter: 2680 [(54%)]	Loss: -0.041493	soft_Loss: 0.011157	confu_Loss: 0.053148
+Train iter: 2690 [(54%)]	Loss: -0.072097	soft_Loss: 0.029431	confu_Loss: 0.102468
+Train iter: 2700 [(54%)]	Loss: -0.040920	soft_Loss: 0.014561	confu_Loss: 0.055985
+
+load6_train set: Average loss: 8685.6259, Accuracy: 26067/28800 (90.51%)
+
+
+load6_train set: Average loss: 152.6646, Accuracy: 2343/2400 (97.62%)
+
+learning rate 0.0012
+Train iter: 2710 [(54%)]	Loss: -0.060202	soft_Loss: 0.007972	confu_Loss: 0.068780
+Train iter: 2720 [(54%)]	Loss: -0.068685	soft_Loss: 0.003613	confu_Loss: 0.072928
+Train iter: 2730 [(55%)]	Loss: -0.082673	soft_Loss: 0.019083	confu_Loss: 0.102626
+Train iter: 2740 [(55%)]	Loss: -0.078472	soft_Loss: 0.014528	confu_Loss: 0.093778
+Train iter: 2750 [(55%)]	Loss: -0.058280	soft_Loss: 0.010248	confu_Loss: 0.069090
+Train iter: 2760 [(55%)]	Loss: -0.062457	soft_Loss: 0.007799	confu_Loss: 0.070822
+Train iter: 2770 [(55%)]	Loss: -0.066089	soft_Loss: 0.007441	confu_Loss: 0.074110
+Train iter: 2780 [(56%)]	Loss: -0.074615	soft_Loss: 0.005639	confu_Loss: 0.080875
+Train iter: 2790 [(56%)]	Loss: -0.075879	soft_Loss: 0.009743	confu_Loss: 0.086270
+Train iter: 2800 [(56%)]	Loss: -0.061573	soft_Loss: 0.008632	confu_Loss: 0.070726
+
+load6_train set: Average loss: 1768.1155, Accuracy: 27981/28800 (97.16%)
+
+
+load6_train set: Average loss: 43.0786, Accuracy: 2388/2400 (99.50%)
+
+learning rate 0.0012
+Train iter: 2810 [(56%)]	Loss: -0.073184	soft_Loss: 0.008303	confu_Loss: 0.082079
+Train iter: 2820 [(56%)]	Loss: -0.105963	soft_Loss: 0.007684	confu_Loss: 0.114457
+Train iter: 2830 [(57%)]	Loss: -0.081850	soft_Loss: 0.005401	confu_Loss: 0.087861
+Train iter: 2840 [(57%)]	Loss: -0.077891	soft_Loss: 0.011007	confu_Loss: 0.089507
+Train iter: 2850 [(57%)]	Loss: -0.068023	soft_Loss: 0.010142	confu_Loss: 0.078690
+Train iter: 2860 [(57%)]	Loss: -0.074205	soft_Loss: 0.004121	confu_Loss: 0.078842
+Train iter: 2870 [(57%)]	Loss: -0.060495	soft_Loss: 0.003865	confu_Loss: 0.064775
+Train iter: 2880 [(58%)]	Loss: -0.069001	soft_Loss: 0.008494	confu_Loss: 0.077985
+Train iter: 2890 [(58%)]	Loss: -0.084378	soft_Loss: 0.008028	confu_Loss: 0.092979
+Train iter: 2900 [(58%)]	Loss: -0.078578	soft_Loss: 0.005324	confu_Loss: 0.084411
+
+load6_train set: Average loss: 3050.9255, Accuracy: 27437/28800 (95.27%)
+
+
+load6_train set: Average loss: 113.4888, Accuracy: 2363/2400 (98.46%)
+
+learning rate 0.0012
+Train iter: 2910 [(58%)]	Loss: -0.092275	soft_Loss: 0.006423	confu_Loss: 0.099286
+Train iter: 2920 [(58%)]	Loss: -0.075834	soft_Loss: 0.010171	confu_Loss: 0.086507
+Train iter: 2930 [(59%)]	Loss: -0.095612	soft_Loss: 0.009212	confu_Loss: 0.105424
+Train iter: 2940 [(59%)]	Loss: -0.104467	soft_Loss: 0.008125	confu_Loss: 0.113223
+Train iter: 2950 [(59%)]	Loss: -0.090707	soft_Loss: 0.009054	confu_Loss: 0.100309
+Train iter: 2960 [(59%)]	Loss: -0.071538	soft_Loss: 0.004339	confu_Loss: 0.076285
+Train iter: 2970 [(59%)]	Loss: -0.085363	soft_Loss: 0.014783	confu_Loss: 0.100675
+Train iter: 2980 [(60%)]	Loss: -0.109417	soft_Loss: 0.012346	confu_Loss: 0.122393
+Train iter: 2990 [(60%)]	Loss: -0.069402	soft_Loss: 0.009529	confu_Loss: 0.079331
+Train iter: 3000 [(60%)]	Loss: -0.062487	soft_Loss: 0.012363	confu_Loss: 0.075221
+
+load6_train set: Average loss: 865.4723, Accuracy: 28387/28800 (98.57%)
+
+
+load6_train set: Average loss: 22.4652, Accuracy: 2395/2400 (99.79%)
+
+learning rate 0.0012
+Train iter: 3010 [(60%)]	Loss: -0.091274	soft_Loss: 0.003768	confu_Loss: 0.095505
+Train iter: 3020 [(60%)]	Loss: -0.106765	soft_Loss: 0.003725	confu_Loss: 0.111018
+Train iter: 3030 [(61%)]	Loss: -0.108120	soft_Loss: 0.004570	confu_Loss: 0.113216
+Train iter: 3040 [(61%)]	Loss: -0.099936	soft_Loss: 0.004475	confu_Loss: 0.104889
+Train iter: 3050 [(61%)]	Loss: -0.134226	soft_Loss: 0.004230	confu_Loss: 0.139079
+Train iter: 3060 [(61%)]	Loss: -0.110263	soft_Loss: 0.004203	confu_Loss: 0.114970
+Train iter: 3070 [(61%)]	Loss: -0.085003	soft_Loss: 0.006701	confu_Loss: 0.092100
+Train iter: 3080 [(62%)]	Loss: -0.121279	soft_Loss: 0.011882	confu_Loss: 0.133725
+Train iter: 3090 [(62%)]	Loss: -0.086182	soft_Loss: 0.007130	confu_Loss: 0.093699
+Train iter: 3100 [(62%)]	Loss: -0.107353	soft_Loss: 0.005793	confu_Loss: 0.113607
+
+load6_train set: Average loss: 761.7023, Accuracy: 28471/28800 (98.86%)
+
+
+load6_train set: Average loss: 353.9123, Accuracy: 2290/2400 (95.42%)
+
+learning rate 0.0011
+Train iter: 3110 [(62%)]	Loss: -0.111282	soft_Loss: 0.006339	confu_Loss: 0.118089
+Train iter: 3120 [(62%)]	Loss: -0.119442	soft_Loss: 0.005071	confu_Loss: 0.125000
+Train iter: 3130 [(63%)]	Loss: -0.115710	soft_Loss: 0.007601	confu_Loss: 0.123783
+Train iter: 3140 [(63%)]	Loss: -0.104754	soft_Loss: 0.010064	confu_Loss: 0.115249
+Train iter: 3150 [(63%)]	Loss: -0.132052	soft_Loss: 0.004831	confu_Loss: 0.137386
+Train iter: 3160 [(63%)]	Loss: -0.135643	soft_Loss: 0.005161	confu_Loss: 0.141313
+Train iter: 3170 [(63%)]	Loss: -0.112059	soft_Loss: 0.007346	confu_Loss: 0.119827
+Train iter: 3180 [(64%)]	Loss: -0.147608	soft_Loss: 0.005965	confu_Loss: 0.154105
+Train iter: 3190 [(64%)]	Loss: -0.150411	soft_Loss: 0.005077	confu_Loss: 0.156016
+Train iter: 3200 [(64%)]	Loss: -0.139749	soft_Loss: 0.013223	confu_Loss: 0.153481
+
+load6_train set: Average loss: 3411.6550, Accuracy: 27359/28800 (95.00%)
+
+
+load6_train set: Average loss: 251.7562, Accuracy: 2313/2400 (96.38%)
+
+learning rate 0.0011
+Train iter: 3210 [(64%)]	Loss: -0.134608	soft_Loss: 0.008243	confu_Loss: 0.143317
+Train iter: 3220 [(64%)]	Loss: -0.158278	soft_Loss: 0.005539	confu_Loss: 0.164340
+Train iter: 3230 [(65%)]	Loss: -0.112594	soft_Loss: 0.006501	confu_Loss: 0.119468
+Train iter: 3240 [(65%)]	Loss: -0.154982	soft_Loss: 0.004903	confu_Loss: 0.160377
+Train iter: 3250 [(65%)]	Loss: -0.146064	soft_Loss: 0.003386	confu_Loss: 0.149900
+Train iter: 3260 [(65%)]	Loss: -0.152471	soft_Loss: 0.006623	confu_Loss: 0.159564
+Train iter: 3270 [(65%)]	Loss: -0.167758	soft_Loss: 0.003925	confu_Loss: 0.172180
+Train iter: 3280 [(66%)]	Loss: -0.161465	soft_Loss: 0.004892	confu_Loss: 0.166829
+Train iter: 3290 [(66%)]	Loss: -0.163330	soft_Loss: 0.004621	confu_Loss: 0.168418
+Train iter: 3300 [(66%)]	Loss: -0.161810	soft_Loss: 0.006501	confu_Loss: 0.168770
+
+load6_train set: Average loss: 8515.4920, Accuracy: 26024/28800 (90.36%)
+
+
+load6_train set: Average loss: 1348.8254, Accuracy: 2142/2400 (89.25%)
+
+learning rate 0.0011
+Train iter: 3310 [(66%)]	Loss: -0.150149	soft_Loss: 0.009322	confu_Loss: 0.159897
+Train iter: 3320 [(66%)]	Loss: -0.165389	soft_Loss: 0.004751	confu_Loss: 0.170584
+Train iter: 3330 [(67%)]	Loss: -0.181168	soft_Loss: 0.004807	confu_Loss: 0.186452
+Train iter: 3340 [(67%)]	Loss: -0.179073	soft_Loss: 0.002874	confu_Loss: 0.182404
+Train iter: 3350 [(67%)]	Loss: -0.171254	soft_Loss: 0.007084	confu_Loss: 0.178777
+Train iter: 3360 [(67%)]	Loss: -0.187725	soft_Loss: 0.006163	confu_Loss: 0.194356
+Train iter: 3370 [(67%)]	Loss: -0.150836	soft_Loss: 0.003805	confu_Loss: 0.155007
+Train iter: 3380 [(68%)]	Loss: -0.179163	soft_Loss: 0.004511	confu_Loss: 0.184100
+Train iter: 3390 [(68%)]	Loss: -0.144202	soft_Loss: 0.015422	confu_Loss: 0.159988
+Train iter: 3400 [(68%)]	Loss: -0.193945	soft_Loss: 0.003281	confu_Loss: 0.197665
+
+load6_train set: Average loss: 1963.7212, Accuracy: 27876/28800 (96.79%)
+
+
+load6_train set: Average loss: 74.2811, Accuracy: 2372/2400 (98.83%)
+
+learning rate 0.0011
+Train iter: 3410 [(68%)]	Loss: -0.181669	soft_Loss: 0.003967	confu_Loss: 0.186042
+Train iter: 3420 [(68%)]	Loss: -0.188139	soft_Loss: 0.003749	confu_Loss: 0.192300
+Train iter: 3430 [(69%)]	Loss: -0.201670	soft_Loss: 0.002979	confu_Loss: 0.205078
+Train iter: 3440 [(69%)]	Loss: -0.202523	soft_Loss: 0.003840	confu_Loss: 0.206788
+Train iter: 3450 [(69%)]	Loss: -0.206097	soft_Loss: 0.005912	confu_Loss: 0.212437
+Train iter: 3460 [(69%)]	Loss: -0.208154	soft_Loss: 0.006416	confu_Loss: 0.214994
+Train iter: 3470 [(69%)]	Loss: -0.215017	soft_Loss: 0.008396	confu_Loss: 0.223845
+Train iter: 3480 [(70%)]	Loss: -0.191862	soft_Loss: 0.003000	confu_Loss: 0.195232
+Train iter: 3490 [(70%)]	Loss: -0.203253	soft_Loss: 0.006676	confu_Loss: 0.210320
+Train iter: 3500 [(70%)]	Loss: -0.205156	soft_Loss: 0.003929	confu_Loss: 0.209466
+
+load6_train set: Average loss: 2268.3452, Accuracy: 27810/28800 (96.56%)
+
+
+load6_train set: Average loss: 18.7581, Accuracy: 2396/2400 (99.83%)
+
+learning rate 0.0011
+Train iter: 3510 [(70%)]	Loss: -0.204509	soft_Loss: 0.011743	confu_Loss: 0.216639
+Train iter: 3520 [(70%)]	Loss: -0.191508	soft_Loss: 0.003164	confu_Loss: 0.195013
+Train iter: 3530 [(71%)]	Loss: -0.210360	soft_Loss: 0.003179	confu_Loss: 0.213906
+Train iter: 3540 [(71%)]	Loss: -0.251738	soft_Loss: 0.002202	confu_Loss: 0.254368
+Train iter: 3550 [(71%)]	Loss: -0.223212	soft_Loss: 0.004922	confu_Loss: 0.228511
+Train iter: 3560 [(71%)]	Loss: -0.244937	soft_Loss: 0.003185	confu_Loss: 0.248524
+Train iter: 3570 [(71%)]	Loss: -0.221409	soft_Loss: 0.003844	confu_Loss: 0.225611
+Train iter: 3580 [(72%)]	Loss: -0.230317	soft_Loss: 0.003028	confu_Loss: 0.233707
+Train iter: 3590 [(72%)]	Loss: -0.234500	soft_Loss: 0.003696	confu_Loss: 0.238559
+Train iter: 3600 [(72%)]	Loss: -0.240802	soft_Loss: 0.003941	confu_Loss: 0.245109
+
+load6_train set: Average loss: 1031.3969, Accuracy: 28362/28800 (98.48%)
+
+
+load6_train set: Average loss: 236.2641, Accuracy: 2324/2400 (96.83%)
+
+learning rate 0.0010
+Train iter: 3610 [(72%)]	Loss: -0.258843	soft_Loss: 0.004768	confu_Loss: 0.263997
+Train iter: 3620 [(72%)]	Loss: -0.271439	soft_Loss: 0.005074	confu_Loss: 0.276910
+Train iter: 3630 [(73%)]	Loss: -0.249477	soft_Loss: 0.003958	confu_Loss: 0.253792
+Train iter: 3640 [(73%)]	Loss: -0.254306	soft_Loss: 0.004827	confu_Loss: 0.259491
+Train iter: 3650 [(73%)]	Loss: -0.256764	soft_Loss: 0.005291	confu_Loss: 0.262410
+Train iter: 3660 [(73%)]	Loss: -0.268831	soft_Loss: 0.006865	confu_Loss: 0.276061
+Train iter: 3670 [(73%)]	Loss: -0.277933	soft_Loss: 0.003219	confu_Loss: 0.281518
+Train iter: 3680 [(74%)]	Loss: -0.279346	soft_Loss: 0.002912	confu_Loss: 0.282617
+Train iter: 3690 [(74%)]	Loss: -0.304806	soft_Loss: 0.005347	confu_Loss: 0.310539
+Train iter: 3700 [(74%)]	Loss: -0.270906	soft_Loss: 0.006803	confu_Loss: 0.278049
+
+load6_train set: Average loss: 369.7117, Accuracy: 28638/28800 (99.44%)
+
+
+load6_train set: Average loss: 28.0144, Accuracy: 2392/2400 (99.67%)
+
+learning rate 0.0010
+Train iter: 3710 [(74%)]	Loss: -0.279610	soft_Loss: 0.005258	confu_Loss: 0.285210
+Train iter: 3720 [(74%)]	Loss: -0.304614	soft_Loss: 0.003055	confu_Loss: 0.308031
+Train iter: 3730 [(75%)]	Loss: -0.288843	soft_Loss: 0.006218	confu_Loss: 0.295401
+Train iter: 3740 [(75%)]	Loss: -0.276385	soft_Loss: 0.005088	confu_Loss: 0.281790
+Train iter: 3750 [(75%)]	Loss: -0.313365	soft_Loss: 0.005401	confu_Loss: 0.319118
+Train iter: 3760 [(75%)]	Loss: -0.306404	soft_Loss: 0.002410	confu_Loss: 0.309149
+Train iter: 3770 [(75%)]	Loss: -0.289021	soft_Loss: 0.004140	confu_Loss: 0.293473
+Train iter: 3780 [(76%)]	Loss: -0.328154	soft_Loss: 0.003980	confu_Loss: 0.332481
+Train iter: 3790 [(76%)]	Loss: -0.371742	soft_Loss: 0.002718	confu_Loss: 0.374842
+Train iter: 3800 [(76%)]	Loss: -0.334248	soft_Loss: 0.003706	confu_Loss: 0.338293
+
+load6_train set: Average loss: 3970.1266, Accuracy: 27213/28800 (94.49%)
+
+
+load6_train set: Average loss: 481.0671, Accuracy: 2260/2400 (94.17%)
+
+learning rate 0.0010
+Train iter: 3810 [(76%)]	Loss: -0.326779	soft_Loss: 0.006662	confu_Loss: 0.333769
+Train iter: 3820 [(76%)]	Loss: -0.342213	soft_Loss: 0.005644	confu_Loss: 0.348191
+Train iter: 3830 [(77%)]	Loss: -0.372700	soft_Loss: 0.002615	confu_Loss: 0.375668
+Train iter: 3840 [(77%)]	Loss: -0.352734	soft_Loss: 0.006162	confu_Loss: 0.359228
+Train iter: 3850 [(77%)]	Loss: -0.350551	soft_Loss: 0.004103	confu_Loss: 0.354975
+Train iter: 3860 [(77%)]	Loss: -0.391458	soft_Loss: 0.002544	confu_Loss: 0.394352
+Train iter: 3870 [(77%)]	Loss: -0.375792	soft_Loss: 0.005583	confu_Loss: 0.381707
+Train iter: 3880 [(78%)]	Loss: -0.365207	soft_Loss: 0.005449	confu_Loss: 0.370973
+Train iter: 3890 [(78%)]	Loss: -0.395503	soft_Loss: 0.004686	confu_Loss: 0.400524
+Train iter: 3900 [(78%)]	Loss: -0.404084	soft_Loss: 0.004509	confu_Loss: 0.408928
+
+load6_train set: Average loss: 2643.9799, Accuracy: 27814/28800 (96.58%)
+
+
+load6_train set: Average loss: 697.6823, Accuracy: 2230/2400 (92.92%)
+
+learning rate 0.0010
+Train iter: 3910 [(78%)]	Loss: -0.361194	soft_Loss: 0.004514	confu_Loss: 0.366002
+Train iter: 3920 [(78%)]	Loss: -0.398952	soft_Loss: 0.003709	confu_Loss: 0.402979
+Train iter: 3930 [(79%)]	Loss: -0.405875	soft_Loss: 0.002947	confu_Loss: 0.409137
+Train iter: 3940 [(79%)]	Loss: -0.400569	soft_Loss: 0.003571	confu_Loss: 0.404446
+Train iter: 3950 [(79%)]	Loss: -0.421307	soft_Loss: 0.003016	confu_Loss: 0.424637
+Train iter: 3960 [(79%)]	Loss: -0.458851	soft_Loss: 0.004659	confu_Loss: 0.463847
+Train iter: 3970 [(79%)]	Loss: -0.393902	soft_Loss: 0.003494	confu_Loss: 0.397679
+Train iter: 3980 [(80%)]	Loss: -0.414019	soft_Loss: 0.003271	confu_Loss: 0.417581
+Train iter: 3990 [(80%)]	Loss: -0.414117	soft_Loss: 0.005683	confu_Loss: 0.420088
+Train iter: 4000 [(80%)]	Loss: -0.445573	soft_Loss: 0.005054	confu_Loss: 0.450930
+
+load6_train set: Average loss: 194.2984, Accuracy: 28658/28800 (99.51%)
+
+
+load6_train set: Average loss: 64.0961, Accuracy: 2376/2400 (99.00%)
+
+learning rate 0.0010
+Train iter: 4010 [(80%)]	Loss: -0.471072	soft_Loss: 0.008957	confu_Loss: 0.480345
+Train iter: 4020 [(80%)]	Loss: -0.473664	soft_Loss: 0.003889	confu_Loss: 0.477861
+Train iter: 4030 [(81%)]	Loss: -0.490259	soft_Loss: 0.004640	confu_Loss: 0.495211
+Train iter: 4040 [(81%)]	Loss: -0.475136	soft_Loss: 0.004422	confu_Loss: 0.479855
+Train iter: 4050 [(81%)]	Loss: -0.467422	soft_Loss: 0.006104	confu_Loss: 0.473814
+Train iter: 4060 [(81%)]	Loss: -0.502334	soft_Loss: 0.002311	confu_Loss: 0.504945
+Train iter: 4070 [(81%)]	Loss: -0.505395	soft_Loss: 0.009384	confu_Loss: 0.515079
+Train iter: 4080 [(82%)]	Loss: -0.513502	soft_Loss: 0.005811	confu_Loss: 0.519609
+Train iter: 4090 [(82%)]	Loss: -0.496611	soft_Loss: 0.004041	confu_Loss: 0.500933
+Train iter: 4100 [(82%)]	Loss: -0.551559	soft_Loss: 0.002760	confu_Loss: 0.554624
+
+load6_train set: Average loss: 455.1012, Accuracy: 28566/28800 (99.19%)
+
+
+load6_train set: Average loss: 256.4303, Accuracy: 2316/2400 (96.50%)
+
+learning rate 0.0009
+Train iter: 4110 [(82%)]	Loss: -0.520155	soft_Loss: 0.003049	confu_Loss: 0.523486
+Train iter: 4120 [(82%)]	Loss: -0.546109	soft_Loss: 0.006097	confu_Loss: 0.552498
+Train iter: 4130 [(83%)]	Loss: -0.543283	soft_Loss: 0.002985	confu_Loss: 0.546551
+Train iter: 4140 [(83%)]	Loss: -0.535341	soft_Loss: 0.003144	confu_Loss: 0.538758
+Train iter: 4150 [(83%)]	Loss: -0.550854	soft_Loss: 0.007452	confu_Loss: 0.558584
+Train iter: 4160 [(83%)]	Loss: -0.571860	soft_Loss: 0.002580	confu_Loss: 0.574720
+Train iter: 4170 [(83%)]	Loss: -0.586108	soft_Loss: 0.002604	confu_Loss: 0.588993
+Train iter: 4180 [(84%)]	Loss: -0.581688	soft_Loss: 0.007289	confu_Loss: 0.589253
+Train iter: 4190 [(84%)]	Loss: -0.602940	soft_Loss: 0.003388	confu_Loss: 0.606607
+Train iter: 4200 [(84%)]	Loss: -0.620025	soft_Loss: 0.003229	confu_Loss: 0.623535
+
+load6_train set: Average loss: 4026.8714, Accuracy: 27282/28800 (94.73%)
+
+
+load6_train set: Average loss: 242.4880, Accuracy: 2318/2400 (96.58%)
+
+learning rate 0.0009
+Train iter: 4210 [(84%)]	Loss: -0.605210	soft_Loss: 0.003729	confu_Loss: 0.609208
+Train iter: 4220 [(84%)]	Loss: -0.621203	soft_Loss: 0.004481	confu_Loss: 0.625955
+Train iter: 4230 [(85%)]	Loss: -0.627636	soft_Loss: 0.002476	confu_Loss: 0.630379
+Train iter: 4240 [(85%)]	Loss: -0.655859	soft_Loss: 0.004657	confu_Loss: 0.660791
+Train iter: 4250 [(85%)]	Loss: -0.649060	soft_Loss: 0.002286	confu_Loss: 0.651611
+Train iter: 4260 [(85%)]	Loss: -0.673060	soft_Loss: 0.002332	confu_Loss: 0.675662
+Train iter: 4270 [(85%)]	Loss: -0.659552	soft_Loss: 0.004173	confu_Loss: 0.663984
+Train iter: 4280 [(86%)]	Loss: -0.665187	soft_Loss: 0.003308	confu_Loss: 0.668752
+Train iter: 4290 [(86%)]	Loss: -0.699850	soft_Loss: 0.002691	confu_Loss: 0.702805
+Train iter: 4300 [(86%)]	Loss: -0.697934	soft_Loss: 0.002571	confu_Loss: 0.700763
+
+load6_train set: Average loss: 2074.9271, Accuracy: 27852/28800 (96.71%)
+
+
+load6_train set: Average loss: 34.4006, Accuracy: 2390/2400 (99.58%)
+
+learning rate 0.0009
+Train iter: 4310 [(86%)]	Loss: -0.710586	soft_Loss: 0.003476	confu_Loss: 0.714319
+Train iter: 4320 [(86%)]	Loss: -0.748966	soft_Loss: 0.002288	confu_Loss: 0.751520
+Train iter: 4330 [(87%)]	Loss: -0.741995	soft_Loss: 0.005593	confu_Loss: 0.747847
+Train iter: 4340 [(87%)]	Loss: -0.736273	soft_Loss: 0.004827	confu_Loss: 0.741352
+Train iter: 4350 [(87%)]	Loss: -0.759854	soft_Loss: 0.002819	confu_Loss: 0.762927
+Train iter: 4360 [(87%)]	Loss: -0.759914	soft_Loss: 0.006430	confu_Loss: 0.766593
+Train iter: 4370 [(87%)]	Loss: -0.791244	soft_Loss: 0.004087	confu_Loss: 0.795586
+Train iter: 4380 [(88%)]	Loss: -0.813393	soft_Loss: 0.007648	confu_Loss: 0.821299
+Train iter: 4390 [(88%)]	Loss: -0.809113	soft_Loss: 0.004382	confu_Loss: 0.813745
+Train iter: 4400 [(88%)]	Loss: -0.834744	soft_Loss: 0.002668	confu_Loss: 0.837665
+
+load6_train set: Average loss: 3452.4831, Accuracy: 27475/28800 (95.40%)
+
+
+load6_train set: Average loss: 678.4250, Accuracy: 2208/2400 (92.00%)
+
+learning rate 0.0009
+Train iter: 4410 [(88%)]	Loss: -0.824556	soft_Loss: 0.003999	confu_Loss: 0.828800
+Train iter: 4420 [(88%)]	Loss: -0.830931	soft_Loss: 0.006683	confu_Loss: 0.837857
+Train iter: 4430 [(89%)]	Loss: -0.866011	soft_Loss: 0.002786	confu_Loss: 0.869044
+Train iter: 4440 [(89%)]	Loss: -0.851680	soft_Loss: 0.003946	confu_Loss: 0.855865
+Train iter: 4450 [(89%)]	Loss: -0.902229	soft_Loss: 0.002832	confu_Loss: 0.905307
+Train iter: 4460 [(89%)]	Loss: -0.881110	soft_Loss: 0.004529	confu_Loss: 0.885875
+Train iter: 4470 [(89%)]	Loss: -0.906155	soft_Loss: 0.003725	confu_Loss: 0.910118
+Train iter: 4480 [(90%)]	Loss: -0.912678	soft_Loss: 0.004018	confu_Loss: 0.916931
+Train iter: 4490 [(90%)]	Loss: -0.924530	soft_Loss: 0.003045	confu_Loss: 0.927809
+Train iter: 4500 [(90%)]	Loss: -0.929344	soft_Loss: 0.003097	confu_Loss: 0.932671
+
+load6_train set: Average loss: 726.8340, Accuracy: 28465/28800 (98.84%)
+
+
+load6_train set: Average loss: 23.8183, Accuracy: 2394/2400 (99.75%)
+
+learning rate 0.0009
+Train iter: 4510 [(90%)]	Loss: -0.942523	soft_Loss: 0.004497	confu_Loss: 0.947250
+Train iter: 4520 [(90%)]	Loss: -0.932442	soft_Loss: 0.004424	confu_Loss: 0.937089
+Train iter: 4530 [(91%)]	Loss: -0.952020	soft_Loss: 0.003547	confu_Loss: 0.955789
+Train iter: 4540 [(91%)]	Loss: -0.966649	soft_Loss: 0.003510	confu_Loss: 0.970380
+Train iter: 4550 [(91%)]	Loss: -0.978759	soft_Loss: 0.002972	confu_Loss: 0.981950
+Train iter: 4560 [(91%)]	Loss: -0.981815	soft_Loss: 0.002611	confu_Loss: 0.984641
+Train iter: 4570 [(91%)]	Loss: -0.997167	soft_Loss: 0.007560	confu_Loss: 1.004942
+Train iter: 4580 [(92%)]	Loss: -1.010656	soft_Loss: 0.004463	confu_Loss: 1.015332
+Train iter: 4590 [(92%)]	Loss: -1.014328	soft_Loss: 0.003262	confu_Loss: 1.017800
+Train iter: 4600 [(92%)]	Loss: -1.017448	soft_Loss: 0.002504	confu_Loss: 1.020158
+
+load6_train set: Average loss: 592.5641, Accuracy: 28530/28800 (99.06%)
+
+
+load6_train set: Average loss: 117.5776, Accuracy: 2369/2400 (98.71%)
+
+learning rate 0.0009
+Train iter: 4610 [(92%)]	Loss: -1.021324	soft_Loss: 0.001425	confu_Loss: 1.022951
+Train iter: 4620 [(92%)]	Loss: -1.023453	soft_Loss: 0.006283	confu_Loss: 1.029936
+Train iter: 4630 [(93%)]	Loss: -1.033978	soft_Loss: 0.002339	confu_Loss: 1.036514
+Train iter: 4640 [(93%)]	Loss: -1.040301	soft_Loss: 0.004202	confu_Loss: 1.044698
+Train iter: 4650 [(93%)]	Loss: -1.044289	soft_Loss: 0.005743	confu_Loss: 1.050224
+Train iter: 4660 [(93%)]	Loss: -1.043295	soft_Loss: 0.005199	confu_Loss: 1.048682
+Train iter: 4670 [(93%)]	Loss: -1.057094	soft_Loss: 0.003746	confu_Loss: 1.061026
+Train iter: 4680 [(94%)]	Loss: -1.063218	soft_Loss: 0.002468	confu_Loss: 1.065869
+Train iter: 4690 [(94%)]	Loss: -1.061172	soft_Loss: 0.008229	confu_Loss: 1.069582
+Train iter: 4700 [(94%)]	Loss: -1.066327	soft_Loss: 0.002273	confu_Loss: 1.068777
+
+load6_train set: Average loss: 287.4337, Accuracy: 28630/28800 (99.41%)
+
+
+load6_train set: Average loss: 85.8350, Accuracy: 2372/2400 (98.83%)
+
+learning rate 0.0009
+Train iter: 4710 [(94%)]	Loss: -1.073338	soft_Loss: 0.005865	confu_Loss: 1.079378
+Train iter: 4720 [(94%)]	Loss: -1.069682	soft_Loss: 0.002854	confu_Loss: 1.072706
+Train iter: 4730 [(95%)]	Loss: -1.077541	soft_Loss: 0.002813	confu_Loss: 1.080522
+Train iter: 4740 [(95%)]	Loss: -1.075404	soft_Loss: 0.003891	confu_Loss: 1.079460
+Train iter: 4750 [(95%)]	Loss: -1.079982	soft_Loss: 0.004796	confu_Loss: 1.084940
+Train iter: 4760 [(95%)]	Loss: -1.083764	soft_Loss: 0.003528	confu_Loss: 1.087452
+Train iter: 4770 [(95%)]	Loss: -1.083231	soft_Loss: 0.003219	confu_Loss: 1.086607
+Train iter: 4780 [(96%)]	Loss: -1.083824	soft_Loss: 0.003244	confu_Loss: 1.087222
+Train iter: 4790 [(96%)]	Loss: -1.085683	soft_Loss: 0.005191	confu_Loss: 1.091024
+Train iter: 4800 [(96%)]	Loss: -1.084572	soft_Loss: 0.006867	confu_Loss: 1.091587
+
+load6_train set: Average loss: 303.0751, Accuracy: 28639/28800 (99.44%)
+
+
+load6_train set: Average loss: 31.3069, Accuracy: 2392/2400 (99.67%)
+
+learning rate 0.0009
+Train iter: 4810 [(96%)]	Loss: -1.084901	soft_Loss: 0.005441	confu_Loss: 1.090487
+Train iter: 4820 [(96%)]	Loss: -1.086632	soft_Loss: 0.005596	confu_Loss: 1.092370
+Train iter: 4830 [(97%)]	Loss: -1.091071	soft_Loss: 0.003048	confu_Loss: 1.094259
+Train iter: 4840 [(97%)]	Loss: -1.091078	soft_Loss: 0.003629	confu_Loss: 1.094844
+Train iter: 4850 [(97%)]	Loss: -1.091460	soft_Loss: 0.003355	confu_Loss: 1.094949
+Train iter: 4860 [(97%)]	Loss: -1.092795	soft_Loss: 0.002873	confu_Loss: 1.095800
+Train iter: 4870 [(97%)]	Loss: -1.090239	soft_Loss: 0.006603	confu_Loss: 1.096972
+Train iter: 4880 [(98%)]	Loss: -1.095175	soft_Loss: 0.001958	confu_Loss: 1.097260
+Train iter: 4890 [(98%)]	Loss: -1.092801	soft_Loss: 0.004305	confu_Loss: 1.097230
+Train iter: 4900 [(98%)]	Loss: -1.094286	soft_Loss: 0.003404	confu_Loss: 1.097811
+
+load6_train set: Average loss: 493.0401, Accuracy: 28578/28800 (99.23%)
+
+
+load6_train set: Average loss: 29.4841, Accuracy: 2392/2400 (99.67%)
+
+learning rate 0.0008
+Train iter: 4910 [(98%)]	Loss: -1.092182	soft_Loss: 0.005268	confu_Loss: 1.097570
+Train iter: 4920 [(98%)]	Loss: -1.094485	soft_Loss: 0.003591	confu_Loss: 1.098193
+Train iter: 4930 [(99%)]	Loss: -1.094826	soft_Loss: 0.003065	confu_Loss: 1.098006
+Train iter: 4940 [(99%)]	Loss: -1.094904	soft_Loss: 0.003364	confu_Loss: 1.098380
+Train iter: 4950 [(99%)]	Loss: -1.092257	soft_Loss: 0.006204	confu_Loss: 1.098571
+Train iter: 4960 [(99%)]	Loss: -1.095378	soft_Loss: 0.003054	confu_Loss: 1.098540
+Train iter: 4970 [(99%)]	Loss: -1.095178	soft_Loss: 0.003229	confu_Loss: 1.098513
+Train iter: 4980 [(100%)]	Loss: -1.092202	soft_Loss: 0.006300	confu_Loss: 1.098606
+Train iter: 4990 [(100%)]	Loss: -1.095299	soft_Loss: 0.003169	confu_Loss: 1.098570
+Train iter: 5000 [(100%)]	Loss: -1.093899	soft_Loss: 0.004529	confu_Loss: 1.098528
+
+load6_train set: Average loss: 1459.3367, Accuracy: 28188/28800 (97.88%)
+
+
+load6_train set: Average loss: 405.6434, Accuracy: 2263/2400 (94.29%)
+
+(2400, 3200)
+DeepALL_ADV(
+  (sharedNet): CNN(
+    (layer1): Sequential(
+      (0): Conv1d(1, 16, kernel_size=(64,), stride=(1,))
+      (1): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer2): Sequential(
+      (0): Conv1d(16, 32, kernel_size=(16,), stride=(1,))
+      (1): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer3): Sequential(
+      (0): Conv1d(32, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer4): Sequential(
+      (0): Conv1d(64, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): AdaptiveMaxPool1d(output_size=4)
+    )
+  )
+  (cls_fc): Linear(in_features=256, out_features=12, bias=True)
+  (domain_fc): AdversarialNetwork_multi(
+    (ad_layer1): Linear(in_features=256, out_features=128, bias=True)
+    (ad_layer2): Linear(in_features=128, out_features=3, bias=True)
+    (relu1): ReLU()
+    (relu2): ReLU()
+    (dropout1): Dropout(p=0.5, inplace=False)
+    (dropout2): Dropout(p=0.5, inplace=False)
+    (softmax): Softmax(dim=None)
+  )
+)
+learning rate 0.0050
+Train iter: 10 [(0%)]	Loss: 2.817018	soft_Loss: 2.828001	confu_Loss: 1.098418
+Train iter: 20 [(0%)]	Loss: 2.021671	soft_Loss: 2.041978	confu_Loss: 1.015500
+Train iter: 30 [(1%)]	Loss: 2.066100	soft_Loss: 2.093846	confu_Loss: 0.925129
+Train iter: 40 [(1%)]	Loss: 1.699481	soft_Loss: 1.731679	confu_Loss: 0.805401
+Train iter: 50 [(1%)]	Loss: 1.614428	soft_Loss: 1.652580	confu_Loss: 0.763676
+Train iter: 60 [(1%)]	Loss: 1.548263	soft_Loss: 1.593997	confu_Loss: 0.763146
+Train iter: 70 [(1%)]	Loss: 1.531524	soft_Loss: 1.578212	confu_Loss: 0.668055
+Train iter: 80 [(2%)]	Loss: 1.374360	soft_Loss: 1.433284	confu_Loss: 0.738120
+Train iter: 90 [(2%)]	Loss: 1.476374	soft_Loss: 1.541312	confu_Loss: 0.723481
+Train iter: 100 [(2%)]	Loss: 1.260996	soft_Loss: 1.319906	confu_Loss: 0.591052
+
+load6_train set: Average loss: 42410.0098, Accuracy: 12734/28800 (44.22%)
+
+
+load6_train set: Average loss: 3134.2783, Accuracy: 1327/2400 (55.29%)
+
+learning rate 0.0044
+Train iter: 110 [(2%)]	Loss: 1.274412	soft_Loss: 1.341708	confu_Loss: 0.614246
+Train iter: 120 [(2%)]	Loss: 1.243130	soft_Loss: 1.309649	confu_Loss: 0.556978
+Train iter: 130 [(3%)]	Loss: 1.329277	soft_Loss: 1.394947	confu_Loss: 0.507997
+Train iter: 140 [(3%)]	Loss: 1.153864	soft_Loss: 1.227320	confu_Loss: 0.528104
+Train iter: 150 [(3%)]	Loss: 1.173617	soft_Loss: 1.242839	confu_Loss: 0.464940
+Train iter: 160 [(3%)]	Loss: 1.155128	soft_Loss: 1.224964	confu_Loss: 0.440192
+Train iter: 170 [(3%)]	Loss: 1.155278	soft_Loss: 1.221794	confu_Loss: 0.395033
+Train iter: 180 [(4%)]	Loss: 0.973542	soft_Loss: 1.044355	confu_Loss: 0.397649
+Train iter: 190 [(4%)]	Loss: 0.987841	soft_Loss: 1.058807	confu_Loss: 0.377986
+Train iter: 200 [(4%)]	Loss: 1.041075	soft_Loss: 1.119121	confu_Loss: 0.395418
+
+load6_train set: Average loss: 33191.8310, Accuracy: 15828/28800 (54.96%)
+
+
+load6_train set: Average loss: 2901.2846, Accuracy: 1287/2400 (53.62%)
+
+learning rate 0.0039
+Train iter: 210 [(4%)]	Loss: 0.932698	soft_Loss: 1.006595	confu_Loss: 0.357045
+Train iter: 220 [(4%)]	Loss: 0.976577	soft_Loss: 1.047316	confu_Loss: 0.326710
+Train iter: 230 [(5%)]	Loss: 0.922474	soft_Loss: 1.000650	confu_Loss: 0.345869
+Train iter: 240 [(5%)]	Loss: 1.090445	soft_Loss: 1.162566	confu_Loss: 0.306252
+Train iter: 250 [(5%)]	Loss: 0.846266	soft_Loss: 0.925875	confu_Loss: 0.325043
+Train iter: 260 [(5%)]	Loss: 0.731739	soft_Loss: 0.806207	confu_Loss: 0.292838
+Train iter: 270 [(5%)]	Loss: 0.929424	soft_Loss: 1.003881	confu_Loss: 0.282434
+Train iter: 280 [(6%)]	Loss: 0.843681	soft_Loss: 0.923066	confu_Loss: 0.290888
+Train iter: 290 [(6%)]	Loss: 0.832638	soft_Loss: 0.891966	confu_Loss: 0.210281
+Train iter: 300 [(6%)]	Loss: 0.874781	soft_Loss: 0.939283	confu_Loss: 0.221417
+
+load6_train set: Average loss: 29370.8236, Accuracy: 16482/28800 (57.23%)
+
+
+load6_train set: Average loss: 1816.5242, Accuracy: 1740/2400 (72.50%)
+
+learning rate 0.0035
+Train iter: 310 [(6%)]	Loss: 0.786931	soft_Loss: 0.848164	confu_Loss: 0.203815
+Train iter: 320 [(6%)]	Loss: 0.770628	soft_Loss: 0.832713	confu_Loss: 0.200594
+Train iter: 330 [(7%)]	Loss: 0.812504	soft_Loss: 0.886998	confu_Loss: 0.233876
+Train iter: 340 [(7%)]	Loss: 0.933005	soft_Loss: 1.004054	confu_Loss: 0.216959
+Train iter: 350 [(7%)]	Loss: 0.655679	soft_Loss: 0.714842	confu_Loss: 0.175885
+Train iter: 360 [(7%)]	Loss: 0.659846	soft_Loss: 0.732117	confu_Loss: 0.209351
+Train iter: 370 [(7%)]	Loss: 0.673066	soft_Loss: 0.766303	confu_Loss: 0.263389
+Train iter: 380 [(8%)]	Loss: 0.565933	soft_Loss: 0.646625	confu_Loss: 0.222473
+Train iter: 390 [(8%)]	Loss: 0.700612	soft_Loss: 0.763316	confu_Loss: 0.168851
+Train iter: 400 [(8%)]	Loss: 0.582737	soft_Loss: 0.660757	confu_Loss: 0.205343
+
+load6_train set: Average loss: 28750.3300, Accuracy: 17453/28800 (60.60%)
+
+
+load6_train set: Average loss: 2381.2285, Accuracy: 1405/2400 (58.54%)
+
+learning rate 0.0032
+Train iter: 410 [(8%)]	Loss: 0.584105	soft_Loss: 0.691470	confu_Loss: 0.276379
+Train iter: 420 [(8%)]	Loss: 0.608795	soft_Loss: 0.685028	confu_Loss: 0.192056
+Train iter: 430 [(9%)]	Loss: 0.603165	soft_Loss: 0.686691	confu_Loss: 0.206075
+Train iter: 440 [(9%)]	Loss: 0.642780	soft_Loss: 0.696355	confu_Loss: 0.129521
+Train iter: 450 [(9%)]	Loss: 0.584951	soft_Loss: 0.634503	confu_Loss: 0.117449
+Train iter: 460 [(9%)]	Loss: 0.525575	soft_Loss: 0.608242	confu_Loss: 0.192210
+Train iter: 470 [(9%)]	Loss: 0.505314	soft_Loss: 0.562086	confu_Loss: 0.129555
+Train iter: 480 [(10%)]	Loss: 0.505186	soft_Loss: 0.559928	confu_Loss: 0.122673
+Train iter: 490 [(10%)]	Loss: 0.576126	soft_Loss: 0.620802	confu_Loss: 0.098359
+Train iter: 500 [(10%)]	Loss: 0.511971	soft_Loss: 0.578737	confu_Loss: 0.144479
+
+load6_train set: Average loss: 39846.2531, Accuracy: 14560/28800 (50.56%)
+
+
+load6_train set: Average loss: 2059.3950, Accuracy: 1482/2400 (61.75%)
+
+learning rate 0.0030
+Train iter: 510 [(10%)]	Loss: 0.541464	soft_Loss: 0.592113	confu_Loss: 0.107775
+Train iter: 520 [(10%)]	Loss: 0.486523	soft_Loss: 0.551658	confu_Loss: 0.136352
+Train iter: 530 [(11%)]	Loss: 0.408878	soft_Loss: 0.473479	confu_Loss: 0.133094
+Train iter: 540 [(11%)]	Loss: 0.470413	soft_Loss: 0.524830	confu_Loss: 0.110382
+Train iter: 550 [(11%)]	Loss: 0.428050	soft_Loss: 0.494172	confu_Loss: 0.132107
+Train iter: 560 [(11%)]	Loss: 0.392322	soft_Loss: 0.469124	confu_Loss: 0.151191
+Train iter: 570 [(11%)]	Loss: 0.376198	soft_Loss: 0.434260	confu_Loss: 0.112663
+Train iter: 580 [(12%)]	Loss: 0.327670	soft_Loss: 0.410088	confu_Loss: 0.157689
+Train iter: 590 [(12%)]	Loss: 0.339201	soft_Loss: 0.390384	confu_Loss: 0.096590
+Train iter: 600 [(12%)]	Loss: 0.373015	soft_Loss: 0.440414	confu_Loss: 0.125500
+
+load6_train set: Average loss: 27130.6664, Accuracy: 18015/28800 (62.55%)
+
+
+load6_train set: Average loss: 1541.6019, Accuracy: 1759/2400 (73.29%)
+
+learning rate 0.0028
+Train iter: 610 [(12%)]	Loss: 0.370948	soft_Loss: 0.464007	confu_Loss: 0.171025
+Train iter: 620 [(12%)]	Loss: 0.376092	soft_Loss: 0.434923	confu_Loss: 0.106747
+Train iter: 630 [(13%)]	Loss: 0.363246	soft_Loss: 0.433307	confu_Loss: 0.125545
+Train iter: 640 [(13%)]	Loss: 0.317458	soft_Loss: 0.377307	confu_Loss: 0.105946
+Train iter: 650 [(13%)]	Loss: 0.347448	soft_Loss: 0.387970	confu_Loss: 0.070883
+Train iter: 660 [(13%)]	Loss: 0.341907	soft_Loss: 0.401948	confu_Loss: 0.103810
+Train iter: 670 [(13%)]	Loss: 0.392596	soft_Loss: 0.436111	confu_Loss: 0.074388
+Train iter: 680 [(14%)]	Loss: 0.302194	soft_Loss: 0.354618	confu_Loss: 0.088627
+Train iter: 690 [(14%)]	Loss: 0.277203	soft_Loss: 0.327787	confu_Loss: 0.084592
+Train iter: 700 [(14%)]	Loss: 0.238718	soft_Loss: 0.297022	confu_Loss: 0.096472
+
+load6_train set: Average loss: 52211.1509, Accuracy: 14115/28800 (49.01%)
+
+
+load6_train set: Average loss: 3887.3931, Accuracy: 1169/2400 (48.71%)
+
+learning rate 0.0026
+Train iter: 710 [(14%)]	Loss: 0.322129	soft_Loss: 0.382487	confu_Loss: 0.098837
+Train iter: 720 [(14%)]	Loss: 0.283514	soft_Loss: 0.339016	confu_Loss: 0.089968
+Train iter: 730 [(15%)]	Loss: 0.284055	soft_Loss: 0.343761	confu_Loss: 0.095825
+Train iter: 740 [(15%)]	Loss: 0.276505	soft_Loss: 0.325401	confu_Loss: 0.077718
+Train iter: 750 [(15%)]	Loss: 0.285235	soft_Loss: 0.322992	confu_Loss: 0.059446
+Train iter: 760 [(15%)]	Loss: 0.212936	soft_Loss: 0.275332	confu_Loss: 0.097330
+Train iter: 770 [(15%)]	Loss: 0.243419	soft_Loss: 0.279322	confu_Loss: 0.055498
+Train iter: 780 [(16%)]	Loss: 0.218877	soft_Loss: 0.278390	confu_Loss: 0.091178
+Train iter: 790 [(16%)]	Loss: 0.256771	soft_Loss: 0.302917	confu_Loss: 0.070087
+Train iter: 800 [(16%)]	Loss: 0.301018	soft_Loss: 0.346289	confu_Loss: 0.068176
+
+load6_train set: Average loss: 8438.1473, Accuracy: 25723/28800 (89.32%)
+
+
+load6_train set: Average loss: 757.0157, Accuracy: 2049/2400 (85.38%)
+
+learning rate 0.0024
+Train iter: 810 [(16%)]	Loss: 0.204635	soft_Loss: 0.270917	confu_Loss: 0.098990
+Train iter: 820 [(16%)]	Loss: 0.181144	soft_Loss: 0.224615	confu_Loss: 0.064395
+Train iter: 830 [(17%)]	Loss: 0.171188	soft_Loss: 0.220052	confu_Loss: 0.071808
+Train iter: 840 [(17%)]	Loss: 0.201577	soft_Loss: 0.251139	confu_Loss: 0.072268
+Train iter: 850 [(17%)]	Loss: 0.217712	soft_Loss: 0.247204	confu_Loss: 0.042676
+Train iter: 860 [(17%)]	Loss: 0.161350	soft_Loss: 0.216332	confu_Loss: 0.078968
+Train iter: 870 [(17%)]	Loss: 0.152206	soft_Loss: 0.219261	confu_Loss: 0.095605
+Train iter: 880 [(18%)]	Loss: 0.240941	soft_Loss: 0.291101	confu_Loss: 0.071006
+Train iter: 890 [(18%)]	Loss: 0.179667	soft_Loss: 0.234694	confu_Loss: 0.077350
+Train iter: 900 [(18%)]	Loss: 0.133681	soft_Loss: 0.172508	confu_Loss: 0.054204
+
+load6_train set: Average loss: 19631.5607, Accuracy: 22076/28800 (76.65%)
+
+
+load6_train set: Average loss: 751.7642, Accuracy: 2057/2400 (85.71%)
+
+learning rate 0.0023
+Train iter: 910 [(18%)]	Loss: 0.174898	soft_Loss: 0.220634	confu_Loss: 0.063422
+Train iter: 920 [(18%)]	Loss: 0.096816	soft_Loss: 0.190177	confu_Loss: 0.128615
+Train iter: 930 [(19%)]	Loss: 0.126206	soft_Loss: 0.159447	confu_Loss: 0.045499
+Train iter: 940 [(19%)]	Loss: 0.117248	soft_Loss: 0.187789	confu_Loss: 0.095946
+Train iter: 950 [(19%)]	Loss: 0.120042	soft_Loss: 0.173597	confu_Loss: 0.072394
+Train iter: 960 [(19%)]	Loss: 0.082140	soft_Loss: 0.134515	confu_Loss: 0.070371
+Train iter: 970 [(19%)]	Loss: 0.144104	soft_Loss: 0.185593	confu_Loss: 0.055415
+Train iter: 980 [(20%)]	Loss: 0.077388	soft_Loss: 0.164871	confu_Loss: 0.116168
+Train iter: 990 [(20%)]	Loss: 0.101228	soft_Loss: 0.159484	confu_Loss: 0.076920
+Train iter: 1000 [(20%)]	Loss: 0.106046	soft_Loss: 0.148791	confu_Loss: 0.056126
+
+load6_train set: Average loss: 11955.2373, Accuracy: 23529/28800 (81.70%)
+
+
+load6_train set: Average loss: 771.1465, Accuracy: 2038/2400 (84.92%)
+
+learning rate 0.0022
+Train iter: 1010 [(20%)]	Loss: 0.098331	soft_Loss: 0.131184	confu_Loss: 0.042903
+Train iter: 1020 [(20%)]	Loss: 0.102696	soft_Loss: 0.136811	confu_Loss: 0.044313
+Train iter: 1030 [(21%)]	Loss: 0.088467	soft_Loss: 0.127147	confu_Loss: 0.049980
+Train iter: 1040 [(21%)]	Loss: 0.129731	soft_Loss: 0.152896	confu_Loss: 0.029779
+Train iter: 1050 [(21%)]	Loss: 0.100608	soft_Loss: 0.136394	confu_Loss: 0.045773
+Train iter: 1060 [(21%)]	Loss: 0.093721	soft_Loss: 0.119143	confu_Loss: 0.032357
+Train iter: 1070 [(21%)]	Loss: 0.122949	soft_Loss: 0.198052	confu_Loss: 0.095132
+Train iter: 1080 [(22%)]	Loss: 0.099731	soft_Loss: 0.130742	confu_Loss: 0.039095
+Train iter: 1090 [(22%)]	Loss: 0.075803	soft_Loss: 0.143813	confu_Loss: 0.085346
+Train iter: 1100 [(22%)]	Loss: 0.076079	soft_Loss: 0.138620	confu_Loss: 0.078127
+
+load6_train set: Average loss: 11626.9891, Accuracy: 24629/28800 (85.52%)
+
+
+load6_train set: Average loss: 921.1199, Accuracy: 2018/2400 (84.08%)
+
+learning rate 0.0021
+Train iter: 1110 [(22%)]	Loss: 0.038200	soft_Loss: 0.117743	confu_Loss: 0.098926
+Train iter: 1120 [(22%)]	Loss: 0.064253	soft_Loss: 0.115876	confu_Loss: 0.063923
+Train iter: 1130 [(23%)]	Loss: 0.083465	soft_Loss: 0.138182	confu_Loss: 0.067467
+Train iter: 1140 [(23%)]	Loss: 0.092879	soft_Loss: 0.145197	confu_Loss: 0.064240
+Train iter: 1150 [(23%)]	Loss: 0.051407	soft_Loss: 0.091980	confu_Loss: 0.049615
+Train iter: 1160 [(23%)]	Loss: 0.097637	soft_Loss: 0.135629	confu_Loss: 0.046274
+Train iter: 1170 [(23%)]	Loss: 0.053058	soft_Loss: 0.144130	confu_Loss: 0.110487
+Train iter: 1180 [(24%)]	Loss: 0.038427	soft_Loss: 0.098039	confu_Loss: 0.072043
+Train iter: 1190 [(24%)]	Loss: 0.082904	soft_Loss: 0.119371	confu_Loss: 0.043906
+Train iter: 1200 [(24%)]	Loss: 0.069559	soft_Loss: 0.102671	confu_Loss: 0.039719
+
+load6_train set: Average loss: 45887.1442, Accuracy: 15388/28800 (53.43%)
+
+
+load6_train set: Average loss: 2438.7127, Accuracy: 1430/2400 (59.58%)
+
+learning rate 0.0020
+Train iter: 1210 [(24%)]	Loss: 0.058523	soft_Loss: 0.088742	confu_Loss: 0.036118
+Train iter: 1220 [(24%)]	Loss: 0.026003	soft_Loss: 0.087411	confu_Loss: 0.073134
+Train iter: 1230 [(25%)]	Loss: 0.073569	soft_Loss: 0.128862	confu_Loss: 0.065624
+Train iter: 1240 [(25%)]	Loss: 0.041072	soft_Loss: 0.102757	confu_Loss: 0.072960
+Train iter: 1250 [(25%)]	Loss: 0.077416	soft_Loss: 0.096490	confu_Loss: 0.022486
+Train iter: 1260 [(25%)]	Loss: 0.028644	soft_Loss: 0.082863	confu_Loss: 0.063708
+Train iter: 1270 [(25%)]	Loss: 0.041760	soft_Loss: 0.089728	confu_Loss: 0.056183
+Train iter: 1280 [(26%)]	Loss: 0.033896	soft_Loss: 0.083948	confu_Loss: 0.058438
+Train iter: 1290 [(26%)]	Loss: -0.005418	soft_Loss: 0.108224	confu_Loss: 0.132277
+Train iter: 1300 [(26%)]	Loss: 0.057581	soft_Loss: 0.084626	confu_Loss: 0.031385
+
+load6_train set: Average loss: 59256.3254, Accuracy: 15439/28800 (53.61%)
+
+
+load6_train set: Average loss: 2562.3323, Accuracy: 1510/2400 (62.92%)
+
+learning rate 0.0019
+Train iter: 1310 [(26%)]	Loss: 0.042521	soft_Loss: 0.066037	confu_Loss: 0.027208
+Train iter: 1320 [(26%)]	Loss: 0.057799	soft_Loss: 0.096082	confu_Loss: 0.044167
+Train iter: 1330 [(27%)]	Loss: 0.076181	soft_Loss: 0.102865	confu_Loss: 0.030698
+Train iter: 1340 [(27%)]	Loss: 0.031435	soft_Loss: 0.056639	confu_Loss: 0.028915
+Train iter: 1350 [(27%)]	Loss: 0.003811	soft_Loss: 0.075161	confu_Loss: 0.081631
+Train iter: 1360 [(27%)]	Loss: 0.018203	soft_Loss: 0.079312	confu_Loss: 0.069728
+Train iter: 1370 [(27%)]	Loss: 0.024302	soft_Loss: 0.062421	confu_Loss: 0.043382
+Train iter: 1380 [(28%)]	Loss: 0.032739	soft_Loss: 0.071955	confu_Loss: 0.044516
+Train iter: 1390 [(28%)]	Loss: 0.022049	soft_Loss: 0.069292	confu_Loss: 0.053493
+Train iter: 1400 [(28%)]	Loss: 0.018799	soft_Loss: 0.083821	confu_Loss: 0.073442
+
+load6_train set: Average loss: 16890.6125, Accuracy: 23078/28800 (80.13%)
+
+
+load6_train set: Average loss: 522.4186, Accuracy: 2160/2400 (90.00%)
+
+learning rate 0.0018
+Train iter: 1410 [(28%)]	Loss: 0.023704	soft_Loss: 0.058795	confu_Loss: 0.039540
+Train iter: 1420 [(28%)]	Loss: 0.008697	soft_Loss: 0.052907	confu_Loss: 0.049696
+Train iter: 1430 [(29%)]	Loss: 0.043368	soft_Loss: 0.065420	confu_Loss: 0.024732
+Train iter: 1440 [(29%)]	Loss: -0.000308	soft_Loss: 0.061895	confu_Loss: 0.069602
+Train iter: 1450 [(29%)]	Loss: 0.039780	soft_Loss: 0.075268	confu_Loss: 0.039621
+Train iter: 1460 [(29%)]	Loss: 0.029000	soft_Loss: 0.059954	confu_Loss: 0.034483
+Train iter: 1470 [(29%)]	Loss: -0.009717	soft_Loss: 0.039395	confu_Loss: 0.054594
+Train iter: 1480 [(30%)]	Loss: -0.007566	soft_Loss: 0.060514	confu_Loss: 0.075522
+Train iter: 1490 [(30%)]	Loss: 0.011778	soft_Loss: 0.044093	confu_Loss: 0.035773
+Train iter: 1500 [(30%)]	Loss: -0.008922	soft_Loss: 0.048434	confu_Loss: 0.063366
+
+load6_train set: Average loss: 15469.0477, Accuracy: 23938/28800 (83.12%)
+
+
+load6_train set: Average loss: 477.6229, Accuracy: 2178/2400 (90.75%)
+
+learning rate 0.0018
+Train iter: 1510 [(30%)]	Loss: 0.005263	soft_Loss: 0.054904	confu_Loss: 0.054734
+Train iter: 1520 [(30%)]	Loss: 0.021902	soft_Loss: 0.060921	confu_Loss: 0.042939
+Train iter: 1530 [(31%)]	Loss: 0.015727	soft_Loss: 0.045756	confu_Loss: 0.032984
+Train iter: 1540 [(31%)]	Loss: 0.084175	soft_Loss: 0.108457	confu_Loss: 0.026621
+Train iter: 1550 [(31%)]	Loss: 0.013941	soft_Loss: 0.050737	confu_Loss: 0.040268
+Train iter: 1560 [(31%)]	Loss: 0.030924	soft_Loss: 0.060581	confu_Loss: 0.032397
+Train iter: 1570 [(31%)]	Loss: 0.002353	soft_Loss: 0.053927	confu_Loss: 0.056241
+Train iter: 1580 [(32%)]	Loss: 0.023218	soft_Loss: 0.053646	confu_Loss: 0.033124
+Train iter: 1590 [(32%)]	Loss: 0.015282	soft_Loss: 0.057546	confu_Loss: 0.045932
+Train iter: 1600 [(32%)]	Loss: 0.044119	soft_Loss: 0.071240	confu_Loss: 0.029426
+
+load6_train set: Average loss: 3441.5153, Accuracy: 27316/28800 (94.85%)
+
+
+load6_train set: Average loss: 233.3690, Accuracy: 2322/2400 (96.75%)
+
+learning rate 0.0017
+Train iter: 1610 [(32%)]	Loss: 0.013709	soft_Loss: 0.038806	confu_Loss: 0.027185
+Train iter: 1620 [(32%)]	Loss: -0.020349	soft_Loss: 0.023312	confu_Loss: 0.047221
+Train iter: 1630 [(33%)]	Loss: 0.004088	soft_Loss: 0.037989	confu_Loss: 0.036607
+Train iter: 1640 [(33%)]	Loss: 0.012775	soft_Loss: 0.044419	confu_Loss: 0.034119
+Train iter: 1650 [(33%)]	Loss: 0.010444	soft_Loss: 0.060263	confu_Loss: 0.053635
+Train iter: 1660 [(33%)]	Loss: 0.005194	soft_Loss: 0.056694	confu_Loss: 0.055364
+Train iter: 1670 [(33%)]	Loss: -0.000431	soft_Loss: 0.050172	confu_Loss: 0.054321
+Train iter: 1680 [(34%)]	Loss: -0.041997	soft_Loss: 0.028063	confu_Loss: 0.075102
+Train iter: 1690 [(34%)]	Loss: 0.002226	soft_Loss: 0.045729	confu_Loss: 0.046570
+Train iter: 1700 [(34%)]	Loss: -0.010153	soft_Loss: 0.022904	confu_Loss: 0.035339
+
+load6_train set: Average loss: 2073.4422, Accuracy: 28164/28800 (97.79%)
+
+
+load6_train set: Average loss: 187.9250, Accuracy: 2337/2400 (97.38%)
+
+learning rate 0.0016
+Train iter: 1710 [(34%)]	Loss: -0.034343	soft_Loss: 0.041028	confu_Loss: 0.080468
+Train iter: 1720 [(34%)]	Loss: -0.025276	soft_Loss: 0.029076	confu_Loss: 0.057953
+Train iter: 1730 [(35%)]	Loss: 0.002473	soft_Loss: 0.043333	confu_Loss: 0.043512
+Train iter: 1740 [(35%)]	Loss: -0.004326	soft_Loss: 0.020665	confu_Loss: 0.026580
+Train iter: 1750 [(35%)]	Loss: -0.008978	soft_Loss: 0.024924	confu_Loss: 0.036013
+Train iter: 1760 [(35%)]	Loss: 0.006138	soft_Loss: 0.033757	confu_Loss: 0.029303
+Train iter: 1770 [(35%)]	Loss: -0.027970	soft_Loss: 0.027434	confu_Loss: 0.058715
+Train iter: 1780 [(36%)]	Loss: -0.016621	soft_Loss: 0.020137	confu_Loss: 0.038910
+Train iter: 1790 [(36%)]	Loss: -0.013411	soft_Loss: 0.027900	confu_Loss: 0.043679
+Train iter: 1800 [(36%)]	Loss: -0.016637	soft_Loss: 0.019294	confu_Loss: 0.037950
+
+load6_train set: Average loss: 2792.7246, Accuracy: 27819/28800 (96.59%)
+
+
+load6_train set: Average loss: 300.0833, Accuracy: 2300/2400 (95.83%)
+
+learning rate 0.0016
+Train iter: 1810 [(36%)]	Loss: -0.014678	soft_Loss: 0.021644	confu_Loss: 0.038321
+Train iter: 1820 [(36%)]	Loss: 0.001939	soft_Loss: 0.030859	confu_Loss: 0.030478
+Train iter: 1830 [(37%)]	Loss: 0.008165	soft_Loss: 0.032523	confu_Loss: 0.025645
+Train iter: 1840 [(37%)]	Loss: 0.011191	soft_Loss: 0.050807	confu_Loss: 0.041666
+Train iter: 1850 [(37%)]	Loss: -0.002347	soft_Loss: 0.033585	confu_Loss: 0.037754
+Train iter: 1860 [(37%)]	Loss: -0.033958	soft_Loss: 0.013497	confu_Loss: 0.049813
+Train iter: 1870 [(37%)]	Loss: -0.013834	soft_Loss: 0.029254	confu_Loss: 0.045185
+Train iter: 1880 [(38%)]	Loss: -0.039374	soft_Loss: 0.018795	confu_Loss: 0.060943
+Train iter: 1890 [(38%)]	Loss: -0.048451	soft_Loss: 0.017323	confu_Loss: 0.068846
+Train iter: 1900 [(38%)]	Loss: -0.027724	soft_Loss: 0.015931	confu_Loss: 0.045653
+
+load6_train set: Average loss: 5836.4760, Accuracy: 26693/28800 (92.68%)
+
+
+load6_train set: Average loss: 278.0093, Accuracy: 2261/2400 (94.21%)
+
+learning rate 0.0015
+Train iter: 1910 [(38%)]	Loss: -0.004016	soft_Loss: 0.025999	confu_Loss: 0.031360
+Train iter: 1920 [(38%)]	Loss: -0.027471	soft_Loss: 0.031667	confu_Loss: 0.061735
+Train iter: 1930 [(39%)]	Loss: -0.020144	soft_Loss: 0.029581	confu_Loss: 0.051866
+Train iter: 1940 [(39%)]	Loss: -0.008505	soft_Loss: 0.027937	confu_Loss: 0.037979
+Train iter: 1950 [(39%)]	Loss: 0.000286	soft_Loss: 0.026835	confu_Loss: 0.027646
+Train iter: 1960 [(39%)]	Loss: -0.029532	soft_Loss: 0.023926	confu_Loss: 0.055622
+Train iter: 1970 [(39%)]	Loss: -0.014038	soft_Loss: 0.024016	confu_Loss: 0.039563
+Train iter: 1980 [(40%)]	Loss: -0.050631	soft_Loss: 0.017930	confu_Loss: 0.071226
+Train iter: 1990 [(40%)]	Loss: -0.008555	soft_Loss: 0.031174	confu_Loss: 0.041242
+Train iter: 2000 [(40%)]	Loss: -0.037170	soft_Loss: 0.014814	confu_Loss: 0.053925
+
+load6_train set: Average loss: 14848.4471, Accuracy: 24129/28800 (83.78%)
+
+
+load6_train set: Average loss: 291.1568, Accuracy: 2277/2400 (94.88%)
+
+learning rate 0.0015
+Train iter: 2010 [(40%)]	Loss: -0.019972	soft_Loss: 0.013354	confu_Loss: 0.034545
+Train iter: 2020 [(40%)]	Loss: -0.014020	soft_Loss: 0.018855	confu_Loss: 0.034052
+Train iter: 2030 [(41%)]	Loss: -0.002177	soft_Loss: 0.033866	confu_Loss: 0.037307
+Train iter: 2040 [(41%)]	Loss: -0.030005	soft_Loss: 0.008138	confu_Loss: 0.039455
+Train iter: 2050 [(41%)]	Loss: -0.036346	soft_Loss: 0.012285	confu_Loss: 0.050270
+Train iter: 2060 [(41%)]	Loss: -0.002519	soft_Loss: 0.029066	confu_Loss: 0.032628
+Train iter: 2070 [(41%)]	Loss: 0.000274	soft_Loss: 0.029077	confu_Loss: 0.029735
+Train iter: 2080 [(42%)]	Loss: -0.023813	soft_Loss: 0.028912	confu_Loss: 0.054397
+Train iter: 2090 [(42%)]	Loss: -0.027307	soft_Loss: 0.020870	confu_Loss: 0.049674
+Train iter: 2100 [(42%)]	Loss: -0.029941	soft_Loss: 0.011408	confu_Loss: 0.042608
+
+load6_train set: Average loss: 2204.6150, Accuracy: 27827/28800 (96.62%)
+
+
+load6_train set: Average loss: 67.2709, Accuracy: 2378/2400 (99.08%)
+
+learning rate 0.0015
+Train iter: 2110 [(42%)]	Loss: -0.003296	soft_Loss: 0.028772	confu_Loss: 0.033024
+Train iter: 2120 [(42%)]	Loss: -0.033989	soft_Loss: 0.009131	confu_Loss: 0.044381
+Train iter: 2130 [(43%)]	Loss: -0.062612	soft_Loss: 0.016032	confu_Loss: 0.080897
+Train iter: 2140 [(43%)]	Loss: -0.035039	soft_Loss: 0.012596	confu_Loss: 0.048973
+Train iter: 2150 [(43%)]	Loss: -0.023623	soft_Loss: 0.015170	confu_Loss: 0.039860
+Train iter: 2160 [(43%)]	Loss: -0.039906	soft_Loss: 0.028381	confu_Loss: 0.070128
+Train iter: 2170 [(43%)]	Loss: -0.009217	soft_Loss: 0.031985	confu_Loss: 0.042290
+Train iter: 2180 [(44%)]	Loss: -0.008744	soft_Loss: 0.023069	confu_Loss: 0.032636
+Train iter: 2190 [(44%)]	Loss: -0.048337	soft_Loss: 0.010619	confu_Loss: 0.060452
+Train iter: 2200 [(44%)]	Loss: -0.016738	soft_Loss: 0.011468	confu_Loss: 0.028908
+
+load6_train set: Average loss: 9299.2782, Accuracy: 25540/28800 (88.68%)
+
+
+load6_train set: Average loss: 378.6916, Accuracy: 2269/2400 (94.54%)
+
+learning rate 0.0014
+Train iter: 2210 [(44%)]	Loss: -0.014804	soft_Loss: 0.016866	confu_Loss: 0.032442
+Train iter: 2220 [(44%)]	Loss: 0.001007	soft_Loss: 0.024411	confu_Loss: 0.023963
+Train iter: 2230 [(45%)]	Loss: -0.022601	soft_Loss: 0.012554	confu_Loss: 0.035978
+Train iter: 2240 [(45%)]	Loss: -0.013370	soft_Loss: 0.016834	confu_Loss: 0.030896
+Train iter: 2250 [(45%)]	Loss: -0.026820	soft_Loss: 0.008488	confu_Loss: 0.036101
+Train iter: 2260 [(45%)]	Loss: -0.032151	soft_Loss: 0.012927	confu_Loss: 0.046071
+Train iter: 2270 [(45%)]	Loss: -0.037963	soft_Loss: 0.010549	confu_Loss: 0.049559
+Train iter: 2280 [(46%)]	Loss: -0.025923	soft_Loss: 0.010837	confu_Loss: 0.037538
+Train iter: 2290 [(46%)]	Loss: -0.038200	soft_Loss: 0.005672	confu_Loss: 0.044781
+Train iter: 2300 [(46%)]	Loss: -0.021375	soft_Loss: 0.026046	confu_Loss: 0.048384
+
+load6_train set: Average loss: 8633.1512, Accuracy: 25935/28800 (90.05%)
+
+
+load6_train set: Average loss: 274.6231, Accuracy: 2302/2400 (95.92%)
+
+learning rate 0.0014
+Train iter: 2310 [(46%)]	Loss: -0.043069	soft_Loss: 0.008768	confu_Loss: 0.052870
+Train iter: 2320 [(46%)]	Loss: -0.037617	soft_Loss: 0.015035	confu_Loss: 0.053679
+Train iter: 2330 [(47%)]	Loss: -0.014640	soft_Loss: 0.023190	confu_Loss: 0.038553
+Train iter: 2340 [(47%)]	Loss: -0.037671	soft_Loss: 0.012888	confu_Loss: 0.051506
+Train iter: 2350 [(47%)]	Loss: -0.092048	soft_Loss: 0.007480	confu_Loss: 0.101355
+Train iter: 2360 [(47%)]	Loss: -0.032443	soft_Loss: 0.016825	confu_Loss: 0.050154
+Train iter: 2370 [(47%)]	Loss: -0.030306	soft_Loss: 0.007801	confu_Loss: 0.038779
+Train iter: 2380 [(48%)]	Loss: -0.022094	soft_Loss: 0.014281	confu_Loss: 0.037004
+Train iter: 2390 [(48%)]	Loss: -0.046010	soft_Loss: 0.006418	confu_Loss: 0.053317
+Train iter: 2400 [(48%)]	Loss: -0.049162	soft_Loss: 0.004246	confu_Loss: 0.054294
+
+load6_train set: Average loss: 3308.9926, Accuracy: 27456/28800 (95.33%)
+
+
+load6_train set: Average loss: 123.8008, Accuracy: 2354/2400 (98.08%)
+
+learning rate 0.0013
+Train iter: 2410 [(48%)]	Loss: -0.047011	soft_Loss: 0.015451	confu_Loss: 0.063479
+Train iter: 2420 [(48%)]	Loss: -0.047005	soft_Loss: 0.010946	confu_Loss: 0.058875
+Train iter: 2430 [(49%)]	Loss: -0.028687	soft_Loss: 0.007355	confu_Loss: 0.036605
+Train iter: 2440 [(49%)]	Loss: -0.023294	soft_Loss: 0.020955	confu_Loss: 0.044926
+Train iter: 2450 [(49%)]	Loss: -0.058671	soft_Loss: 0.007058	confu_Loss: 0.066715
+Train iter: 2460 [(49%)]	Loss: -0.029391	soft_Loss: 0.007453	confu_Loss: 0.037386
+Train iter: 2470 [(49%)]	Loss: -0.031014	soft_Loss: 0.022226	confu_Loss: 0.054008
+Train iter: 2480 [(50%)]	Loss: -0.037120	soft_Loss: 0.006909	confu_Loss: 0.044651
+Train iter: 2490 [(50%)]	Loss: -0.031993	soft_Loss: 0.010471	confu_Loss: 0.043051
+Train iter: 2500 [(50%)]	Loss: -0.053794	soft_Loss: 0.021419	confu_Loss: 0.076233
+
+load6_train set: Average loss: 2090.0997, Accuracy: 28019/28800 (97.29%)
+
+
+load6_train set: Average loss: 534.4171, Accuracy: 2250/2400 (93.75%)
+
+learning rate 0.0013
+Train iter: 2510 [(50%)]	Loss: -0.051558	soft_Loss: 0.008438	confu_Loss: 0.060793
+Train iter: 2520 [(50%)]	Loss: -0.046552	soft_Loss: 0.009756	confu_Loss: 0.057041
+Train iter: 2530 [(51%)]	Loss: -0.060943	soft_Loss: 0.019687	confu_Loss: 0.081660
+Train iter: 2540 [(51%)]	Loss: -0.045651	soft_Loss: 0.005515	confu_Loss: 0.051806
+Train iter: 2550 [(51%)]	Loss: -0.074427	soft_Loss: 0.007645	confu_Loss: 0.083078
+Train iter: 2560 [(51%)]	Loss: -0.071984	soft_Loss: 0.006263	confu_Loss: 0.079188
+Train iter: 2570 [(51%)]	Loss: -0.043977	soft_Loss: 0.008585	confu_Loss: 0.053181
+Train iter: 2580 [(52%)]	Loss: -0.063600	soft_Loss: 0.007574	confu_Loss: 0.071997
+Train iter: 2590 [(52%)]	Loss: -0.058227	soft_Loss: 0.005001	confu_Loss: 0.063943
+Train iter: 2600 [(52%)]	Loss: -0.068510	soft_Loss: 0.007629	confu_Loss: 0.076984
+
+load6_train set: Average loss: 12476.3224, Accuracy: 25353/28800 (88.03%)
+
+
+load6_train set: Average loss: 110.0751, Accuracy: 2364/2400 (98.50%)
+
+learning rate 0.0013
+Train iter: 2610 [(52%)]	Loss: -0.058676	soft_Loss: 0.007733	confu_Loss: 0.067131
+Train iter: 2620 [(52%)]	Loss: -0.053505	soft_Loss: 0.012861	confu_Loss: 0.067073
+Train iter: 2630 [(53%)]	Loss: -0.074655	soft_Loss: 0.004888	confu_Loss: 0.080374
+Train iter: 2640 [(53%)]	Loss: -0.040623	soft_Loss: 0.006578	confu_Loss: 0.047685
+Train iter: 2650 [(53%)]	Loss: -0.080691	soft_Loss: 0.007922	confu_Loss: 0.089502
+Train iter: 2660 [(53%)]	Loss: -0.057789	soft_Loss: 0.006178	confu_Loss: 0.064596
+Train iter: 2670 [(53%)]	Loss: -0.068903	soft_Loss: 0.007709	confu_Loss: 0.077350
+Train iter: 2680 [(54%)]	Loss: -0.053177	soft_Loss: 0.009505	confu_Loss: 0.063274
+Train iter: 2690 [(54%)]	Loss: -0.077100	soft_Loss: 0.011174	confu_Loss: 0.089091
+Train iter: 2700 [(54%)]	Loss: -0.061428	soft_Loss: 0.008286	confu_Loss: 0.070347
+
+load6_train set: Average loss: 6367.2004, Accuracy: 26621/28800 (92.43%)
+
+
+load6_train set: Average loss: 42.2513, Accuracy: 2393/2400 (99.71%)
+
+learning rate 0.0012
+Train iter: 2710 [(54%)]	Loss: -0.066849	soft_Loss: 0.007104	confu_Loss: 0.074610
+Train iter: 2720 [(54%)]	Loss: -0.066676	soft_Loss: 0.004324	confu_Loss: 0.071620
+Train iter: 2730 [(55%)]	Loss: -0.073261	soft_Loss: 0.014486	confu_Loss: 0.088497
+Train iter: 2740 [(55%)]	Loss: -0.066104	soft_Loss: 0.025111	confu_Loss: 0.091979
+Train iter: 2750 [(55%)]	Loss: -0.051000	soft_Loss: 0.008943	confu_Loss: 0.060434
+Train iter: 2760 [(55%)]	Loss: -0.069230	soft_Loss: 0.005607	confu_Loss: 0.075438
+Train iter: 2770 [(55%)]	Loss: -0.047591	soft_Loss: 0.013499	confu_Loss: 0.061572
+Train iter: 2780 [(56%)]	Loss: -0.063899	soft_Loss: 0.013852	confu_Loss: 0.078352
+Train iter: 2790 [(56%)]	Loss: -0.073907	soft_Loss: 0.009842	confu_Loss: 0.084383
+Train iter: 2800 [(56%)]	Loss: -0.062192	soft_Loss: 0.010990	confu_Loss: 0.073725
+
+load6_train set: Average loss: 233.2643, Accuracy: 28653/28800 (99.49%)
+
+
+load6_train set: Average loss: 32.8246, Accuracy: 2389/2400 (99.54%)
+
+learning rate 0.0012
+Train iter: 2810 [(56%)]	Loss: -0.066815	soft_Loss: 0.009181	confu_Loss: 0.076549
+Train iter: 2820 [(56%)]	Loss: -0.089089	soft_Loss: 0.006226	confu_Loss: 0.095995
+Train iter: 2830 [(57%)]	Loss: -0.063818	soft_Loss: 0.006976	confu_Loss: 0.071289
+Train iter: 2840 [(57%)]	Loss: -0.076622	soft_Loss: 0.008322	confu_Loss: 0.085526
+Train iter: 2850 [(57%)]	Loss: -0.065856	soft_Loss: 0.012191	confu_Loss: 0.078571
+Train iter: 2860 [(57%)]	Loss: -0.083710	soft_Loss: 0.005011	confu_Loss: 0.089305
+Train iter: 2870 [(57%)]	Loss: -0.069065	soft_Loss: 0.009036	confu_Loss: 0.078605
+Train iter: 2880 [(58%)]	Loss: -0.071401	soft_Loss: 0.007981	confu_Loss: 0.079884
+Train iter: 2890 [(58%)]	Loss: -0.089965	soft_Loss: 0.005392	confu_Loss: 0.095948
+Train iter: 2900 [(58%)]	Loss: -0.074033	soft_Loss: 0.004532	confu_Loss: 0.079042
+
+load6_train set: Average loss: 3246.8459, Accuracy: 27452/28800 (95.32%)
+
+
+load6_train set: Average loss: 44.2581, Accuracy: 2383/2400 (99.29%)
+
+learning rate 0.0012
+Train iter: 2910 [(58%)]	Loss: -0.107295	soft_Loss: 0.006069	confu_Loss: 0.114039
+Train iter: 2920 [(58%)]	Loss: -0.075533	soft_Loss: 0.009315	confu_Loss: 0.085343
+Train iter: 2930 [(59%)]	Loss: -0.088999	soft_Loss: 0.007579	confu_Loss: 0.097130
+Train iter: 2940 [(59%)]	Loss: -0.093138	soft_Loss: 0.009887	confu_Loss: 0.103603
+Train iter: 2950 [(59%)]	Loss: -0.082805	soft_Loss: 0.005755	confu_Loss: 0.089047
+Train iter: 2960 [(59%)]	Loss: -0.082815	soft_Loss: 0.008033	confu_Loss: 0.091337
+Train iter: 2970 [(59%)]	Loss: -0.068670	soft_Loss: 0.020852	confu_Loss: 0.089995
+Train iter: 2980 [(60%)]	Loss: -0.121502	soft_Loss: 0.005015	confu_Loss: 0.127172
+Train iter: 2990 [(60%)]	Loss: -0.070079	soft_Loss: 0.007990	confu_Loss: 0.078465
+Train iter: 3000 [(60%)]	Loss: -0.072031	soft_Loss: 0.015915	confu_Loss: 0.088383
+
+load6_train set: Average loss: 674.8398, Accuracy: 28503/28800 (98.97%)
+
+
+load6_train set: Average loss: 23.9053, Accuracy: 2395/2400 (99.79%)
+
+learning rate 0.0012
+Train iter: 3010 [(60%)]	Loss: -0.087220	soft_Loss: 0.004773	confu_Loss: 0.092441
+Train iter: 3020 [(60%)]	Loss: -0.086041	soft_Loss: 0.003664	confu_Loss: 0.090133
+Train iter: 3030 [(61%)]	Loss: -0.108023	soft_Loss: 0.007558	confu_Loss: 0.116122
+Train iter: 3040 [(61%)]	Loss: -0.099533	soft_Loss: 0.004755	confu_Loss: 0.104766
+Train iter: 3050 [(61%)]	Loss: -0.144842	soft_Loss: 0.003105	confu_Loss: 0.148612
+Train iter: 3060 [(61%)]	Loss: -0.105607	soft_Loss: 0.003809	confu_Loss: 0.109898
+Train iter: 3070 [(61%)]	Loss: -0.090847	soft_Loss: 0.003176	confu_Loss: 0.094429
+Train iter: 3080 [(62%)]	Loss: -0.101506	soft_Loss: 0.009886	confu_Loss: 0.111864
+Train iter: 3090 [(62%)]	Loss: -0.085860	soft_Loss: 0.007949	confu_Loss: 0.094199
+Train iter: 3100 [(62%)]	Loss: -0.087830	soft_Loss: 0.016735	confu_Loss: 0.104990
+
+load6_train set: Average loss: 447.4213, Accuracy: 28606/28800 (99.33%)
+
+
+load6_train set: Average loss: 32.0073, Accuracy: 2388/2400 (99.50%)
+
+learning rate 0.0011
+Train iter: 3110 [(62%)]	Loss: -0.105236	soft_Loss: 0.006350	confu_Loss: 0.112031
+Train iter: 3120 [(62%)]	Loss: -0.113656	soft_Loss: 0.005500	confu_Loss: 0.119622
+Train iter: 3130 [(63%)]	Loss: -0.111494	soft_Loss: 0.007740	confu_Loss: 0.119690
+Train iter: 3140 [(63%)]	Loss: -0.103276	soft_Loss: 0.011622	confu_Loss: 0.115329
+Train iter: 3150 [(63%)]	Loss: -0.101234	soft_Loss: 0.005679	confu_Loss: 0.107306
+Train iter: 3160 [(63%)]	Loss: -0.112880	soft_Loss: 0.009920	confu_Loss: 0.123244
+Train iter: 3170 [(63%)]	Loss: -0.130131	soft_Loss: 0.003868	confu_Loss: 0.134472
+Train iter: 3180 [(64%)]	Loss: -0.140582	soft_Loss: 0.003759	confu_Loss: 0.144841
+Train iter: 3190 [(64%)]	Loss: -0.145966	soft_Loss: 0.003131	confu_Loss: 0.149603
+Train iter: 3200 [(64%)]	Loss: -0.148194	soft_Loss: 0.008912	confu_Loss: 0.157629
+
+load6_train set: Average loss: 3255.0025, Accuracy: 27548/28800 (95.65%)
+
+
+load6_train set: Average loss: 706.3649, Accuracy: 2210/2400 (92.08%)
+
+learning rate 0.0011
+Train iter: 3210 [(64%)]	Loss: -0.136515	soft_Loss: 0.010414	confu_Loss: 0.147409
+Train iter: 3220 [(64%)]	Loss: -0.130921	soft_Loss: 0.004698	confu_Loss: 0.136052
+Train iter: 3230 [(65%)]	Loss: -0.105024	soft_Loss: 0.009218	confu_Loss: 0.114600
+Train iter: 3240 [(65%)]	Loss: -0.145947	soft_Loss: 0.005604	confu_Loss: 0.152017
+Train iter: 3250 [(65%)]	Loss: -0.130049	soft_Loss: 0.003995	confu_Loss: 0.134447
+Train iter: 3260 [(65%)]	Loss: -0.170564	soft_Loss: 0.004180	confu_Loss: 0.175259
+Train iter: 3270 [(65%)]	Loss: -0.171623	soft_Loss: 0.003221	confu_Loss: 0.175350
+Train iter: 3280 [(66%)]	Loss: -0.149491	soft_Loss: 0.006458	confu_Loss: 0.156391
+Train iter: 3290 [(66%)]	Loss: -0.155176	soft_Loss: 0.006719	confu_Loss: 0.162345
+Train iter: 3300 [(66%)]	Loss: -0.171365	soft_Loss: 0.004375	confu_Loss: 0.176219
+
+load6_train set: Average loss: 7590.6381, Accuracy: 26570/28800 (92.26%)
+
+
+load6_train set: Average loss: 883.1413, Accuracy: 2204/2400 (91.83%)
+
+learning rate 0.0011
+Train iter: 3310 [(66%)]	Loss: -0.151101	soft_Loss: 0.007759	confu_Loss: 0.159284
+Train iter: 3320 [(66%)]	Loss: -0.168569	soft_Loss: 0.005388	confu_Loss: 0.174413
+Train iter: 3330 [(67%)]	Loss: -0.174960	soft_Loss: 0.003900	confu_Loss: 0.179319
+Train iter: 3340 [(67%)]	Loss: -0.189541	soft_Loss: 0.003170	confu_Loss: 0.193196
+Train iter: 3350 [(67%)]	Loss: -0.166120	soft_Loss: 0.007958	confu_Loss: 0.174508
+Train iter: 3360 [(67%)]	Loss: -0.187522	soft_Loss: 0.003461	confu_Loss: 0.191445
+Train iter: 3370 [(67%)]	Loss: -0.171374	soft_Loss: 0.004217	confu_Loss: 0.176006
+Train iter: 3380 [(68%)]	Loss: -0.165777	soft_Loss: 0.004507	confu_Loss: 0.170680
+Train iter: 3390 [(68%)]	Loss: -0.147665	soft_Loss: 0.008007	confu_Loss: 0.156026
+Train iter: 3400 [(68%)]	Loss: -0.212091	soft_Loss: 0.004394	confu_Loss: 0.216968
+
+load6_train set: Average loss: 1620.8676, Accuracy: 28082/28800 (97.51%)
+
+
+load6_train set: Average loss: 287.2256, Accuracy: 2283/2400 (95.12%)
+
+learning rate 0.0011
+Train iter: 3410 [(68%)]	Loss: -0.181442	soft_Loss: 0.003364	confu_Loss: 0.185209
+Train iter: 3420 [(68%)]	Loss: -0.179176	soft_Loss: 0.005609	confu_Loss: 0.185181
+Train iter: 3430 [(69%)]	Loss: -0.198267	soft_Loss: 0.003120	confu_Loss: 0.201810
+Train iter: 3440 [(69%)]	Loss: -0.194772	soft_Loss: 0.004039	confu_Loss: 0.199220
+Train iter: 3450 [(69%)]	Loss: -0.199618	soft_Loss: 0.005790	confu_Loss: 0.205822
+Train iter: 3460 [(69%)]	Loss: -0.208024	soft_Loss: 0.004753	confu_Loss: 0.213198
+Train iter: 3470 [(69%)]	Loss: -0.210327	soft_Loss: 0.004497	confu_Loss: 0.215240
+Train iter: 3480 [(70%)]	Loss: -0.198683	soft_Loss: 0.004818	confu_Loss: 0.203887
+Train iter: 3490 [(70%)]	Loss: -0.213590	soft_Loss: 0.005235	confu_Loss: 0.219232
+Train iter: 3500 [(70%)]	Loss: -0.197693	soft_Loss: 0.009303	confu_Loss: 0.207374
+
+load6_train set: Average loss: 974.3869, Accuracy: 28357/28800 (98.46%)
+
+
+load6_train set: Average loss: 159.1794, Accuracy: 2345/2400 (97.71%)
+
+learning rate 0.0011
+Train iter: 3510 [(70%)]	Loss: -0.223983	soft_Loss: 0.006496	confu_Loss: 0.230892
+Train iter: 3520 [(70%)]	Loss: -0.192522	soft_Loss: 0.003648	confu_Loss: 0.196514
+Train iter: 3530 [(71%)]	Loss: -0.212842	soft_Loss: 0.004501	confu_Loss: 0.217716
+Train iter: 3540 [(71%)]	Loss: -0.251412	soft_Loss: 0.002654	confu_Loss: 0.254494
+Train iter: 3550 [(71%)]	Loss: -0.223093	soft_Loss: 0.006159	confu_Loss: 0.229630
+Train iter: 3560 [(71%)]	Loss: -0.245211	soft_Loss: 0.003540	confu_Loss: 0.249153
+Train iter: 3570 [(71%)]	Loss: -0.218169	soft_Loss: 0.005569	confu_Loss: 0.224093
+Train iter: 3580 [(72%)]	Loss: -0.219420	soft_Loss: 0.006003	confu_Loss: 0.225773
+Train iter: 3590 [(72%)]	Loss: -0.241286	soft_Loss: 0.005941	confu_Loss: 0.247604
+Train iter: 3600 [(72%)]	Loss: -0.244587	soft_Loss: 0.004802	confu_Loss: 0.249762
+
+load6_train set: Average loss: 414.3080, Accuracy: 28551/28800 (99.14%)
+
+
+load6_train set: Average loss: 49.1022, Accuracy: 2382/2400 (99.25%)
+
+learning rate 0.0010
+Train iter: 3610 [(72%)]	Loss: -0.249451	soft_Loss: 0.006298	confu_Loss: 0.256123
+Train iter: 3620 [(72%)]	Loss: -0.258884	soft_Loss: 0.006974	confu_Loss: 0.266240
+Train iter: 3630 [(73%)]	Loss: -0.240755	soft_Loss: 0.005807	confu_Loss: 0.246909
+Train iter: 3640 [(73%)]	Loss: -0.249903	soft_Loss: 0.005249	confu_Loss: 0.255504
+Train iter: 3650 [(73%)]	Loss: -0.264656	soft_Loss: 0.003630	confu_Loss: 0.268649
+Train iter: 3660 [(73%)]	Loss: -0.275006	soft_Loss: 0.004875	confu_Loss: 0.280252
+Train iter: 3670 [(73%)]	Loss: -0.285379	soft_Loss: 0.004327	confu_Loss: 0.290083
+Train iter: 3680 [(74%)]	Loss: -0.268773	soft_Loss: 0.003601	confu_Loss: 0.272721
+Train iter: 3690 [(74%)]	Loss: -0.289496	soft_Loss: 0.003865	confu_Loss: 0.293727
+Train iter: 3700 [(74%)]	Loss: -0.281708	soft_Loss: 0.004195	confu_Loss: 0.286252
+
+load6_train set: Average loss: 1545.9377, Accuracy: 28077/28800 (97.49%)
+
+
+load6_train set: Average loss: 29.1688, Accuracy: 2391/2400 (99.62%)
+
+learning rate 0.0010
+Train iter: 3710 [(74%)]	Loss: -0.274019	soft_Loss: 0.004181	confu_Loss: 0.278534
+Train iter: 3720 [(74%)]	Loss: -0.295963	soft_Loss: 0.002709	confu_Loss: 0.299024
+Train iter: 3730 [(75%)]	Loss: -0.279445	soft_Loss: 0.006846	confu_Loss: 0.286621
+Train iter: 3740 [(75%)]	Loss: -0.264851	soft_Loss: 0.005891	confu_Loss: 0.271048
+Train iter: 3750 [(75%)]	Loss: -0.299097	soft_Loss: 0.004787	confu_Loss: 0.304220
+Train iter: 3760 [(75%)]	Loss: -0.297627	soft_Loss: 0.003345	confu_Loss: 0.301298
+Train iter: 3770 [(75%)]	Loss: -0.274107	soft_Loss: 0.003020	confu_Loss: 0.277422
+Train iter: 3780 [(76%)]	Loss: -0.329244	soft_Loss: 0.004440	confu_Loss: 0.334032
+Train iter: 3790 [(76%)]	Loss: -0.368111	soft_Loss: 0.003233	confu_Loss: 0.371723
+Train iter: 3800 [(76%)]	Loss: -0.330379	soft_Loss: 0.002655	confu_Loss: 0.333367
+
+load6_train set: Average loss: 464.3878, Accuracy: 28596/28800 (99.29%)
+
+
+load6_train set: Average loss: 23.1543, Accuracy: 2397/2400 (99.88%)
+
+learning rate 0.0010
+Train iter: 3810 [(76%)]	Loss: -0.328042	soft_Loss: 0.004031	confu_Loss: 0.332399
+Train iter: 3820 [(76%)]	Loss: -0.330429	soft_Loss: 0.007149	confu_Loss: 0.337903
+Train iter: 3830 [(77%)]	Loss: -0.366319	soft_Loss: 0.003192	confu_Loss: 0.369860
+Train iter: 3840 [(77%)]	Loss: -0.362129	soft_Loss: 0.007900	confu_Loss: 0.370372
+Train iter: 3850 [(77%)]	Loss: -0.343059	soft_Loss: 0.007314	confu_Loss: 0.350691
+Train iter: 3860 [(77%)]	Loss: -0.383710	soft_Loss: 0.002908	confu_Loss: 0.386962
+Train iter: 3870 [(77%)]	Loss: -0.368584	soft_Loss: 0.004982	confu_Loss: 0.373892
+Train iter: 3880 [(78%)]	Loss: -0.368727	soft_Loss: 0.006694	confu_Loss: 0.375742
+Train iter: 3890 [(78%)]	Loss: -0.406066	soft_Loss: 0.003459	confu_Loss: 0.409867
+Train iter: 3900 [(78%)]	Loss: -0.399721	soft_Loss: 0.004573	confu_Loss: 0.404626
+
+load6_train set: Average loss: 344.6547, Accuracy: 28603/28800 (99.32%)
+
+
+load6_train set: Average loss: 111.5955, Accuracy: 2364/2400 (98.50%)
+
+learning rate 0.0010
+Train iter: 3910 [(78%)]	Loss: -0.349908	soft_Loss: 0.003059	confu_Loss: 0.353250
+Train iter: 3920 [(78%)]	Loss: -0.397159	soft_Loss: 0.004578	confu_Loss: 0.402053
+Train iter: 3930 [(79%)]	Loss: -0.375924	soft_Loss: 0.003188	confu_Loss: 0.379405
+Train iter: 3940 [(79%)]	Loss: -0.395896	soft_Loss: 0.003572	confu_Loss: 0.399771
+Train iter: 3950 [(79%)]	Loss: -0.416439	soft_Loss: 0.002892	confu_Loss: 0.419642
+Train iter: 3960 [(79%)]	Loss: -0.445566	soft_Loss: 0.005782	confu_Loss: 0.451677
+Train iter: 3970 [(79%)]	Loss: -0.395701	soft_Loss: 0.003351	confu_Loss: 0.399337
+Train iter: 3980 [(80%)]	Loss: -0.410959	soft_Loss: 0.003931	confu_Loss: 0.415180
+Train iter: 3990 [(80%)]	Loss: -0.429144	soft_Loss: 0.003182	confu_Loss: 0.432622
+Train iter: 4000 [(80%)]	Loss: -0.446910	soft_Loss: 0.005452	confu_Loss: 0.452666
+
+load6_train set: Average loss: 166.4742, Accuracy: 28671/28800 (99.55%)
+
+
+load6_train set: Average loss: 69.5529, Accuracy: 2372/2400 (98.83%)
+
+learning rate 0.0010
+Train iter: 4010 [(80%)]	Loss: -0.463839	soft_Loss: 0.003993	confu_Loss: 0.468139
+Train iter: 4020 [(80%)]	Loss: -0.456470	soft_Loss: 0.004435	confu_Loss: 0.461202
+Train iter: 4030 [(81%)]	Loss: -0.499165	soft_Loss: 0.005193	confu_Loss: 0.504677
+Train iter: 4040 [(81%)]	Loss: -0.463924	soft_Loss: 0.004657	confu_Loss: 0.468871
+Train iter: 4050 [(81%)]	Loss: -0.472688	soft_Loss: 0.003285	confu_Loss: 0.476263
+Train iter: 4060 [(81%)]	Loss: -0.502950	soft_Loss: 0.004405	confu_Loss: 0.507657
+Train iter: 4070 [(81%)]	Loss: -0.499714	soft_Loss: 0.004873	confu_Loss: 0.504881
+Train iter: 4080 [(82%)]	Loss: -0.504202	soft_Loss: 0.003732	confu_Loss: 0.508225
+Train iter: 4090 [(82%)]	Loss: -0.490844	soft_Loss: 0.004092	confu_Loss: 0.495213
+Train iter: 4100 [(82%)]	Loss: -0.540444	soft_Loss: 0.003173	confu_Loss: 0.543915
+
+load6_train set: Average loss: 536.0075, Accuracy: 28530/28800 (99.06%)
+
+
+load6_train set: Average loss: 159.4819, Accuracy: 2339/2400 (97.46%)
+
+learning rate 0.0009
+Train iter: 4110 [(82%)]	Loss: -0.503581	soft_Loss: 0.003472	confu_Loss: 0.507326
+Train iter: 4120 [(82%)]	Loss: -0.545855	soft_Loss: 0.005246	confu_Loss: 0.551392
+Train iter: 4130 [(83%)]	Loss: -0.540852	soft_Loss: 0.004661	confu_Loss: 0.545796
+Train iter: 4140 [(83%)]	Loss: -0.526828	soft_Loss: 0.002940	confu_Loss: 0.530037
+Train iter: 4150 [(83%)]	Loss: -0.564464	soft_Loss: 0.008853	confu_Loss: 0.573602
+Train iter: 4160 [(83%)]	Loss: -0.568711	soft_Loss: 0.002806	confu_Loss: 0.571795
+Train iter: 4170 [(83%)]	Loss: -0.574359	soft_Loss: 0.003260	confu_Loss: 0.577894
+Train iter: 4180 [(84%)]	Loss: -0.581475	soft_Loss: 0.004567	confu_Loss: 0.586316
+Train iter: 4190 [(84%)]	Loss: -0.597681	soft_Loss: 0.003251	confu_Loss: 0.601207
+Train iter: 4200 [(84%)]	Loss: -0.612851	soft_Loss: 0.003832	confu_Loss: 0.616960
+
+load6_train set: Average loss: 707.9227, Accuracy: 28456/28800 (98.81%)
+
+
+load6_train set: Average loss: 67.5309, Accuracy: 2374/2400 (98.92%)
+
+learning rate 0.0009
+Train iter: 4210 [(84%)]	Loss: -0.594999	soft_Loss: 0.002535	confu_Loss: 0.597797
+Train iter: 4220 [(84%)]	Loss: -0.622732	soft_Loss: 0.003323	confu_Loss: 0.626326
+Train iter: 4230 [(85%)]	Loss: -0.624978	soft_Loss: 0.003259	confu_Loss: 0.628504
+Train iter: 4240 [(85%)]	Loss: -0.649918	soft_Loss: 0.003324	confu_Loss: 0.653513
+Train iter: 4250 [(85%)]	Loss: -0.649471	soft_Loss: 0.003337	confu_Loss: 0.653074
+Train iter: 4260 [(85%)]	Loss: -0.674151	soft_Loss: 0.001806	confu_Loss: 0.676227
+Train iter: 4270 [(85%)]	Loss: -0.656047	soft_Loss: 0.004891	confu_Loss: 0.661196
+Train iter: 4280 [(86%)]	Loss: -0.660295	soft_Loss: 0.003539	confu_Loss: 0.664089
+Train iter: 4290 [(86%)]	Loss: -0.689631	soft_Loss: 0.003501	confu_Loss: 0.693392
+Train iter: 4300 [(86%)]	Loss: -0.692746	soft_Loss: 0.003394	confu_Loss: 0.696396
+
+load6_train set: Average loss: 682.3119, Accuracy: 28477/28800 (98.88%)
+
+
+load6_train set: Average loss: 111.3494, Accuracy: 2357/2400 (98.21%)
+
+learning rate 0.0009
+Train iter: 4310 [(86%)]	Loss: -0.705166	soft_Loss: 0.004110	confu_Loss: 0.709532
+Train iter: 4320 [(86%)]	Loss: -0.738078	soft_Loss: 0.001790	confu_Loss: 0.740130
+Train iter: 4330 [(87%)]	Loss: -0.730408	soft_Loss: 0.005850	confu_Loss: 0.736514
+Train iter: 4340 [(87%)]	Loss: -0.720397	soft_Loss: 0.005595	confu_Loss: 0.726239
+Train iter: 4350 [(87%)]	Loss: -0.750627	soft_Loss: 0.002929	confu_Loss: 0.753807
+Train iter: 4360 [(87%)]	Loss: -0.760779	soft_Loss: 0.004225	confu_Loss: 0.765253
+Train iter: 4370 [(87%)]	Loss: -0.773101	soft_Loss: 0.003805	confu_Loss: 0.777155
+Train iter: 4380 [(88%)]	Loss: -0.820575	soft_Loss: 0.003602	confu_Loss: 0.824436
+Train iter: 4390 [(88%)]	Loss: -0.801011	soft_Loss: 0.004754	confu_Loss: 0.806013
+Train iter: 4400 [(88%)]	Loss: -0.829698	soft_Loss: 0.003758	confu_Loss: 0.833708
+
+load6_train set: Average loss: 949.6007, Accuracy: 28360/28800 (98.47%)
+
+
+load6_train set: Average loss: 25.3479, Accuracy: 2394/2400 (99.75%)
+
+learning rate 0.0009
+Train iter: 4410 [(88%)]	Loss: -0.816189	soft_Loss: 0.003309	confu_Loss: 0.819740
+Train iter: 4420 [(88%)]	Loss: -0.828768	soft_Loss: 0.008782	confu_Loss: 0.837792
+Train iter: 4430 [(89%)]	Loss: -0.851491	soft_Loss: 0.002791	confu_Loss: 0.854525
+Train iter: 4440 [(89%)]	Loss: -0.849165	soft_Loss: 0.004498	confu_Loss: 0.853901
+Train iter: 4450 [(89%)]	Loss: -0.900030	soft_Loss: 0.002865	confu_Loss: 0.903142
+Train iter: 4460 [(89%)]	Loss: -0.872969	soft_Loss: 0.005406	confu_Loss: 0.878610
+Train iter: 4470 [(89%)]	Loss: -0.898995	soft_Loss: 0.002681	confu_Loss: 0.901913
+Train iter: 4480 [(90%)]	Loss: -0.906263	soft_Loss: 0.003623	confu_Loss: 0.910120
+Train iter: 4490 [(90%)]	Loss: -0.920578	soft_Loss: 0.003521	confu_Loss: 0.924332
+Train iter: 4500 [(90%)]	Loss: -0.917954	soft_Loss: 0.005464	confu_Loss: 0.923646
+
+load6_train set: Average loss: 572.3006, Accuracy: 28542/28800 (99.10%)
+
+
+load6_train set: Average loss: 20.9340, Accuracy: 2392/2400 (99.67%)
+
+learning rate 0.0009
+Train iter: 4510 [(90%)]	Loss: -0.935267	soft_Loss: 0.004134	confu_Loss: 0.939629
+Train iter: 4520 [(90%)]	Loss: -0.922756	soft_Loss: 0.003296	confu_Loss: 0.926272
+Train iter: 4530 [(91%)]	Loss: -0.943746	soft_Loss: 0.003908	confu_Loss: 0.947874
+Train iter: 4540 [(91%)]	Loss: -0.956269	soft_Loss: 0.004657	confu_Loss: 0.961145
+Train iter: 4550 [(91%)]	Loss: -0.971290	soft_Loss: 0.002977	confu_Loss: 0.974484
+Train iter: 4560 [(91%)]	Loss: -0.977373	soft_Loss: 0.003030	confu_Loss: 0.980617
+Train iter: 4570 [(91%)]	Loss: -0.996778	soft_Loss: 0.004111	confu_Loss: 1.001104
+Train iter: 4580 [(92%)]	Loss: -1.003797	soft_Loss: 0.005360	confu_Loss: 1.009369
+Train iter: 4590 [(92%)]	Loss: -1.005714	soft_Loss: 0.002694	confu_Loss: 1.008616
+Train iter: 4600 [(92%)]	Loss: -1.015121	soft_Loss: 0.002061	confu_Loss: 1.017387
+
+load6_train set: Average loss: 3767.6376, Accuracy: 27133/28800 (94.21%)
+
+
+load6_train set: Average loss: 64.2606, Accuracy: 2389/2400 (99.54%)
+
+learning rate 0.0009
+Train iter: 4610 [(92%)]	Loss: -1.017411	soft_Loss: 0.001518	confu_Loss: 1.019131
+Train iter: 4620 [(92%)]	Loss: -1.019635	soft_Loss: 0.005414	confu_Loss: 1.025249
+Train iter: 4630 [(93%)]	Loss: -1.028954	soft_Loss: 0.001856	confu_Loss: 1.031006
+Train iter: 4640 [(93%)]	Loss: -1.040132	soft_Loss: 0.003138	confu_Loss: 1.043464
+Train iter: 4650 [(93%)]	Loss: -1.045282	soft_Loss: 0.003794	confu_Loss: 1.049267
+Train iter: 4660 [(93%)]	Loss: -1.045560	soft_Loss: 0.003541	confu_Loss: 1.049289
+Train iter: 4670 [(93%)]	Loss: -1.054974	soft_Loss: 0.004849	confu_Loss: 1.060009
+Train iter: 4680 [(94%)]	Loss: -1.062816	soft_Loss: 0.003171	confu_Loss: 1.066171
+Train iter: 4690 [(94%)]	Loss: -1.067791	soft_Loss: 0.002528	confu_Loss: 1.070500
+Train iter: 4700 [(94%)]	Loss: -1.064983	soft_Loss: 0.001531	confu_Loss: 1.066691
+
+load6_train set: Average loss: 4233.7684, Accuracy: 27186/28800 (94.40%)
+
+
+load6_train set: Average loss: 639.4012, Accuracy: 2190/2400 (91.25%)
+
+learning rate 0.0009
+Train iter: 4710 [(94%)]	Loss: -1.070824	soft_Loss: 0.005413	confu_Loss: 1.076412
+Train iter: 4720 [(94%)]	Loss: -1.068592	soft_Loss: 0.003078	confu_Loss: 1.071841
+Train iter: 4730 [(95%)]	Loss: -1.077597	soft_Loss: 0.002310	confu_Loss: 1.080076
+Train iter: 4740 [(95%)]	Loss: -1.075250	soft_Loss: 0.003592	confu_Loss: 1.079006
+Train iter: 4750 [(95%)]	Loss: -1.079151	soft_Loss: 0.003847	confu_Loss: 1.083160
+Train iter: 4760 [(95%)]	Loss: -1.083161	soft_Loss: 0.004295	confu_Loss: 1.087615
+Train iter: 4770 [(95%)]	Loss: -1.082698	soft_Loss: 0.002889	confu_Loss: 1.085743
+Train iter: 4780 [(96%)]	Loss: -1.086566	soft_Loss: 0.002755	confu_Loss: 1.089475
+Train iter: 4790 [(96%)]	Loss: -1.085528	soft_Loss: 0.005172	confu_Loss: 1.090850
+Train iter: 4800 [(96%)]	Loss: -1.085788	soft_Loss: 0.005004	confu_Loss: 1.090939
+
+load6_train set: Average loss: 585.3107, Accuracy: 28525/28800 (99.05%)
+
+
+load6_train set: Average loss: 57.3151, Accuracy: 2380/2400 (99.17%)
+
+learning rate 0.0009
+Train iter: 4810 [(96%)]	Loss: -1.085916	soft_Loss: 0.004364	confu_Loss: 1.090425
+Train iter: 4820 [(96%)]	Loss: -1.086925	soft_Loss: 0.004894	confu_Loss: 1.091961
+Train iter: 4830 [(97%)]	Loss: -1.090574	soft_Loss: 0.002925	confu_Loss: 1.093639
+Train iter: 4840 [(97%)]	Loss: -1.088074	soft_Loss: 0.005475	confu_Loss: 1.093686
+Train iter: 4850 [(97%)]	Loss: -1.090400	soft_Loss: 0.004067	confu_Loss: 1.094601
+Train iter: 4860 [(97%)]	Loss: -1.092646	soft_Loss: 0.003010	confu_Loss: 1.095787
+Train iter: 4870 [(97%)]	Loss: -1.092785	soft_Loss: 0.004008	confu_Loss: 1.096923
+Train iter: 4880 [(98%)]	Loss: -1.094725	soft_Loss: 0.002372	confu_Loss: 1.097224
+Train iter: 4890 [(98%)]	Loss: -1.092335	soft_Loss: 0.004604	confu_Loss: 1.097063
+Train iter: 4900 [(98%)]	Loss: -1.095162	soft_Loss: 0.002511	confu_Loss: 1.097795
+
+load6_train set: Average loss: 1879.9110, Accuracy: 27945/28800 (97.03%)
+
+
+load6_train set: Average loss: 79.1100, Accuracy: 2372/2400 (98.83%)
+
+learning rate 0.0008
+Train iter: 4910 [(98%)]	Loss: -1.092885	soft_Loss: 0.004563	confu_Loss: 1.097568
+Train iter: 4920 [(98%)]	Loss: -1.094123	soft_Loss: 0.003777	confu_Loss: 1.098017
+Train iter: 4930 [(99%)]	Loss: -1.093696	soft_Loss: 0.004188	confu_Loss: 1.097999
+Train iter: 4940 [(99%)]	Loss: -1.091033	soft_Loss: 0.007176	confu_Loss: 1.098321
+Train iter: 4950 [(99%)]	Loss: -1.094395	soft_Loss: 0.003898	confu_Loss: 1.098403
+Train iter: 4960 [(99%)]	Loss: -1.095600	soft_Loss: 0.002826	confu_Loss: 1.098534
+Train iter: 4970 [(99%)]	Loss: -1.094710	soft_Loss: 0.003617	confu_Loss: 1.098433
+Train iter: 4980 [(100%)]	Loss: -1.095172	soft_Loss: 0.003301	confu_Loss: 1.098576
+Train iter: 4990 [(100%)]	Loss: -1.095757	soft_Loss: 0.002666	confu_Loss: 1.098525
+Train iter: 5000 [(100%)]	Loss: -1.094186	soft_Loss: 0.004231	confu_Loss: 1.098517
+
+load6_train set: Average loss: 6353.2662, Accuracy: 26983/28800 (93.69%)
+
+
+load6_train set: Average loss: 842.7975, Accuracy: 2180/2400 (90.83%)
+
+(2400, 3200)
+DeepALL_ADV(
+  (sharedNet): CNN(
+    (layer1): Sequential(
+      (0): Conv1d(1, 16, kernel_size=(64,), stride=(1,))
+      (1): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer2): Sequential(
+      (0): Conv1d(16, 32, kernel_size=(16,), stride=(1,))
+      (1): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer3): Sequential(
+      (0): Conv1d(32, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer4): Sequential(
+      (0): Conv1d(64, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): AdaptiveMaxPool1d(output_size=4)
+    )
+  )
+  (cls_fc): Linear(in_features=256, out_features=12, bias=True)
+  (domain_fc): AdversarialNetwork_multi(
+    (ad_layer1): Linear(in_features=256, out_features=128, bias=True)
+    (ad_layer2): Linear(in_features=128, out_features=3, bias=True)
+    (relu1): ReLU()
+    (relu2): ReLU()
+    (dropout1): Dropout(p=0.5, inplace=False)
+    (dropout2): Dropout(p=0.5, inplace=False)
+    (softmax): Softmax(dim=None)
+  )
+)
+learning rate 0.0050
+Train iter: 10 [(0%)]	Loss: 2.728556	soft_Loss: 2.739539	confu_Loss: 1.098257
+Train iter: 20 [(0%)]	Loss: 2.234095	soft_Loss: 2.254391	confu_Loss: 1.014960
+Train iter: 30 [(1%)]	Loss: 1.722133	soft_Loss: 1.749980	confu_Loss: 0.928505
+Train iter: 40 [(1%)]	Loss: 1.776206	soft_Loss: 1.808544	confu_Loss: 0.808877
+Train iter: 50 [(1%)]	Loss: 1.692746	soft_Loss: 1.730183	confu_Loss: 0.749378
+Train iter: 60 [(1%)]	Loss: 1.617236	soft_Loss: 1.662819	confu_Loss: 0.760631
+Train iter: 70 [(1%)]	Loss: 1.566493	soft_Loss: 1.613334	confu_Loss: 0.670246
+Train iter: 80 [(2%)]	Loss: 1.337472	soft_Loss: 1.398477	confu_Loss: 0.764178
+Train iter: 90 [(2%)]	Loss: 1.359014	soft_Loss: 1.422658	confu_Loss: 0.709068
+Train iter: 100 [(2%)]	Loss: 1.202067	soft_Loss: 1.260095	confu_Loss: 0.582212
+
+load6_train set: Average loss: 47840.6302, Accuracy: 11324/28800 (39.32%)
+
+
+load6_train set: Average loss: 3185.4142, Accuracy: 1145/2400 (47.71%)
+
+learning rate 0.0044
+Train iter: 110 [(2%)]	Loss: 1.183794	soft_Loss: 1.248945	confu_Loss: 0.594669
+Train iter: 120 [(2%)]	Loss: 1.185786	soft_Loss: 1.252066	confu_Loss: 0.554986
+Train iter: 130 [(3%)]	Loss: 1.362888	soft_Loss: 1.429464	confu_Loss: 0.515005
+Train iter: 140 [(3%)]	Loss: 1.129263	soft_Loss: 1.199736	confu_Loss: 0.506660
+Train iter: 150 [(3%)]	Loss: 1.143149	soft_Loss: 1.209540	confu_Loss: 0.445917
+Train iter: 160 [(3%)]	Loss: 1.106004	soft_Loss: 1.178020	confu_Loss: 0.453933
+Train iter: 170 [(3%)]	Loss: 1.055163	soft_Loss: 1.122439	confu_Loss: 0.399547
+Train iter: 180 [(4%)]	Loss: 1.050722	soft_Loss: 1.124319	confu_Loss: 0.413275
+Train iter: 190 [(4%)]	Loss: 0.974389	soft_Loss: 1.042502	confu_Loss: 0.362788
+Train iter: 200 [(4%)]	Loss: 0.974530	soft_Loss: 1.052220	confu_Loss: 0.393616
+
+load6_train set: Average loss: 31007.4123, Accuracy: 15909/28800 (55.24%)
+
+
+load6_train set: Average loss: 2583.0170, Accuracy: 1292/2400 (53.83%)
+
+learning rate 0.0039
+Train iter: 210 [(4%)]	Loss: 0.930315	soft_Loss: 1.001330	confu_Loss: 0.343122
+Train iter: 220 [(4%)]	Loss: 1.022131	soft_Loss: 1.092882	confu_Loss: 0.326767
+Train iter: 230 [(5%)]	Loss: 0.825247	soft_Loss: 0.904969	confu_Loss: 0.352705
+Train iter: 240 [(5%)]	Loss: 1.060658	soft_Loss: 1.136450	confu_Loss: 0.321837
+Train iter: 250 [(5%)]	Loss: 0.858505	soft_Loss: 0.936164	confu_Loss: 0.317079
+Train iter: 260 [(5%)]	Loss: 0.694432	soft_Loss: 0.770845	confu_Loss: 0.300491
+Train iter: 270 [(5%)]	Loss: 0.883353	soft_Loss: 0.966591	confu_Loss: 0.315745
+Train iter: 280 [(6%)]	Loss: 0.737812	soft_Loss: 0.826608	confu_Loss: 0.325372
+Train iter: 290 [(6%)]	Loss: 0.797768	soft_Loss: 0.861772	confu_Loss: 0.226854
+Train iter: 300 [(6%)]	Loss: 0.815025	soft_Loss: 0.880431	confu_Loss: 0.224520
+
+load6_train set: Average loss: 35103.3881, Accuracy: 14071/28800 (48.86%)
+
+
+load6_train set: Average loss: 2661.0553, Accuracy: 1268/2400 (52.83%)
+
+learning rate 0.0035
+Train iter: 310 [(6%)]	Loss: 0.755057	soft_Loss: 0.822750	confu_Loss: 0.225313
+Train iter: 320 [(6%)]	Loss: 0.723324	soft_Loss: 0.790669	confu_Loss: 0.217587
+Train iter: 330 [(7%)]	Loss: 0.744417	soft_Loss: 0.822979	confu_Loss: 0.246647
+Train iter: 340 [(7%)]	Loss: 0.807589	soft_Loss: 0.878405	confu_Loss: 0.216247
+Train iter: 350 [(7%)]	Loss: 0.638106	soft_Loss: 0.697629	confu_Loss: 0.176956
+Train iter: 360 [(7%)]	Loss: 0.615507	soft_Loss: 0.678988	confu_Loss: 0.183889
+Train iter: 370 [(7%)]	Loss: 0.714011	soft_Loss: 0.808197	confu_Loss: 0.266069
+Train iter: 380 [(8%)]	Loss: 0.620310	soft_Loss: 0.693456	confu_Loss: 0.201667
+Train iter: 390 [(8%)]	Loss: 0.694937	soft_Loss: 0.766484	confu_Loss: 0.192663
+Train iter: 400 [(8%)]	Loss: 0.520881	soft_Loss: 0.589823	confu_Loss: 0.181452
+
+load6_train set: Average loss: 48838.6694, Accuracy: 14745/28800 (51.20%)
+
+
+load6_train set: Average loss: 3816.2261, Accuracy: 1273/2400 (53.04%)
+
+learning rate 0.0032
+Train iter: 410 [(8%)]	Loss: 0.559366	soft_Loss: 0.670227	confu_Loss: 0.285376
+Train iter: 420 [(8%)]	Loss: 0.551344	soft_Loss: 0.626849	confu_Loss: 0.190223
+Train iter: 430 [(9%)]	Loss: 0.526632	soft_Loss: 0.609404	confu_Loss: 0.204213
+Train iter: 440 [(9%)]	Loss: 0.557825	soft_Loss: 0.619113	confu_Loss: 0.148165
+Train iter: 450 [(9%)]	Loss: 0.525699	soft_Loss: 0.570498	confu_Loss: 0.106184
+Train iter: 460 [(9%)]	Loss: 0.475526	soft_Loss: 0.544455	confu_Loss: 0.160269
+Train iter: 470 [(9%)]	Loss: 0.436570	soft_Loss: 0.496124	confu_Loss: 0.135906
+Train iter: 480 [(10%)]	Loss: 0.456057	soft_Loss: 0.509754	confu_Loss: 0.120332
+Train iter: 490 [(10%)]	Loss: 0.536215	soft_Loss: 0.580577	confu_Loss: 0.097668
+Train iter: 500 [(10%)]	Loss: 0.495569	soft_Loss: 0.554354	confu_Loss: 0.127210
+
+load6_train set: Average loss: 32641.2985, Accuracy: 16182/28800 (56.19%)
+
+
+load6_train set: Average loss: 2380.9197, Accuracy: 1397/2400 (58.21%)
+
+learning rate 0.0030
+Train iter: 510 [(10%)]	Loss: 0.498579	soft_Loss: 0.550781	confu_Loss: 0.111082
+Train iter: 520 [(10%)]	Loss: 0.428965	soft_Loss: 0.484891	confu_Loss: 0.117074
+Train iter: 530 [(11%)]	Loss: 0.368600	soft_Loss: 0.432900	confu_Loss: 0.132474
+Train iter: 540 [(11%)]	Loss: 0.417083	soft_Loss: 0.471632	confu_Loss: 0.110651
+Train iter: 550 [(11%)]	Loss: 0.366044	soft_Loss: 0.447206	confu_Loss: 0.162155
+Train iter: 560 [(11%)]	Loss: 0.408717	soft_Loss: 0.468033	confu_Loss: 0.116770
+Train iter: 570 [(11%)]	Loss: 0.327155	soft_Loss: 0.382932	confu_Loss: 0.108230
+Train iter: 580 [(12%)]	Loss: 0.366385	soft_Loss: 0.450568	confu_Loss: 0.161066
+Train iter: 590 [(12%)]	Loss: 0.316671	soft_Loss: 0.374869	confu_Loss: 0.109829
+Train iter: 600 [(12%)]	Loss: 0.323244	soft_Loss: 0.384156	confu_Loss: 0.113420
+
+load6_train set: Average loss: 32175.8736, Accuracy: 15470/28800 (53.72%)
+
+
+load6_train set: Average loss: 2200.6560, Accuracy: 1428/2400 (59.50%)
+
+learning rate 0.0028
+Train iter: 610 [(12%)]	Loss: 0.316907	soft_Loss: 0.398162	confu_Loss: 0.149332
+Train iter: 620 [(12%)]	Loss: 0.361284	soft_Loss: 0.417626	confu_Loss: 0.102231
+Train iter: 630 [(13%)]	Loss: 0.302930	soft_Loss: 0.355547	confu_Loss: 0.094285
+Train iter: 640 [(13%)]	Loss: 0.282124	soft_Loss: 0.357598	confu_Loss: 0.133606
+Train iter: 650 [(13%)]	Loss: 0.274885	soft_Loss: 0.341803	confu_Loss: 0.117056
+Train iter: 660 [(13%)]	Loss: 0.316031	soft_Loss: 0.382671	confu_Loss: 0.115221
+Train iter: 670 [(13%)]	Loss: 0.330738	soft_Loss: 0.375687	confu_Loss: 0.076839
+Train iter: 680 [(14%)]	Loss: 0.300662	soft_Loss: 0.344849	confu_Loss: 0.074702
+Train iter: 690 [(14%)]	Loss: 0.214980	soft_Loss: 0.274780	confu_Loss: 0.100002
+Train iter: 700 [(14%)]	Loss: 0.204356	soft_Loss: 0.250548	confu_Loss: 0.076430
+
+load6_train set: Average loss: 40583.7225, Accuracy: 15490/28800 (53.78%)
+
+
+load6_train set: Average loss: 2548.3239, Accuracy: 1384/2400 (57.67%)
+
+learning rate 0.0026
+Train iter: 710 [(14%)]	Loss: 0.278230	soft_Loss: 0.340467	confu_Loss: 0.101915
+Train iter: 720 [(14%)]	Loss: 0.308614	soft_Loss: 0.365812	confu_Loss: 0.092716
+Train iter: 730 [(15%)]	Loss: 0.228454	soft_Loss: 0.277279	confu_Loss: 0.078362
+Train iter: 740 [(15%)]	Loss: 0.241597	soft_Loss: 0.279631	confu_Loss: 0.060452
+Train iter: 750 [(15%)]	Loss: 0.237612	soft_Loss: 0.266016	confu_Loss: 0.044720
+Train iter: 760 [(15%)]	Loss: 0.183691	soft_Loss: 0.234082	confu_Loss: 0.078603
+Train iter: 770 [(15%)]	Loss: 0.230670	soft_Loss: 0.262536	confu_Loss: 0.049257
+Train iter: 780 [(16%)]	Loss: 0.177046	soft_Loss: 0.234383	confu_Loss: 0.087844
+Train iter: 790 [(16%)]	Loss: 0.209014	soft_Loss: 0.257479	confu_Loss: 0.073609
+Train iter: 800 [(16%)]	Loss: 0.244963	soft_Loss: 0.278405	confu_Loss: 0.050362
+
+load6_train set: Average loss: 19170.8450, Accuracy: 20895/28800 (72.55%)
+
+
+load6_train set: Average loss: 1185.2543, Accuracy: 1935/2400 (80.62%)
+
+learning rate 0.0024
+Train iter: 810 [(16%)]	Loss: 0.154820	soft_Loss: 0.216641	confu_Loss: 0.092327
+Train iter: 820 [(16%)]	Loss: 0.162949	soft_Loss: 0.195622	confu_Loss: 0.048400
+Train iter: 830 [(17%)]	Loss: 0.166130	soft_Loss: 0.236195	confu_Loss: 0.102965
+Train iter: 840 [(17%)]	Loss: 0.172642	soft_Loss: 0.220099	confu_Loss: 0.069198
+Train iter: 850 [(17%)]	Loss: 0.249902	soft_Loss: 0.276370	confu_Loss: 0.038300
+Train iter: 860 [(17%)]	Loss: 0.181023	soft_Loss: 0.243294	confu_Loss: 0.089437
+Train iter: 870 [(17%)]	Loss: 0.147919	soft_Loss: 0.215664	confu_Loss: 0.096589
+Train iter: 880 [(18%)]	Loss: 0.125025	soft_Loss: 0.163622	confu_Loss: 0.054638
+Train iter: 890 [(18%)]	Loss: 0.151471	soft_Loss: 0.191145	confu_Loss: 0.055770
+Train iter: 900 [(18%)]	Loss: 0.110832	soft_Loss: 0.162144	confu_Loss: 0.071634
+
+load6_train set: Average loss: 35384.9197, Accuracy: 17457/28800 (60.61%)
+
+
+load6_train set: Average loss: 2009.4761, Accuracy: 1597/2400 (66.54%)
+
+learning rate 0.0023
+Train iter: 910 [(18%)]	Loss: 0.133992	soft_Loss: 0.158281	confu_Loss: 0.033681
+Train iter: 920 [(18%)]	Loss: 0.063627	soft_Loss: 0.151299	confu_Loss: 0.120777
+Train iter: 930 [(19%)]	Loss: 0.125447	soft_Loss: 0.152372	confu_Loss: 0.036853
+Train iter: 940 [(19%)]	Loss: 0.057513	soft_Loss: 0.144762	confu_Loss: 0.118671
+Train iter: 950 [(19%)]	Loss: 0.090045	soft_Loss: 0.151504	confu_Loss: 0.083078
+Train iter: 960 [(19%)]	Loss: 0.046061	soft_Loss: 0.120166	confu_Loss: 0.099567
+Train iter: 970 [(19%)]	Loss: 0.103470	soft_Loss: 0.142657	confu_Loss: 0.052340
+Train iter: 980 [(20%)]	Loss: 0.121767	soft_Loss: 0.177869	confu_Loss: 0.074497
+Train iter: 990 [(20%)]	Loss: 0.122287	soft_Loss: 0.154912	confu_Loss: 0.043077
+Train iter: 1000 [(20%)]	Loss: 0.052589	soft_Loss: 0.097435	confu_Loss: 0.058883
+
+load6_train set: Average loss: 8203.4512, Accuracy: 25282/28800 (87.78%)
+
+
+load6_train set: Average loss: 388.3475, Accuracy: 2232/2400 (93.00%)
+
+learning rate 0.0022
+Train iter: 1010 [(20%)]	Loss: 0.094150	soft_Loss: 0.130963	confu_Loss: 0.048075
+Train iter: 1020 [(20%)]	Loss: 0.069409	soft_Loss: 0.102253	confu_Loss: 0.042662
+Train iter: 1030 [(21%)]	Loss: 0.039245	soft_Loss: 0.086654	confu_Loss: 0.061260
+Train iter: 1040 [(21%)]	Loss: 0.068115	soft_Loss: 0.102497	confu_Loss: 0.044198
+Train iter: 1050 [(21%)]	Loss: 0.069705	soft_Loss: 0.105742	confu_Loss: 0.046094
+Train iter: 1060 [(21%)]	Loss: 0.094151	soft_Loss: 0.116611	confu_Loss: 0.028587
+Train iter: 1070 [(21%)]	Loss: 0.080622	soft_Loss: 0.125940	confu_Loss: 0.057403
+Train iter: 1080 [(22%)]	Loss: 0.061430	soft_Loss: 0.096139	confu_Loss: 0.043758
+Train iter: 1090 [(22%)]	Loss: 0.078876	soft_Loss: 0.125433	confu_Loss: 0.058425
+Train iter: 1100 [(22%)]	Loss: 0.026795	soft_Loss: 0.088677	confu_Loss: 0.077303
+
+load6_train set: Average loss: 22235.0490, Accuracy: 22490/28800 (78.09%)
+
+
+load6_train set: Average loss: 1604.7297, Accuracy: 1921/2400 (80.04%)
+
+learning rate 0.0021
+Train iter: 1110 [(22%)]	Loss: 0.074859	soft_Loss: 0.120316	confu_Loss: 0.056534
+Train iter: 1120 [(22%)]	Loss: 0.062182	soft_Loss: 0.102270	confu_Loss: 0.049639
+Train iter: 1130 [(23%)]	Loss: 0.063407	soft_Loss: 0.106364	confu_Loss: 0.052966
+Train iter: 1140 [(23%)]	Loss: 0.034885	soft_Loss: 0.074154	confu_Loss: 0.048217
+Train iter: 1150 [(23%)]	Loss: 0.034670	soft_Loss: 0.062779	confu_Loss: 0.034374
+Train iter: 1160 [(23%)]	Loss: 0.073622	soft_Loss: 0.107806	confu_Loss: 0.041636
+Train iter: 1170 [(23%)]	Loss: 0.044791	soft_Loss: 0.128651	confu_Loss: 0.101738
+Train iter: 1180 [(24%)]	Loss: 0.031519	soft_Loss: 0.084738	confu_Loss: 0.064317
+Train iter: 1190 [(24%)]	Loss: 0.048901	soft_Loss: 0.083550	confu_Loss: 0.041717
+Train iter: 1200 [(24%)]	Loss: 0.009452	soft_Loss: 0.060666	confu_Loss: 0.061433
+
+load6_train set: Average loss: 11973.1384, Accuracy: 24371/28800 (84.62%)
+
+
+load6_train set: Average loss: 512.3741, Accuracy: 2208/2400 (92.00%)
+
+learning rate 0.0020
+Train iter: 1210 [(24%)]	Loss: 0.046749	soft_Loss: 0.072501	confu_Loss: 0.030780
+Train iter: 1220 [(24%)]	Loss: -0.002825	soft_Loss: 0.050913	confu_Loss: 0.064000
+Train iter: 1230 [(25%)]	Loss: 0.036511	soft_Loss: 0.077754	confu_Loss: 0.048949
+Train iter: 1240 [(25%)]	Loss: 0.022540	soft_Loss: 0.065961	confu_Loss: 0.051358
+Train iter: 1250 [(25%)]	Loss: 0.043071	soft_Loss: 0.065557	confu_Loss: 0.026507
+Train iter: 1260 [(25%)]	Loss: -0.003814	soft_Loss: 0.048132	confu_Loss: 0.061036
+Train iter: 1270 [(25%)]	Loss: 0.013330	soft_Loss: 0.048874	confu_Loss: 0.041631
+Train iter: 1280 [(26%)]	Loss: 0.010053	soft_Loss: 0.062126	confu_Loss: 0.060799
+Train iter: 1290 [(26%)]	Loss: -0.007465	soft_Loss: 0.071586	confu_Loss: 0.092013
+Train iter: 1300 [(26%)]	Loss: 0.050046	soft_Loss: 0.078188	confu_Loss: 0.032658
+
+load6_train set: Average loss: 13791.4149, Accuracy: 23942/28800 (83.13%)
+
+
+load6_train set: Average loss: 388.8985, Accuracy: 2252/2400 (93.83%)
+
+learning rate 0.0019
+Train iter: 1310 [(26%)]	Loss: 0.027415	soft_Loss: 0.046337	confu_Loss: 0.021895
+Train iter: 1320 [(26%)]	Loss: 0.037365	soft_Loss: 0.073208	confu_Loss: 0.041353
+Train iter: 1330 [(27%)]	Loss: 0.018629	soft_Loss: 0.052142	confu_Loss: 0.038554
+Train iter: 1340 [(27%)]	Loss: 0.021067	soft_Loss: 0.044406	confu_Loss: 0.026775
+Train iter: 1350 [(27%)]	Loss: -0.014938	soft_Loss: 0.027462	confu_Loss: 0.048509
+Train iter: 1360 [(27%)]	Loss: -0.012838	soft_Loss: 0.046940	confu_Loss: 0.068209
+Train iter: 1370 [(27%)]	Loss: -0.008389	soft_Loss: 0.055817	confu_Loss: 0.073070
+Train iter: 1380 [(28%)]	Loss: 0.033707	soft_Loss: 0.062072	confu_Loss: 0.032198
+Train iter: 1390 [(28%)]	Loss: 0.005299	soft_Loss: 0.040980	confu_Loss: 0.040400
+Train iter: 1400 [(28%)]	Loss: -0.021008	soft_Loss: 0.053535	confu_Loss: 0.084196
+
+load6_train set: Average loss: 9151.1742, Accuracy: 25303/28800 (87.86%)
+
+
+load6_train set: Average loss: 336.4415, Accuracy: 2287/2400 (95.29%)
+
+learning rate 0.0018
+Train iter: 1410 [(28%)]	Loss: 0.022505	soft_Loss: 0.059121	confu_Loss: 0.041258
+Train iter: 1420 [(28%)]	Loss: 0.007366	soft_Loss: 0.048785	confu_Loss: 0.046559
+Train iter: 1430 [(29%)]	Loss: 0.043953	soft_Loss: 0.059347	confu_Loss: 0.017264
+Train iter: 1440 [(29%)]	Loss: -0.001330	soft_Loss: 0.055996	confu_Loss: 0.064144
+Train iter: 1450 [(29%)]	Loss: 0.000073	soft_Loss: 0.032835	confu_Loss: 0.036577
+Train iter: 1460 [(29%)]	Loss: -0.015279	soft_Loss: 0.025495	confu_Loss: 0.045423
+Train iter: 1470 [(29%)]	Loss: -0.021858	soft_Loss: 0.034067	confu_Loss: 0.062168
+Train iter: 1480 [(30%)]	Loss: -0.006310	soft_Loss: 0.037434	confu_Loss: 0.048525
+Train iter: 1490 [(30%)]	Loss: 0.041533	soft_Loss: 0.065076	confu_Loss: 0.026062
+Train iter: 1500 [(30%)]	Loss: -0.017426	soft_Loss: 0.028619	confu_Loss: 0.050869
+
+load6_train set: Average loss: 20482.1367, Accuracy: 22661/28800 (78.68%)
+
+
+load6_train set: Average loss: 565.1046, Accuracy: 2187/2400 (91.12%)
+
+learning rate 0.0018
+Train iter: 1510 [(30%)]	Loss: 0.001542	soft_Loss: 0.051549	confu_Loss: 0.055138
+Train iter: 1520 [(30%)]	Loss: -0.002021	soft_Loss: 0.036138	confu_Loss: 0.041993
+Train iter: 1530 [(31%)]	Loss: 0.009391	soft_Loss: 0.041213	confu_Loss: 0.034953
+Train iter: 1540 [(31%)]	Loss: 0.021784	soft_Loss: 0.047103	confu_Loss: 0.027758
+Train iter: 1550 [(31%)]	Loss: 0.018698	soft_Loss: 0.052846	confu_Loss: 0.037371
+Train iter: 1560 [(31%)]	Loss: 0.006420	soft_Loss: 0.031727	confu_Loss: 0.027646
+Train iter: 1570 [(31%)]	Loss: 0.002333	soft_Loss: 0.038560	confu_Loss: 0.039505
+Train iter: 1580 [(32%)]	Loss: -0.021294	soft_Loss: 0.028206	confu_Loss: 0.053886
+Train iter: 1590 [(32%)]	Loss: 0.042703	soft_Loss: 0.073001	confu_Loss: 0.032927
+Train iter: 1600 [(32%)]	Loss: 0.008621	soft_Loss: 0.057237	confu_Loss: 0.052748
+
+load6_train set: Average loss: 8421.0286, Accuracy: 25588/28800 (88.85%)
+
+
+load6_train set: Average loss: 229.7094, Accuracy: 2330/2400 (97.08%)
+
+learning rate 0.0017
+Train iter: 1610 [(32%)]	Loss: -0.001177	soft_Loss: 0.034758	confu_Loss: 0.038925
+Train iter: 1620 [(32%)]	Loss: -0.012467	soft_Loss: 0.020409	confu_Loss: 0.035556
+Train iter: 1630 [(33%)]	Loss: -0.016620	soft_Loss: 0.028652	confu_Loss: 0.048886
+Train iter: 1640 [(33%)]	Loss: -0.003993	soft_Loss: 0.030386	confu_Loss: 0.037067
+Train iter: 1650 [(33%)]	Loss: -0.001548	soft_Loss: 0.052532	confu_Loss: 0.058222
+Train iter: 1660 [(33%)]	Loss: 0.000717	soft_Loss: 0.039179	confu_Loss: 0.041348
+Train iter: 1670 [(33%)]	Loss: -0.011961	soft_Loss: 0.037254	confu_Loss: 0.052831
+Train iter: 1680 [(34%)]	Loss: -0.023081	soft_Loss: 0.012916	confu_Loss: 0.038588
+Train iter: 1690 [(34%)]	Loss: -0.006434	soft_Loss: 0.031893	confu_Loss: 0.041028
+Train iter: 1700 [(34%)]	Loss: -0.017393	soft_Loss: 0.015229	confu_Loss: 0.034875
+
+load6_train set: Average loss: 1647.1441, Accuracy: 28198/28800 (97.91%)
+
+
+load6_train set: Average loss: 78.9702, Accuracy: 2377/2400 (99.04%)
+
+learning rate 0.0016
+Train iter: 1710 [(34%)]	Loss: -0.011358	soft_Loss: 0.026544	confu_Loss: 0.040465
+Train iter: 1720 [(34%)]	Loss: -0.025509	soft_Loss: 0.026177	confu_Loss: 0.055111
+Train iter: 1730 [(35%)]	Loss: -0.011866	soft_Loss: 0.023812	confu_Loss: 0.037993
+Train iter: 1740 [(35%)]	Loss: -0.012411	soft_Loss: 0.032203	confu_Loss: 0.047450
+Train iter: 1750 [(35%)]	Loss: -0.007872	soft_Loss: 0.029365	confu_Loss: 0.039556
+Train iter: 1760 [(35%)]	Loss: -0.012120	soft_Loss: 0.030480	confu_Loss: 0.045198
+Train iter: 1770 [(35%)]	Loss: -0.023753	soft_Loss: 0.018692	confu_Loss: 0.044981
+Train iter: 1780 [(36%)]	Loss: -0.017308	soft_Loss: 0.017674	confu_Loss: 0.037030
+Train iter: 1790 [(36%)]	Loss: -0.007157	soft_Loss: 0.018938	confu_Loss: 0.027592
+Train iter: 1800 [(36%)]	Loss: -0.010182	soft_Loss: 0.021160	confu_Loss: 0.033103
+
+load6_train set: Average loss: 5899.9448, Accuracy: 26632/28800 (92.47%)
+
+
+load6_train set: Average loss: 373.5618, Accuracy: 2267/2400 (94.46%)
+
+learning rate 0.0016
+Train iter: 1810 [(36%)]	Loss: -0.012306	soft_Loss: 0.023588	confu_Loss: 0.037869
+Train iter: 1820 [(36%)]	Loss: -0.013395	soft_Loss: 0.013725	confu_Loss: 0.028582
+Train iter: 1830 [(37%)]	Loss: -0.007365	soft_Loss: 0.021180	confu_Loss: 0.030053
+Train iter: 1840 [(37%)]	Loss: -0.004533	soft_Loss: 0.023536	confu_Loss: 0.029522
+Train iter: 1850 [(37%)]	Loss: -0.014004	soft_Loss: 0.036331	confu_Loss: 0.052887
+Train iter: 1860 [(37%)]	Loss: -0.015757	soft_Loss: 0.011043	confu_Loss: 0.028131
+Train iter: 1870 [(37%)]	Loss: -0.005092	soft_Loss: 0.022917	confu_Loss: 0.029372
+Train iter: 1880 [(38%)]	Loss: -0.029852	soft_Loss: 0.011930	confu_Loss: 0.043775
+Train iter: 1890 [(38%)]	Loss: -0.030689	soft_Loss: 0.010524	confu_Loss: 0.043138
+Train iter: 1900 [(38%)]	Loss: -0.030779	soft_Loss: 0.022577	confu_Loss: 0.055798
+
+load6_train set: Average loss: 10067.4566, Accuracy: 26330/28800 (91.42%)
+
+
+load6_train set: Average loss: 1125.8911, Accuracy: 2138/2400 (89.08%)
+
+learning rate 0.0015
+Train iter: 1910 [(38%)]	Loss: -0.019992	soft_Loss: 0.016667	confu_Loss: 0.038302
+Train iter: 1920 [(38%)]	Loss: -0.012581	soft_Loss: 0.022213	confu_Loss: 0.036323
+Train iter: 1930 [(39%)]	Loss: -0.010638	soft_Loss: 0.026469	confu_Loss: 0.038704
+Train iter: 1940 [(39%)]	Loss: -0.005732	soft_Loss: 0.027715	confu_Loss: 0.034857
+Train iter: 1950 [(39%)]	Loss: -0.004403	soft_Loss: 0.029532	confu_Loss: 0.035337
+Train iter: 1960 [(39%)]	Loss: -0.037365	soft_Loss: 0.014417	confu_Loss: 0.053878
+Train iter: 1970 [(39%)]	Loss: -0.007924	soft_Loss: 0.026643	confu_Loss: 0.035938
+Train iter: 1980 [(40%)]	Loss: -0.050241	soft_Loss: 0.011357	confu_Loss: 0.063993
+Train iter: 1990 [(40%)]	Loss: -0.013685	soft_Loss: 0.026468	confu_Loss: 0.041682
+Train iter: 2000 [(40%)]	Loss: -0.024853	soft_Loss: 0.022175	confu_Loss: 0.048783
+
+load6_train set: Average loss: 11038.9439, Accuracy: 25269/28800 (87.74%)
+
+
+load6_train set: Average loss: 258.3107, Accuracy: 2309/2400 (96.21%)
+
+learning rate 0.0015
+Train iter: 2010 [(40%)]	Loss: -0.029722	soft_Loss: 0.009290	confu_Loss: 0.040439
+Train iter: 2020 [(40%)]	Loss: -0.006452	soft_Loss: 0.013456	confu_Loss: 0.020621
+Train iter: 2030 [(41%)]	Loss: -0.027715	soft_Loss: 0.011572	confu_Loss: 0.040666
+Train iter: 2040 [(41%)]	Loss: -0.056409	soft_Loss: 0.005114	confu_Loss: 0.063639
+Train iter: 2050 [(41%)]	Loss: -0.047411	soft_Loss: 0.013097	confu_Loss: 0.062547
+Train iter: 2060 [(41%)]	Loss: -0.009058	soft_Loss: 0.015878	confu_Loss: 0.025760
+Train iter: 2070 [(41%)]	Loss: -0.001268	soft_Loss: 0.029214	confu_Loss: 0.031469
+Train iter: 2080 [(42%)]	Loss: -0.040128	soft_Loss: 0.015892	confu_Loss: 0.057796
+Train iter: 2090 [(42%)]	Loss: -0.025690	soft_Loss: 0.019039	confu_Loss: 0.046119
+Train iter: 2100 [(42%)]	Loss: -0.037027	soft_Loss: 0.016761	confu_Loss: 0.055425
+
+load6_train set: Average loss: 3668.9860, Accuracy: 27474/28800 (95.40%)
+
+
+load6_train set: Average loss: 89.9775, Accuracy: 2372/2400 (98.83%)
+
+learning rate 0.0015
+Train iter: 2110 [(42%)]	Loss: 0.000835	soft_Loss: 0.030680	confu_Loss: 0.030735
+Train iter: 2120 [(42%)]	Loss: -0.068860	soft_Loss: 0.010144	confu_Loss: 0.081313
+Train iter: 2130 [(43%)]	Loss: -0.042422	soft_Loss: 0.008348	confu_Loss: 0.052224
+Train iter: 2140 [(43%)]	Loss: -0.021382	soft_Loss: 0.025357	confu_Loss: 0.048051
+Train iter: 2150 [(43%)]	Loss: -0.030973	soft_Loss: 0.018363	confu_Loss: 0.050693
+Train iter: 2160 [(43%)]	Loss: -0.025775	soft_Loss: 0.026986	confu_Loss: 0.054183
+Train iter: 2170 [(43%)]	Loss: -0.030240	soft_Loss: 0.011912	confu_Loss: 0.043266
+Train iter: 2180 [(44%)]	Loss: -0.020011	soft_Loss: 0.013577	confu_Loss: 0.034457
+Train iter: 2190 [(44%)]	Loss: -0.035179	soft_Loss: 0.012296	confu_Loss: 0.048679
+Train iter: 2200 [(44%)]	Loss: -0.021345	soft_Loss: 0.011396	confu_Loss: 0.033555
+
+load6_train set: Average loss: 14741.6128, Accuracy: 24787/28800 (86.07%)
+
+
+load6_train set: Average loss: 179.8279, Accuracy: 2333/2400 (97.21%)
+
+learning rate 0.0014
+Train iter: 2210 [(44%)]	Loss: -0.027480	soft_Loss: 0.013660	confu_Loss: 0.042143
+Train iter: 2220 [(44%)]	Loss: 0.016618	soft_Loss: 0.039862	confu_Loss: 0.023799
+Train iter: 2230 [(45%)]	Loss: -0.029848	soft_Loss: 0.019631	confu_Loss: 0.050636
+Train iter: 2240 [(45%)]	Loss: -0.020697	soft_Loss: 0.016196	confu_Loss: 0.037739
+Train iter: 2250 [(45%)]	Loss: -0.011975	soft_Loss: 0.012520	confu_Loss: 0.025045
+Train iter: 2260 [(45%)]	Loss: -0.037791	soft_Loss: 0.009636	confu_Loss: 0.048472
+Train iter: 2270 [(45%)]	Loss: -0.039968	soft_Loss: 0.007684	confu_Loss: 0.048680
+Train iter: 2280 [(46%)]	Loss: -0.033951	soft_Loss: 0.011314	confu_Loss: 0.046222
+Train iter: 2290 [(46%)]	Loss: -0.027113	soft_Loss: 0.008165	confu_Loss: 0.036009
+Train iter: 2300 [(46%)]	Loss: -0.032732	soft_Loss: 0.008695	confu_Loss: 0.042268
+
+load6_train set: Average loss: 4509.0818, Accuracy: 26991/28800 (93.72%)
+
+
+load6_train set: Average loss: 63.8975, Accuracy: 2382/2400 (99.25%)
+
+learning rate 0.0014
+Train iter: 2310 [(46%)]	Loss: -0.043689	soft_Loss: 0.006983	confu_Loss: 0.051681
+Train iter: 2320 [(46%)]	Loss: -0.020239	soft_Loss: 0.011397	confu_Loss: 0.032252
+Train iter: 2330 [(47%)]	Loss: 0.029393	soft_Loss: 0.070435	confu_Loss: 0.041827
+Train iter: 2340 [(47%)]	Loss: -0.042745	soft_Loss: 0.020019	confu_Loss: 0.063939
+Train iter: 2350 [(47%)]	Loss: -0.053380	soft_Loss: 0.014050	confu_Loss: 0.068667
+Train iter: 2360 [(47%)]	Loss: -0.045128	soft_Loss: 0.014783	confu_Loss: 0.060989
+Train iter: 2370 [(47%)]	Loss: -0.029548	soft_Loss: 0.008214	confu_Loss: 0.038428
+Train iter: 2380 [(48%)]	Loss: -0.011123	soft_Loss: 0.020474	confu_Loss: 0.032143
+Train iter: 2390 [(48%)]	Loss: -0.050182	soft_Loss: 0.007414	confu_Loss: 0.058571
+Train iter: 2400 [(48%)]	Loss: -0.049502	soft_Loss: 0.005762	confu_Loss: 0.056182
+
+load6_train set: Average loss: 563.8466, Accuracy: 28528/28800 (99.06%)
+
+
+load6_train set: Average loss: 53.9750, Accuracy: 2383/2400 (99.29%)
+
+learning rate 0.0013
+Train iter: 2410 [(48%)]	Loss: -0.029366	soft_Loss: 0.011943	confu_Loss: 0.041981
+Train iter: 2420 [(48%)]	Loss: -0.035410	soft_Loss: 0.022903	confu_Loss: 0.059242
+Train iter: 2430 [(49%)]	Loss: -0.030401	soft_Loss: 0.010725	confu_Loss: 0.041769
+Train iter: 2440 [(49%)]	Loss: -0.019202	soft_Loss: 0.035385	confu_Loss: 0.055423
+Train iter: 2450 [(49%)]	Loss: -0.047406	soft_Loss: 0.008891	confu_Loss: 0.057142
+Train iter: 2460 [(49%)]	Loss: -0.025180	soft_Loss: 0.010315	confu_Loss: 0.036017
+Train iter: 2470 [(49%)]	Loss: -0.053611	soft_Loss: 0.006408	confu_Loss: 0.060883
+Train iter: 2480 [(50%)]	Loss: -0.035260	soft_Loss: 0.013930	confu_Loss: 0.049885
+Train iter: 2490 [(50%)]	Loss: -0.034776	soft_Loss: 0.005163	confu_Loss: 0.040491
+Train iter: 2500 [(50%)]	Loss: -0.060188	soft_Loss: 0.019266	confu_Loss: 0.080532
+
+load6_train set: Average loss: 4989.6489, Accuracy: 26830/28800 (93.16%)
+
+
+load6_train set: Average loss: 156.3620, Accuracy: 2339/2400 (97.46%)
+
+learning rate 0.0013
+Train iter: 2510 [(50%)]	Loss: -0.049076	soft_Loss: 0.009190	confu_Loss: 0.059041
+Train iter: 2520 [(50%)]	Loss: -0.042272	soft_Loss: 0.009668	confu_Loss: 0.052617
+Train iter: 2530 [(51%)]	Loss: -0.070228	soft_Loss: 0.005210	confu_Loss: 0.076402
+Train iter: 2540 [(51%)]	Loss: -0.055100	soft_Loss: 0.005247	confu_Loss: 0.061103
+Train iter: 2550 [(51%)]	Loss: -0.052932	soft_Loss: 0.012166	confu_Loss: 0.065897
+Train iter: 2560 [(51%)]	Loss: -0.071816	soft_Loss: 0.006423	confu_Loss: 0.079180
+Train iter: 2570 [(51%)]	Loss: -0.030082	soft_Loss: 0.008730	confu_Loss: 0.039269
+Train iter: 2580 [(52%)]	Loss: -0.052652	soft_Loss: 0.009451	confu_Loss: 0.062820
+Train iter: 2590 [(52%)]	Loss: -0.056231	soft_Loss: 0.005244	confu_Loss: 0.062171
+Train iter: 2600 [(52%)]	Loss: -0.051148	soft_Loss: 0.006824	confu_Loss: 0.058615
+
+load6_train set: Average loss: 3567.7226, Accuracy: 27248/28800 (94.61%)
+
+
+load6_train set: Average loss: 92.1010, Accuracy: 2371/2400 (98.79%)
+
+learning rate 0.0013
+Train iter: 2610 [(52%)]	Loss: -0.063076	soft_Loss: 0.006754	confu_Loss: 0.070590
+Train iter: 2620 [(52%)]	Loss: -0.048867	soft_Loss: 0.007354	confu_Loss: 0.056821
+Train iter: 2630 [(53%)]	Loss: -0.046900	soft_Loss: 0.020058	confu_Loss: 0.067658
+Train iter: 2640 [(53%)]	Loss: -0.022667	soft_Loss: 0.015743	confu_Loss: 0.038804
+Train iter: 2650 [(53%)]	Loss: -0.074492	soft_Loss: 0.008602	confu_Loss: 0.083928
+Train iter: 2660 [(53%)]	Loss: -0.047065	soft_Loss: 0.007472	confu_Loss: 0.055074
+Train iter: 2670 [(53%)]	Loss: -0.063608	soft_Loss: 0.009105	confu_Loss: 0.073414
+Train iter: 2680 [(54%)]	Loss: -0.045872	soft_Loss: 0.017165	confu_Loss: 0.063632
+Train iter: 2690 [(54%)]	Loss: -0.065532	soft_Loss: 0.010312	confu_Loss: 0.076547
+Train iter: 2700 [(54%)]	Loss: -0.049615	soft_Loss: 0.007708	confu_Loss: 0.057844
+
+load6_train set: Average loss: 9885.0727, Accuracy: 25608/28800 (88.92%)
+
+
+load6_train set: Average loss: 180.7403, Accuracy: 2334/2400 (97.25%)
+
+learning rate 0.0012
+Train iter: 2710 [(54%)]	Loss: -0.056442	soft_Loss: 0.007997	confu_Loss: 0.065013
+Train iter: 2720 [(54%)]	Loss: -0.062625	soft_Loss: 0.006035	confu_Loss: 0.069258
+Train iter: 2730 [(55%)]	Loss: -0.075387	soft_Loss: 0.014616	confu_Loss: 0.090772
+Train iter: 2740 [(55%)]	Loss: -0.079944	soft_Loss: 0.012666	confu_Loss: 0.093385
+Train iter: 2750 [(55%)]	Loss: -0.056951	soft_Loss: 0.005348	confu_Loss: 0.062811
+Train iter: 2760 [(55%)]	Loss: -0.071327	soft_Loss: 0.011345	confu_Loss: 0.083337
+Train iter: 2770 [(55%)]	Loss: -0.063162	soft_Loss: 0.006128	confu_Loss: 0.069837
+Train iter: 2780 [(56%)]	Loss: -0.073865	soft_Loss: 0.010170	confu_Loss: 0.084684
+Train iter: 2790 [(56%)]	Loss: -0.069241	soft_Loss: 0.010718	confu_Loss: 0.080565
+Train iter: 2800 [(56%)]	Loss: -0.064455	soft_Loss: 0.008155	confu_Loss: 0.073149
+
+load6_train set: Average loss: 3545.8797, Accuracy: 27608/28800 (95.86%)
+
+
+load6_train set: Average loss: 755.5585, Accuracy: 2195/2400 (91.46%)
+
+learning rate 0.0012
+Train iter: 2810 [(56%)]	Loss: -0.075240	soft_Loss: 0.004941	confu_Loss: 0.080765
+Train iter: 2820 [(56%)]	Loss: -0.088359	soft_Loss: 0.012377	confu_Loss: 0.101455
+Train iter: 2830 [(57%)]	Loss: -0.067499	soft_Loss: 0.005292	confu_Loss: 0.073300
+Train iter: 2840 [(57%)]	Loss: -0.081269	soft_Loss: 0.004708	confu_Loss: 0.086566
+Train iter: 2850 [(57%)]	Loss: -0.057487	soft_Loss: 0.012866	confu_Loss: 0.070825
+Train iter: 2860 [(57%)]	Loss: -0.071027	soft_Loss: 0.003839	confu_Loss: 0.075358
+Train iter: 2870 [(57%)]	Loss: -0.062671	soft_Loss: 0.004460	confu_Loss: 0.067564
+Train iter: 2880 [(58%)]	Loss: -0.068669	soft_Loss: 0.008139	confu_Loss: 0.077294
+Train iter: 2890 [(58%)]	Loss: -0.082735	soft_Loss: 0.007317	confu_Loss: 0.090610
+Train iter: 2900 [(58%)]	Loss: -0.072503	soft_Loss: 0.005154	confu_Loss: 0.078129
+
+load6_train set: Average loss: 659.2996, Accuracy: 28506/28800 (98.98%)
+
+
+load6_train set: Average loss: 126.4426, Accuracy: 2356/2400 (98.17%)
+
+learning rate 0.0012
+Train iter: 2910 [(58%)]	Loss: -0.106599	soft_Loss: 0.004265	confu_Loss: 0.111524
+Train iter: 2920 [(58%)]	Loss: -0.063083	soft_Loss: 0.012872	confu_Loss: 0.076397
+Train iter: 2930 [(59%)]	Loss: -0.074454	soft_Loss: 0.009923	confu_Loss: 0.084859
+Train iter: 2940 [(59%)]	Loss: -0.089309	soft_Loss: 0.007891	confu_Loss: 0.097744
+Train iter: 2950 [(59%)]	Loss: -0.080410	soft_Loss: 0.010087	confu_Loss: 0.090994
+Train iter: 2960 [(59%)]	Loss: -0.076455	soft_Loss: 0.008516	confu_Loss: 0.085429
+Train iter: 2970 [(59%)]	Loss: -0.079730	soft_Loss: 0.006091	confu_Loss: 0.086274
+Train iter: 2980 [(60%)]	Loss: -0.134362	soft_Loss: 0.003323	confu_Loss: 0.138397
+Train iter: 2990 [(60%)]	Loss: -0.093566	soft_Loss: 0.003272	confu_Loss: 0.097329
+Train iter: 3000 [(60%)]	Loss: -0.074918	soft_Loss: 0.014374	confu_Loss: 0.089736
+
+load6_train set: Average loss: 9404.2231, Accuracy: 25515/28800 (88.59%)
+
+
+load6_train set: Average loss: 115.1302, Accuracy: 2369/2400 (98.71%)
+
+learning rate 0.0012
+Train iter: 3010 [(60%)]	Loss: -0.095021	soft_Loss: 0.006727	confu_Loss: 0.102244
+Train iter: 3020 [(60%)]	Loss: -0.091521	soft_Loss: 0.004124	confu_Loss: 0.096102
+Train iter: 3030 [(61%)]	Loss: -0.104079	soft_Loss: 0.004893	confu_Loss: 0.109482
+Train iter: 3040 [(61%)]	Loss: -0.085468	soft_Loss: 0.005447	confu_Loss: 0.091332
+Train iter: 3050 [(61%)]	Loss: -0.142501	soft_Loss: 0.001926	confu_Loss: 0.145076
+Train iter: 3060 [(61%)]	Loss: -0.108339	soft_Loss: 0.003506	confu_Loss: 0.112337
+Train iter: 3070 [(61%)]	Loss: -0.092524	soft_Loss: 0.003936	confu_Loss: 0.096876
+Train iter: 3080 [(62%)]	Loss: -0.107604	soft_Loss: 0.010269	confu_Loss: 0.118371
+Train iter: 3090 [(62%)]	Loss: -0.082408	soft_Loss: 0.008686	confu_Loss: 0.091472
+Train iter: 3100 [(62%)]	Loss: -0.106028	soft_Loss: 0.008479	confu_Loss: 0.114972
+
+load6_train set: Average loss: 922.1072, Accuracy: 28426/28800 (98.70%)
+
+
+load6_train set: Average loss: 431.8074, Accuracy: 2273/2400 (94.71%)
+
+learning rate 0.0011
+Train iter: 3110 [(62%)]	Loss: -0.103978	soft_Loss: 0.006657	confu_Loss: 0.111077
+Train iter: 3120 [(62%)]	Loss: -0.121521	soft_Loss: 0.006336	confu_Loss: 0.128357
+Train iter: 3130 [(63%)]	Loss: -0.115407	soft_Loss: 0.009590	confu_Loss: 0.125476
+Train iter: 3140 [(63%)]	Loss: -0.107300	soft_Loss: 0.008529	confu_Loss: 0.116264
+Train iter: 3150 [(63%)]	Loss: -0.102912	soft_Loss: 0.003887	confu_Loss: 0.107192
+Train iter: 3160 [(63%)]	Loss: -0.128850	soft_Loss: 0.005068	confu_Loss: 0.134401
+Train iter: 3170 [(63%)]	Loss: -0.123812	soft_Loss: 0.005181	confu_Loss: 0.129449
+Train iter: 3180 [(64%)]	Loss: -0.126674	soft_Loss: 0.003410	confu_Loss: 0.130534
+Train iter: 3190 [(64%)]	Loss: -0.160637	soft_Loss: 0.004880	confu_Loss: 0.166080
+Train iter: 3200 [(64%)]	Loss: -0.142452	soft_Loss: 0.008252	confu_Loss: 0.151205
+
+load6_train set: Average loss: 2835.2473, Accuracy: 27600/28800 (95.83%)
+
+
+load6_train set: Average loss: 552.4582, Accuracy: 2223/2400 (92.62%)
+
+learning rate 0.0011
+Train iter: 3210 [(64%)]	Loss: -0.126378	soft_Loss: 0.007166	confu_Loss: 0.133980
+Train iter: 3220 [(64%)]	Loss: -0.136492	soft_Loss: 0.009234	confu_Loss: 0.146192
+Train iter: 3230 [(65%)]	Loss: -0.101248	soft_Loss: 0.008791	confu_Loss: 0.110384
+Train iter: 3240 [(65%)]	Loss: -0.138532	soft_Loss: 0.003796	confu_Loss: 0.142766
+Train iter: 3250 [(65%)]	Loss: -0.131825	soft_Loss: 0.003438	confu_Loss: 0.135670
+Train iter: 3260 [(65%)]	Loss: -0.145620	soft_Loss: 0.004503	confu_Loss: 0.150567
+Train iter: 3270 [(65%)]	Loss: -0.160599	soft_Loss: 0.004394	confu_Loss: 0.165470
+Train iter: 3280 [(66%)]	Loss: -0.147667	soft_Loss: 0.007706	confu_Loss: 0.155813
+Train iter: 3290 [(66%)]	Loss: -0.142533	soft_Loss: 0.007537	confu_Loss: 0.150487
+Train iter: 3300 [(66%)]	Loss: -0.162244	soft_Loss: 0.005429	confu_Loss: 0.168130
+
+load6_train set: Average loss: 6290.6494, Accuracy: 26785/28800 (93.00%)
+
+
+load6_train set: Average loss: 408.5416, Accuracy: 2285/2400 (95.21%)
+
+learning rate 0.0011
+Train iter: 3310 [(66%)]	Loss: -0.143195	soft_Loss: 0.006896	confu_Loss: 0.150492
+Train iter: 3320 [(66%)]	Loss: -0.156613	soft_Loss: 0.004246	confu_Loss: 0.161281
+Train iter: 3330 [(67%)]	Loss: -0.183117	soft_Loss: 0.005552	confu_Loss: 0.189153
+Train iter: 3340 [(67%)]	Loss: -0.173225	soft_Loss: 0.003854	confu_Loss: 0.177524
+Train iter: 3350 [(67%)]	Loss: -0.169421	soft_Loss: 0.007201	confu_Loss: 0.177058
+Train iter: 3360 [(67%)]	Loss: -0.178493	soft_Loss: 0.003489	confu_Loss: 0.182422
+Train iter: 3370 [(67%)]	Loss: -0.152585	soft_Loss: 0.003125	confu_Loss: 0.156078
+Train iter: 3380 [(68%)]	Loss: -0.179809	soft_Loss: 0.004544	confu_Loss: 0.184780
+Train iter: 3390 [(68%)]	Loss: -0.146959	soft_Loss: 0.006861	confu_Loss: 0.154170
+Train iter: 3400 [(68%)]	Loss: -0.199993	soft_Loss: 0.003916	confu_Loss: 0.204364
+
+load6_train set: Average loss: 1372.8319, Accuracy: 28146/28800 (97.73%)
+
+
+load6_train set: Average loss: 46.0438, Accuracy: 2381/2400 (99.21%)
+
+learning rate 0.0011
+Train iter: 3410 [(68%)]	Loss: -0.165814	soft_Loss: 0.002841	confu_Loss: 0.169024
+Train iter: 3420 [(68%)]	Loss: -0.174281	soft_Loss: 0.006380	confu_Loss: 0.181048
+Train iter: 3430 [(69%)]	Loss: -0.191834	soft_Loss: 0.003841	confu_Loss: 0.196086
+Train iter: 3440 [(69%)]	Loss: -0.200343	soft_Loss: 0.004564	confu_Loss: 0.205328
+Train iter: 3450 [(69%)]	Loss: -0.199769	soft_Loss: 0.008456	confu_Loss: 0.208646
+Train iter: 3460 [(69%)]	Loss: -0.218709	soft_Loss: 0.005879	confu_Loss: 0.225032
+Train iter: 3470 [(69%)]	Loss: -0.203454	soft_Loss: 0.004142	confu_Loss: 0.207998
+Train iter: 3480 [(70%)]	Loss: -0.205774	soft_Loss: 0.002472	confu_Loss: 0.208641
+Train iter: 3490 [(70%)]	Loss: -0.210555	soft_Loss: 0.005179	confu_Loss: 0.216136
+Train iter: 3500 [(70%)]	Loss: -0.195925	soft_Loss: 0.006509	confu_Loss: 0.202803
+
+load6_train set: Average loss: 1852.4350, Accuracy: 28042/28800 (97.37%)
+
+
+load6_train set: Average loss: 228.2043, Accuracy: 2323/2400 (96.79%)
+
+learning rate 0.0011
+Train iter: 3510 [(70%)]	Loss: -0.212590	soft_Loss: 0.006512	confu_Loss: 0.219494
+Train iter: 3520 [(70%)]	Loss: -0.186381	soft_Loss: 0.003594	confu_Loss: 0.190308
+Train iter: 3530 [(71%)]	Loss: -0.200581	soft_Loss: 0.003655	confu_Loss: 0.204587
+Train iter: 3540 [(71%)]	Loss: -0.234257	soft_Loss: 0.005391	confu_Loss: 0.240052
+Train iter: 3550 [(71%)]	Loss: -0.209360	soft_Loss: 0.003823	confu_Loss: 0.213536
+Train iter: 3560 [(71%)]	Loss: -0.245245	soft_Loss: 0.003020	confu_Loss: 0.248667
+Train iter: 3570 [(71%)]	Loss: -0.214848	soft_Loss: 0.010504	confu_Loss: 0.225709
+Train iter: 3580 [(72%)]	Loss: -0.222634	soft_Loss: 0.004490	confu_Loss: 0.227478
+Train iter: 3590 [(72%)]	Loss: -0.222223	soft_Loss: 0.003804	confu_Loss: 0.226372
+Train iter: 3600 [(72%)]	Loss: -0.238019	soft_Loss: 0.005347	confu_Loss: 0.243730
+
+load6_train set: Average loss: 4578.4039, Accuracy: 27008/28800 (93.78%)
+
+
+load6_train set: Average loss: 99.1281, Accuracy: 2365/2400 (98.54%)
+
+learning rate 0.0010
+Train iter: 3610 [(72%)]	Loss: -0.240790	soft_Loss: 0.005600	confu_Loss: 0.246751
+Train iter: 3620 [(72%)]	Loss: -0.253854	soft_Loss: 0.005420	confu_Loss: 0.259645
+Train iter: 3630 [(73%)]	Loss: -0.242431	soft_Loss: 0.008348	confu_Loss: 0.251132
+Train iter: 3640 [(73%)]	Loss: -0.246362	soft_Loss: 0.003696	confu_Loss: 0.250403
+Train iter: 3650 [(73%)]	Loss: -0.251972	soft_Loss: 0.003452	confu_Loss: 0.255770
+Train iter: 3660 [(73%)]	Loss: -0.253452	soft_Loss: 0.004840	confu_Loss: 0.258634
+Train iter: 3670 [(73%)]	Loss: -0.286178	soft_Loss: 0.002888	confu_Loss: 0.289442
+Train iter: 3680 [(74%)]	Loss: -0.290396	soft_Loss: 0.004275	confu_Loss: 0.295046
+Train iter: 3690 [(74%)]	Loss: -0.288781	soft_Loss: 0.004199	confu_Loss: 0.293346
+Train iter: 3700 [(74%)]	Loss: -0.276619	soft_Loss: 0.004193	confu_Loss: 0.281156
+
+load6_train set: Average loss: 1097.3478, Accuracy: 28295/28800 (98.25%)
+
+
+load6_train set: Average loss: 47.1891, Accuracy: 2385/2400 (99.38%)
+
+learning rate 0.0010
+Train iter: 3710 [(74%)]	Loss: -0.266890	soft_Loss: 0.004400	confu_Loss: 0.271616
+Train iter: 3720 [(74%)]	Loss: -0.281417	soft_Loss: 0.003060	confu_Loss: 0.284811
+Train iter: 3730 [(75%)]	Loss: -0.282621	soft_Loss: 0.006831	confu_Loss: 0.289785
+Train iter: 3740 [(75%)]	Loss: -0.274308	soft_Loss: 0.003010	confu_Loss: 0.277631
+Train iter: 3750 [(75%)]	Loss: -0.301175	soft_Loss: 0.003988	confu_Loss: 0.305501
+Train iter: 3760 [(75%)]	Loss: -0.278358	soft_Loss: 0.003849	confu_Loss: 0.282514
+Train iter: 3770 [(75%)]	Loss: -0.267542	soft_Loss: 0.004146	confu_Loss: 0.271976
+Train iter: 3780 [(76%)]	Loss: -0.324783	soft_Loss: 0.005863	confu_Loss: 0.330991
+Train iter: 3790 [(76%)]	Loss: -0.362532	soft_Loss: 0.003865	confu_Loss: 0.366771
+Train iter: 3800 [(76%)]	Loss: -0.323490	soft_Loss: 0.003376	confu_Loss: 0.327193
+
+load6_train set: Average loss: 770.4155, Accuracy: 28464/28800 (98.83%)
+
+
+load6_train set: Average loss: 135.4390, Accuracy: 2353/2400 (98.04%)
+
+learning rate 0.0010
+Train iter: 3810 [(76%)]	Loss: -0.318259	soft_Loss: 0.008709	confu_Loss: 0.327288
+Train iter: 3820 [(76%)]	Loss: -0.317216	soft_Loss: 0.006927	confu_Loss: 0.324456
+Train iter: 3830 [(77%)]	Loss: -0.350473	soft_Loss: 0.003668	confu_Loss: 0.354474
+Train iter: 3840 [(77%)]	Loss: -0.343693	soft_Loss: 0.004175	confu_Loss: 0.348190
+Train iter: 3850 [(77%)]	Loss: -0.338346	soft_Loss: 0.007133	confu_Loss: 0.345792
+Train iter: 3860 [(77%)]	Loss: -0.368204	soft_Loss: 0.002110	confu_Loss: 0.370643
+Train iter: 3870 [(77%)]	Loss: -0.348024	soft_Loss: 0.005630	confu_Loss: 0.353962
+Train iter: 3880 [(78%)]	Loss: -0.357657	soft_Loss: 0.006379	confu_Loss: 0.364347
+Train iter: 3890 [(78%)]	Loss: -0.389868	soft_Loss: 0.003054	confu_Loss: 0.393250
+Train iter: 3900 [(78%)]	Loss: -0.391300	soft_Loss: 0.004744	confu_Loss: 0.396369
+
+load6_train set: Average loss: 2384.4417, Accuracy: 27803/28800 (96.54%)
+
+
+load6_train set: Average loss: 91.8551, Accuracy: 2372/2400 (98.83%)
+
+learning rate 0.0010
+Train iter: 3910 [(78%)]	Loss: -0.348910	soft_Loss: 0.003690	confu_Loss: 0.352883
+Train iter: 3920 [(78%)]	Loss: -0.373624	soft_Loss: 0.004210	confu_Loss: 0.378132
+Train iter: 3930 [(79%)]	Loss: -0.387316	soft_Loss: 0.002675	confu_Loss: 0.390292
+Train iter: 3940 [(79%)]	Loss: -0.395871	soft_Loss: 0.003266	confu_Loss: 0.399439
+Train iter: 3950 [(79%)]	Loss: -0.403054	soft_Loss: 0.002803	confu_Loss: 0.406158
+Train iter: 3960 [(79%)]	Loss: -0.436993	soft_Loss: 0.009974	confu_Loss: 0.447292
+Train iter: 3970 [(79%)]	Loss: -0.387136	soft_Loss: 0.003023	confu_Loss: 0.390437
+Train iter: 3980 [(80%)]	Loss: -0.399777	soft_Loss: 0.003608	confu_Loss: 0.403666
+Train iter: 3990 [(80%)]	Loss: -0.404658	soft_Loss: 0.006834	confu_Loss: 0.411773
+Train iter: 4000 [(80%)]	Loss: -0.430309	soft_Loss: 0.003773	confu_Loss: 0.434373
+
+load6_train set: Average loss: 188.1379, Accuracy: 28655/28800 (99.50%)
+
+
+load6_train set: Average loss: 41.4351, Accuracy: 2384/2400 (99.33%)
+
+learning rate 0.0010
+Train iter: 4010 [(80%)]	Loss: -0.459219	soft_Loss: 0.003405	confu_Loss: 0.462928
+Train iter: 4020 [(80%)]	Loss: -0.458848	soft_Loss: 0.002541	confu_Loss: 0.461686
+Train iter: 4030 [(81%)]	Loss: -0.469917	soft_Loss: 0.004502	confu_Loss: 0.474719
+Train iter: 4040 [(81%)]	Loss: -0.465010	soft_Loss: 0.008059	confu_Loss: 0.473362
+Train iter: 4050 [(81%)]	Loss: -0.454264	soft_Loss: 0.005173	confu_Loss: 0.459717
+Train iter: 4060 [(81%)]	Loss: -0.505454	soft_Loss: 0.003251	confu_Loss: 0.509007
+Train iter: 4070 [(81%)]	Loss: -0.498054	soft_Loss: 0.005873	confu_Loss: 0.504222
+Train iter: 4080 [(82%)]	Loss: -0.500642	soft_Loss: 0.004405	confu_Loss: 0.505336
+Train iter: 4090 [(82%)]	Loss: -0.489167	soft_Loss: 0.004556	confu_Loss: 0.494000
+Train iter: 4100 [(82%)]	Loss: -0.516261	soft_Loss: 0.003942	confu_Loss: 0.520489
+
+load6_train set: Average loss: 1116.0532, Accuracy: 28311/28800 (98.30%)
+
+
+load6_train set: Average loss: 333.1040, Accuracy: 2286/2400 (95.25%)
+
+learning rate 0.0009
+Train iter: 4110 [(82%)]	Loss: -0.498696	soft_Loss: 0.003449	confu_Loss: 0.502416
+Train iter: 4120 [(82%)]	Loss: -0.532392	soft_Loss: 0.006606	confu_Loss: 0.539282
+Train iter: 4130 [(83%)]	Loss: -0.542332	soft_Loss: 0.005108	confu_Loss: 0.547723
+Train iter: 4140 [(83%)]	Loss: -0.531702	soft_Loss: 0.003869	confu_Loss: 0.535843
+Train iter: 4150 [(83%)]	Loss: -0.550188	soft_Loss: 0.007719	confu_Loss: 0.558184
+Train iter: 4160 [(83%)]	Loss: -0.551801	soft_Loss: 0.003068	confu_Loss: 0.555139
+Train iter: 4170 [(83%)]	Loss: -0.572729	soft_Loss: 0.002464	confu_Loss: 0.575467
+Train iter: 4180 [(84%)]	Loss: -0.566696	soft_Loss: 0.006168	confu_Loss: 0.573132
+Train iter: 4190 [(84%)]	Loss: -0.596319	soft_Loss: 0.004007	confu_Loss: 0.600601
+Train iter: 4200 [(84%)]	Loss: -0.599688	soft_Loss: 0.002626	confu_Loss: 0.602585
+
+load6_train set: Average loss: 990.6165, Accuracy: 28348/28800 (98.43%)
+
+
+load6_train set: Average loss: 27.8967, Accuracy: 2397/2400 (99.88%)
+
+learning rate 0.0009
+Train iter: 4210 [(84%)]	Loss: -0.589463	soft_Loss: 0.003519	confu_Loss: 0.593243
+Train iter: 4220 [(84%)]	Loss: -0.611451	soft_Loss: 0.003835	confu_Loss: 0.615551
+Train iter: 4230 [(85%)]	Loss: -0.625405	soft_Loss: 0.003192	confu_Loss: 0.628863
+Train iter: 4240 [(85%)]	Loss: -0.651491	soft_Loss: 0.002240	confu_Loss: 0.654002
+Train iter: 4250 [(85%)]	Loss: -0.651600	soft_Loss: 0.002938	confu_Loss: 0.654804
+Train iter: 4260 [(85%)]	Loss: -0.668724	soft_Loss: 0.002998	confu_Loss: 0.671989
+Train iter: 4270 [(85%)]	Loss: -0.639828	soft_Loss: 0.004003	confu_Loss: 0.644083
+Train iter: 4280 [(86%)]	Loss: -0.659828	soft_Loss: 0.002897	confu_Loss: 0.662979
+Train iter: 4290 [(86%)]	Loss: -0.684374	soft_Loss: 0.003423	confu_Loss: 0.688055
+Train iter: 4300 [(86%)]	Loss: -0.691153	soft_Loss: 0.002183	confu_Loss: 0.693591
+
+load6_train set: Average loss: 974.7356, Accuracy: 28388/28800 (98.57%)
+
+
+load6_train set: Average loss: 68.4792, Accuracy: 2377/2400 (99.04%)
+
+learning rate 0.0009
+Train iter: 4310 [(86%)]	Loss: -0.698855	soft_Loss: 0.003669	confu_Loss: 0.702778
+Train iter: 4320 [(86%)]	Loss: -0.743813	soft_Loss: 0.001847	confu_Loss: 0.745924
+Train iter: 4330 [(87%)]	Loss: -0.724796	soft_Loss: 0.005813	confu_Loss: 0.730862
+Train iter: 4340 [(87%)]	Loss: -0.715687	soft_Loss: 0.006889	confu_Loss: 0.722821
+Train iter: 4350 [(87%)]	Loss: -0.738262	soft_Loss: 0.004074	confu_Loss: 0.742583
+Train iter: 4360 [(87%)]	Loss: -0.750994	soft_Loss: 0.003495	confu_Loss: 0.754735
+Train iter: 4370 [(87%)]	Loss: -0.767601	soft_Loss: 0.004280	confu_Loss: 0.772129
+Train iter: 4380 [(88%)]	Loss: -0.804067	soft_Loss: 0.004011	confu_Loss: 0.808331
+Train iter: 4390 [(88%)]	Loss: -0.789436	soft_Loss: 0.005977	confu_Loss: 0.795658
+Train iter: 4400 [(88%)]	Loss: -0.824119	soft_Loss: 0.002556	confu_Loss: 0.826925
+
+load6_train set: Average loss: 308.7625, Accuracy: 28626/28800 (99.40%)
+
+
+load6_train set: Average loss: 46.8439, Accuracy: 2380/2400 (99.17%)
+
+learning rate 0.0009
+Train iter: 4410 [(88%)]	Loss: -0.806900	soft_Loss: 0.003177	confu_Loss: 0.810316
+Train iter: 4420 [(88%)]	Loss: -0.826024	soft_Loss: 0.006605	confu_Loss: 0.832871
+Train iter: 4430 [(89%)]	Loss: -0.849960	soft_Loss: 0.004031	confu_Loss: 0.854233
+Train iter: 4440 [(89%)]	Loss: -0.847274	soft_Loss: 0.004067	confu_Loss: 0.851578
+Train iter: 4450 [(89%)]	Loss: -0.896798	soft_Loss: 0.003750	confu_Loss: 0.900794
+Train iter: 4460 [(89%)]	Loss: -0.870860	soft_Loss: 0.004957	confu_Loss: 0.876052
+Train iter: 4470 [(89%)]	Loss: -0.899623	soft_Loss: 0.004315	confu_Loss: 0.904175
+Train iter: 4480 [(90%)]	Loss: -0.909576	soft_Loss: 0.004930	confu_Loss: 0.914741
+Train iter: 4490 [(90%)]	Loss: -0.924060	soft_Loss: 0.003453	confu_Loss: 0.927747
+Train iter: 4500 [(90%)]	Loss: -0.924285	soft_Loss: 0.003627	confu_Loss: 0.928141
+
+load6_train set: Average loss: 266.4277, Accuracy: 28642/28800 (99.45%)
+
+
+load6_train set: Average loss: 48.6333, Accuracy: 2383/2400 (99.29%)
+
+learning rate 0.0009
+Train iter: 4510 [(90%)]	Loss: -0.938181	soft_Loss: 0.003928	confu_Loss: 0.942337
+Train iter: 4520 [(90%)]	Loss: -0.930350	soft_Loss: 0.003972	confu_Loss: 0.934544
+Train iter: 4530 [(91%)]	Loss: -0.947654	soft_Loss: 0.003043	confu_Loss: 0.950918
+Train iter: 4540 [(91%)]	Loss: -0.961943	soft_Loss: 0.002938	confu_Loss: 0.965101
+Train iter: 4550 [(91%)]	Loss: -0.973564	soft_Loss: 0.003574	confu_Loss: 0.977357
+Train iter: 4560 [(91%)]	Loss: -0.977714	soft_Loss: 0.003301	confu_Loss: 0.981230
+Train iter: 4570 [(91%)]	Loss: -0.999344	soft_Loss: 0.003816	confu_Loss: 1.003375
+Train iter: 4580 [(92%)]	Loss: -1.010678	soft_Loss: 0.003516	confu_Loss: 1.014407
+Train iter: 4590 [(92%)]	Loss: -1.009887	soft_Loss: 0.003080	confu_Loss: 1.013176
+Train iter: 4600 [(92%)]	Loss: -1.016276	soft_Loss: 0.003060	confu_Loss: 1.019542
+
+load6_train set: Average loss: 819.5123, Accuracy: 28410/28800 (98.65%)
+
+
+load6_train set: Average loss: 302.2499, Accuracy: 2285/2400 (95.21%)
+
+learning rate 0.0009
+Train iter: 4610 [(92%)]	Loss: -1.021908	soft_Loss: 0.001843	confu_Loss: 1.023953
+Train iter: 4620 [(92%)]	Loss: -1.024676	soft_Loss: 0.004583	confu_Loss: 1.029459
+Train iter: 4630 [(93%)]	Loss: -1.033979	soft_Loss: 0.002188	confu_Loss: 1.036364
+Train iter: 4640 [(93%)]	Loss: -1.040958	soft_Loss: 0.005433	confu_Loss: 1.046586
+Train iter: 4650 [(93%)]	Loss: -1.047486	soft_Loss: 0.002736	confu_Loss: 1.050414
+Train iter: 4660 [(93%)]	Loss: -1.043169	soft_Loss: 0.004975	confu_Loss: 1.048333
+Train iter: 4670 [(93%)]	Loss: -1.055789	soft_Loss: 0.005022	confu_Loss: 1.060997
+Train iter: 4680 [(94%)]	Loss: -1.062770	soft_Loss: 0.003346	confu_Loss: 1.066300
+Train iter: 4690 [(94%)]	Loss: -1.066689	soft_Loss: 0.002592	confu_Loss: 1.069461
+Train iter: 4700 [(94%)]	Loss: -1.065660	soft_Loss: 0.002179	confu_Loss: 1.068016
+
+load6_train set: Average loss: 326.4349, Accuracy: 28640/28800 (99.44%)
+
+
+load6_train set: Average loss: 23.8889, Accuracy: 2399/2400 (99.96%)
+
+learning rate 0.0009
+Train iter: 4710 [(94%)]	Loss: -1.073267	soft_Loss: 0.003785	confu_Loss: 1.077226
+Train iter: 4720 [(94%)]	Loss: -1.070167	soft_Loss: 0.002645	confu_Loss: 1.072983
+Train iter: 4730 [(95%)]	Loss: -1.076433	soft_Loss: 0.002158	confu_Loss: 1.078759
+Train iter: 4740 [(95%)]	Loss: -1.073776	soft_Loss: 0.004230	confu_Loss: 1.078170
+Train iter: 4750 [(95%)]	Loss: -1.079854	soft_Loss: 0.004124	confu_Loss: 1.084140
+Train iter: 4760 [(95%)]	Loss: -1.083171	soft_Loss: 0.003251	confu_Loss: 1.086581
+Train iter: 4770 [(95%)]	Loss: -1.081707	soft_Loss: 0.003213	confu_Loss: 1.085076
+Train iter: 4780 [(96%)]	Loss: -1.084054	soft_Loss: 0.002839	confu_Loss: 1.087046
+Train iter: 4790 [(96%)]	Loss: -1.084430	soft_Loss: 0.005469	confu_Loss: 1.090050
+Train iter: 4800 [(96%)]	Loss: -1.086555	soft_Loss: 0.004081	confu_Loss: 1.090784
+
+load6_train set: Average loss: 1671.5691, Accuracy: 28077/28800 (97.49%)
+
+
+load6_train set: Average loss: 152.9064, Accuracy: 2338/2400 (97.42%)
+
+learning rate 0.0009
+Train iter: 4810 [(96%)]	Loss: -1.085371	soft_Loss: 0.003693	confu_Loss: 1.089209
+Train iter: 4820 [(96%)]	Loss: -1.086291	soft_Loss: 0.005673	confu_Loss: 1.092106
+Train iter: 4830 [(97%)]	Loss: -1.089309	soft_Loss: 0.003582	confu_Loss: 1.093030
+Train iter: 4840 [(97%)]	Loss: -1.088375	soft_Loss: 0.005867	confu_Loss: 1.094379
+Train iter: 4850 [(97%)]	Loss: -1.090838	soft_Loss: 0.003683	confu_Loss: 1.094655
+Train iter: 4860 [(97%)]	Loss: -1.092815	soft_Loss: 0.002428	confu_Loss: 1.095374
+Train iter: 4870 [(97%)]	Loss: -1.091935	soft_Loss: 0.004420	confu_Loss: 1.096485
+Train iter: 4880 [(98%)]	Loss: -1.094499	soft_Loss: 0.002019	confu_Loss: 1.096645
+Train iter: 4890 [(98%)]	Loss: -1.093841	soft_Loss: 0.003211	confu_Loss: 1.097176
+Train iter: 4900 [(98%)]	Loss: -1.094743	soft_Loss: 0.002981	confu_Loss: 1.097846
+
+load6_train set: Average loss: 341.2419, Accuracy: 28600/28800 (99.31%)
+
+
+load6_train set: Average loss: 39.8166, Accuracy: 2382/2400 (99.25%)
+
+learning rate 0.0008
+Train iter: 4910 [(98%)]	Loss: -1.093638	soft_Loss: 0.003737	confu_Loss: 1.097494
+Train iter: 4920 [(98%)]	Loss: -1.095442	soft_Loss: 0.002556	confu_Loss: 1.098115
+Train iter: 4930 [(99%)]	Loss: -1.094097	soft_Loss: 0.003695	confu_Loss: 1.097906
+Train iter: 4940 [(99%)]	Loss: -1.094649	soft_Loss: 0.003535	confu_Loss: 1.098297
+Train iter: 4950 [(99%)]	Loss: -1.094635	soft_Loss: 0.003806	confu_Loss: 1.098551
+Train iter: 4960 [(99%)]	Loss: -1.095378	soft_Loss: 0.003007	confu_Loss: 1.098493
+Train iter: 4970 [(99%)]	Loss: -1.092764	soft_Loss: 0.005588	confu_Loss: 1.098458
+Train iter: 4980 [(100%)]	Loss: -1.093954	soft_Loss: 0.004525	confu_Loss: 1.098583
+Train iter: 4990 [(100%)]	Loss: -1.094469	soft_Loss: 0.003982	confu_Loss: 1.098553
+Train iter: 5000 [(100%)]	Loss: -1.093358	soft_Loss: 0.005065	confu_Loss: 1.098522
+
+load6_train set: Average loss: 2203.7938, Accuracy: 27957/28800 (97.07%)
+
+
+load6_train set: Average loss: 327.8903, Accuracy: 2299/2400 (95.79%)
+
+(2400, 3200)
+DeepALL_ADV(
+  (sharedNet): CNN(
+    (layer1): Sequential(
+      (0): Conv1d(1, 16, kernel_size=(64,), stride=(1,))
+      (1): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer2): Sequential(
+      (0): Conv1d(16, 32, kernel_size=(16,), stride=(1,))
+      (1): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer3): Sequential(
+      (0): Conv1d(32, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer4): Sequential(
+      (0): Conv1d(64, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): AdaptiveMaxPool1d(output_size=4)
+    )
+  )
+  (cls_fc): Linear(in_features=256, out_features=12, bias=True)
+  (domain_fc): AdversarialNetwork_multi(
+    (ad_layer1): Linear(in_features=256, out_features=128, bias=True)
+    (ad_layer2): Linear(in_features=128, out_features=3, bias=True)
+    (relu1): ReLU()
+    (relu2): ReLU()
+    (dropout1): Dropout(p=0.5, inplace=False)
+    (dropout2): Dropout(p=0.5, inplace=False)
+    (softmax): Softmax(dim=None)
+  )
+)
