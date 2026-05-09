@@ -41,4 +41,4 @@ The current code is the initial version, and we will integrate it into a complet
 | DCORAL | PU | [7,8,9]→6 | 99.71% | 53.50% | 95.51±8.42% | ✅ |
 | CCDG | CWRU | [0,1,2]→3 | 100.00% | 92.85% | 97.13±1.59% | ✅ |
 | CCDG | CWRU | [0,1,3]→2 | 100.00% | 92.40% | 99.87±0.88% | ✅ |
-| CCDG | CWRU | [0,2,3]→1 | 99.85% | 90.95% | 95.07±2.38% | 🔄 |
+| CCDG | CWRU | [0,2,3]→1 | 99.85% | 90.95% | 95.24±2.31% | 🔄 |
