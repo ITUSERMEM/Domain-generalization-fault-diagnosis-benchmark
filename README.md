@@ -35,4 +35,4 @@ The current code is the initial version, and we will integrate it into a complet
 | DCORAL | CWRU | [0,1,3]→2 | 100.00% | 92.00% | 99.86±0.94% | ✅ |
 | DCORAL | CWRU | [0,2,3]→1 | 99.90% | 90.80% | 98.72±1.70% | ✅ |
 | DCORAL | CWRU | [1,2,3]→0 | 99.95% | 88.90% | 98.54±1.42% | ✅ |
-| DCORAL | PU | [6,7,8]→9 | 45.83% | 20.42% | 31.07±6.57% | 🔄 |
+| DCORAL | PU | [6,7,8]→9 | 48.29% | 19.29% | 34.20±6.96% | 🔄 |
