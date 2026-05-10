@@ -59,4 +59,4 @@ The current code is the initial version, and we will integrate it into a complet
 | DGNIS | PU | [6,7,9]→8 | 44.75% | 14.67% | 35.47±8.11% | ✅ |
 | DGNIS | PU | [6,8,9]→7 | 39.83% | 11.96% | 32.79±6.88% | ✅ |
 | DGNIS | PU | [7,8,9]→6 | 45.29% | 13.46% | 34.99±8.94% | ✅ |
-| IEDGNet | CWRU | [0,1,2]→3 | 100.00% | 97.05% | 99.43±0.46% | 🔄 |
+| IEDGNet | CWRU | [0,1,2]→3 | 100.00% | 96.60% | 99.41±0.47% | 🔄 |
