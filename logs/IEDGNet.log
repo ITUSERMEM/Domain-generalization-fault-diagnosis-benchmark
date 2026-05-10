@@ -1,0 +1,147 @@
+========================================
+Starting IEDGNet.py at Sun May 10 10:36:01 CST 2026
+========================================
+/home/Domain-generalization-fault-diagnosis-benchmark-main/data_loader_1d.py:180: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.detach().clone() or sourceTensor.detach().clone().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  train_fea= torch.tensor(train_fea, dtype=torch.float32)
+/home/Domain-generalization-fault-diagnosis-benchmark-main/data_loader_1d.py:235: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.detach().clone() or sourceTensor.detach().clone().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  train_fea= torch.tensor(train_fea, dtype=torch.float32)
+/home/Domain-generalization-fault-diagnosis-benchmark-main/data_loader_1d.py:101: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.detach().clone() or sourceTensor.detach().clone().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  train_fea = torch.tensor(train_fea, dtype=torch.float32)
+/home/Domain-generalization-fault-diagnosis-benchmark-main/utils.py:152: UserWarning: This overload of addmm_ is deprecated:
+	addmm_(Number beta, Number alpha, Tensor mat1, Tensor mat2)
+Consider using one of the following signatures instead:
+	addmm_(Tensor mat1, Tensor mat2, *, Number beta = 1, Number alpha = 1) (Triggered internally at /pytorch/torch/csrc/utils/python_arg_parser.cpp:1805.)
+  dist_mtx = dist_mtx.addmm_(1, -2, emb1, emb2.t())
+(2000, 3200)
+IEDG(
+  (sharedNet): CNN(
+    (layer1): Sequential(
+      (0): Conv1d(1, 16, kernel_size=(64,), stride=(1,))
+      (1): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer2): Sequential(
+      (0): Conv1d(16, 32, kernel_size=(16,), stride=(1,))
+      (1): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer3): Sequential(
+      (0): Conv1d(32, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer4): Sequential(
+      (0): Conv1d(64, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): AdaptiveMaxPool1d(output_size=4)
+    )
+  )
+  (cls_fc): Linear(in_features=256, out_features=10, bias=True)
+  (domain_fc): AdversarialNetwork(
+    (ad_layer1): Linear(in_features=256, out_features=128, bias=True)
+    (ad_layer2): Linear(in_features=128, out_features=2, bias=True)
+    (relu1): ReLU()
+    (relu2): ReLU()
+    (dropout1): Dropout(p=0.5, inplace=False)
+    (dropout2): Dropout(p=0.5, inplace=False)
+    (softmax): Softmax(dim=None)
+  )
+)
+learning rate 0.0010
+Train iter: 10 [(0%)]	Loss: 1.916400	soft_Loss: 1.847864	confu_Loss: 0.779794	Trip_Loss: 7.633664
+Train iter: 20 [(0%)]	Loss: 1.551249	soft_Loss: 1.418907	confu_Loss: 0.744944	Trip_Loss: 7.362892
+Train iter: 30 [(1%)]	Loss: 1.324455	soft_Loss: 1.140793	confu_Loss: 0.723440	Trip_Loss: 6.847356
+Train iter: 40 [(1%)]	Loss: 0.997300	soft_Loss: 0.831696	confu_Loss: 0.720268	Trip_Loss: 4.862578
+Train iter: 50 [(1%)]	Loss: 0.871189	soft_Loss: 0.645990	confu_Loss: 0.713915	Trip_Loss: 5.221643
+Train iter: 60 [(1%)]	Loss: 0.703179	soft_Loss: 0.467765	confu_Loss: 0.696088	Trip_Loss: 4.624349
+Train iter: 70 [(1%)]	Loss: 0.611867	soft_Loss: 0.378078	confu_Loss: 0.696422	Trip_Loss: 4.041719
+Train iter: 80 [(2%)]	Loss: 0.466247	soft_Loss: 0.294591	confu_Loss: 0.692576	Trip_Loss: 2.842854
+Train iter: 90 [(2%)]	Loss: 0.374822	soft_Loss: 0.238741	confu_Loss: 0.696666	Trip_Loss: 2.212768
+Train iter: 100 [(2%)]	Loss: 0.271577	soft_Loss: 0.168762	confu_Loss: 0.691022	Trip_Loss: 1.722598
+
+load3_train set: Average loss: 4105.2289, Accuracy: 23236/24000 (96.82%)
+
+
+load3_train set: Average loss: 568.9063, Accuracy: 1959/2000 (97.95%)
+
+learning rate 0.0009
+Train iter: 110 [(2%)]	Loss: 0.251884	soft_Loss: 0.154858	confu_Loss: 0.688705	Trip_Loss: 1.574315
+Train iter: 120 [(2%)]	Loss: 0.267330	soft_Loss: 0.141415	confu_Loss: 0.682225	Trip_Loss: 1.736547
+Train iter: 130 [(3%)]	Loss: 0.180211	soft_Loss: 0.117786	confu_Loss: 0.681601	Trip_Loss: 1.164497
+Train iter: 140 [(3%)]	Loss: 0.119052	soft_Loss: 0.093253	confu_Loss: 0.683685	Trip_Loss: 0.869166
+Train iter: 150 [(3%)]	Loss: 0.045270	soft_Loss: 0.076766	confu_Loss: 0.688607	Trip_Loss: 0.477064
+Train iter: 160 [(3%)]	Loss: 0.070175	soft_Loss: 0.069750	confu_Loss: 0.677798	Trip_Loss: 0.680477
+Train iter: 170 [(3%)]	Loss: 0.001401	soft_Loss: 0.056509	confu_Loss: 0.674931	Trip_Loss: 0.347649
+Train iter: 180 [(4%)]	Loss: 0.016381	soft_Loss: 0.051554	confu_Loss: 0.670573	Trip_Loss: 0.473060
+Train iter: 190 [(4%)]	Loss: 0.019766	soft_Loss: 0.046418	confu_Loss: 0.673402	Trip_Loss: 0.531443
+Train iter: 200 [(4%)]	Loss: -0.045982	soft_Loss: 0.037991	confu_Loss: 0.664026	Trip_Loss: 0.238581
+
+load3_train set: Average loss: 804.2631, Accuracy: 23761/24000 (99.00%)
+
+
+load3_train set: Average loss: 219.1549, Accuracy: 1984/2000 (99.20%)
+
+learning rate 0.0008
+Train iter: 210 [(4%)]	Loss: -0.045686	soft_Loss: 0.029529	confu_Loss: 0.670803	Trip_Loss: 0.307387
+Train iter: 220 [(4%)]	Loss: -0.088080	soft_Loss: 0.026625	confu_Loss: 0.659777	Trip_Loss: 0.130003
+Train iter: 230 [(5%)]	Loss: -0.070334	soft_Loss: 0.026147	confu_Loss: 0.650642	Trip_Loss: 0.223789
+Train iter: 240 [(5%)]	Loss: -0.114908	soft_Loss: 0.014851	confu_Loss: 0.657842	Trip_Loss: 0.106838
+Train iter: 250 [(5%)]	Loss: -0.098329	soft_Loss: 0.016061	confu_Loss: 0.657660	Trip_Loss: 0.190609
+Train iter: 260 [(5%)]	Loss: -0.083102	soft_Loss: 0.015531	confu_Loss: 0.654817	Trip_Loss: 0.266949
+Train iter: 270 [(5%)]	Loss: -0.131581	soft_Loss: 0.011624	confu_Loss: 0.643433	Trip_Loss: 0.100218
+Train iter: 280 [(6%)]	Loss: -0.126055	soft_Loss: 0.012178	confu_Loss: 0.643347	Trip_Loss: 0.136825
+Train iter: 290 [(6%)]	Loss: -0.163377	soft_Loss: 0.007541	confu_Loss: 0.636654	Trip_Loss: 0.030853
+Train iter: 300 [(6%)]	Loss: -0.160440	soft_Loss: 0.006677	confu_Loss: 0.636185	Trip_Loss: 0.062516
+
+load3_train set: Average loss: 719.3070, Accuracy: 23766/24000 (99.03%)
+
+
+load3_train set: Average loss: 128.1830, Accuracy: 1991/2000 (99.55%)
+
+learning rate 0.0007
+Train iter: 310 [(6%)]	Loss: -0.144962	soft_Loss: 0.007608	confu_Loss: 0.627962	Trip_Loss: 0.120136
+Train iter: 320 [(6%)]	Loss: -0.168163	soft_Loss: 0.005863	confu_Loss: 0.630191	Trip_Loss: 0.067923
+Train iter: 330 [(7%)]	Loss: -0.192848	soft_Loss: 0.004394	confu_Loss: 0.634855	Trip_Loss: 0.015611
+Train iter: 340 [(7%)]	Loss: -0.180418	soft_Loss: 0.006006	confu_Loss: 0.617671	Trip_Loss: 0.048398
+Train iter: 350 [(7%)]	Loss: -0.188291	soft_Loss: 0.009623	confu_Loss: 0.609798	Trip_Loss: 0.021425
+Train iter: 360 [(7%)]	Loss: -0.165144	soft_Loss: 0.005252	confu_Loss: 0.606670	Trip_Loss: 0.113074
+Train iter: 370 [(7%)]	Loss: -0.192987	soft_Loss: 0.004608	confu_Loss: 0.595773	Trip_Loss: 0.037581
+Train iter: 380 [(8%)]	Loss: -0.194200	soft_Loss: 0.003530	confu_Loss: 0.592633	Trip_Loss: 0.047483
+Train iter: 390 [(8%)]	Loss: -0.201664	soft_Loss: 0.003041	confu_Loss: 0.573382	Trip_Loss: 0.022153
+Train iter: 400 [(8%)]	Loss: -0.217078	soft_Loss: 0.002662	confu_Loss: 0.587671	Trip_Loss: 0.009331
+
+load3_train set: Average loss: 73.1584, Accuracy: 23807/24000 (99.20%)
+
+
+load3_train set: Average loss: 91.2981, Accuracy: 1984/2000 (99.20%)
+
+learning rate 0.0006
+Train iter: 410 [(8%)]	Loss: -0.189792	soft_Loss: 0.002554	confu_Loss: 0.550992	Trip_Loss: 0.055858
+Train iter: 420 [(8%)]	Loss: -0.201505	soft_Loss: 0.003274	confu_Loss: 0.545375	Trip_Loss: 0.029470
+Train iter: 430 [(9%)]	Loss: -0.204970	soft_Loss: 0.002606	confu_Loss: 0.556435	Trip_Loss: 0.044309
+Train iter: 440 [(9%)]	Loss: -0.219802	soft_Loss: 0.003133	confu_Loss: 0.552978	Trip_Loss: 0.014025
+Train iter: 450 [(9%)]	Loss: -0.215652	soft_Loss: 0.002348	confu_Loss: 0.542241	Trip_Loss: 0.025529
+Train iter: 460 [(9%)]	Loss: -0.222023	soft_Loss: 0.001772	confu_Loss: 0.535339	Trip_Loss: 0.014988
+Train iter: 470 [(9%)]	Loss: -0.205678	soft_Loss: 0.001673	confu_Loss: 0.504470	Trip_Loss: 0.031282
+Train iter: 480 [(10%)]	Loss: -0.232332	soft_Loss: 0.002106	confu_Loss: 0.550950	Trip_Loss: 0.025591
+Train iter: 490 [(10%)]	Loss: -0.229077	soft_Loss: 0.002449	confu_Loss: 0.515570	Trip_Loss: 0.005844
+Train iter: 500 [(10%)]	Loss: -0.218910	soft_Loss: 0.001497	confu_Loss: 0.503698	Trip_Loss: 0.026746
+
+load3_train set: Average loss: 81.4734, Accuracy: 23808/24000 (99.20%)
+
+
+load3_train set: Average loss: 52.9851, Accuracy: 1991/2000 (99.55%)
+
+learning rate 0.0006
+Train iter: 510 [(10%)]	Loss: -0.226725	soft_Loss: 0.001366	confu_Loss: 0.494543	Trip_Loss: 0.009187
+Train iter: 520 [(10%)]	Loss: -0.246081	soft_Loss: 0.002281	confu_Loss: 0.544100	Trip_Loss: 0.024187
+Train iter: 530 [(11%)]	Loss: -0.222112	soft_Loss: 0.001358	confu_Loss: 0.466036	Trip_Loss: 0.005634
+Train iter: 540 [(11%)]	Loss: -0.238265	soft_Loss: 0.001233	confu_Loss: 0.500543	Trip_Loss: 0.014735
+Train iter: 550 [(11%)]	Loss: -0.203398	soft_Loss: 0.001334	confu_Loss: 0.442932	Trip_Loss: 0.033895
+Train iter: 560 [(11%)]	Loss: -0.218408	soft_Loss: 0.001618	confu_Loss: 0.447828	Trip_Loss: 0.014685
+Train iter: 570 [(11%)]	Loss: -0.210276	soft_Loss: 0.001177	confu_Loss: 0.418816	Trip_Loss: 0.008515
+Train iter: 580 [(12%)]	Loss: -0.202170	soft_Loss: 0.001310	confu_Loss: 0.393300	Trip_Loss: 0.003988
