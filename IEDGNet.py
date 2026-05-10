@@ -175,7 +175,7 @@ def get_parameter_number(net):
 if __name__ == '__main__':
     # setup_seed(seed)
     iteration = 5000
-    batch_size = 1024
+    batch_size = 2048
     Glr = 0.001
     Dlr = 0.0001
     AP=1.05
@@ -232,7 +232,7 @@ if __name__ == '__main__':
                 if cuda:
                     torch.cuda.manual_seed(seed)
 
-                kwargs = {'num_workers': 16, 'pin_memory': True} if cuda else {}
+                kwargs = {'num_workers': 4, 'pin_memory': True} if cuda else {}
 
 
 

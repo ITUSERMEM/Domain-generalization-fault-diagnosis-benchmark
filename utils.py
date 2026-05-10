@@ -149,7 +149,7 @@ def pdist_torch(emb1, emb2):
     emb1_pow = t.pow(emb1, 2).sum(dim = 1, keepdim = True).expand(m, n)
     emb2_pow = t.pow(emb2, 2).sum(dim = 1, keepdim = True).expand(n, m).t()
     dist_mtx = emb1_pow + emb2_pow
-    dist_mtx = dist_mtx.addmm_(1, -2, emb1, emb2.t())
+    dist_mtx = dist_mtx.addmm_(emb1, emb2.t(), beta=1, alpha=-2)
     dist_mtx = dist_mtx.clamp(min = 1e-12).sqrt()
     return dist_mtx
 
@@ -157,26 +157,34 @@ def pdist_torch(emb1, emb2):
 class BatchHardTripletSelector(object):
     '''
     a selector to generate hard batch embeddings from the embedded batch
+    All operations run on GPU to avoid CPU-GPU transfer bottleneck.
     '''
     def __init__(self, *args, **kwargs):
         super(BatchHardTripletSelector, self).__init__()
 
     def __call__(self, embeds, labels):
-        dist_mtx = pdist_torch(embeds, embeds).detach().cpu().numpy()# 计算距离
-        labels = labels.contiguous().cpu().numpy().reshape((-1, 1))
+        dist_mtx = pdist_torch(embeds, embeds)  # [num, num], stays on GPU
+        labels = labels.contiguous().view(-1, 1)  # [num, 1], stays on GPU
         num = labels.shape[0]
-        dia_inds = np.diag_indices(num)#返回对角线索引
-        lb_eqs = labels == labels.T
-        lb_eqs[dia_inds] = False
-        dist_same = dist_mtx.copy()
-        dist_same[lb_eqs == False] = -np.inf
-        pos_idxs = np.argmax(dist_same, axis = 1)
-        dist_diff = dist_mtx.copy()
-        lb_eqs[dia_inds] = True
-        dist_diff[lb_eqs == True] = np.inf
-        neg_idxs = np.argmin(dist_diff, axis = 1)
-        pos = embeds[pos_idxs].contiguous().view(num, -1)
-        neg = embeds[neg_idxs].contiguous().view(num, -1)
+        device = embeds.device
+
+        # Label equality matrix on GPU
+        lb_eqs = (labels == labels.t())  # [num, num]
+        eye_mask = t.eye(num, dtype=t.bool, device=device)
+        lb_eqs = lb_eqs & (~eye_mask)  # exclude diagonal
+
+        # Positive: farthest within same class
+        dist_same = dist_mtx.clone()
+        dist_same[~lb_eqs] = -float('inf')
+        pos_idxs = t.argmax(dist_same, dim=1)
+
+        # Negative: closest from different class
+        dist_diff = dist_mtx.clone()
+        dist_diff[lb_eqs | eye_mask] = float('inf')
+        neg_idxs = t.argmin(dist_diff, dim=1)
+
+        pos = embeds[pos_idxs]
+        neg = embeds[neg_idxs]
         return embeds, pos, neg
 
 
