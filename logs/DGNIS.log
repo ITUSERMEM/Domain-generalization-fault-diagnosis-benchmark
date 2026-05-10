@@ -41898,3 +41898,2050 @@ Train iter: 70 [(1%)]	Loss: 9.530812	soft_Loss: 7.204334	MMD_Loss: 0.201927	Tri_
 Train iter: 80 [(2%)]	Loss: 9.229923	soft_Loss: 6.792358	MMD_Loss: 0.154891	Tri_Loss: 16.606850	TEST_domain_Loss: 1.099480
 Train iter: 90 [(2%)]	Loss: 9.498984	soft_Loss: 6.884421	MMD_Loss: 0.203038	Tri_Loss: 16.700283	TEST_domain_Loss: 1.097358
 Train iter: 100 [(2%)]	Loss: 9.627008	soft_Loss: 6.905870	MMD_Loss: 0.197254	Tri_Loss: 16.282829	TEST_domain_Loss: 1.078601
+
+load9_train set: Average loss: 0.0000, Accuracy: 6472/28800 (22.47%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 387/2400 (16.12%), Accuracy: 384/2400 (16.00%), Accuracy: 272/2400 (11.33%), Accuracy: 380/2400 (15.83%)
+
+learning rate 0.0001
+Train iter: 110 [(2%)]	Loss: 9.661977	soft_Loss: 6.712767	MMD_Loss: 0.220871	Tri_Loss: 16.812580	TEST_domain_Loss: 1.083051
+Train iter: 120 [(2%)]	Loss: 9.476763	soft_Loss: 6.503890	MMD_Loss: 0.231732	Tri_Loss: 15.879785	TEST_domain_Loss: 1.048717
+Train iter: 130 [(3%)]	Loss: 9.831215	soft_Loss: 6.580698	MMD_Loss: 0.168582	Tri_Loss: 16.773024	TEST_domain_Loss: 1.060431
+Train iter: 140 [(3%)]	Loss: 9.759471	soft_Loss: 6.593930	MMD_Loss: 0.163731	Tri_Loss: 15.004324	TEST_domain_Loss: 1.055779
+Train iter: 150 [(3%)]	Loss: 10.043475	soft_Loss: 6.522538	MMD_Loss: 0.311168	Tri_Loss: 16.180351	TEST_domain_Loss: 1.065597
+Train iter: 160 [(3%)]	Loss: 9.874283	soft_Loss: 6.367391	MMD_Loss: 0.178332	Tri_Loss: 15.587251	TEST_domain_Loss: 1.005706
+Train iter: 170 [(3%)]	Loss: 10.102379	soft_Loss: 6.389577	MMD_Loss: 0.160404	Tri_Loss: 15.817900	TEST_domain_Loss: 1.022359
+Train iter: 180 [(4%)]	Loss: 9.816130	soft_Loss: 6.119275	MMD_Loss: 0.169061	Tri_Loss: 14.729455	TEST_domain_Loss: 1.043714
+Train iter: 190 [(4%)]	Loss: 10.365370	soft_Loss: 6.469691	MMD_Loss: 0.163970	Tri_Loss: 15.150041	TEST_domain_Loss: 1.020532
+Train iter: 200 [(4%)]	Loss: 10.180437	soft_Loss: 6.144514	MMD_Loss: 0.115620	Tri_Loss: 14.952010	TEST_domain_Loss: 1.061945
+
+load9_train set: Average loss: 0.0000, Accuracy: 9686/28800 (33.63%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 461/2400 (19.21%), Accuracy: 450/2400 (18.75%), Accuracy: 359/2400 (14.96%), Accuracy: 446/2400 (18.58%)
+
+learning rate 0.0001
+Train iter: 210 [(4%)]	Loss: 9.947837	soft_Loss: 6.072782	MMD_Loss: 0.161707	Tri_Loss: 13.707216	TEST_domain_Loss: 1.004652
+Train iter: 220 [(4%)]	Loss: 10.043856	soft_Loss: 5.983400	MMD_Loss: 0.133092	Tri_Loss: 14.009336	TEST_domain_Loss: 0.998365
+Train iter: 230 [(5%)]	Loss: 10.163446	soft_Loss: 5.865407	MMD_Loss: 0.175039	Tri_Loss: 14.395590	TEST_domain_Loss: 1.004665
+Train iter: 240 [(5%)]	Loss: 10.095974	soft_Loss: 5.879282	MMD_Loss: 0.136099	Tri_Loss: 13.667733	TEST_domain_Loss: 0.965947
+Train iter: 250 [(5%)]	Loss: 10.464153	soft_Loss: 5.942066	MMD_Loss: 0.100324	Tri_Loss: 14.176906	TEST_domain_Loss: 1.025326
+Train iter: 260 [(5%)]	Loss: 9.979788	soft_Loss: 5.613615	MMD_Loss: 0.131000	Tri_Loss: 13.201130	TEST_domain_Loss: 0.975872
+Train iter: 270 [(5%)]	Loss: 10.492958	soft_Loss: 5.899576	MMD_Loss: 0.120760	Tri_Loss: 13.541276	TEST_domain_Loss: 0.991731
+Train iter: 280 [(6%)]	Loss: 10.389791	soft_Loss: 5.646664	MMD_Loss: 0.114142	Tri_Loss: 13.605670	TEST_domain_Loss: 0.998920
+Train iter: 290 [(6%)]	Loss: 10.540092	soft_Loss: 5.714964	MMD_Loss: 0.124635	Tri_Loss: 13.405489	TEST_domain_Loss: 1.007810
+Train iter: 300 [(6%)]	Loss: 10.384418	soft_Loss: 5.735444	MMD_Loss: 0.099726	Tri_Loss: 12.482168	TEST_domain_Loss: 0.983709
+
+load9_train set: Average loss: 0.0000, Accuracy: 11461/28800 (39.80%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 490/2400 (20.42%), Accuracy: 452/2400 (18.83%), Accuracy: 450/2400 (18.75%), Accuracy: 461/2400 (19.21%)
+
+learning rate 0.0001
+Train iter: 310 [(6%)]	Loss: 10.275060	soft_Loss: 5.622616	MMD_Loss: 0.142650	Tri_Loss: 12.265854	TEST_domain_Loss: 0.924469
+Train iter: 320 [(6%)]	Loss: 10.486151	soft_Loss: 5.628894	MMD_Loss: 0.107883	Tri_Loss: 12.435394	TEST_domain_Loss: 0.975026
+Train iter: 330 [(7%)]	Loss: 10.501858	soft_Loss: 5.546871	MMD_Loss: 0.098554	Tri_Loss: 12.413242	TEST_domain_Loss: 0.969719
+Train iter: 340 [(7%)]	Loss: 10.833819	soft_Loss: 5.691362	MMD_Loss: 0.097226	Tri_Loss: 12.719319	TEST_domain_Loss: 0.945328
+Train iter: 350 [(7%)]	Loss: 10.630639	soft_Loss: 5.658843	MMD_Loss: 0.100434	Tri_Loss: 11.826483	TEST_domain_Loss: 0.959874
+Train iter: 360 [(7%)]	Loss: 11.194004	soft_Loss: 5.838362	MMD_Loss: 0.072635	Tri_Loss: 12.584480	TEST_domain_Loss: 0.986228
+Train iter: 370 [(7%)]	Loss: 10.357988	soft_Loss: 5.301064	MMD_Loss: 0.128895	Tri_Loss: 11.573174	TEST_domain_Loss: 0.914490
+Train iter: 380 [(8%)]	Loss: 10.847657	soft_Loss: 5.500501	MMD_Loss: 0.097819	Tri_Loss: 12.001347	TEST_domain_Loss: 0.958699
+Train iter: 390 [(8%)]	Loss: 10.926556	soft_Loss: 5.511616	MMD_Loss: 0.102627	Tri_Loss: 11.921766	TEST_domain_Loss: 0.949557
+Train iter: 400 [(8%)]	Loss: 10.746550	soft_Loss: 5.389393	MMD_Loss: 0.112019	Tri_Loss: 11.516925	TEST_domain_Loss: 0.938751
+
+load9_train set: Average loss: 0.0000, Accuracy: 12619/28800 (43.82%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 500/2400 (20.83%), Accuracy: 457/2400 (19.04%), Accuracy: 447/2400 (18.62%), Accuracy: 487/2400 (20.29%)
+
+learning rate 0.0001
+Train iter: 410 [(8%)]	Loss: 11.128231	soft_Loss: 5.415984	MMD_Loss: 0.123591	Tri_Loss: 12.272977	TEST_domain_Loss: 0.896519
+Train iter: 420 [(8%)]	Loss: 10.634166	soft_Loss: 5.392154	MMD_Loss: 0.092408	Tri_Loss: 10.808321	TEST_domain_Loss: 0.915181
+Train iter: 430 [(9%)]	Loss: 11.025351	soft_Loss: 5.382248	MMD_Loss: 0.086853	Tri_Loss: 11.548877	TEST_domain_Loss: 0.926893
+Train iter: 440 [(9%)]	Loss: 11.018259	soft_Loss: 5.389363	MMD_Loss: 0.073487	Tri_Loss: 11.306186	TEST_domain_Loss: 0.921758
+Train iter: 450 [(9%)]	Loss: 10.927143	soft_Loss: 5.378368	MMD_Loss: 0.055636	Tri_Loss: 10.896986	TEST_domain_Loss: 0.927875
+Train iter: 460 [(9%)]	Loss: 11.145964	soft_Loss: 5.491829	MMD_Loss: 0.067437	Tri_Loss: 10.923277	TEST_domain_Loss: 0.927202
+Train iter: 470 [(9%)]	Loss: 11.080900	soft_Loss: 5.544165	MMD_Loss: 0.051458	Tri_Loss: 10.431566	TEST_domain_Loss: 0.943081
+Train iter: 480 [(10%)]	Loss: 11.384600	soft_Loss: 5.349305	MMD_Loss: 0.072764	Tri_Loss: 11.364233	TEST_domain_Loss: 0.931609
+Train iter: 490 [(10%)]	Loss: 10.877351	soft_Loss: 5.265522	MMD_Loss: 0.055635	Tri_Loss: 10.291977	TEST_domain_Loss: 0.911774
+Train iter: 500 [(10%)]	Loss: 10.958228	soft_Loss: 5.073590	MMD_Loss: 0.064974	Tri_Loss: 10.632925	TEST_domain_Loss: 0.940955
+
+load9_train set: Average loss: 0.0000, Accuracy: 13583/28800 (47.16%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 510/2400 (21.25%), Accuracy: 493/2400 (20.54%), Accuracy: 459/2400 (19.12%), Accuracy: 454/2400 (18.92%)
+
+learning rate 0.0001
+Train iter: 510 [(10%)]	Loss: 11.249483	soft_Loss: 5.393177	MMD_Loss: 0.061777	Tri_Loss: 10.481684	TEST_domain_Loss: 0.901458
+Train iter: 520 [(10%)]	Loss: 10.697219	soft_Loss: 5.087239	MMD_Loss: 0.089156	Tri_Loss: 9.775016	TEST_domain_Loss: 0.897865
+Train iter: 530 [(11%)]	Loss: 10.953319	soft_Loss: 5.011837	MMD_Loss: 0.044564	Tri_Loss: 10.360668	TEST_domain_Loss: 0.890978
+Train iter: 540 [(11%)]	Loss: 10.883923	soft_Loss: 5.101148	MMD_Loss: 0.050214	Tri_Loss: 9.852553	TEST_domain_Loss: 0.900830
+Train iter: 550 [(11%)]	Loss: 11.354187	soft_Loss: 5.367794	MMD_Loss: 0.079626	Tri_Loss: 10.116603	TEST_domain_Loss: 0.882974
+Train iter: 560 [(11%)]	Loss: 11.187233	soft_Loss: 5.222869	MMD_Loss: 0.048900	Tri_Loss: 9.911143	TEST_domain_Loss: 0.904887
+Train iter: 570 [(11%)]	Loss: 11.072644	soft_Loss: 5.109056	MMD_Loss: 0.048082	Tri_Loss: 9.808876	TEST_domain_Loss: 0.883714
+Train iter: 580 [(12%)]	Loss: 11.319608	soft_Loss: 5.274971	MMD_Loss: 0.059777	Tri_Loss: 9.832451	TEST_domain_Loss: 0.874311
+Train iter: 590 [(12%)]	Loss: 10.915708	soft_Loss: 5.126816	MMD_Loss: 0.050673	Tri_Loss: 9.137445	TEST_domain_Loss: 0.920148
+Train iter: 600 [(12%)]	Loss: 11.195716	soft_Loss: 5.064874	MMD_Loss: 0.046115	Tri_Loss: 9.805991	TEST_domain_Loss: 0.839772
+
+load9_train set: Average loss: 0.0000, Accuracy: 14329/28800 (49.75%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 532/2400 (22.17%), Accuracy: 463/2400 (19.29%), Accuracy: 483/2400 (20.12%), Accuracy: 489/2400 (20.38%)
+
+learning rate 0.0001
+Train iter: 610 [(12%)]	Loss: 11.659404	soft_Loss: 5.329367	MMD_Loss: 0.046739	Tri_Loss: 9.965840	TEST_domain_Loss: 0.881921
+Train iter: 620 [(12%)]	Loss: 11.490482	soft_Loss: 5.222056	MMD_Loss: 0.046693	Tri_Loss: 9.736874	TEST_domain_Loss: 0.876429
+Train iter: 630 [(13%)]	Loss: 11.519567	soft_Loss: 5.108932	MMD_Loss: 0.057139	Tri_Loss: 9.851213	TEST_domain_Loss: 0.881257
+Train iter: 640 [(13%)]	Loss: 11.376369	soft_Loss: 5.111435	MMD_Loss: 0.055952	Tri_Loss: 9.472215	TEST_domain_Loss: 0.882476
+Train iter: 650 [(13%)]	Loss: 11.104656	soft_Loss: 4.998115	MMD_Loss: 0.037414	Tri_Loss: 9.085638	TEST_domain_Loss: 0.891167
+Train iter: 660 [(13%)]	Loss: 11.234546	soft_Loss: 5.114895	MMD_Loss: 0.043242	Tri_Loss: 8.991014	TEST_domain_Loss: 0.894568
+Train iter: 670 [(13%)]	Loss: 11.491971	soft_Loss: 5.065937	MMD_Loss: 0.038024	Tri_Loss: 9.395629	TEST_domain_Loss: 0.907536
+Train iter: 680 [(14%)]	Loss: 11.064508	soft_Loss: 4.933681	MMD_Loss: 0.032127	Tri_Loss: 8.896669	TEST_domain_Loss: 0.849272
+Train iter: 690 [(14%)]	Loss: 11.327055	soft_Loss: 4.927690	MMD_Loss: 0.036400	Tri_Loss: 9.245741	TEST_domain_Loss: 0.848812
+Train iter: 700 [(14%)]	Loss: 11.412398	soft_Loss: 5.186953	MMD_Loss: 0.041001	Tri_Loss: 8.798433	TEST_domain_Loss: 0.883177
+
+load9_train set: Average loss: 0.0000, Accuracy: 14921/28800 (51.81%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 556/2400 (23.17%), Accuracy: 504/2400 (21.00%), Accuracy: 514/2400 (21.42%), Accuracy: 497/2400 (20.71%)
+
+learning rate 0.0001
+Train iter: 710 [(14%)]	Loss: 11.516783	soft_Loss: 5.031769	MMD_Loss: 0.038122	Tri_Loss: 9.194489	TEST_domain_Loss: 0.846873
+Train iter: 720 [(14%)]	Loss: 11.231255	soft_Loss: 5.006270	MMD_Loss: 0.045872	Tri_Loss: 8.638611	TEST_domain_Loss: 0.867446
+Train iter: 730 [(15%)]	Loss: 11.770246	soft_Loss: 5.145477	MMD_Loss: 0.034499	Tri_Loss: 9.103327	TEST_domain_Loss: 0.931306
+Train iter: 740 [(15%)]	Loss: 11.509433	soft_Loss: 4.947105	MMD_Loss: 0.045521	Tri_Loss: 9.041334	TEST_domain_Loss: 0.845376
+Train iter: 750 [(15%)]	Loss: 11.362322	soft_Loss: 4.966582	MMD_Loss: 0.040408	Tri_Loss: 8.715584	TEST_domain_Loss: 0.834382
+Train iter: 760 [(15%)]	Loss: 11.342282	soft_Loss: 5.055606	MMD_Loss: 0.033830	Tri_Loss: 8.467937	TEST_domain_Loss: 0.836389
+Train iter: 770 [(15%)]	Loss: 11.218040	soft_Loss: 4.812459	MMD_Loss: 0.045978	Tri_Loss: 8.557049	TEST_domain_Loss: 0.840030
+Train iter: 780 [(16%)]	Loss: 11.488249	soft_Loss: 4.993808	MMD_Loss: 0.032411	Tri_Loss: 8.649410	TEST_domain_Loss: 0.827758
+Train iter: 790 [(16%)]	Loss: 11.381339	soft_Loss: 4.992767	MMD_Loss: 0.037696	Tri_Loss: 8.414758	TEST_domain_Loss: 0.823400
+Train iter: 800 [(16%)]	Loss: 11.645975	soft_Loss: 5.153096	MMD_Loss: 0.028910	Tri_Loss: 8.409505	TEST_domain_Loss: 0.889462
+
+load9_train set: Average loss: 0.0000, Accuracy: 15951/28800 (55.39%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 518/2400 (21.58%), Accuracy: 483/2400 (20.12%), Accuracy: 493/2400 (20.54%), Accuracy: 495/2400 (20.62%)
+
+learning rate 0.0000
+Train iter: 810 [(16%)]	Loss: 11.458981	soft_Loss: 4.835573	MMD_Loss: 0.036684	Tri_Loss: 8.582897	TEST_domain_Loss: 0.851820
+Train iter: 820 [(16%)]	Loss: 11.405863	soft_Loss: 4.828520	MMD_Loss: 0.029749	Tri_Loss: 8.502076	TEST_domain_Loss: 0.817765
+Train iter: 830 [(17%)]	Loss: 11.311373	soft_Loss: 4.871459	MMD_Loss: 0.027716	Tri_Loss: 8.243567	TEST_domain_Loss: 0.811505
+Train iter: 840 [(17%)]	Loss: 11.191381	soft_Loss: 4.789973	MMD_Loss: 0.034775	Tri_Loss: 8.052125	TEST_domain_Loss: 0.855337
+Train iter: 850 [(17%)]	Loss: 11.352365	soft_Loss: 4.759956	MMD_Loss: 0.037838	Tri_Loss: 8.308653	TEST_domain_Loss: 0.824404
+Train iter: 860 [(17%)]	Loss: 11.241917	soft_Loss: 4.744117	MMD_Loss: 0.047929	Tri_Loss: 8.066036	TEST_domain_Loss: 0.848389
+Train iter: 870 [(17%)]	Loss: 11.774532	soft_Loss: 5.057987	MMD_Loss: 0.027614	Tri_Loss: 8.349836	TEST_domain_Loss: 0.840818
+Train iter: 880 [(18%)]	Loss: 11.565556	soft_Loss: 4.850540	MMD_Loss: 0.032352	Tri_Loss: 8.274959	TEST_domain_Loss: 0.846570
+Train iter: 890 [(18%)]	Loss: 11.669938	soft_Loss: 4.918462	MMD_Loss: 0.025044	Tri_Loss: 8.250230	TEST_domain_Loss: 0.864499
+Train iter: 900 [(18%)]	Loss: 11.591837	soft_Loss: 4.844765	MMD_Loss: 0.026357	Tri_Loss: 8.231172	TEST_domain_Loss: 0.832222
+
+load9_train set: Average loss: 0.0000, Accuracy: 16497/28800 (57.28%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 545/2400 (22.71%), Accuracy: 523/2400 (21.79%), Accuracy: 526/2400 (21.92%), Accuracy: 517/2400 (21.54%)
+
+learning rate 0.0000
+Train iter: 910 [(18%)]	Loss: 11.455666	soft_Loss: 4.749024	MMD_Loss: 0.027340	Tri_Loss: 8.089319	TEST_domain_Loss: 0.853456
+Train iter: 920 [(18%)]	Loss: 11.430147	soft_Loss: 4.810596	MMD_Loss: 0.023622	Tri_Loss: 7.947043	TEST_domain_Loss: 0.833665
+Train iter: 930 [(19%)]	Loss: 11.400948	soft_Loss: 4.802007	MMD_Loss: 0.022375	Tri_Loss: 7.929750	TEST_domain_Loss: 0.789166
+Train iter: 940 [(19%)]	Loss: 11.341134	soft_Loss: 4.688688	MMD_Loss: 0.024224	Tri_Loss: 7.878892	TEST_domain_Loss: 0.841899
+Train iter: 950 [(19%)]	Loss: 11.602946	soft_Loss: 4.932317	MMD_Loss: 0.028230	Tri_Loss: 7.899070	TEST_domain_Loss: 0.806148
+Train iter: 960 [(19%)]	Loss: 11.306300	soft_Loss: 4.752938	MMD_Loss: 0.023764	Tri_Loss: 7.693457	TEST_domain_Loss: 0.809613
+Train iter: 970 [(19%)]	Loss: 11.989071	soft_Loss: 4.984940	MMD_Loss: 0.022554	Tri_Loss: 8.223816	TEST_domain_Loss: 0.830038
+Train iter: 980 [(20%)]	Loss: 11.566260	soft_Loss: 4.764117	MMD_Loss: 0.017252	Tri_Loss: 7.932198	TEST_domain_Loss: 0.815684
+Train iter: 990 [(20%)]	Loss: 11.518845	soft_Loss: 4.836606	MMD_Loss: 0.022578	Tri_Loss: 7.758377	TEST_domain_Loss: 0.789237
+Train iter: 1000 [(20%)]	Loss: 11.818167	soft_Loss: 4.796437	MMD_Loss: 0.024377	Tri_Loss: 8.145134	TEST_domain_Loss: 0.799878
+
+load9_train set: Average loss: 0.0000, Accuracy: 16768/28800 (58.22%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 560/2400 (23.33%), Accuracy: 535/2400 (22.29%), Accuracy: 507/2400 (21.12%), Accuracy: 538/2400 (22.42%)
+
+learning rate 0.0000
+Train iter: 1010 [(20%)]	Loss: 11.057652	soft_Loss: 4.404806	MMD_Loss: 0.026385	Tri_Loss: 7.642872	TEST_domain_Loss: 0.780020
+Train iter: 1020 [(20%)]	Loss: 11.423684	soft_Loss: 4.691601	MMD_Loss: 0.020843	Tri_Loss: 7.658438	TEST_domain_Loss: 0.820062
+Train iter: 1030 [(21%)]	Loss: 11.424292	soft_Loss: 4.613336	MMD_Loss: 0.028139	Tri_Loss: 7.758790	TEST_domain_Loss: 0.784586
+Train iter: 1040 [(21%)]	Loss: 11.785784	soft_Loss: 4.938029	MMD_Loss: 0.020683	Tri_Loss: 7.757807	TEST_domain_Loss: 0.796961
+Train iter: 1050 [(21%)]	Loss: 11.723545	soft_Loss: 4.797400	MMD_Loss: 0.018689	Tri_Loss: 7.775642	TEST_domain_Loss: 0.832487
+Train iter: 1060 [(21%)]	Loss: 11.738600	soft_Loss: 4.834867	MMD_Loss: 0.021672	Tri_Loss: 7.774603	TEST_domain_Loss: 0.778481
+Train iter: 1070 [(21%)]	Loss: 11.654191	soft_Loss: 4.822120	MMD_Loss: 0.015197	Tri_Loss: 7.605137	TEST_domain_Loss: 0.816113
+Train iter: 1080 [(22%)]	Loss: 11.376236	soft_Loss: 4.591076	MMD_Loss: 0.024383	Tri_Loss: 7.515198	TEST_domain_Loss: 0.804771
+Train iter: 1090 [(22%)]	Loss: 11.696735	soft_Loss: 4.769643	MMD_Loss: 0.018574	Tri_Loss: 7.694100	TEST_domain_Loss: 0.781031
+Train iter: 1100 [(22%)]	Loss: 11.522943	soft_Loss: 4.710150	MMD_Loss: 0.021334	Tri_Loss: 7.505433	TEST_domain_Loss: 0.787624
+
+load9_train set: Average loss: 0.0000, Accuracy: 17195/28800 (59.70%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 551/2400 (22.96%), Accuracy: 553/2400 (23.04%), Accuracy: 522/2400 (21.75%), Accuracy: 555/2400 (23.12%)
+
+learning rate 0.0000
+Train iter: 1110 [(22%)]	Loss: 11.411999	soft_Loss: 4.650202	MMD_Loss: 0.021903	Tri_Loss: 7.422670	TEST_domain_Loss: 0.775896
+Train iter: 1120 [(22%)]	Loss: 11.644514	soft_Loss: 4.669076	MMD_Loss: 0.030405	Tri_Loss: 7.666629	TEST_domain_Loss: 0.759553
+Train iter: 1130 [(23%)]	Loss: 11.716120	soft_Loss: 4.780221	MMD_Loss: 0.020905	Tri_Loss: 7.548944	TEST_domain_Loss: 0.796607
+Train iter: 1140 [(23%)]	Loss: 11.331937	soft_Loss: 4.531710	MMD_Loss: 0.017378	Tri_Loss: 7.401097	TEST_domain_Loss: 0.758516
+Train iter: 1150 [(23%)]	Loss: 11.892219	soft_Loss: 4.770307	MMD_Loss: 0.019063	Tri_Loss: 7.744799	TEST_domain_Loss: 0.772982
+Train iter: 1160 [(23%)]	Loss: 11.625108	soft_Loss: 4.669489	MMD_Loss: 0.021359	Tri_Loss: 7.495717	TEST_domain_Loss: 0.783799
+Train iter: 1170 [(23%)]	Loss: 11.870011	soft_Loss: 4.834088	MMD_Loss: 0.017590	Tri_Loss: 7.569507	TEST_domain_Loss: 0.782090
+Train iter: 1180 [(24%)]	Loss: 11.459352	soft_Loss: 4.510940	MMD_Loss: 0.031225	Tri_Loss: 7.422000	TEST_domain_Loss: 0.781229
+Train iter: 1190 [(24%)]	Loss: 11.481106	soft_Loss: 4.602335	MMD_Loss: 0.024210	Tri_Loss: 7.343571	TEST_domain_Loss: 0.759248
+Train iter: 1200 [(24%)]	Loss: 11.766884	soft_Loss: 4.591208	MMD_Loss: 0.015334	Tri_Loss: 7.602150	TEST_domain_Loss: 0.825325
+
+load9_train set: Average loss: 0.0000, Accuracy: 17676/28800 (61.38%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 562/2400 (23.42%), Accuracy: 530/2400 (22.08%), Accuracy: 528/2400 (22.00%), Accuracy: 572/2400 (23.83%)
+
+learning rate 0.0000
+Train iter: 1210 [(24%)]	Loss: 11.873128	soft_Loss: 4.787380	MMD_Loss: 0.016656	Tri_Loss: 7.536068	TEST_domain_Loss: 0.766538
+Train iter: 1220 [(24%)]	Loss: 11.355532	soft_Loss: 4.402427	MMD_Loss: 0.018261	Tri_Loss: 7.358031	TEST_domain_Loss: 0.759569
+Train iter: 1230 [(25%)]	Loss: 11.641424	soft_Loss: 4.639239	MMD_Loss: 0.019713	Tri_Loss: 7.419524	TEST_domain_Loss: 0.734038
+Train iter: 1240 [(25%)]	Loss: 11.639919	soft_Loss: 4.573788	MMD_Loss: 0.019504	Tri_Loss: 7.455218	TEST_domain_Loss: 0.746586
+Train iter: 1250 [(25%)]	Loss: 11.539928	soft_Loss: 4.574354	MMD_Loss: 0.020624	Tri_Loss: 7.277125	TEST_domain_Loss: 0.775013
+Train iter: 1260 [(25%)]	Loss: 11.674332	soft_Loss: 4.667778	MMD_Loss: 0.020586	Tri_Loss: 7.310793	TEST_domain_Loss: 0.767079
+Train iter: 1270 [(25%)]	Loss: 11.507139	soft_Loss: 4.431729	MMD_Loss: 0.023157	Tri_Loss: 7.428189	TEST_domain_Loss: 0.713468
+Train iter: 1280 [(26%)]	Loss: 11.692783	soft_Loss: 4.481189	MMD_Loss: 0.018399	Tri_Loss: 7.536011	TEST_domain_Loss: 0.741357
+Train iter: 1290 [(26%)]	Loss: 11.492355	soft_Loss: 4.521673	MMD_Loss: 0.017644	Tri_Loss: 7.176473	TEST_domain_Loss: 0.790025
+Train iter: 1300 [(26%)]	Loss: 11.733702	soft_Loss: 4.731700	MMD_Loss: 0.018086	Tri_Loss: 7.200263	TEST_domain_Loss: 0.781784
+
+load9_train set: Average loss: 0.0000, Accuracy: 18033/28800 (62.61%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 569/2400 (23.71%), Accuracy: 545/2400 (22.71%), Accuracy: 548/2400 (22.83%), Accuracy: 595/2400 (24.79%)
+
+learning rate 0.0000
+Train iter: 1310 [(26%)]	Loss: 11.572880	soft_Loss: 4.575226	MMD_Loss: 0.021599	Tri_Loss: 7.208567	TEST_domain_Loss: 0.748800
+Train iter: 1320 [(26%)]	Loss: 11.569704	soft_Loss: 4.469085	MMD_Loss: 0.016738	Tri_Loss: 7.291263	TEST_domain_Loss: 0.766162
+Train iter: 1330 [(27%)]	Loss: 11.495871	soft_Loss: 4.426147	MMD_Loss: 0.023049	Tri_Loss: 7.301990	TEST_domain_Loss: 0.702438
+Train iter: 1340 [(27%)]	Loss: 12.160391	soft_Loss: 4.697866	MMD_Loss: 0.015629	Tri_Loss: 7.652086	TEST_domain_Loss: 0.778789
+Train iter: 1350 [(27%)]	Loss: 11.629083	soft_Loss: 4.532373	MMD_Loss: 0.017325	Tri_Loss: 7.236603	TEST_domain_Loss: 0.756391
+Train iter: 1360 [(27%)]	Loss: 11.850333	soft_Loss: 4.620317	MMD_Loss: 0.018089	Tri_Loss: 7.308722	TEST_domain_Loss: 0.808851
+Train iter: 1370 [(27%)]	Loss: 11.576492	soft_Loss: 4.375335	MMD_Loss: 0.021888	Tri_Loss: 7.325383	TEST_domain_Loss: 0.745167
+Train iter: 1380 [(28%)]	Loss: 11.532379	soft_Loss: 4.419246	MMD_Loss: 0.021675	Tri_Loss: 7.164047	TEST_domain_Loss: 0.782862
+Train iter: 1390 [(28%)]	Loss: 11.640905	soft_Loss: 4.489745	MMD_Loss: 0.015295	Tri_Loss: 7.203040	TEST_domain_Loss: 0.776137
+Train iter: 1400 [(28%)]	Loss: 11.543622	soft_Loss: 4.463428	MMD_Loss: 0.022787	Tri_Loss: 7.112505	TEST_domain_Loss: 0.762951
+
+load9_train set: Average loss: 0.0000, Accuracy: 18398/28800 (63.88%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 552/2400 (23.00%), Accuracy: 525/2400 (21.88%), Accuracy: 522/2400 (21.75%), Accuracy: 588/2400 (24.50%)
+
+learning rate 0.0000
+Train iter: 1410 [(28%)]	Loss: 11.659547	soft_Loss: 4.498872	MMD_Loss: 0.020650	Tri_Loss: 7.226562	TEST_domain_Loss: 0.728817
+Train iter: 1420 [(28%)]	Loss: 11.757526	soft_Loss: 4.554008	MMD_Loss: 0.022278	Tri_Loss: 7.223933	TEST_domain_Loss: 0.757297
+Train iter: 1430 [(29%)]	Loss: 11.378777	soft_Loss: 4.304090	MMD_Loss: 0.016100	Tri_Loss: 7.100230	TEST_domain_Loss: 0.729293
+Train iter: 1440 [(29%)]	Loss: 11.522334	soft_Loss: 4.375360	MMD_Loss: 0.023853	Tri_Loss: 7.201022	TEST_domain_Loss: 0.690119
+Train iter: 1450 [(29%)]	Loss: 11.498514	soft_Loss: 4.461818	MMD_Loss: 0.016117	Tri_Loss: 6.988708	TEST_domain_Loss: 0.762524
+Train iter: 1460 [(29%)]	Loss: 11.294228	soft_Loss: 4.253833	MMD_Loss: 0.025597	Tri_Loss: 7.023679	TEST_domain_Loss: 0.712594
+Train iter: 1470 [(29%)]	Loss: 11.936512	soft_Loss: 4.492842	MMD_Loss: 0.016947	Tri_Loss: 7.419702	TEST_domain_Loss: 0.753829
+Train iter: 1480 [(30%)]	Loss: 11.846338	soft_Loss: 4.597192	MMD_Loss: 0.015469	Tri_Loss: 7.163677	TEST_domain_Loss: 0.777376
+Train iter: 1490 [(30%)]	Loss: 11.418490	soft_Loss: 4.276797	MMD_Loss: 0.018397	Tri_Loss: 7.072002	TEST_domain_Loss: 0.736761
+Train iter: 1500 [(30%)]	Loss: 11.624163	soft_Loss: 4.367543	MMD_Loss: 0.018557	Tri_Loss: 7.168367	TEST_domain_Loss: 0.751388
+
+load9_train set: Average loss: 0.0000, Accuracy: 18631/28800 (64.69%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 568/2400 (23.67%), Accuracy: 539/2400 (22.46%), Accuracy: 530/2400 (22.08%), Accuracy: 588/2400 (24.50%)
+
+learning rate 0.0000
+Train iter: 1510 [(30%)]	Loss: 11.762321	soft_Loss: 4.363655	MMD_Loss: 0.020986	Tri_Loss: 7.292734	TEST_domain_Loss: 0.765569
+Train iter: 1520 [(30%)]	Loss: 11.486093	soft_Loss: 4.318678	MMD_Loss: 0.016086	Tri_Loss: 7.057037	TEST_domain_Loss: 0.740084
+Train iter: 1530 [(31%)]	Loss: 11.879374	soft_Loss: 4.507780	MMD_Loss: 0.016470	Tri_Loss: 7.220500	TEST_domain_Loss: 0.782878
+Train iter: 1540 [(31%)]	Loss: 11.587286	soft_Loss: 4.231720	MMD_Loss: 0.019145	Tri_Loss: 7.228359	TEST_domain_Loss: 0.744971
+Train iter: 1550 [(31%)]	Loss: 11.639105	soft_Loss: 4.292981	MMD_Loss: 0.017566	Tri_Loss: 7.201787	TEST_domain_Loss: 0.749183
+Train iter: 1560 [(31%)]	Loss: 11.399577	soft_Loss: 4.374650	MMD_Loss: 0.019807	Tri_Loss: 6.856718	TEST_domain_Loss: 0.730014
+Train iter: 1570 [(31%)]	Loss: 11.461544	soft_Loss: 4.283562	MMD_Loss: 0.018707	Tri_Loss: 7.032905	TEST_domain_Loss: 0.711473
+Train iter: 1580 [(32%)]	Loss: 11.738886	soft_Loss: 4.478356	MMD_Loss: 0.017450	Tri_Loss: 7.077618	TEST_domain_Loss: 0.742987
+Train iter: 1590 [(32%)]	Loss: 11.757725	soft_Loss: 4.348521	MMD_Loss: 0.017089	Tri_Loss: 7.211778	TEST_domain_Loss: 0.757566
+Train iter: 1600 [(32%)]	Loss: 11.293297	soft_Loss: 4.207191	MMD_Loss: 0.024917	Tri_Loss: 6.919432	TEST_domain_Loss: 0.685717
+
+load9_train set: Average loss: 0.0000, Accuracy: 19055/28800 (66.16%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 557/2400 (23.21%), Accuracy: 551/2400 (22.96%), Accuracy: 523/2400 (21.79%), Accuracy: 592/2400 (24.67%)
+
+learning rate 0.0000
+Train iter: 1610 [(32%)]	Loss: 11.875097	soft_Loss: 4.403040	MMD_Loss: 0.014909	Tri_Loss: 7.333639	TEST_domain_Loss: 0.688172
+Train iter: 1620 [(32%)]	Loss: 11.451570	soft_Loss: 4.241907	MMD_Loss: 0.020049	Tri_Loss: 6.982344	TEST_domain_Loss: 0.735081
+Train iter: 1630 [(33%)]	Loss: 11.489065	soft_Loss: 4.307910	MMD_Loss: 0.031185	Tri_Loss: 6.936562	TEST_domain_Loss: 0.728592
+Train iter: 1640 [(33%)]	Loss: 11.318716	soft_Loss: 4.182182	MMD_Loss: 0.020960	Tri_Loss: 6.909821	TEST_domain_Loss: 0.708425
+Train iter: 1650 [(33%)]	Loss: 11.429909	soft_Loss: 4.131726	MMD_Loss: 0.015697	Tri_Loss: 7.062122	TEST_domain_Loss: 0.723896
+Train iter: 1660 [(33%)]	Loss: 11.709527	soft_Loss: 4.397264	MMD_Loss: 0.014477	Tri_Loss: 7.076208	TEST_domain_Loss: 0.716386
+Train iter: 1670 [(33%)]	Loss: 11.944177	soft_Loss: 4.407601	MMD_Loss: 0.018023	Tri_Loss: 7.289129	TEST_domain_Loss: 0.729586
+Train iter: 1680 [(34%)]	Loss: 11.440744	soft_Loss: 4.198407	MMD_Loss: 0.027836	Tri_Loss: 6.979274	TEST_domain_Loss: 0.705674
+Train iter: 1690 [(34%)]	Loss: 11.397114	soft_Loss: 4.184024	MMD_Loss: 0.017567	Tri_Loss: 6.913847	TEST_domain_Loss: 0.738128
+Train iter: 1700 [(34%)]	Loss: 11.305000	soft_Loss: 4.130127	MMD_Loss: 0.019811	Tri_Loss: 6.855343	TEST_domain_Loss: 0.743792
+
+load9_train set: Average loss: 0.0000, Accuracy: 19275/28800 (66.93%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 573/2400 (23.88%), Accuracy: 565/2400 (23.54%), Accuracy: 526/2400 (21.92%), Accuracy: 611/2400 (25.46%)
+
+learning rate 0.0000
+Train iter: 1710 [(34%)]	Loss: 11.967203	soft_Loss: 4.362118	MMD_Loss: 0.015891	Tri_Loss: 7.331110	TEST_domain_Loss: 0.723535
+Train iter: 1720 [(34%)]	Loss: 11.221881	soft_Loss: 4.192595	MMD_Loss: 0.017385	Tri_Loss: 6.715837	TEST_domain_Loss: 0.714446
+Train iter: 1730 [(35%)]	Loss: 11.232593	soft_Loss: 4.067641	MMD_Loss: 0.024989	Tri_Loss: 6.858684	TEST_domain_Loss: 0.700797
+Train iter: 1740 [(35%)]	Loss: 11.448036	soft_Loss: 4.201410	MMD_Loss: 0.016071	Tri_Loss: 6.932324	TEST_domain_Loss: 0.713560
+Train iter: 1750 [(35%)]	Loss: 11.617752	soft_Loss: 4.334505	MMD_Loss: 0.019469	Tri_Loss: 6.958334	TEST_domain_Loss: 0.714514
+Train iter: 1760 [(35%)]	Loss: 11.608759	soft_Loss: 4.209408	MMD_Loss: 0.017942	Tri_Loss: 7.088764	TEST_domain_Loss: 0.701259
+Train iter: 1770 [(35%)]	Loss: 11.458548	soft_Loss: 4.051614	MMD_Loss: 0.023999	Tri_Loss: 7.068678	TEST_domain_Loss: 0.714215
+Train iter: 1780 [(36%)]	Loss: 11.599413	soft_Loss: 4.198553	MMD_Loss: 0.018434	Tri_Loss: 7.078229	TEST_domain_Loss: 0.696678
+Train iter: 1790 [(36%)]	Loss: 11.312347	soft_Loss: 4.180439	MMD_Loss: 0.017620	Tri_Loss: 6.774851	TEST_domain_Loss: 0.707857
+Train iter: 1800 [(36%)]	Loss: 11.439838	soft_Loss: 4.199683	MMD_Loss: 0.014858	Tri_Loss: 6.870287	TEST_domain_Loss: 0.721258
+
+load9_train set: Average loss: 0.0000, Accuracy: 19642/28800 (68.20%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 584/2400 (24.33%), Accuracy: 556/2400 (23.17%), Accuracy: 543/2400 (22.62%), Accuracy: 581/2400 (24.21%)
+
+learning rate 0.0000
+Train iter: 1810 [(36%)]	Loss: 11.527184	soft_Loss: 4.227748	MMD_Loss: 0.019791	Tri_Loss: 6.925818	TEST_domain_Loss: 0.716167
+Train iter: 1820 [(36%)]	Loss: 11.517292	soft_Loss: 4.163814	MMD_Loss: 0.013906	Tri_Loss: 6.950358	TEST_domain_Loss: 0.745517
+Train iter: 1830 [(37%)]	Loss: 11.566109	soft_Loss: 4.187551	MMD_Loss: 0.015302	Tri_Loss: 6.978394	TEST_domain_Loss: 0.735762
+Train iter: 1840 [(37%)]	Loss: 11.589166	soft_Loss: 4.265714	MMD_Loss: 0.020326	Tri_Loss: 6.922449	TEST_domain_Loss: 0.722295
+Train iter: 1850 [(37%)]	Loss: 11.656747	soft_Loss: 4.093639	MMD_Loss: 0.014813	Tri_Loss: 7.210501	TEST_domain_Loss: 0.686445
+Train iter: 1860 [(37%)]	Loss: 11.416100	soft_Loss: 4.104243	MMD_Loss: 0.019306	Tri_Loss: 6.927141	TEST_domain_Loss: 0.694123
+Train iter: 1870 [(37%)]	Loss: 11.686610	soft_Loss: 4.257044	MMD_Loss: 0.016137	Tri_Loss: 6.999714	TEST_domain_Loss: 0.739291
+Train iter: 1880 [(38%)]	Loss: 11.419731	soft_Loss: 4.005467	MMD_Loss: 0.017528	Tri_Loss: 7.030687	TEST_domain_Loss: 0.686798
+Train iter: 1890 [(38%)]	Loss: 11.180960	soft_Loss: 3.965309	MMD_Loss: 0.016234	Tri_Loss: 6.778067	TEST_domain_Loss: 0.724559
+Train iter: 1900 [(38%)]	Loss: 11.402315	soft_Loss: 4.094371	MMD_Loss: 0.018054	Tri_Loss: 6.906420	TEST_domain_Loss: 0.686503
+
+load9_train set: Average loss: 0.0000, Accuracy: 19814/28800 (68.80%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 582/2400 (24.25%), Accuracy: 545/2400 (22.71%), Accuracy: 548/2400 (22.83%), Accuracy: 602/2400 (25.08%)
+
+learning rate 0.0000
+Train iter: 1910 [(38%)]	Loss: 11.151909	soft_Loss: 4.053257	MMD_Loss: 0.018928	Tri_Loss: 6.679695	TEST_domain_Loss: 0.687497
+Train iter: 1920 [(38%)]	Loss: 11.406214	soft_Loss: 4.015799	MMD_Loss: 0.024646	Tri_Loss: 6.973523	TEST_domain_Loss: 0.686749
+Train iter: 1930 [(39%)]	Loss: 11.428926	soft_Loss: 4.065078	MMD_Loss: 0.015634	Tri_Loss: 6.966241	TEST_domain_Loss: 0.670092
+Train iter: 1940 [(39%)]	Loss: 11.688299	soft_Loss: 4.115956	MMD_Loss: 0.016588	Tri_Loss: 7.151065	TEST_domain_Loss: 0.694736
+Train iter: 1950 [(39%)]	Loss: 11.343206	soft_Loss: 4.066236	MMD_Loss: 0.015007	Tri_Loss: 6.884683	TEST_domain_Loss: 0.651065
+Train iter: 1960 [(39%)]	Loss: 11.290357	soft_Loss: 4.089918	MMD_Loss: 0.017649	Tri_Loss: 6.753374	TEST_domain_Loss: 0.692877
+Train iter: 1970 [(39%)]	Loss: 11.408583	soft_Loss: 3.987383	MMD_Loss: 0.019527	Tri_Loss: 6.944037	TEST_domain_Loss: 0.723326
+Train iter: 1980 [(40%)]	Loss: 11.159443	soft_Loss: 4.016844	MMD_Loss: 0.022628	Tri_Loss: 6.666032	TEST_domain_Loss: 0.704181
+Train iter: 1990 [(40%)]	Loss: 11.421606	soft_Loss: 4.030433	MMD_Loss: 0.014466	Tri_Loss: 6.976785	TEST_domain_Loss: 0.656401
+Train iter: 2000 [(40%)]	Loss: 11.487770	soft_Loss: 4.090304	MMD_Loss: 0.021259	Tri_Loss: 6.933093	TEST_domain_Loss: 0.693279
+
+load9_train set: Average loss: 0.0000, Accuracy: 20168/28800 (70.03%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 592/2400 (24.67%), Accuracy: 547/2400 (22.79%), Accuracy: 551/2400 (22.96%), Accuracy: 599/2400 (24.96%)
+
+learning rate 0.0000
+Train iter: 2010 [(40%)]	Loss: 11.361532	soft_Loss: 4.084979	MMD_Loss: 0.017163	Tri_Loss: 6.813816	TEST_domain_Loss: 0.686521
+Train iter: 2020 [(40%)]	Loss: 11.012835	soft_Loss: 3.929925	MMD_Loss: 0.016864	Tri_Loss: 6.611867	TEST_domain_Loss: 0.683441
+Train iter: 2030 [(41%)]	Loss: 11.438092	soft_Loss: 3.985361	MMD_Loss: 0.018182	Tri_Loss: 6.996194	TEST_domain_Loss: 0.676235
+Train iter: 2040 [(41%)]	Loss: 11.282982	soft_Loss: 3.843348	MMD_Loss: 0.022353	Tri_Loss: 6.980577	TEST_domain_Loss: 0.669572
+Train iter: 2050 [(41%)]	Loss: 11.158690	soft_Loss: 3.956056	MMD_Loss: 0.018280	Tri_Loss: 6.722000	TEST_domain_Loss: 0.682120
+Train iter: 2060 [(41%)]	Loss: 11.594189	soft_Loss: 3.999237	MMD_Loss: 0.015830	Tri_Loss: 7.179812	TEST_domain_Loss: 0.629353
+Train iter: 2070 [(41%)]	Loss: 11.521181	soft_Loss: 4.135162	MMD_Loss: 0.017537	Tri_Loss: 6.877172	TEST_domain_Loss: 0.707435
+Train iter: 2080 [(42%)]	Loss: 11.124943	soft_Loss: 3.902980	MMD_Loss: 0.022360	Tri_Loss: 6.734720	TEST_domain_Loss: 0.672565
+Train iter: 2090 [(42%)]	Loss: 11.570903	soft_Loss: 4.048674	MMD_Loss: 0.015358	Tri_Loss: 7.026897	TEST_domain_Loss: 0.692199
+Train iter: 2100 [(42%)]	Loss: 10.927039	soft_Loss: 3.808998	MMD_Loss: 0.018495	Tri_Loss: 6.628855	TEST_domain_Loss: 0.667107
+
+load9_train set: Average loss: 0.0000, Accuracy: 20456/28800 (71.03%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 612/2400 (25.50%), Accuracy: 576/2400 (24.00%), Accuracy: 553/2400 (23.04%), Accuracy: 596/2400 (24.83%)
+
+learning rate 0.0000
+Train iter: 2110 [(42%)]	Loss: 11.399180	soft_Loss: 3.992035	MMD_Loss: 0.017368	Tri_Loss: 6.907351	TEST_domain_Loss: 0.683046
+Train iter: 2120 [(42%)]	Loss: 11.176323	soft_Loss: 3.954821	MMD_Loss: 0.017589	Tri_Loss: 6.730964	TEST_domain_Loss: 0.664648
+Train iter: 2130 [(43%)]	Loss: 11.352163	soft_Loss: 3.937582	MMD_Loss: 0.018980	Tri_Loss: 6.923784	TEST_domain_Loss: 0.665182
+Train iter: 2140 [(43%)]	Loss: 11.748371	soft_Loss: 4.068474	MMD_Loss: 0.022288	Tri_Loss: 7.159539	TEST_domain_Loss: 0.694187
+Train iter: 2150 [(43%)]	Loss: 11.057196	soft_Loss: 3.810189	MMD_Loss: 0.017487	Tri_Loss: 6.768518	TEST_domain_Loss: 0.642688
+Train iter: 2160 [(43%)]	Loss: 11.082109	soft_Loss: 3.924118	MMD_Loss: 0.019450	Tri_Loss: 6.588596	TEST_domain_Loss: 0.723411
+Train iter: 2170 [(43%)]	Loss: 11.485147	soft_Loss: 3.991545	MMD_Loss: 0.017298	Tri_Loss: 6.988159	TEST_domain_Loss: 0.668448
+Train iter: 2180 [(44%)]	Loss: 11.097067	soft_Loss: 3.838058	MMD_Loss: 0.021231	Tri_Loss: 6.738169	TEST_domain_Loss: 0.670179
+Train iter: 2190 [(44%)]	Loss: 11.036411	soft_Loss: 3.767188	MMD_Loss: 0.023849	Tri_Loss: 6.722752	TEST_domain_Loss: 0.689540
+Train iter: 2200 [(44%)]	Loss: 11.235933	soft_Loss: 3.838150	MMD_Loss: 0.015672	Tri_Loss: 6.847658	TEST_domain_Loss: 0.700937
+
+load9_train set: Average loss: 0.0000, Accuracy: 20755/28800 (72.07%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 610/2400 (25.42%), Accuracy: 552/2400 (23.00%), Accuracy: 558/2400 (23.25%), Accuracy: 634/2400 (26.42%)
+
+learning rate 0.0000
+Train iter: 2210 [(44%)]	Loss: 11.061056	soft_Loss: 3.846254	MMD_Loss: 0.016132	Tri_Loss: 6.661060	TEST_domain_Loss: 0.696408
+Train iter: 2220 [(44%)]	Loss: 10.999908	soft_Loss: 3.821935	MMD_Loss: 0.021507	Tri_Loss: 6.630428	TEST_domain_Loss: 0.681140
+Train iter: 2230 [(45%)]	Loss: 11.374569	soft_Loss: 3.949308	MMD_Loss: 0.013883	Tri_Loss: 6.909592	TEST_domain_Loss: 0.660059
+Train iter: 2240 [(45%)]	Loss: 11.004183	soft_Loss: 3.839183	MMD_Loss: 0.017690	Tri_Loss: 6.629766	TEST_domain_Loss: 0.666533
+Train iter: 2250 [(45%)]	Loss: 11.530642	soft_Loss: 3.952685	MMD_Loss: 0.017934	Tri_Loss: 7.061391	TEST_domain_Loss: 0.654191
+Train iter: 2260 [(45%)]	Loss: 11.089968	soft_Loss: 3.802856	MMD_Loss: 0.024955	Tri_Loss: 6.771523	TEST_domain_Loss: 0.637054
+Train iter: 2270 [(45%)]	Loss: 10.929284	soft_Loss: 3.740938	MMD_Loss: 0.021620	Tri_Loss: 6.654181	TEST_domain_Loss: 0.653547
+Train iter: 2280 [(46%)]	Loss: 11.082798	soft_Loss: 3.953557	MMD_Loss: 0.015043	Tri_Loss: 6.562652	TEST_domain_Loss: 0.687754
+Train iter: 2290 [(46%)]	Loss: 11.211081	soft_Loss: 3.986821	MMD_Loss: 0.014403	Tri_Loss: 6.659197	TEST_domain_Loss: 0.686144
+Train iter: 2300 [(46%)]	Loss: 11.075732	soft_Loss: 3.806925	MMD_Loss: 0.022139	Tri_Loss: 6.692444	TEST_domain_Loss: 0.687868
+
+load9_train set: Average loss: 0.0000, Accuracy: 20608/28800 (71.56%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 614/2400 (25.58%), Accuracy: 563/2400 (23.46%), Accuracy: 562/2400 (23.42%), Accuracy: 632/2400 (26.33%)
+
+learning rate 0.0000
+Train iter: 2310 [(46%)]	Loss: 11.260426	soft_Loss: 3.880478	MMD_Loss: 0.016530	Tri_Loss: 6.826262	TEST_domain_Loss: 0.670682
+Train iter: 2320 [(46%)]	Loss: 10.951950	soft_Loss: 3.836258	MMD_Loss: 0.015193	Tri_Loss: 6.528970	TEST_domain_Loss: 0.696721
+Train iter: 2330 [(47%)]	Loss: 11.285631	soft_Loss: 3.887370	MMD_Loss: 0.014804	Tri_Loss: 6.860724	TEST_domain_Loss: 0.651686
+Train iter: 2340 [(47%)]	Loss: 11.258497	soft_Loss: 3.872857	MMD_Loss: 0.020527	Tri_Loss: 6.813977	TEST_domain_Loss: 0.676804
+Train iter: 2350 [(47%)]	Loss: 11.119118	soft_Loss: 3.828733	MMD_Loss: 0.022905	Tri_Loss: 6.698641	TEST_domain_Loss: 0.690005
+Train iter: 2360 [(47%)]	Loss: 10.727188	soft_Loss: 3.621248	MMD_Loss: 0.019343	Tri_Loss: 6.574637	TEST_domain_Loss: 0.628493
+Train iter: 2370 [(47%)]	Loss: 11.165522	soft_Loss: 3.782775	MMD_Loss: 0.019128	Tri_Loss: 6.787627	TEST_domain_Loss: 0.693924
+Train iter: 2380 [(48%)]	Loss: 10.843414	soft_Loss: 3.710176	MMD_Loss: 0.014588	Tri_Loss: 6.575287	TEST_domain_Loss: 0.655297
+Train iter: 2390 [(48%)]	Loss: 10.820132	soft_Loss: 3.631603	MMD_Loss: 0.023438	Tri_Loss: 6.612427	TEST_domain_Loss: 0.663165
+Train iter: 2400 [(48%)]	Loss: 11.015316	soft_Loss: 3.750625	MMD_Loss: 0.014551	Tri_Loss: 6.695798	TEST_domain_Loss: 0.663889
+
+load9_train set: Average loss: 0.0000, Accuracy: 21070/28800 (73.16%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 603/2400 (25.12%), Accuracy: 578/2400 (24.08%), Accuracy: 536/2400 (22.33%), Accuracy: 620/2400 (25.83%)
+
+learning rate 0.0000
+Train iter: 2410 [(48%)]	Loss: 11.011458	soft_Loss: 3.682958	MMD_Loss: 0.022112	Tri_Loss: 6.759041	TEST_domain_Loss: 0.655876
+Train iter: 2420 [(48%)]	Loss: 11.007586	soft_Loss: 3.729214	MMD_Loss: 0.023812	Tri_Loss: 6.683386	TEST_domain_Loss: 0.676411
+Train iter: 2430 [(49%)]	Loss: 10.892454	soft_Loss: 3.717258	MMD_Loss: 0.018753	Tri_Loss: 6.604404	TEST_domain_Loss: 0.653914
+Train iter: 2440 [(49%)]	Loss: 11.231377	soft_Loss: 3.828781	MMD_Loss: 0.013745	Tri_Loss: 6.798366	TEST_domain_Loss: 0.693208
+Train iter: 2450 [(49%)]	Loss: 10.727823	soft_Loss: 3.595682	MMD_Loss: 0.020603	Tri_Loss: 6.588636	TEST_domain_Loss: 0.620607
+Train iter: 2460 [(49%)]	Loss: 10.738469	soft_Loss: 3.597970	MMD_Loss: 0.026899	Tri_Loss: 6.564538	TEST_domain_Loss: 0.644588
+Train iter: 2470 [(49%)]	Loss: 11.131193	soft_Loss: 3.749501	MMD_Loss: 0.014811	Tri_Loss: 6.801260	TEST_domain_Loss: 0.662461
+Train iter: 2480 [(50%)]	Loss: 10.317284	soft_Loss: 3.435374	MMD_Loss: 0.030062	Tri_Loss: 6.301711	TEST_domain_Loss: 0.638326
+Train iter: 2490 [(50%)]	Loss: 11.227554	soft_Loss: 3.731081	MMD_Loss: 0.032875	Tri_Loss: 6.921341	TEST_domain_Loss: 0.637211
+Train iter: 2500 [(50%)]	Loss: 10.891327	soft_Loss: 3.550084	MMD_Loss: 0.012980	Tri_Loss: 6.773656	TEST_domain_Loss: 0.645450
+
+load9_train set: Average loss: 0.0000, Accuracy: 21194/28800 (73.59%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 601/2400 (25.04%), Accuracy: 560/2400 (23.33%), Accuracy: 544/2400 (22.67%), Accuracy: 634/2400 (26.42%)
+
+learning rate 0.0000
+Train iter: 2510 [(50%)]	Loss: 11.024632	soft_Loss: 3.810905	MMD_Loss: 0.025064	Tri_Loss: 6.634226	TEST_domain_Loss: 0.641823
+Train iter: 2520 [(50%)]	Loss: 11.017391	soft_Loss: 3.751790	MMD_Loss: 0.014851	Tri_Loss: 6.743233	TEST_domain_Loss: 0.594455
+Train iter: 2530 [(51%)]	Loss: 11.241952	soft_Loss: 3.863329	MMD_Loss: 0.020018	Tri_Loss: 6.790089	TEST_domain_Loss: 0.654400
+Train iter: 2540 [(51%)]	Loss: 10.933344	soft_Loss: 3.641328	MMD_Loss: 0.019614	Tri_Loss: 6.712077	TEST_domain_Loss: 0.643548
+Train iter: 2550 [(51%)]	Loss: 10.601454	soft_Loss: 3.600822	MMD_Loss: 0.018271	Tri_Loss: 6.423167	TEST_domain_Loss: 0.637260
+Train iter: 2560 [(51%)]	Loss: 10.866005	soft_Loss: 3.727257	MMD_Loss: 0.012774	Tri_Loss: 6.517141	TEST_domain_Loss: 0.686415
+Train iter: 2570 [(51%)]	Loss: 10.877462	soft_Loss: 3.633188	MMD_Loss: 0.021274	Tri_Loss: 6.651476	TEST_domain_Loss: 0.649242
+Train iter: 2580 [(52%)]	Loss: 10.891965	soft_Loss: 3.709658	MMD_Loss: 0.016578	Tri_Loss: 6.620984	TEST_domain_Loss: 0.620531
+Train iter: 2590 [(52%)]	Loss: 10.997083	soft_Loss: 3.616120	MMD_Loss: 0.018360	Tri_Loss: 6.754609	TEST_domain_Loss: 0.683803
+Train iter: 2600 [(52%)]	Loss: 10.778484	soft_Loss: 3.500394	MMD_Loss: 0.031367	Tri_Loss: 6.636909	TEST_domain_Loss: 0.682984
+
+load9_train set: Average loss: 0.0000, Accuracy: 21556/28800 (74.85%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 604/2400 (25.17%), Accuracy: 560/2400 (23.33%), Accuracy: 560/2400 (23.33%), Accuracy: 620/2400 (25.83%)
+
+learning rate 0.0000
+Train iter: 2610 [(52%)]	Loss: 10.656691	soft_Loss: 3.579885	MMD_Loss: 0.022167	Tri_Loss: 6.518646	TEST_domain_Loss: 0.606347
+Train iter: 2620 [(52%)]	Loss: 10.600208	soft_Loss: 3.587831	MMD_Loss: 0.016109	Tri_Loss: 6.413010	TEST_domain_Loss: 0.651051
+Train iter: 2630 [(53%)]	Loss: 10.720513	soft_Loss: 3.508111	MMD_Loss: 0.020209	Tri_Loss: 6.626356	TEST_domain_Loss: 0.634543
+Train iter: 2640 [(53%)]	Loss: 10.904869	soft_Loss: 3.658155	MMD_Loss: 0.018639	Tri_Loss: 6.671079	TEST_domain_Loss: 0.624785
+Train iter: 2650 [(53%)]	Loss: 10.987461	soft_Loss: 3.636009	MMD_Loss: 0.013870	Tri_Loss: 6.703813	TEST_domain_Loss: 0.700501
+Train iter: 2660 [(53%)]	Loss: 10.570942	soft_Loss: 3.460313	MMD_Loss: 0.019485	Tri_Loss: 6.537614	TEST_domain_Loss: 0.617382
+Train iter: 2670 [(53%)]	Loss: 10.890760	soft_Loss: 3.646478	MMD_Loss: 0.018587	Tri_Loss: 6.680464	TEST_domain_Loss: 0.609181
+Train iter: 2680 [(54%)]	Loss: 10.705594	soft_Loss: 3.573516	MMD_Loss: 0.015116	Tri_Loss: 6.531638	TEST_domain_Loss: 0.646587
+Train iter: 2690 [(54%)]	Loss: 10.797810	soft_Loss: 3.580127	MMD_Loss: 0.020160	Tri_Loss: 6.640538	TEST_domain_Loss: 0.618086
+Train iter: 2700 [(54%)]	Loss: 10.515862	soft_Loss: 3.479513	MMD_Loss: 0.018474	Tri_Loss: 6.426920	TEST_domain_Loss: 0.648916
+
+load9_train set: Average loss: 0.0000, Accuracy: 21594/28800 (74.98%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 606/2400 (25.25%), Accuracy: 543/2400 (22.62%), Accuracy: 540/2400 (22.50%), Accuracy: 637/2400 (26.54%)
+
+learning rate 0.0000
+Train iter: 2710 [(54%)]	Loss: 11.110702	soft_Loss: 3.732122	MMD_Loss: 0.014328	Tri_Loss: 6.772613	TEST_domain_Loss: 0.651466
+Train iter: 2720 [(54%)]	Loss: 10.670849	soft_Loss: 3.538796	MMD_Loss: 0.019245	Tri_Loss: 6.578256	TEST_domain_Loss: 0.591564
+Train iter: 2730 [(55%)]	Loss: 10.524242	soft_Loss: 3.371506	MMD_Loss: 0.014796	Tri_Loss: 6.539107	TEST_domain_Loss: 0.654351
+Train iter: 2740 [(55%)]	Loss: 10.815845	soft_Loss: 3.587640	MMD_Loss: 0.021215	Tri_Loss: 6.651506	TEST_domain_Loss: 0.610894
+Train iter: 2750 [(55%)]	Loss: 10.722271	soft_Loss: 3.489476	MMD_Loss: 0.023081	Tri_Loss: 6.633753	TEST_domain_Loss: 0.630148
+Train iter: 2760 [(55%)]	Loss: 10.914394	soft_Loss: 3.647808	MMD_Loss: 0.025168	Tri_Loss: 6.626750	TEST_domain_Loss: 0.667750
+Train iter: 2770 [(55%)]	Loss: 10.842200	soft_Loss: 3.589843	MMD_Loss: 0.016947	Tri_Loss: 6.645987	TEST_domain_Loss: 0.641543
+Train iter: 2780 [(56%)]	Loss: 10.632236	soft_Loss: 3.518053	MMD_Loss: 0.021308	Tri_Loss: 6.495966	TEST_domain_Loss: 0.646884
+Train iter: 2790 [(56%)]	Loss: 10.692753	soft_Loss: 3.633369	MMD_Loss: 0.015617	Tri_Loss: 6.467781	TEST_domain_Loss: 0.624720
+Train iter: 2800 [(56%)]	Loss: 10.719961	soft_Loss: 3.592948	MMD_Loss: 0.018967	Tri_Loss: 6.528802	TEST_domain_Loss: 0.627492
+
+load9_train set: Average loss: 0.0000, Accuracy: 21795/28800 (75.68%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 621/2400 (25.88%), Accuracy: 552/2400 (23.00%), Accuracy: 563/2400 (23.46%), Accuracy: 628/2400 (26.17%)
+
+learning rate 0.0000
+Train iter: 2810 [(56%)]	Loss: 10.784735	soft_Loss: 3.587095	MMD_Loss: 0.020826	Tri_Loss: 6.570043	TEST_domain_Loss: 0.654378
+Train iter: 2820 [(56%)]	Loss: 10.903896	soft_Loss: 3.623823	MMD_Loss: 0.014622	Tri_Loss: 6.668178	TEST_domain_Loss: 0.644591
+Train iter: 2830 [(57%)]	Loss: 10.831526	soft_Loss: 3.618538	MMD_Loss: 0.014855	Tri_Loss: 6.546021	TEST_domain_Loss: 0.697650
+Train iter: 2840 [(57%)]	Loss: 10.808180	soft_Loss: 3.526971	MMD_Loss: 0.017913	Tri_Loss: 6.645258	TEST_domain_Loss: 0.663374
+Train iter: 2850 [(57%)]	Loss: 10.848459	soft_Loss: 3.678374	MMD_Loss: 0.015068	Tri_Loss: 6.533504	TEST_domain_Loss: 0.665190
+Train iter: 2860 [(57%)]	Loss: 10.727884	soft_Loss: 3.533425	MMD_Loss: 0.018506	Tri_Loss: 6.595262	TEST_domain_Loss: 0.623932
+Train iter: 2870 [(57%)]	Loss: 10.868361	soft_Loss: 3.556154	MMD_Loss: 0.020668	Tri_Loss: 6.700459	TEST_domain_Loss: 0.634156
+Train iter: 2880 [(58%)]	Loss: 10.422020	soft_Loss: 3.428437	MMD_Loss: 0.016353	Tri_Loss: 6.407016	TEST_domain_Loss: 0.610569
+Train iter: 2890 [(58%)]	Loss: 10.545053	soft_Loss: 3.477357	MMD_Loss: 0.026637	Tri_Loss: 6.460607	TEST_domain_Loss: 0.620403
+Train iter: 2900 [(58%)]	Loss: 10.856497	soft_Loss: 3.563607	MMD_Loss: 0.016315	Tri_Loss: 6.697677	TEST_domain_Loss: 0.619430
+
+load9_train set: Average loss: 0.0000, Accuracy: 21999/28800 (76.39%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 599/2400 (24.96%), Accuracy: 562/2400 (23.42%), Accuracy: 569/2400 (23.71%), Accuracy: 610/2400 (25.42%)
+
+learning rate 0.0000
+Train iter: 2910 [(58%)]	Loss: 10.244157	soft_Loss: 3.335115	MMD_Loss: 0.017197	Tri_Loss: 6.322387	TEST_domain_Loss: 0.606973
+Train iter: 2920 [(58%)]	Loss: 10.775201	soft_Loss: 3.655722	MMD_Loss: 0.012887	Tri_Loss: 6.539513	TEST_domain_Loss: 0.605088
+Train iter: 2930 [(59%)]	Loss: 10.988624	soft_Loss: 3.551843	MMD_Loss: 0.018382	Tri_Loss: 6.813115	TEST_domain_Loss: 0.644128
+Train iter: 2940 [(59%)]	Loss: 10.627701	soft_Loss: 3.427116	MMD_Loss: 0.030187	Tri_Loss: 6.581962	TEST_domain_Loss: 0.625292
+Train iter: 2950 [(59%)]	Loss: 10.561960	soft_Loss: 3.477087	MMD_Loss: 0.024100	Tri_Loss: 6.460057	TEST_domain_Loss: 0.636145
+Train iter: 2960 [(59%)]	Loss: 10.585079	soft_Loss: 3.464299	MMD_Loss: 0.020580	Tri_Loss: 6.511683	TEST_domain_Loss: 0.623504
+Train iter: 2970 [(59%)]	Loss: 10.408739	soft_Loss: 3.367937	MMD_Loss: 0.021964	Tri_Loss: 6.427288	TEST_domain_Loss: 0.625410
+Train iter: 2980 [(60%)]	Loss: 10.673146	soft_Loss: 3.524714	MMD_Loss: 0.017288	Tri_Loss: 6.525014	TEST_domain_Loss: 0.639801
+Train iter: 2990 [(60%)]	Loss: 10.762472	soft_Loss: 3.445288	MMD_Loss: 0.016520	Tri_Loss: 6.722181	TEST_domain_Loss: 0.612479
+Train iter: 3000 [(60%)]	Loss: 10.322944	soft_Loss: 3.258738	MMD_Loss: 0.017848	Tri_Loss: 6.458797	TEST_domain_Loss: 0.619589
+
+load9_train set: Average loss: 0.0000, Accuracy: 21974/28800 (76.30%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 596/2400 (24.83%), Accuracy: 559/2400 (23.29%), Accuracy: 530/2400 (22.08%), Accuracy: 635/2400 (26.46%)
+
+learning rate 0.0000
+Train iter: 3010 [(60%)]	Loss: 10.882551	soft_Loss: 3.567904	MMD_Loss: 0.016237	Tri_Loss: 6.671854	TEST_domain_Loss: 0.658976
+Train iter: 3020 [(60%)]	Loss: 10.742869	soft_Loss: 3.502170	MMD_Loss: 0.019301	Tri_Loss: 6.632539	TEST_domain_Loss: 0.620467
+Train iter: 3030 [(61%)]	Loss: 10.801633	soft_Loss: 3.556905	MMD_Loss: 0.022276	Tri_Loss: 6.577032	TEST_domain_Loss: 0.676158
+Train iter: 3040 [(61%)]	Loss: 10.634201	soft_Loss: 3.415792	MMD_Loss: 0.025843	Tri_Loss: 6.662272	TEST_domain_Loss: 0.560830
+Train iter: 3050 [(61%)]	Loss: 10.335804	soft_Loss: 3.308511	MMD_Loss: 0.030763	Tri_Loss: 6.381484	TEST_domain_Loss: 0.643746
+Train iter: 3060 [(61%)]	Loss: 10.756406	soft_Loss: 3.401052	MMD_Loss: 0.021110	Tri_Loss: 6.740549	TEST_domain_Loss: 0.623360
+Train iter: 3070 [(61%)]	Loss: 10.586247	soft_Loss: 3.511320	MMD_Loss: 0.020264	Tri_Loss: 6.459297	TEST_domain_Loss: 0.623233
+Train iter: 3080 [(62%)]	Loss: 10.790920	soft_Loss: 3.494577	MMD_Loss: 0.019141	Tri_Loss: 6.647954	TEST_domain_Loss: 0.657354
+Train iter: 3090 [(62%)]	Loss: 10.443209	soft_Loss: 3.391564	MMD_Loss: 0.026588	Tri_Loss: 6.443710	TEST_domain_Loss: 0.608085
+Train iter: 3100 [(62%)]	Loss: 10.607541	soft_Loss: 3.516700	MMD_Loss: 0.011807	Tri_Loss: 6.472104	TEST_domain_Loss: 0.633195
+
+load9_train set: Average loss: 0.0000, Accuracy: 22219/28800 (77.15%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 610/2400 (25.42%), Accuracy: 563/2400 (23.46%), Accuracy: 560/2400 (23.33%), Accuracy: 658/2400 (27.42%)
+
+learning rate 0.0000
+Train iter: 3110 [(62%)]	Loss: 10.184381	soft_Loss: 3.235720	MMD_Loss: 0.018597	Tri_Loss: 6.360576	TEST_domain_Loss: 0.594818
+Train iter: 3120 [(62%)]	Loss: 10.427204	soft_Loss: 3.406154	MMD_Loss: 0.015101	Tri_Loss: 6.409692	TEST_domain_Loss: 0.621263
+Train iter: 3130 [(63%)]	Loss: 10.818291	soft_Loss: 3.547488	MMD_Loss: 0.018864	Tri_Loss: 6.660063	TEST_domain_Loss: 0.617357
+Train iter: 3140 [(63%)]	Loss: 10.839812	soft_Loss: 3.560730	MMD_Loss: 0.018665	Tri_Loss: 6.647822	TEST_domain_Loss: 0.637527
+Train iter: 3150 [(63%)]	Loss: 10.944633	soft_Loss: 3.606773	MMD_Loss: 0.017507	Tri_Loss: 6.717265	TEST_domain_Loss: 0.627777
+Train iter: 3160 [(63%)]	Loss: 10.648195	soft_Loss: 3.436219	MMD_Loss: 0.022417	Tri_Loss: 6.569177	TEST_domain_Loss: 0.644070
+Train iter: 3170 [(63%)]	Loss: 10.713593	soft_Loss: 3.442856	MMD_Loss: 0.029845	Tri_Loss: 6.655410	TEST_domain_Loss: 0.609030
+Train iter: 3180 [(64%)]	Loss: 10.486975	soft_Loss: 3.422859	MMD_Loss: 0.022889	Tri_Loss: 6.422911	TEST_domain_Loss: 0.640571
+Train iter: 3190 [(64%)]	Loss: 10.144108	soft_Loss: 3.243366	MMD_Loss: 0.017067	Tri_Loss: 6.329923	TEST_domain_Loss: 0.575234
+Train iter: 3200 [(64%)]	Loss: 10.492911	soft_Loss: 3.311562	MMD_Loss: 0.015618	Tri_Loss: 6.581964	TEST_domain_Loss: 0.605655
+
+load9_train set: Average loss: 0.0000, Accuracy: 22313/28800 (77.48%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 614/2400 (25.58%), Accuracy: 573/2400 (23.88%), Accuracy: 545/2400 (22.71%), Accuracy: 641/2400 (26.71%)
+
+learning rate 0.0000
+Train iter: 3210 [(64%)]	Loss: 10.294399	soft_Loss: 3.284380	MMD_Loss: 0.017234	Tri_Loss: 6.424564	TEST_domain_Loss: 0.589171
+Train iter: 3220 [(64%)]	Loss: 10.638321	soft_Loss: 3.334876	MMD_Loss: 0.020556	Tri_Loss: 6.668733	TEST_domain_Loss: 0.635480
+Train iter: 3230 [(65%)]	Loss: 10.454855	soft_Loss: 3.299614	MMD_Loss: 0.019351	Tri_Loss: 6.536977	TEST_domain_Loss: 0.619399
+Train iter: 3240 [(65%)]	Loss: 10.622147	soft_Loss: 3.317532	MMD_Loss: 0.030919	Tri_Loss: 6.676188	TEST_domain_Loss: 0.618051
+Train iter: 3250 [(65%)]	Loss: 10.784574	soft_Loss: 3.426659	MMD_Loss: 0.023354	Tri_Loss: 6.760703	TEST_domain_Loss: 0.594226
+Train iter: 3260 [(65%)]	Loss: 10.663709	soft_Loss: 3.523249	MMD_Loss: 0.018327	Tri_Loss: 6.522640	TEST_domain_Loss: 0.618743
+Train iter: 3270 [(65%)]	Loss: 10.584939	soft_Loss: 3.292703	MMD_Loss: 0.016491	Tri_Loss: 6.689747	TEST_domain_Loss: 0.605343
+Train iter: 3280 [(66%)]	Loss: 10.625786	soft_Loss: 3.481782	MMD_Loss: 0.021303	Tri_Loss: 6.524019	TEST_domain_Loss: 0.617190
+Train iter: 3290 [(66%)]	Loss: 10.557934	soft_Loss: 3.344836	MMD_Loss: 0.014069	Tri_Loss: 6.581654	TEST_domain_Loss: 0.635657
+Train iter: 3300 [(66%)]	Loss: 10.783746	soft_Loss: 3.488271	MMD_Loss: 0.018218	Tri_Loss: 6.683846	TEST_domain_Loss: 0.611621
+
+load9_train set: Average loss: 0.0000, Accuracy: 22508/28800 (78.15%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 587/2400 (24.46%), Accuracy: 556/2400 (23.17%), Accuracy: 549/2400 (22.88%), Accuracy: 602/2400 (25.08%)
+
+learning rate 0.0000
+Train iter: 3310 [(66%)]	Loss: 10.634076	soft_Loss: 3.423575	MMD_Loss: 0.019025	Tri_Loss: 6.568741	TEST_domain_Loss: 0.640280
+Train iter: 3320 [(66%)]	Loss: 10.387407	soft_Loss: 3.337438	MMD_Loss: 0.019639	Tri_Loss: 6.414822	TEST_domain_Loss: 0.632307
+Train iter: 3330 [(67%)]	Loss: 10.690507	soft_Loss: 3.527941	MMD_Loss: 0.014352	Tri_Loss: 6.569871	TEST_domain_Loss: 0.595192
+Train iter: 3340 [(67%)]	Loss: 10.173830	soft_Loss: 3.218853	MMD_Loss: 0.023049	Tri_Loss: 6.333802	TEST_domain_Loss: 0.614072
+Train iter: 3350 [(67%)]	Loss: 10.179407	soft_Loss: 3.196558	MMD_Loss: 0.018144	Tri_Loss: 6.390397	TEST_domain_Loss: 0.590066
+Train iter: 3360 [(67%)]	Loss: 10.182117	soft_Loss: 3.224648	MMD_Loss: 0.018137	Tri_Loss: 6.365077	TEST_domain_Loss: 0.589641
+Train iter: 3370 [(67%)]	Loss: 10.753686	soft_Loss: 3.389334	MMD_Loss: 0.017924	Tri_Loss: 6.733080	TEST_domain_Loss: 0.629297
+Train iter: 3380 [(68%)]	Loss: 10.436395	soft_Loss: 3.305061	MMD_Loss: 0.029282	Tri_Loss: 6.545471	TEST_domain_Loss: 0.571806
+Train iter: 3390 [(68%)]	Loss: 10.636408	soft_Loss: 3.416053	MMD_Loss: 0.017880	Tri_Loss: 6.563906	TEST_domain_Loss: 0.653509
+Train iter: 3400 [(68%)]	Loss: 10.214392	soft_Loss: 3.253899	MMD_Loss: 0.022148	Tri_Loss: 6.350871	TEST_domain_Loss: 0.601655
+
+load9_train set: Average loss: 0.0000, Accuracy: 22578/28800 (78.40%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 613/2400 (25.54%), Accuracy: 547/2400 (22.79%), Accuracy: 559/2400 (23.29%), Accuracy: 638/2400 (26.58%)
+
+learning rate 0.0000
+Train iter: 3410 [(68%)]	Loss: 10.925943	soft_Loss: 3.444401	MMD_Loss: 0.019060	Tri_Loss: 6.811080	TEST_domain_Loss: 0.666298
+Train iter: 3420 [(68%)]	Loss: 10.004508	soft_Loss: 3.235192	MMD_Loss: 0.017276	Tri_Loss: 6.180080	TEST_domain_Loss: 0.585208
+Train iter: 3430 [(69%)]	Loss: 10.567327	soft_Loss: 3.356284	MMD_Loss: 0.015406	Tri_Loss: 6.588929	TEST_domain_Loss: 0.620549
+Train iter: 3440 [(69%)]	Loss: 10.126067	soft_Loss: 3.206801	MMD_Loss: 0.029201	Tri_Loss: 6.346235	TEST_domain_Loss: 0.556927
+Train iter: 3450 [(69%)]	Loss: 10.410704	soft_Loss: 3.370116	MMD_Loss: 0.025676	Tri_Loss: 6.425888	TEST_domain_Loss: 0.602014
+Train iter: 3460 [(69%)]	Loss: 10.476675	soft_Loss: 3.304123	MMD_Loss: 0.017114	Tri_Loss: 6.542554	TEST_domain_Loss: 0.625830
+Train iter: 3470 [(69%)]	Loss: 10.273077	soft_Loss: 3.258874	MMD_Loss: 0.016625	Tri_Loss: 6.413825	TEST_domain_Loss: 0.596193
+Train iter: 3480 [(70%)]	Loss: 10.765467	soft_Loss: 3.446802	MMD_Loss: 0.020825	Tri_Loss: 6.696434	TEST_domain_Loss: 0.614145
+Train iter: 3490 [(70%)]	Loss: 10.616280	soft_Loss: 3.292111	MMD_Loss: 0.016368	Tri_Loss: 6.676592	TEST_domain_Loss: 0.643650
+Train iter: 3500 [(70%)]	Loss: 10.288277	soft_Loss: 3.260381	MMD_Loss: 0.038134	Tri_Loss: 6.402339	TEST_domain_Loss: 0.599159
+
+load9_train set: Average loss: 0.0000, Accuracy: 22650/28800 (78.65%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 621/2400 (25.88%), Accuracy: 576/2400 (24.00%), Accuracy: 571/2400 (23.79%), Accuracy: 630/2400 (26.25%)
+
+learning rate 0.0000
+Train iter: 3510 [(70%)]	Loss: 9.915856	soft_Loss: 3.084381	MMD_Loss: 0.019616	Tri_Loss: 6.241657	TEST_domain_Loss: 0.581385
+Train iter: 3520 [(70%)]	Loss: 10.274343	soft_Loss: 3.230463	MMD_Loss: 0.018758	Tri_Loss: 6.423560	TEST_domain_Loss: 0.612841
+Train iter: 3530 [(71%)]	Loss: 10.372932	soft_Loss: 3.221418	MMD_Loss: 0.023895	Tri_Loss: 6.521771	TEST_domain_Loss: 0.617080
+Train iter: 3540 [(71%)]	Loss: 10.330544	soft_Loss: 3.247113	MMD_Loss: 0.020794	Tri_Loss: 6.456547	TEST_domain_Loss: 0.616986
+Train iter: 3550 [(71%)]	Loss: 10.245851	soft_Loss: 3.240888	MMD_Loss: 0.014559	Tri_Loss: 6.415533	TEST_domain_Loss: 0.585473
+Train iter: 3560 [(71%)]	Loss: 10.284712	soft_Loss: 3.197250	MMD_Loss: 0.034413	Tri_Loss: 6.457183	TEST_domain_Loss: 0.606358
+Train iter: 3570 [(71%)]	Loss: 10.347973	soft_Loss: 3.339034	MMD_Loss: 0.012918	Tri_Loss: 6.333296	TEST_domain_Loss: 0.672781
+Train iter: 3580 [(72%)]	Loss: 10.039014	soft_Loss: 3.068345	MMD_Loss: 0.021280	Tri_Loss: 6.387965	TEST_domain_Loss: 0.571377
+Train iter: 3590 [(72%)]	Loss: 9.956049	soft_Loss: 3.178517	MMD_Loss: 0.027256	Tri_Loss: 6.192351	TEST_domain_Loss: 0.567392
+Train iter: 3600 [(72%)]	Loss: 10.130380	soft_Loss: 3.082808	MMD_Loss: 0.016914	Tri_Loss: 6.443558	TEST_domain_Loss: 0.596739
+
+load9_train set: Average loss: 0.0000, Accuracy: 22789/28800 (79.13%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 614/2400 (25.58%), Accuracy: 557/2400 (23.21%), Accuracy: 551/2400 (22.96%), Accuracy: 641/2400 (26.71%)
+
+learning rate 0.0000
+Train iter: 3610 [(72%)]	Loss: 10.178699	soft_Loss: 3.197601	MMD_Loss: 0.015589	Tri_Loss: 6.360294	TEST_domain_Loss: 0.614539
+Train iter: 3620 [(72%)]	Loss: 10.632627	soft_Loss: 3.411021	MMD_Loss: 0.016536	Tri_Loss: 6.612789	TEST_domain_Loss: 0.601785
+Train iter: 3630 [(73%)]	Loss: 10.144763	soft_Loss: 3.229437	MMD_Loss: 0.028961	Tri_Loss: 6.286495	TEST_domain_Loss: 0.608745
+Train iter: 3640 [(73%)]	Loss: 10.085204	soft_Loss: 3.182480	MMD_Loss: 0.018205	Tri_Loss: 6.247078	TEST_domain_Loss: 0.646071
+Train iter: 3650 [(73%)]	Loss: 10.483288	soft_Loss: 3.265377	MMD_Loss: 0.019927	Tri_Loss: 6.574203	TEST_domain_Loss: 0.632684
+Train iter: 3660 [(73%)]	Loss: 10.680176	soft_Loss: 3.408009	MMD_Loss: 0.017982	Tri_Loss: 6.688984	TEST_domain_Loss: 0.574077
+Train iter: 3670 [(73%)]	Loss: 10.223030	soft_Loss: 3.126273	MMD_Loss: 0.020392	Tri_Loss: 6.494145	TEST_domain_Loss: 0.590670
+Train iter: 3680 [(74%)]	Loss: 10.206182	soft_Loss: 3.124825	MMD_Loss: 0.018808	Tri_Loss: 6.469303	TEST_domain_Loss: 0.601496
+Train iter: 3690 [(74%)]	Loss: 10.635592	soft_Loss: 3.402959	MMD_Loss: 0.015451	Tri_Loss: 6.622512	TEST_domain_Loss: 0.602944
+Train iter: 3700 [(74%)]	Loss: 10.132020	soft_Loss: 3.231058	MMD_Loss: 0.035528	Tri_Loss: 6.257893	TEST_domain_Loss: 0.615230
+
+load9_train set: Average loss: 0.0000, Accuracy: 22871/28800 (79.41%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 626/2400 (26.08%), Accuracy: 573/2400 (23.88%), Accuracy: 567/2400 (23.62%), Accuracy: 638/2400 (26.58%)
+
+learning rate 0.0000
+Train iter: 3710 [(74%)]	Loss: 10.344733	soft_Loss: 3.220949	MMD_Loss: 0.018243	Tri_Loss: 6.497021	TEST_domain_Loss: 0.616323
+Train iter: 3720 [(74%)]	Loss: 9.907467	soft_Loss: 3.072034	MMD_Loss: 0.020077	Tri_Loss: 6.271670	TEST_domain_Loss: 0.551071
+Train iter: 3730 [(75%)]	Loss: 10.068006	soft_Loss: 3.122142	MMD_Loss: 0.019734	Tri_Loss: 6.355149	TEST_domain_Loss: 0.578316
+Train iter: 3740 [(75%)]	Loss: 10.252261	soft_Loss: 3.120799	MMD_Loss: 0.021223	Tri_Loss: 6.508639	TEST_domain_Loss: 0.608965
+Train iter: 3750 [(75%)]	Loss: 10.051600	soft_Loss: 3.074276	MMD_Loss: 0.016893	Tri_Loss: 6.379474	TEST_domain_Loss: 0.588029
+Train iter: 3760 [(75%)]	Loss: 10.019019	soft_Loss: 3.137244	MMD_Loss: 0.014844	Tri_Loss: 6.239041	TEST_domain_Loss: 0.634667
+Train iter: 3770 [(75%)]	Loss: 10.183507	soft_Loss: 3.201254	MMD_Loss: 0.018867	Tri_Loss: 6.380496	TEST_domain_Loss: 0.589687
+Train iter: 3780 [(76%)]	Loss: 10.192723	soft_Loss: 3.138783	MMD_Loss: 0.018085	Tri_Loss: 6.431957	TEST_domain_Loss: 0.610614
+Train iter: 3790 [(76%)]	Loss: 10.048750	soft_Loss: 3.050936	MMD_Loss: 0.012588	Tri_Loss: 6.429780	TEST_domain_Loss: 0.562021
+Train iter: 3800 [(76%)]	Loss: 10.149960	soft_Loss: 3.229365	MMD_Loss: 0.013351	Tri_Loss: 6.298421	TEST_domain_Loss: 0.615137
+
+load9_train set: Average loss: 0.0000, Accuracy: 23083/28800 (80.15%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 617/2400 (25.71%), Accuracy: 568/2400 (23.67%), Accuracy: 574/2400 (23.92%), Accuracy: 632/2400 (26.33%)
+
+learning rate 0.0000
+Train iter: 3810 [(76%)]	Loss: 10.331697	soft_Loss: 3.186083	MMD_Loss: 0.017523	Tri_Loss: 6.532247	TEST_domain_Loss: 0.602267
+Train iter: 3820 [(76%)]	Loss: 10.184141	soft_Loss: 3.202939	MMD_Loss: 0.031828	Tri_Loss: 6.364080	TEST_domain_Loss: 0.591441
+Train iter: 3830 [(77%)]	Loss: 10.431905	soft_Loss: 3.249198	MMD_Loss: 0.015261	Tri_Loss: 6.560637	TEST_domain_Loss: 0.613005
+Train iter: 3840 [(77%)]	Loss: 10.140759	soft_Loss: 3.190907	MMD_Loss: 0.022181	Tri_Loss: 6.371119	TEST_domain_Loss: 0.562455
+Train iter: 3850 [(77%)]	Loss: 10.446915	soft_Loss: 3.221474	MMD_Loss: 0.017555	Tri_Loss: 6.616335	TEST_domain_Loss: 0.597556
+Train iter: 3860 [(77%)]	Loss: 9.946278	soft_Loss: 3.015064	MMD_Loss: 0.018670	Tri_Loss: 6.381442	TEST_domain_Loss: 0.536780
+Train iter: 3870 [(77%)]	Loss: 9.983829	soft_Loss: 3.065909	MMD_Loss: 0.020377	Tri_Loss: 6.304028	TEST_domain_Loss: 0.599017
+Train iter: 3880 [(78%)]	Loss: 10.375132	soft_Loss: 3.227254	MMD_Loss: 0.020341	Tri_Loss: 6.524572	TEST_domain_Loss: 0.608545
+Train iter: 3890 [(78%)]	Loss: 10.019017	soft_Loss: 3.072616	MMD_Loss: 0.019004	Tri_Loss: 6.352866	TEST_domain_Loss: 0.579856
+Train iter: 3900 [(78%)]	Loss: 10.173874	soft_Loss: 3.147375	MMD_Loss: 0.019112	Tri_Loss: 6.452357	TEST_domain_Loss: 0.560331
+
+load9_train set: Average loss: 0.0000, Accuracy: 23142/28800 (80.35%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 621/2400 (25.88%), Accuracy: 583/2400 (24.29%), Accuracy: 567/2400 (23.62%), Accuracy: 638/2400 (26.58%)
+
+learning rate 0.0000
+Train iter: 3910 [(78%)]	Loss: 10.109067	soft_Loss: 3.153121	MMD_Loss: 0.029589	Tri_Loss: 6.321443	TEST_domain_Loss: 0.610014
+Train iter: 3920 [(78%)]	Loss: 10.069953	soft_Loss: 3.141519	MMD_Loss: 0.016273	Tri_Loss: 6.295616	TEST_domain_Loss: 0.621513
+Train iter: 3930 [(79%)]	Loss: 10.089460	soft_Loss: 3.144284	MMD_Loss: 0.023652	Tri_Loss: 6.327058	TEST_domain_Loss: 0.599366
+Train iter: 3940 [(79%)]	Loss: 10.127924	soft_Loss: 3.000997	MMD_Loss: 0.017155	Tri_Loss: 6.569057	TEST_domain_Loss: 0.545696
+Train iter: 3950 [(79%)]	Loss: 10.222759	soft_Loss: 3.231088	MMD_Loss: 0.029830	Tri_Loss: 6.401055	TEST_domain_Loss: 0.565552
+Train iter: 3960 [(79%)]	Loss: 9.911489	soft_Loss: 2.988631	MMD_Loss: 0.016777	Tri_Loss: 6.360350	TEST_domain_Loss: 0.550365
+Train iter: 3970 [(79%)]	Loss: 10.342682	soft_Loss: 3.180817	MMD_Loss: 0.020858	Tri_Loss: 6.535836	TEST_domain_Loss: 0.609841
+Train iter: 3980 [(80%)]	Loss: 10.041702	soft_Loss: 2.986108	MMD_Loss: 0.015477	Tri_Loss: 6.483552	TEST_domain_Loss: 0.561101
+Train iter: 3990 [(80%)]	Loss: 10.173756	soft_Loss: 3.167052	MMD_Loss: 0.019280	Tri_Loss: 6.403551	TEST_domain_Loss: 0.588267
+Train iter: 4000 [(80%)]	Loss: 10.180588	soft_Loss: 3.137290	MMD_Loss: 0.017039	Tri_Loss: 6.439992	TEST_domain_Loss: 0.590596
+
+load9_train set: Average loss: 0.0000, Accuracy: 23265/28800 (80.78%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 607/2400 (25.29%), Accuracy: 573/2400 (23.88%), Accuracy: 573/2400 (23.88%), Accuracy: 646/2400 (26.92%)
+
+learning rate 0.0000
+Train iter: 4010 [(80%)]	Loss: 9.729854	soft_Loss: 2.956792	MMD_Loss: 0.017023	Tri_Loss: 6.170450	TEST_domain_Loss: 0.589656
+Train iter: 4020 [(80%)]	Loss: 9.955146	soft_Loss: 3.031536	MMD_Loss: 0.021664	Tri_Loss: 6.324733	TEST_domain_Loss: 0.581302
+Train iter: 4030 [(81%)]	Loss: 10.139151	soft_Loss: 3.197659	MMD_Loss: 0.016702	Tri_Loss: 6.323768	TEST_domain_Loss: 0.605026
+Train iter: 4040 [(81%)]	Loss: 10.284725	soft_Loss: 3.255174	MMD_Loss: 0.017939	Tri_Loss: 6.396551	TEST_domain_Loss: 0.619032
+Train iter: 4050 [(81%)]	Loss: 10.251994	soft_Loss: 3.183464	MMD_Loss: 0.023022	Tri_Loss: 6.442578	TEST_domain_Loss: 0.606853
+Train iter: 4060 [(81%)]	Loss: 9.960259	soft_Loss: 3.017858	MMD_Loss: 0.015526	Tri_Loss: 6.348431	TEST_domain_Loss: 0.582230
+Train iter: 4070 [(81%)]	Loss: 9.968330	soft_Loss: 3.019810	MMD_Loss: 0.019184	Tri_Loss: 6.339978	TEST_domain_Loss: 0.593067
+Train iter: 4080 [(82%)]	Loss: 10.244847	soft_Loss: 3.229866	MMD_Loss: 0.018485	Tri_Loss: 6.438443	TEST_domain_Loss: 0.561744
+Train iter: 4090 [(82%)]	Loss: 10.118070	soft_Loss: 3.141827	MMD_Loss: 0.021822	Tri_Loss: 6.315073	TEST_domain_Loss: 0.642898
+Train iter: 4100 [(82%)]	Loss: 9.812751	soft_Loss: 3.026359	MMD_Loss: 0.016564	Tri_Loss: 6.217631	TEST_domain_Loss: 0.555620
+
+load9_train set: Average loss: 0.0000, Accuracy: 23329/28800 (81.00%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 603/2400 (25.12%), Accuracy: 583/2400 (24.29%), Accuracy: 563/2400 (23.46%), Accuracy: 630/2400 (26.25%)
+
+learning rate 0.0000
+Train iter: 4110 [(82%)]	Loss: 10.023975	soft_Loss: 3.105741	MMD_Loss: 0.023605	Tri_Loss: 6.298389	TEST_domain_Loss: 0.599643
+Train iter: 4120 [(82%)]	Loss: 10.008259	soft_Loss: 2.979327	MMD_Loss: 0.015833	Tri_Loss: 6.433634	TEST_domain_Loss: 0.582868
+Train iter: 4130 [(83%)]	Loss: 10.342966	soft_Loss: 3.189849	MMD_Loss: 0.016171	Tri_Loss: 6.537781	TEST_domain_Loss: 0.602554
+Train iter: 4140 [(83%)]	Loss: 9.832674	soft_Loss: 2.975263	MMD_Loss: 0.028265	Tri_Loss: 6.234264	TEST_domain_Loss: 0.598057
+Train iter: 4150 [(83%)]	Loss: 9.566813	soft_Loss: 2.895148	MMD_Loss: 0.019059	Tri_Loss: 6.058668	TEST_domain_Loss: 0.596957
+Train iter: 4160 [(83%)]	Loss: 9.973469	soft_Loss: 2.968881	MMD_Loss: 0.023894	Tri_Loss: 6.336455	TEST_domain_Loss: 0.647337
+Train iter: 4170 [(83%)]	Loss: 10.377987	soft_Loss: 3.221490	MMD_Loss: 0.020301	Tri_Loss: 6.546925	TEST_domain_Loss: 0.592406
+Train iter: 4180 [(84%)]	Loss: 9.797586	soft_Loss: 2.936160	MMD_Loss: 0.015553	Tri_Loss: 6.301710	TEST_domain_Loss: 0.547120
+Train iter: 4190 [(84%)]	Loss: 10.152118	soft_Loss: 3.098622	MMD_Loss: 0.018028	Tri_Loss: 6.470179	TEST_domain_Loss: 0.568265
+Train iter: 4200 [(84%)]	Loss: 10.095814	soft_Loss: 2.999891	MMD_Loss: 0.020252	Tri_Loss: 6.520164	TEST_domain_Loss: 0.558448
+
+load9_train set: Average loss: 0.0000, Accuracy: 23442/28800 (81.40%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 601/2400 (25.04%), Accuracy: 564/2400 (23.50%), Accuracy: 556/2400 (23.17%), Accuracy: 624/2400 (26.00%)
+
+learning rate 0.0000
+Train iter: 4210 [(84%)]	Loss: 9.850430	soft_Loss: 2.980199	MMD_Loss: 0.020782	Tri_Loss: 6.321223	TEST_domain_Loss: 0.531021
+Train iter: 4220 [(84%)]	Loss: 9.916596	soft_Loss: 3.085179	MMD_Loss: 0.017420	Tri_Loss: 6.268951	TEST_domain_Loss: 0.547761
+Train iter: 4230 [(85%)]	Loss: 9.854808	soft_Loss: 2.981430	MMD_Loss: 0.023871	Tri_Loss: 6.250157	TEST_domain_Loss: 0.602007
+Train iter: 4240 [(85%)]	Loss: 9.900937	soft_Loss: 2.982804	MMD_Loss: 0.021119	Tri_Loss: 6.327321	TEST_domain_Loss: 0.572329
+Train iter: 4250 [(85%)]	Loss: 10.128748	soft_Loss: 3.204230	MMD_Loss: 0.013781	Tri_Loss: 6.314353	TEST_domain_Loss: 0.598958
+Train iter: 4260 [(85%)]	Loss: 10.148981	soft_Loss: 3.049216	MMD_Loss: 0.024583	Tri_Loss: 6.472288	TEST_domain_Loss: 0.605485
+Train iter: 4270 [(85%)]	Loss: 9.740177	soft_Loss: 2.904130	MMD_Loss: 0.016867	Tri_Loss: 6.209753	TEST_domain_Loss: 0.611861
+Train iter: 4280 [(86%)]	Loss: 9.888041	soft_Loss: 3.059141	MMD_Loss: 0.019824	Tri_Loss: 6.189324	TEST_domain_Loss: 0.622131
+Train iter: 4290 [(86%)]	Loss: 10.083431	soft_Loss: 3.069482	MMD_Loss: 0.026724	Tri_Loss: 6.408445	TEST_domain_Loss: 0.581197
+Train iter: 4300 [(86%)]	Loss: 9.863697	soft_Loss: 2.940278	MMD_Loss: 0.019429	Tri_Loss: 6.339876	TEST_domain_Loss: 0.566456
+
+load9_train set: Average loss: 0.0000, Accuracy: 23583/28800 (81.89%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 614/2400 (25.58%), Accuracy: 574/2400 (23.92%), Accuracy: 557/2400 (23.21%), Accuracy: 630/2400 (26.25%)
+
+learning rate 0.0000
+Train iter: 4310 [(86%)]	Loss: 9.982094	soft_Loss: 2.984940	MMD_Loss: 0.017527	Tri_Loss: 6.378955	TEST_domain_Loss: 0.602979
+Train iter: 4320 [(86%)]	Loss: 10.597255	soft_Loss: 3.296623	MMD_Loss: 0.016582	Tri_Loss: 6.683073	TEST_domain_Loss: 0.603347
+Train iter: 4330 [(87%)]	Loss: 9.646523	soft_Loss: 2.912506	MMD_Loss: 0.016382	Tri_Loss: 6.121379	TEST_domain_Loss: 0.598384
+Train iter: 4340 [(87%)]	Loss: 9.876015	soft_Loss: 3.060478	MMD_Loss: 0.028042	Tri_Loss: 6.199975	TEST_domain_Loss: 0.589636
+Train iter: 4350 [(87%)]	Loss: 9.964193	soft_Loss: 3.037436	MMD_Loss: 0.038742	Tri_Loss: 6.312470	TEST_domain_Loss: 0.577660
+Train iter: 4360 [(87%)]	Loss: 9.389532	soft_Loss: 2.767065	MMD_Loss: 0.019176	Tri_Loss: 6.053978	TEST_domain_Loss: 0.551295
+Train iter: 4370 [(87%)]	Loss: 9.454916	soft_Loss: 2.860923	MMD_Loss: 0.018169	Tri_Loss: 6.039316	TEST_domain_Loss: 0.538448
+Train iter: 4380 [(88%)]	Loss: 9.934623	soft_Loss: 2.956710	MMD_Loss: 0.014932	Tri_Loss: 6.374426	TEST_domain_Loss: 0.590560
+Train iter: 4390 [(88%)]	Loss: 10.130272	soft_Loss: 3.082880	MMD_Loss: 0.021305	Tri_Loss: 6.427407	TEST_domain_Loss: 0.600662
+Train iter: 4400 [(88%)]	Loss: 9.716815	soft_Loss: 2.791941	MMD_Loss: 0.019426	Tri_Loss: 6.339835	TEST_domain_Loss: 0.567530
+
+load9_train set: Average loss: 0.0000, Accuracy: 23703/28800 (82.30%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 610/2400 (25.42%), Accuracy: 571/2400 (23.79%), Accuracy: 551/2400 (22.96%), Accuracy: 619/2400 (25.79%)
+
+learning rate 0.0000
+Train iter: 4410 [(88%)]	Loss: 9.769843	soft_Loss: 2.852760	MMD_Loss: 0.017261	Tri_Loss: 6.293254	TEST_domain_Loss: 0.608432
+Train iter: 4420 [(88%)]	Loss: 9.669006	soft_Loss: 2.847946	MMD_Loss: 0.021510	Tri_Loss: 6.172640	TEST_domain_Loss: 0.628704
+Train iter: 4430 [(89%)]	Loss: 10.057106	soft_Loss: 2.987792	MMD_Loss: 0.030100	Tri_Loss: 6.487227	TEST_domain_Loss: 0.553837
+Train iter: 4440 [(89%)]	Loss: 10.019677	soft_Loss: 3.036598	MMD_Loss: 0.020409	Tri_Loss: 6.355838	TEST_domain_Loss: 0.608607
+Train iter: 4450 [(89%)]	Loss: 9.813744	soft_Loss: 3.001672	MMD_Loss: 0.016044	Tri_Loss: 6.197828	TEST_domain_Loss: 0.599894
+Train iter: 4460 [(89%)]	Loss: 9.866353	soft_Loss: 2.911429	MMD_Loss: 0.022877	Tri_Loss: 6.364395	TEST_domain_Loss: 0.569359
+Train iter: 4470 [(89%)]	Loss: 9.646784	soft_Loss: 2.939115	MMD_Loss: 0.023969	Tri_Loss: 6.064253	TEST_domain_Loss: 0.621042
+Train iter: 4480 [(90%)]	Loss: 9.962507	soft_Loss: 3.042944	MMD_Loss: 0.023553	Tri_Loss: 6.281504	TEST_domain_Loss: 0.616125
+Train iter: 4490 [(90%)]	Loss: 9.980408	soft_Loss: 3.015954	MMD_Loss: 0.018447	Tri_Loss: 6.392921	TEST_domain_Loss: 0.554699
+Train iter: 4500 [(90%)]	Loss: 9.578025	soft_Loss: 2.820457	MMD_Loss: 0.016022	Tri_Loss: 6.183456	TEST_domain_Loss: 0.559620
+
+load9_train set: Average loss: 0.0000, Accuracy: 23683/28800 (82.23%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 619/2400 (25.79%), Accuracy: 583/2400 (24.29%), Accuracy: 560/2400 (23.33%), Accuracy: 648/2400 (27.00%)
+
+learning rate 0.0000
+Train iter: 4510 [(90%)]	Loss: 9.444352	soft_Loss: 2.863370	MMD_Loss: 0.015875	Tri_Loss: 6.046422	TEST_domain_Loss: 0.520152
+Train iter: 4520 [(90%)]	Loss: 10.048453	soft_Loss: 3.080261	MMD_Loss: 0.018790	Tri_Loss: 6.362166	TEST_domain_Loss: 0.588750
+Train iter: 4530 [(91%)]	Loss: 9.538774	soft_Loss: 2.810182	MMD_Loss: 0.023398	Tri_Loss: 6.164068	TEST_domain_Loss: 0.542563
+Train iter: 4540 [(91%)]	Loss: 10.017137	soft_Loss: 2.930724	MMD_Loss: 0.013331	Tri_Loss: 6.497870	TEST_domain_Loss: 0.576696
+Train iter: 4550 [(91%)]	Loss: 9.830454	soft_Loss: 2.883604	MMD_Loss: 0.026699	Tri_Loss: 6.338639	TEST_domain_Loss: 0.582933
+Train iter: 4560 [(91%)]	Loss: 9.682987	soft_Loss: 2.911560	MMD_Loss: 0.019110	Tri_Loss: 6.164631	TEST_domain_Loss: 0.589040
+Train iter: 4570 [(91%)]	Loss: 9.883727	soft_Loss: 2.916901	MMD_Loss: 0.019276	Tri_Loss: 6.405400	TEST_domain_Loss: 0.543528
+Train iter: 4580 [(92%)]	Loss: 9.476902	soft_Loss: 2.773858	MMD_Loss: 0.020134	Tri_Loss: 6.124980	TEST_domain_Loss: 0.559223
+Train iter: 4590 [(92%)]	Loss: 9.961170	soft_Loss: 3.101252	MMD_Loss: 0.011735	Tri_Loss: 6.192359	TEST_domain_Loss: 0.657103
+Train iter: 4600 [(92%)]	Loss: 9.438077	soft_Loss: 2.757473	MMD_Loss: 0.028623	Tri_Loss: 6.111127	TEST_domain_Loss: 0.542093
+
+load9_train set: Average loss: 0.0000, Accuracy: 23762/28800 (82.51%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 629/2400 (26.21%), Accuracy: 579/2400 (24.12%), Accuracy: 573/2400 (23.88%), Accuracy: 664/2400 (27.67%)
+
+learning rate 0.0000
+Train iter: 4610 [(92%)]	Loss: 9.479713	soft_Loss: 2.793719	MMD_Loss: 0.015170	Tri_Loss: 6.120368	TEST_domain_Loss: 0.551672
+Train iter: 4620 [(92%)]	Loss: 9.654806	soft_Loss: 2.846684	MMD_Loss: 0.019752	Tri_Loss: 6.225378	TEST_domain_Loss: 0.564205
+Train iter: 4630 [(93%)]	Loss: 9.981291	soft_Loss: 3.008227	MMD_Loss: 0.017126	Tri_Loss: 6.384537	TEST_domain_Loss: 0.572620
+Train iter: 4640 [(93%)]	Loss: 9.967651	soft_Loss: 3.026506	MMD_Loss: 0.014969	Tri_Loss: 6.354246	TEST_domain_Loss: 0.573117
+Train iter: 4650 [(93%)]	Loss: 9.342995	soft_Loss: 2.570425	MMD_Loss: 0.015481	Tri_Loss: 6.244375	TEST_domain_Loss: 0.513858
+Train iter: 4660 [(93%)]	Loss: 9.951382	soft_Loss: 2.968602	MMD_Loss: 0.018202	Tri_Loss: 6.412999	TEST_domain_Loss: 0.552732
+Train iter: 4670 [(93%)]	Loss: 9.562671	soft_Loss: 2.829307	MMD_Loss: 0.022276	Tri_Loss: 6.199357	TEST_domain_Loss: 0.512824
+Train iter: 4680 [(94%)]	Loss: 9.605009	soft_Loss: 2.845010	MMD_Loss: 0.014298	Tri_Loss: 6.192669	TEST_domain_Loss: 0.554101
+Train iter: 4690 [(94%)]	Loss: 10.277576	soft_Loss: 3.094986	MMD_Loss: 0.015315	Tri_Loss: 6.617749	TEST_domain_Loss: 0.550647
+Train iter: 4700 [(94%)]	Loss: 9.963405	soft_Loss: 3.001738	MMD_Loss: 0.018025	Tri_Loss: 6.390246	TEST_domain_Loss: 0.554455
+
+load9_train set: Average loss: 0.0000, Accuracy: 23931/28800 (83.09%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 608/2400 (25.33%), Accuracy: 575/2400 (23.96%), Accuracy: 554/2400 (23.08%), Accuracy: 629/2400 (26.21%)
+
+learning rate 0.0000
+Train iter: 4710 [(94%)]	Loss: 9.898396	soft_Loss: 2.895973	MMD_Loss: 0.018848	Tri_Loss: 6.381026	TEST_domain_Loss: 0.603587
+Train iter: 4720 [(94%)]	Loss: 9.827881	soft_Loss: 2.965616	MMD_Loss: 0.014013	Tri_Loss: 6.260658	TEST_domain_Loss: 0.588591
+Train iter: 4730 [(95%)]	Loss: 9.626612	soft_Loss: 2.853065	MMD_Loss: 0.020979	Tri_Loss: 6.196718	TEST_domain_Loss: 0.556818
+Train iter: 4740 [(95%)]	Loss: 9.744859	soft_Loss: 2.865997	MMD_Loss: 0.016145	Tri_Loss: 6.269271	TEST_domain_Loss: 0.594406
+Train iter: 4750 [(95%)]	Loss: 9.552115	soft_Loss: 2.757011	MMD_Loss: 0.023231	Tri_Loss: 6.204493	TEST_domain_Loss: 0.568311
+Train iter: 4760 [(95%)]	Loss: 9.612449	soft_Loss: 2.833294	MMD_Loss: 0.018279	Tri_Loss: 6.201840	TEST_domain_Loss: 0.559947
+Train iter: 4770 [(95%)]	Loss: 10.010865	soft_Loss: 3.038434	MMD_Loss: 0.016857	Tri_Loss: 6.365036	TEST_domain_Loss: 0.591458
+Train iter: 4780 [(96%)]	Loss: 9.339689	soft_Loss: 2.780252	MMD_Loss: 0.020524	Tri_Loss: 5.974583	TEST_domain_Loss: 0.565175
+Train iter: 4790 [(96%)]	Loss: 9.903897	soft_Loss: 2.929637	MMD_Loss: 0.016095	Tri_Loss: 6.381209	TEST_domain_Loss: 0.577840
+Train iter: 4800 [(96%)]	Loss: 9.731513	soft_Loss: 2.850378	MMD_Loss: 0.015359	Tri_Loss: 6.303782	TEST_domain_Loss: 0.562850
+
+load9_train set: Average loss: 0.0000, Accuracy: 23995/28800 (83.32%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 611/2400 (25.46%), Accuracy: 574/2400 (23.92%), Accuracy: 555/2400 (23.12%), Accuracy: 630/2400 (26.25%)
+
+learning rate 0.0000
+Train iter: 4810 [(96%)]	Loss: 9.655158	soft_Loss: 2.893811	MMD_Loss: 0.027615	Tri_Loss: 6.211837	TEST_domain_Loss: 0.522723
+Train iter: 4820 [(96%)]	Loss: 9.817736	soft_Loss: 2.914290	MMD_Loss: 0.023881	Tri_Loss: 6.296295	TEST_domain_Loss: 0.584092
+Train iter: 4830 [(97%)]	Loss: 9.433849	soft_Loss: 2.797813	MMD_Loss: 0.025289	Tri_Loss: 6.065238	TEST_domain_Loss: 0.546286
+Train iter: 4840 [(97%)]	Loss: 9.906164	soft_Loss: 2.976985	MMD_Loss: 0.023167	Tri_Loss: 6.305845	TEST_domain_Loss: 0.600960
+Train iter: 4850 [(97%)]	Loss: 9.539668	soft_Loss: 2.734921	MMD_Loss: 0.012413	Tri_Loss: 6.251437	TEST_domain_Loss: 0.541664
+Train iter: 4860 [(97%)]	Loss: 9.705604	soft_Loss: 2.999498	MMD_Loss: 0.020519	Tri_Loss: 6.123858	TEST_domain_Loss: 0.562467
+Train iter: 4870 [(97%)]	Loss: 9.461031	soft_Loss: 2.759135	MMD_Loss: 0.015737	Tri_Loss: 6.138744	TEST_domain_Loss: 0.548139
+Train iter: 4880 [(98%)]	Loss: 9.767644	soft_Loss: 2.883395	MMD_Loss: 0.027483	Tri_Loss: 6.281067	TEST_domain_Loss: 0.576427
+Train iter: 4890 [(98%)]	Loss: 9.709347	soft_Loss: 2.858032	MMD_Loss: 0.020716	Tri_Loss: 6.297106	TEST_domain_Loss: 0.534208
+Train iter: 4900 [(98%)]	Loss: 9.394809	soft_Loss: 2.752508	MMD_Loss: 0.016822	Tri_Loss: 6.098608	TEST_domain_Loss: 0.527548
+
+load9_train set: Average loss: 0.0000, Accuracy: 24080/28800 (83.61%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 627/2400 (26.12%), Accuracy: 583/2400 (24.29%), Accuracy: 567/2400 (23.62%), Accuracy: 647/2400 (26.96%)
+
+learning rate 0.0000
+Train iter: 4910 [(98%)]	Loss: 9.739841	soft_Loss: 2.936383	MMD_Loss: 0.016164	Tri_Loss: 6.217819	TEST_domain_Loss: 0.570151
+Train iter: 4920 [(98%)]	Loss: 9.835515	soft_Loss: 2.853023	MMD_Loss: 0.019348	Tri_Loss: 6.407309	TEST_domain_Loss: 0.556520
+Train iter: 4930 [(99%)]	Loss: 9.692712	soft_Loss: 2.792550	MMD_Loss: 0.015569	Tri_Loss: 6.294871	TEST_domain_Loss: 0.590381
+Train iter: 4940 [(99%)]	Loss: 9.501122	soft_Loss: 2.807926	MMD_Loss: 0.023975	Tri_Loss: 6.116063	TEST_domain_Loss: 0.553787
+Train iter: 4950 [(99%)]	Loss: 10.072874	soft_Loss: 2.992301	MMD_Loss: 0.016856	Tri_Loss: 6.490823	TEST_domain_Loss: 0.573548
+Train iter: 4960 [(99%)]	Loss: 9.843231	soft_Loss: 2.917526	MMD_Loss: 0.020532	Tri_Loss: 6.364383	TEST_domain_Loss: 0.541418
+Train iter: 4970 [(99%)]	Loss: 9.479862	soft_Loss: 2.779373	MMD_Loss: 0.023448	Tri_Loss: 6.126412	TEST_domain_Loss: 0.551222
+Train iter: 4980 [(100%)]	Loss: 9.958572	soft_Loss: 2.924119	MMD_Loss: 0.016352	Tri_Loss: 6.438731	TEST_domain_Loss: 0.579979
+Train iter: 4990 [(100%)]	Loss: 9.437292	soft_Loss: 2.738641	MMD_Loss: 0.015593	Tri_Loss: 6.109986	TEST_domain_Loss: 0.573639
+Train iter: 5000 [(100%)]	Loss: 10.109716	soft_Loss: 2.954161	MMD_Loss: 0.016455	Tri_Loss: 6.560106	TEST_domain_Loss: 0.579591
+
+load9_train set: Average loss: 0.0000, Accuracy: 24136/28800 (83.81%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 600/2400 (25.00%), Accuracy: 578/2400 (24.08%), Accuracy: 545/2400 (22.71%), Accuracy: 636/2400 (26.50%)
+
+(2400, 3200)
+DGNIS(
+  (sharedNet1): CNN(
+    (layer1): Sequential(
+      (0): Conv1d(1, 16, kernel_size=(64,), stride=(1,))
+      (1): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer2): Sequential(
+      (0): Conv1d(16, 32, kernel_size=(16,), stride=(1,))
+      (1): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer3): Sequential(
+      (0): Conv1d(32, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer4): Sequential(
+      (0): Conv1d(64, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): AdaptiveMaxPool1d(output_size=4)
+    )
+  )
+  (sharedNet2): CNN(
+    (layer1): Sequential(
+      (0): Conv1d(1, 16, kernel_size=(64,), stride=(1,))
+      (1): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer2): Sequential(
+      (0): Conv1d(16, 32, kernel_size=(16,), stride=(1,))
+      (1): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer3): Sequential(
+      (0): Conv1d(32, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer4): Sequential(
+      (0): Conv1d(64, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): AdaptiveMaxPool1d(output_size=4)
+    )
+  )
+  (cls_fc_1): Linear(in_features=256, out_features=12, bias=True)
+  (cls_fc_2): Linear(in_features=256, out_features=12, bias=True)
+  (cls_fc_3): Linear(in_features=256, out_features=12, bias=True)
+  (test_domain_fc): Linear(in_features=256, out_features=3, bias=True)
+)
+learning rate 0.0001
+Train iter: 10 [(0%)]	Loss: 10.535084	soft_Loss: 9.080795	MMD_Loss: 0.191349	Tri_Loss: 17.587030	TEST_domain_Loss: 1.276511
+Train iter: 20 [(0%)]	Loss: 9.821229	soft_Loss: 8.272485	MMD_Loss: 0.200912	Tri_Loss: 18.078989	TEST_domain_Loss: 1.183195
+Train iter: 30 [(1%)]	Loss: 9.252268	soft_Loss: 7.593860	MMD_Loss: 0.189881	Tri_Loss: 17.257366	TEST_domain_Loss: 1.135148
+Train iter: 40 [(1%)]	Loss: 9.194676	soft_Loss: 7.357679	MMD_Loss: 0.196338	Tri_Loss: 17.110363	TEST_domain_Loss: 1.145098
+Train iter: 50 [(1%)]	Loss: 9.301866	soft_Loss: 7.204576	MMD_Loss: 0.203956	Tri_Loss: 17.784676	TEST_domain_Loss: 1.198607
+Train iter: 60 [(1%)]	Loss: 9.422920	soft_Loss: 7.280081	MMD_Loss: 0.204430	Tri_Loss: 17.165623	TEST_domain_Loss: 1.101885
+Train iter: 70 [(1%)]	Loss: 9.530745	soft_Loss: 7.204335	MMD_Loss: 0.201851	Tri_Loss: 17.355637	TEST_domain_Loss: 1.099389
+Train iter: 80 [(2%)]	Loss: 9.230217	soft_Loss: 6.792363	MMD_Loss: 0.154957	Tri_Loss: 16.608604	TEST_domain_Loss: 1.099623
+Train iter: 90 [(2%)]	Loss: 9.499258	soft_Loss: 6.884741	MMD_Loss: 0.203003	Tri_Loss: 16.699833	TEST_domain_Loss: 1.097355
+Train iter: 100 [(2%)]	Loss: 9.627136	soft_Loss: 6.906146	MMD_Loss: 0.197159	Tri_Loss: 16.283058	TEST_domain_Loss: 1.078439
+
+load9_train set: Average loss: 0.0000, Accuracy: 6463/28800 (22.44%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 386/2400 (16.08%), Accuracy: 385/2400 (16.04%), Accuracy: 275/2400 (11.46%), Accuracy: 380/2400 (15.83%)
+
+learning rate 0.0001
+Train iter: 110 [(2%)]	Loss: 9.662315	soft_Loss: 6.713135	MMD_Loss: 0.220769	Tri_Loss: 16.812469	TEST_domain_Loss: 1.083045
+Train iter: 120 [(2%)]	Loss: 9.477044	soft_Loss: 6.503996	MMD_Loss: 0.231755	Tri_Loss: 15.880360	TEST_domain_Loss: 1.048822
+Train iter: 130 [(3%)]	Loss: 9.831427	soft_Loss: 6.580828	MMD_Loss: 0.168471	Tri_Loss: 16.773563	TEST_domain_Loss: 1.060458
+Train iter: 140 [(3%)]	Loss: 9.758875	soft_Loss: 6.593648	MMD_Loss: 0.163748	Tri_Loss: 15.002554	TEST_domain_Loss: 1.055709
+Train iter: 150 [(3%)]	Loss: 10.043499	soft_Loss: 6.522483	MMD_Loss: 0.311001	Tri_Loss: 16.180721	TEST_domain_Loss: 1.065645
+Train iter: 160 [(3%)]	Loss: 9.874194	soft_Loss: 6.367429	MMD_Loss: 0.178207	Tri_Loss: 15.586378	TEST_domain_Loss: 1.005737
+Train iter: 170 [(3%)]	Loss: 10.102868	soft_Loss: 6.389834	MMD_Loss: 0.160356	Tri_Loss: 15.818341	TEST_domain_Loss: 1.022524
+Train iter: 180 [(4%)]	Loss: 9.816027	soft_Loss: 6.119254	MMD_Loss: 0.169000	Tri_Loss: 14.728437	TEST_domain_Loss: 1.043824
+Train iter: 190 [(4%)]	Loss: 10.365518	soft_Loss: 6.470052	MMD_Loss: 0.163974	Tri_Loss: 15.148735	TEST_domain_Loss: 1.020562
+Train iter: 200 [(4%)]	Loss: 10.180402	soft_Loss: 6.144683	MMD_Loss: 0.115573	Tri_Loss: 14.950956	TEST_domain_Loss: 1.061957
+
+load9_train set: Average loss: 0.0000, Accuracy: 9674/28800 (33.59%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 461/2400 (19.21%), Accuracy: 450/2400 (18.75%), Accuracy: 361/2400 (15.04%), Accuracy: 446/2400 (18.58%)
+
+learning rate 0.0001
+Train iter: 210 [(4%)]	Loss: 9.947507	soft_Loss: 6.072611	MMD_Loss: 0.161690	Tri_Loss: 13.706268	TEST_domain_Loss: 1.004693
+Train iter: 220 [(4%)]	Loss: 10.044239	soft_Loss: 5.983855	MMD_Loss: 0.133099	Tri_Loss: 14.008877	TEST_domain_Loss: 0.998391
+Train iter: 230 [(5%)]	Loss: 10.163301	soft_Loss: 5.865505	MMD_Loss: 0.175015	Tri_Loss: 14.393979	TEST_domain_Loss: 1.004789
+Train iter: 240 [(5%)]	Loss: 10.095852	soft_Loss: 5.879468	MMD_Loss: 0.135936	Tri_Loss: 13.666409	TEST_domain_Loss: 0.965990
+Train iter: 250 [(5%)]	Loss: 10.464196	soft_Loss: 5.942462	MMD_Loss: 0.100300	Tri_Loss: 14.176437	TEST_domain_Loss: 1.025095
+Train iter: 260 [(5%)]	Loss: 9.979721	soft_Loss: 5.613747	MMD_Loss: 0.130866	Tri_Loss: 13.200618	TEST_domain_Loss: 0.975838
+Train iter: 270 [(5%)]	Loss: 10.492057	soft_Loss: 5.899154	MMD_Loss: 0.120697	Tri_Loss: 13.539990	TEST_domain_Loss: 0.991607
+Train iter: 280 [(6%)]	Loss: 10.388723	soft_Loss: 5.645949	MMD_Loss: 0.114044	Tri_Loss: 13.604381	TEST_domain_Loss: 0.998946
+Train iter: 290 [(6%)]	Loss: 10.538836	soft_Loss: 5.714571	MMD_Loss: 0.124565	Tri_Loss: 13.402453	TEST_domain_Loss: 1.007822
+Train iter: 300 [(6%)]	Loss: 10.384763	soft_Loss: 5.735915	MMD_Loss: 0.099654	Tri_Loss: 12.481421	TEST_domain_Loss: 0.983822
+
+load9_train set: Average loss: 0.0000, Accuracy: 11455/28800 (39.77%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 496/2400 (20.67%), Accuracy: 451/2400 (18.79%), Accuracy: 449/2400 (18.71%), Accuracy: 462/2400 (19.25%)
+
+learning rate 0.0001
+Train iter: 310 [(6%)]	Loss: 10.275019	soft_Loss: 5.622285	MMD_Loss: 0.142621	Tri_Loss: 12.265645	TEST_domain_Loss: 0.924831
+Train iter: 320 [(6%)]	Loss: 10.485558	soft_Loss: 5.628666	MMD_Loss: 0.107780	Tri_Loss: 12.434023	TEST_domain_Loss: 0.975117
+Train iter: 330 [(7%)]	Loss: 10.502148	soft_Loss: 5.547375	MMD_Loss: 0.098477	Tri_Loss: 12.412415	TEST_domain_Loss: 0.969794
+Train iter: 340 [(7%)]	Loss: 10.833632	soft_Loss: 5.691032	MMD_Loss: 0.097190	Tri_Loss: 12.719399	TEST_domain_Loss: 0.945456
+Train iter: 350 [(7%)]	Loss: 10.630278	soft_Loss: 5.658702	MMD_Loss: 0.100356	Tri_Loss: 11.825496	TEST_domain_Loss: 0.960012
+Train iter: 360 [(7%)]	Loss: 11.193653	soft_Loss: 5.838322	MMD_Loss: 0.072586	Tri_Loss: 12.583406	TEST_domain_Loss: 0.986305
+Train iter: 370 [(7%)]	Loss: 10.356787	soft_Loss: 5.300370	MMD_Loss: 0.128821	Tri_Loss: 11.571495	TEST_domain_Loss: 0.914602
+Train iter: 380 [(8%)]	Loss: 10.847076	soft_Loss: 5.500374	MMD_Loss: 0.097825	Tri_Loss: 12.000647	TEST_domain_Loss: 0.958496
+Train iter: 390 [(8%)]	Loss: 10.926313	soft_Loss: 5.511362	MMD_Loss: 0.102614	Tri_Loss: 11.921333	TEST_domain_Loss: 0.949736
+Train iter: 400 [(8%)]	Loss: 10.746060	soft_Loss: 5.388704	MMD_Loss: 0.111940	Tri_Loss: 11.517689	TEST_domain_Loss: 0.938691
+
+load9_train set: Average loss: 0.0000, Accuracy: 12640/28800 (43.89%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 500/2400 (20.83%), Accuracy: 459/2400 (19.12%), Accuracy: 448/2400 (18.67%), Accuracy: 488/2400 (20.33%)
+
+learning rate 0.0001
+Train iter: 410 [(8%)]	Loss: 11.127913	soft_Loss: 5.415805	MMD_Loss: 0.123453	Tri_Loss: 12.272783	TEST_domain_Loss: 0.896510
+Train iter: 420 [(8%)]	Loss: 10.634171	soft_Loss: 5.392224	MMD_Loss: 0.092362	Tri_Loss: 10.808886	TEST_domain_Loss: 0.914910
+Train iter: 430 [(9%)]	Loss: 11.025387	soft_Loss: 5.382329	MMD_Loss: 0.086817	Tri_Loss: 11.548510	TEST_domain_Loss: 0.927012
+Train iter: 440 [(9%)]	Loss: 11.018963	soft_Loss: 5.388878	MMD_Loss: 0.073464	Tri_Loss: 11.308587	TEST_domain_Loss: 0.921963
+Train iter: 450 [(9%)]	Loss: 10.926304	soft_Loss: 5.377587	MMD_Loss: 0.055632	Tri_Loss: 10.896990	TEST_domain_Loss: 0.927817
+Train iter: 460 [(9%)]	Loss: 11.146420	soft_Loss: 5.492121	MMD_Loss: 0.067458	Tri_Loss: 10.923817	TEST_domain_Loss: 0.927125
+Train iter: 470 [(9%)]	Loss: 11.081202	soft_Loss: 5.544301	MMD_Loss: 0.051465	Tri_Loss: 10.432038	TEST_domain_Loss: 0.943036
+Train iter: 480 [(10%)]	Loss: 11.384619	soft_Loss: 5.348785	MMD_Loss: 0.072713	Tri_Loss: 11.365480	TEST_domain_Loss: 0.931613
+Train iter: 490 [(10%)]	Loss: 10.877048	soft_Loss: 5.266025	MMD_Loss: 0.055630	Tri_Loss: 10.289585	TEST_domain_Loss: 0.912058
+Train iter: 500 [(10%)]	Loss: 10.957825	soft_Loss: 5.073580	MMD_Loss: 0.064973	Tri_Loss: 10.632126	TEST_domain_Loss: 0.940931
+
+load9_train set: Average loss: 0.0000, Accuracy: 13577/28800 (47.14%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 507/2400 (21.12%), Accuracy: 492/2400 (20.50%), Accuracy: 457/2400 (19.04%), Accuracy: 454/2400 (18.92%)
+
+learning rate 0.0001
+Train iter: 510 [(10%)]	Loss: 11.248640	soft_Loss: 5.392404	MMD_Loss: 0.061715	Tri_Loss: 10.481580	TEST_domain_Loss: 0.901466
+Train iter: 520 [(10%)]	Loss: 10.696861	soft_Loss: 5.086111	MMD_Loss: 0.089165	Tri_Loss: 9.776570	TEST_domain_Loss: 0.897888
+Train iter: 530 [(11%)]	Loss: 10.952862	soft_Loss: 5.011423	MMD_Loss: 0.044564	Tri_Loss: 10.360489	TEST_domain_Loss: 0.891023
+Train iter: 540 [(11%)]	Loss: 10.885635	soft_Loss: 5.101426	MMD_Loss: 0.050234	Tri_Loss: 9.855272	TEST_domain_Loss: 0.900915
+Train iter: 550 [(11%)]	Loss: 11.354597	soft_Loss: 5.367431	MMD_Loss: 0.079656	Tri_Loss: 10.117363	TEST_domain_Loss: 0.883352
+Train iter: 560 [(11%)]	Loss: 11.187466	soft_Loss: 5.222480	MMD_Loss: 0.048879	Tri_Loss: 9.912159	TEST_domain_Loss: 0.905003
+Train iter: 570 [(11%)]	Loss: 11.073048	soft_Loss: 5.109342	MMD_Loss: 0.048066	Tri_Loss: 9.809519	TEST_domain_Loss: 0.883508
+Train iter: 580 [(12%)]	Loss: 11.318091	soft_Loss: 5.274071	MMD_Loss: 0.059763	Tri_Loss: 9.830948	TEST_domain_Loss: 0.874487
+Train iter: 590 [(12%)]	Loss: 10.914768	soft_Loss: 5.126850	MMD_Loss: 0.050688	Tri_Loss: 9.135208	TEST_domain_Loss: 0.920352
+Train iter: 600 [(12%)]	Loss: 11.196465	soft_Loss: 5.065002	MMD_Loss: 0.046125	Tri_Loss: 9.806943	TEST_domain_Loss: 0.839876
+
+load9_train set: Average loss: 0.0000, Accuracy: 14336/28800 (49.78%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 530/2400 (22.08%), Accuracy: 463/2400 (19.29%), Accuracy: 486/2400 (20.25%), Accuracy: 490/2400 (20.42%)
+
+learning rate 0.0001
+Train iter: 610 [(12%)]	Loss: 11.661037	soft_Loss: 5.330251	MMD_Loss: 0.046755	Tri_Loss: 9.967136	TEST_domain_Loss: 0.881957
+Train iter: 620 [(12%)]	Loss: 11.490471	soft_Loss: 5.222318	MMD_Loss: 0.046622	Tri_Loss: 9.736307	TEST_domain_Loss: 0.876506
+Train iter: 630 [(13%)]	Loss: 11.519948	soft_Loss: 5.108790	MMD_Loss: 0.057122	Tri_Loss: 9.851864	TEST_domain_Loss: 0.881426
+Train iter: 640 [(13%)]	Loss: 11.377069	soft_Loss: 5.111518	MMD_Loss: 0.056002	Tri_Loss: 9.473180	TEST_domain_Loss: 0.882521
+Train iter: 650 [(13%)]	Loss: 11.104586	soft_Loss: 4.997834	MMD_Loss: 0.037431	Tri_Loss: 9.086477	TEST_domain_Loss: 0.890887
+Train iter: 660 [(13%)]	Loss: 11.233886	soft_Loss: 5.114007	MMD_Loss: 0.043263	Tri_Loss: 8.991390	TEST_domain_Loss: 0.894566
+Train iter: 670 [(13%)]	Loss: 11.492118	soft_Loss: 5.065343	MMD_Loss: 0.038002	Tri_Loss: 9.396442	TEST_domain_Loss: 0.907814
+Train iter: 680 [(14%)]	Loss: 11.064510	soft_Loss: 4.933155	MMD_Loss: 0.032133	Tri_Loss: 8.897476	TEST_domain_Loss: 0.849319
+Train iter: 690 [(14%)]	Loss: 11.326941	soft_Loss: 4.927225	MMD_Loss: 0.036405	Tri_Loss: 9.246134	TEST_domain_Loss: 0.848925
+Train iter: 700 [(14%)]	Loss: 11.413073	soft_Loss: 5.186721	MMD_Loss: 0.041034	Tri_Loss: 8.800006	TEST_domain_Loss: 0.883112
+
+load9_train set: Average loss: 0.0000, Accuracy: 14932/28800 (51.85%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 561/2400 (23.38%), Accuracy: 507/2400 (21.12%), Accuracy: 515/2400 (21.46%), Accuracy: 496/2400 (20.67%)
+
+learning rate 0.0001
+Train iter: 710 [(14%)]	Loss: 11.516886	soft_Loss: 5.031636	MMD_Loss: 0.038125	Tri_Loss: 9.195272	TEST_domain_Loss: 0.846628
+Train iter: 720 [(14%)]	Loss: 11.230527	soft_Loss: 5.005881	MMD_Loss: 0.045937	Tri_Loss: 8.638401	TEST_domain_Loss: 0.867197
+Train iter: 730 [(15%)]	Loss: 11.770129	soft_Loss: 5.144574	MMD_Loss: 0.034497	Tri_Loss: 9.104549	TEST_domain_Loss: 0.931331
+Train iter: 740 [(15%)]	Loss: 11.509037	soft_Loss: 4.946450	MMD_Loss: 0.045569	Tri_Loss: 9.041492	TEST_domain_Loss: 0.845506
+Train iter: 750 [(15%)]	Loss: 11.362698	soft_Loss: 4.966390	MMD_Loss: 0.040472	Tri_Loss: 8.715982	TEST_domain_Loss: 0.834655
+Train iter: 760 [(15%)]	Loss: 11.342853	soft_Loss: 5.055340	MMD_Loss: 0.033828	Tri_Loss: 8.468977	TEST_domain_Loss: 0.836560
+Train iter: 770 [(15%)]	Loss: 11.218538	soft_Loss: 4.811854	MMD_Loss: 0.045990	Tri_Loss: 8.558802	TEST_domain_Loss: 0.839991
+Train iter: 780 [(16%)]	Loss: 11.488105	soft_Loss: 4.993877	MMD_Loss: 0.032405	Tri_Loss: 8.649637	TEST_domain_Loss: 0.827401
+Train iter: 790 [(16%)]	Loss: 11.381268	soft_Loss: 4.992486	MMD_Loss: 0.037740	Tri_Loss: 8.415300	TEST_domain_Loss: 0.823223
+Train iter: 800 [(16%)]	Loss: 11.645628	soft_Loss: 5.152354	MMD_Loss: 0.028905	Tri_Loss: 8.409848	TEST_domain_Loss: 0.889632
+
+load9_train set: Average loss: 0.0000, Accuracy: 15952/28800 (55.39%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 514/2400 (21.42%), Accuracy: 483/2400 (20.12%), Accuracy: 492/2400 (20.50%), Accuracy: 496/2400 (20.67%)
+
+learning rate 0.0000
+Train iter: 810 [(16%)]	Loss: 11.459270	soft_Loss: 4.835343	MMD_Loss: 0.036726	Tri_Loss: 8.583477	TEST_domain_Loss: 0.851924
+Train iter: 820 [(16%)]	Loss: 11.405205	soft_Loss: 4.827471	MMD_Loss: 0.029775	Tri_Loss: 8.502360	TEST_domain_Loss: 0.817947
+Train iter: 830 [(17%)]	Loss: 11.310389	soft_Loss: 4.870895	MMD_Loss: 0.027714	Tri_Loss: 8.242832	TEST_domain_Loss: 0.811586
+Train iter: 840 [(17%)]	Loss: 11.192693	soft_Loss: 4.790044	MMD_Loss: 0.034797	Tri_Loss: 8.054169	TEST_domain_Loss: 0.855162
+Train iter: 850 [(17%)]	Loss: 11.351810	soft_Loss: 4.759542	MMD_Loss: 0.037834	Tri_Loss: 8.308471	TEST_domain_Loss: 0.824391
+Train iter: 860 [(17%)]	Loss: 11.241692	soft_Loss: 4.743883	MMD_Loss: 0.047872	Tri_Loss: 8.066236	TEST_domain_Loss: 0.848298
+Train iter: 870 [(17%)]	Loss: 11.775524	soft_Loss: 5.057201	MMD_Loss: 0.027616	Tri_Loss: 8.352135	TEST_domain_Loss: 0.840983
+Train iter: 880 [(18%)]	Loss: 11.564076	soft_Loss: 4.850072	MMD_Loss: 0.032349	Tri_Loss: 8.273431	TEST_domain_Loss: 0.846641
+Train iter: 890 [(18%)]	Loss: 11.670538	soft_Loss: 4.918133	MMD_Loss: 0.025052	Tri_Loss: 8.251497	TEST_domain_Loss: 0.864520
+Train iter: 900 [(18%)]	Loss: 11.591573	soft_Loss: 4.844030	MMD_Loss: 0.026338	Tri_Loss: 8.231672	TEST_domain_Loss: 0.832347
+
+load9_train set: Average loss: 0.0000, Accuracy: 16488/28800 (57.25%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 547/2400 (22.79%), Accuracy: 524/2400 (21.83%), Accuracy: 527/2400 (21.96%), Accuracy: 516/2400 (21.50%)
+
+learning rate 0.0000
+Train iter: 910 [(18%)]	Loss: 11.455185	soft_Loss: 4.748301	MMD_Loss: 0.027332	Tri_Loss: 8.089568	TEST_domain_Loss: 0.853526
+Train iter: 920 [(18%)]	Loss: 11.431061	soft_Loss: 4.810174	MMD_Loss: 0.023640	Tri_Loss: 7.948531	TEST_domain_Loss: 0.833908
+Train iter: 930 [(19%)]	Loss: 11.400652	soft_Loss: 4.801450	MMD_Loss: 0.022372	Tri_Loss: 7.930027	TEST_domain_Loss: 0.789228
+Train iter: 940 [(19%)]	Loss: 11.341127	soft_Loss: 4.688697	MMD_Loss: 0.024227	Tri_Loss: 7.878868	TEST_domain_Loss: 0.841898
+Train iter: 950 [(19%)]	Loss: 11.604555	soft_Loss: 4.932203	MMD_Loss: 0.028188	Tri_Loss: 7.901613	TEST_domain_Loss: 0.806019
+Train iter: 960 [(19%)]	Loss: 11.307255	soft_Loss: 4.752027	MMD_Loss: 0.023741	Tri_Loss: 7.695451	TEST_domain_Loss: 0.810012
+Train iter: 970 [(19%)]	Loss: 11.988257	soft_Loss: 4.984008	MMD_Loss: 0.022529	Tri_Loss: 8.223516	TEST_domain_Loss: 0.830399
+Train iter: 980 [(20%)]	Loss: 11.565238	soft_Loss: 4.763700	MMD_Loss: 0.017232	Tri_Loss: 7.931426	TEST_domain_Loss: 0.815675
+Train iter: 990 [(20%)]	Loss: 11.519163	soft_Loss: 4.836181	MMD_Loss: 0.022589	Tri_Loss: 7.759365	TEST_domain_Loss: 0.789223
+Train iter: 1000 [(20%)]	Loss: 11.817251	soft_Loss: 4.796024	MMD_Loss: 0.024396	Tri_Loss: 8.144228	TEST_domain_Loss: 0.800050
+
+load9_train set: Average loss: 0.0000, Accuracy: 16761/28800 (58.20%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 559/2400 (23.29%), Accuracy: 537/2400 (22.38%), Accuracy: 508/2400 (21.17%), Accuracy: 538/2400 (22.42%)
+
+learning rate 0.0000
+Train iter: 1010 [(20%)]	Loss: 11.059841	soft_Loss: 4.404872	MMD_Loss: 0.026348	Tri_Loss: 7.645496	TEST_domain_Loss: 0.780162
+Train iter: 1020 [(20%)]	Loss: 11.423740	soft_Loss: 4.691297	MMD_Loss: 0.020850	Tri_Loss: 7.658419	TEST_domain_Loss: 0.820431
+Train iter: 1030 [(21%)]	Loss: 11.424768	soft_Loss: 4.613302	MMD_Loss: 0.028145	Tri_Loss: 7.759428	TEST_domain_Loss: 0.784600
+Train iter: 1040 [(21%)]	Loss: 11.786371	soft_Loss: 4.937571	MMD_Loss: 0.020674	Tri_Loss: 7.758504	TEST_domain_Loss: 0.797470
+Train iter: 1050 [(21%)]	Loss: 11.721968	soft_Loss: 4.796957	MMD_Loss: 0.018689	Tri_Loss: 7.773569	TEST_domain_Loss: 0.832974
+Train iter: 1060 [(21%)]	Loss: 11.739034	soft_Loss: 4.834428	MMD_Loss: 0.021659	Tri_Loss: 7.775094	TEST_domain_Loss: 0.778979
+Train iter: 1070 [(21%)]	Loss: 11.655219	soft_Loss: 4.822367	MMD_Loss: 0.015201	Tri_Loss: 7.606245	TEST_domain_Loss: 0.816016
+Train iter: 1080 [(22%)]	Loss: 11.374321	soft_Loss: 4.590731	MMD_Loss: 0.024334	Tri_Loss: 7.513152	TEST_domain_Loss: 0.804864
+Train iter: 1090 [(22%)]	Loss: 11.695890	soft_Loss: 4.769860	MMD_Loss: 0.018553	Tri_Loss: 7.692642	TEST_domain_Loss: 0.781148
+Train iter: 1100 [(22%)]	Loss: 11.524780	soft_Loss: 4.710590	MMD_Loss: 0.021323	Tri_Loss: 7.506996	TEST_domain_Loss: 0.787778
+
+load9_train set: Average loss: 0.0000, Accuracy: 17193/28800 (59.70%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 551/2400 (22.96%), Accuracy: 553/2400 (23.04%), Accuracy: 522/2400 (21.75%), Accuracy: 557/2400 (23.21%)
+
+learning rate 0.0000
+Train iter: 1110 [(22%)]	Loss: 11.413118	soft_Loss: 4.650739	MMD_Loss: 0.021877	Tri_Loss: 7.423143	TEST_domain_Loss: 0.776119
+Train iter: 1120 [(22%)]	Loss: 11.644239	soft_Loss: 4.668314	MMD_Loss: 0.030384	Tri_Loss: 7.666914	TEST_domain_Loss: 0.759829
+Train iter: 1130 [(23%)]	Loss: 11.714373	soft_Loss: 4.780125	MMD_Loss: 0.020894	Tri_Loss: 7.547015	TEST_domain_Loss: 0.796528
+Train iter: 1140 [(23%)]	Loss: 11.332689	soft_Loss: 4.532104	MMD_Loss: 0.017388	Tri_Loss: 7.401618	TEST_domain_Loss: 0.758442
+Train iter: 1150 [(23%)]	Loss: 11.893238	soft_Loss: 4.770031	MMD_Loss: 0.019052	Tri_Loss: 7.746364	TEST_domain_Loss: 0.773006
+Train iter: 1160 [(23%)]	Loss: 11.625090	soft_Loss: 4.668566	MMD_Loss: 0.021365	Tri_Loss: 7.496798	TEST_domain_Loss: 0.783814
+Train iter: 1170 [(23%)]	Loss: 11.868748	soft_Loss: 4.834434	MMD_Loss: 0.017582	Tri_Loss: 7.567383	TEST_domain_Loss: 0.782238
+Train iter: 1180 [(24%)]	Loss: 11.461520	soft_Loss: 4.511831	MMD_Loss: 0.031205	Tri_Loss: 7.423430	TEST_domain_Loss: 0.781339
+Train iter: 1190 [(24%)]	Loss: 11.480227	soft_Loss: 4.601745	MMD_Loss: 0.024178	Tri_Loss: 7.343284	TEST_domain_Loss: 0.759224
+Train iter: 1200 [(24%)]	Loss: 11.768066	soft_Loss: 4.591295	MMD_Loss: 0.015333	Tri_Loss: 7.603423	TEST_domain_Loss: 0.825361
+
+load9_train set: Average loss: 0.0000, Accuracy: 17676/28800 (61.38%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 563/2400 (23.46%), Accuracy: 530/2400 (22.08%), Accuracy: 528/2400 (22.00%), Accuracy: 572/2400 (23.83%)
+
+learning rate 0.0000
+Train iter: 1210 [(24%)]	Loss: 11.873436	soft_Loss: 4.787270	MMD_Loss: 0.016663	Tri_Loss: 7.536558	TEST_domain_Loss: 0.766541
+Train iter: 1220 [(24%)]	Loss: 11.356831	soft_Loss: 4.401929	MMD_Loss: 0.018261	Tri_Loss: 7.359688	TEST_domain_Loss: 0.759976
+Train iter: 1230 [(25%)]	Loss: 11.642576	soft_Loss: 4.639488	MMD_Loss: 0.019738	Tri_Loss: 7.420648	TEST_domain_Loss: 0.733972
+Train iter: 1240 [(25%)]	Loss: 11.638965	soft_Loss: 4.573339	MMD_Loss: 0.019473	Tri_Loss: 7.454702	TEST_domain_Loss: 0.746542
+Train iter: 1250 [(25%)]	Loss: 11.540094	soft_Loss: 4.574831	MMD_Loss: 0.020668	Tri_Loss: 7.276429	TEST_domain_Loss: 0.775254
+Train iter: 1260 [(25%)]	Loss: 11.675629	soft_Loss: 4.667276	MMD_Loss: 0.020627	Tri_Loss: 7.312254	TEST_domain_Loss: 0.767600
+Train iter: 1270 [(25%)]	Loss: 11.508410	soft_Loss: 4.430987	MMD_Loss: 0.023182	Tri_Loss: 7.430391	TEST_domain_Loss: 0.713579
+Train iter: 1280 [(26%)]	Loss: 11.694548	soft_Loss: 4.480367	MMD_Loss: 0.018438	Tri_Loss: 7.538822	TEST_domain_Loss: 0.741503
+Train iter: 1290 [(26%)]	Loss: 11.493846	soft_Loss: 4.521622	MMD_Loss: 0.017634	Tri_Loss: 7.178218	TEST_domain_Loss: 0.790076
+Train iter: 1300 [(26%)]	Loss: 11.733289	soft_Loss: 4.730907	MMD_Loss: 0.018073	Tri_Loss: 7.200498	TEST_domain_Loss: 0.781971
+
+load9_train set: Average loss: 0.0000, Accuracy: 18035/28800 (62.62%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 569/2400 (23.71%), Accuracy: 545/2400 (22.71%), Accuracy: 546/2400 (22.75%), Accuracy: 591/2400 (24.62%)
+
+learning rate 0.0000
+Train iter: 1310 [(26%)]	Loss: 11.574883	soft_Loss: 4.575890	MMD_Loss: 0.021567	Tri_Loss: 7.209968	TEST_domain_Loss: 0.748954
+Train iter: 1320 [(26%)]	Loss: 11.570580	soft_Loss: 4.468919	MMD_Loss: 0.016719	Tri_Loss: 7.292480	TEST_domain_Loss: 0.766164
+Train iter: 1330 [(27%)]	Loss: 11.496194	soft_Loss: 4.425909	MMD_Loss: 0.023040	Tri_Loss: 7.302420	TEST_domain_Loss: 0.702634
+Train iter: 1340 [(27%)]	Loss: 12.161311	soft_Loss: 4.697964	MMD_Loss: 0.015618	Tri_Loss: 7.653088	TEST_domain_Loss: 0.778749
+Train iter: 1350 [(27%)]	Loss: 11.627562	soft_Loss: 4.531942	MMD_Loss: 0.017292	Tri_Loss: 7.235516	TEST_domain_Loss: 0.756279
+Train iter: 1360 [(27%)]	Loss: 11.849058	soft_Loss: 4.620547	MMD_Loss: 0.018117	Tri_Loss: 7.307031	TEST_domain_Loss: 0.808802
+Train iter: 1370 [(27%)]	Loss: 11.577851	soft_Loss: 4.375427	MMD_Loss: 0.021878	Tri_Loss: 7.327064	TEST_domain_Loss: 0.744967
+Train iter: 1380 [(28%)]	Loss: 11.534315	soft_Loss: 4.419270	MMD_Loss: 0.021693	Tri_Loss: 7.166411	TEST_domain_Loss: 0.782677
+Train iter: 1390 [(28%)]	Loss: 11.642394	soft_Loss: 4.489888	MMD_Loss: 0.015284	Tri_Loss: 7.204584	TEST_domain_Loss: 0.776129
+Train iter: 1400 [(28%)]	Loss: 11.543114	soft_Loss: 4.463425	MMD_Loss: 0.022783	Tri_Loss: 7.111932	TEST_domain_Loss: 0.762958
+
+load9_train set: Average loss: 0.0000, Accuracy: 18411/28800 (63.93%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 551/2400 (22.96%), Accuracy: 524/2400 (21.83%), Accuracy: 520/2400 (21.67%), Accuracy: 587/2400 (24.46%)
+
+learning rate 0.0000
+Train iter: 1410 [(28%)]	Loss: 11.659731	soft_Loss: 4.499272	MMD_Loss: 0.020619	Tri_Loss: 7.226368	TEST_domain_Loss: 0.728800
+Train iter: 1420 [(28%)]	Loss: 11.757475	soft_Loss: 4.553914	MMD_Loss: 0.022252	Tri_Loss: 7.223929	TEST_domain_Loss: 0.757366
+Train iter: 1430 [(29%)]	Loss: 11.378508	soft_Loss: 4.304533	MMD_Loss: 0.016085	Tri_Loss: 7.099561	TEST_domain_Loss: 0.729191
+Train iter: 1440 [(29%)]	Loss: 11.522760	soft_Loss: 4.375588	MMD_Loss: 0.023801	Tri_Loss: 7.201241	TEST_domain_Loss: 0.690169
+Train iter: 1450 [(29%)]	Loss: 11.499729	soft_Loss: 4.462259	MMD_Loss: 0.016092	Tri_Loss: 6.989224	TEST_domain_Loss: 0.762859
+Train iter: 1460 [(29%)]	Loss: 11.296176	soft_Loss: 4.253757	MMD_Loss: 0.025549	Tri_Loss: 7.025719	TEST_domain_Loss: 0.712830
+Train iter: 1470 [(29%)]	Loss: 11.937716	soft_Loss: 4.493767	MMD_Loss: 0.016909	Tri_Loss: 7.419633	TEST_domain_Loss: 0.754204
+Train iter: 1480 [(30%)]	Loss: 11.846838	soft_Loss: 4.598091	MMD_Loss: 0.015464	Tri_Loss: 7.162755	TEST_domain_Loss: 0.777812
+Train iter: 1490 [(30%)]	Loss: 11.420736	soft_Loss: 4.277815	MMD_Loss: 0.018388	Tri_Loss: 7.073165	TEST_domain_Loss: 0.736945
+Train iter: 1500 [(30%)]	Loss: 11.625136	soft_Loss: 4.368492	MMD_Loss: 0.018549	Tri_Loss: 7.168339	TEST_domain_Loss: 0.751445
+
+load9_train set: Average loss: 0.0000, Accuracy: 18627/28800 (64.68%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 568/2400 (23.67%), Accuracy: 537/2400 (22.38%), Accuracy: 530/2400 (22.08%), Accuracy: 593/2400 (24.71%)
+
+learning rate 0.0000
+Train iter: 1510 [(30%)]	Loss: 11.762262	soft_Loss: 4.363547	MMD_Loss: 0.020911	Tri_Loss: 7.292884	TEST_domain_Loss: 0.765550
+Train iter: 1520 [(30%)]	Loss: 11.485950	soft_Loss: 4.318864	MMD_Loss: 0.016056	Tri_Loss: 7.056469	TEST_domain_Loss: 0.740300
+Train iter: 1530 [(31%)]	Loss: 11.876375	soft_Loss: 4.507641	MMD_Loss: 0.016461	Tri_Loss: 7.217495	TEST_domain_Loss: 0.782763
+Train iter: 1540 [(31%)]	Loss: 11.586871	soft_Loss: 4.231665	MMD_Loss: 0.019136	Tri_Loss: 7.227640	TEST_domain_Loss: 0.745275
+Train iter: 1550 [(31%)]	Loss: 11.639631	soft_Loss: 4.293007	MMD_Loss: 0.017548	Tri_Loss: 7.202487	TEST_domain_Loss: 0.749061
+Train iter: 1560 [(31%)]	Loss: 11.398906	soft_Loss: 4.374027	MMD_Loss: 0.019799	Tri_Loss: 6.856099	TEST_domain_Loss: 0.730541
+Train iter: 1570 [(31%)]	Loss: 11.461793	soft_Loss: 4.283081	MMD_Loss: 0.018694	Tri_Loss: 7.033209	TEST_domain_Loss: 0.711934
+Train iter: 1580 [(32%)]	Loss: 11.739698	soft_Loss: 4.478086	MMD_Loss: 0.017459	Tri_Loss: 7.078549	TEST_domain_Loss: 0.743205
+Train iter: 1590 [(32%)]	Loss: 11.759970	soft_Loss: 4.349172	MMD_Loss: 0.017075	Tri_Loss: 7.213504	TEST_domain_Loss: 0.757586
+Train iter: 1600 [(32%)]	Loss: 11.294373	soft_Loss: 4.207846	MMD_Loss: 0.024900	Tri_Loss: 6.920020	TEST_domain_Loss: 0.685612
+
+load9_train set: Average loss: 0.0000, Accuracy: 19066/28800 (66.20%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 556/2400 (23.17%), Accuracy: 550/2400 (22.92%), Accuracy: 520/2400 (21.67%), Accuracy: 596/2400 (24.83%)
+
+learning rate 0.0000
+Train iter: 1610 [(32%)]	Loss: 11.875375	soft_Loss: 4.403286	MMD_Loss: 0.014929	Tri_Loss: 7.333601	TEST_domain_Loss: 0.688220
+Train iter: 1620 [(32%)]	Loss: 11.450176	soft_Loss: 4.242102	MMD_Loss: 0.020044	Tri_Loss: 6.980846	TEST_domain_Loss: 0.734882
+Train iter: 1630 [(33%)]	Loss: 11.490530	soft_Loss: 4.307887	MMD_Loss: 0.031193	Tri_Loss: 6.937899	TEST_domain_Loss: 0.728836
+Train iter: 1640 [(33%)]	Loss: 11.321159	soft_Loss: 4.181515	MMD_Loss: 0.020952	Tri_Loss: 6.912889	TEST_domain_Loss: 0.708697
+Train iter: 1650 [(33%)]	Loss: 11.430946	soft_Loss: 4.131410	MMD_Loss: 0.015710	Tri_Loss: 7.063635	TEST_domain_Loss: 0.723834
+Train iter: 1660 [(33%)]	Loss: 11.710949	soft_Loss: 4.396648	MMD_Loss: 0.014480	Tri_Loss: 7.078001	TEST_domain_Loss: 0.716752
+Train iter: 1670 [(33%)]	Loss: 11.943203	soft_Loss: 4.406837	MMD_Loss: 0.018026	Tri_Loss: 7.288865	TEST_domain_Loss: 0.729619
+Train iter: 1680 [(34%)]	Loss: 11.442632	soft_Loss: 4.198345	MMD_Loss: 0.027820	Tri_Loss: 6.981118	TEST_domain_Loss: 0.705917
+Train iter: 1690 [(34%)]	Loss: 11.400957	soft_Loss: 4.184252	MMD_Loss: 0.017549	Tri_Loss: 6.917352	TEST_domain_Loss: 0.738487
+Train iter: 1700 [(34%)]	Loss: 11.305893	soft_Loss: 4.129872	MMD_Loss: 0.019798	Tri_Loss: 6.856044	TEST_domain_Loss: 0.744295
+
+load9_train set: Average loss: 0.0000, Accuracy: 19279/28800 (66.94%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 575/2400 (23.96%), Accuracy: 560/2400 (23.33%), Accuracy: 523/2400 (21.79%), Accuracy: 611/2400 (25.46%)
+
+learning rate 0.0000
+Train iter: 1710 [(34%)]	Loss: 11.967887	soft_Loss: 4.361235	MMD_Loss: 0.015891	Tri_Loss: 7.332650	TEST_domain_Loss: 0.723659
+Train iter: 1720 [(34%)]	Loss: 11.222536	soft_Loss: 4.192048	MMD_Loss: 0.017400	Tri_Loss: 6.717078	TEST_domain_Loss: 0.714471
+Train iter: 1730 [(35%)]	Loss: 11.231129	soft_Loss: 4.066835	MMD_Loss: 0.024997	Tri_Loss: 6.858092	TEST_domain_Loss: 0.700688
+Train iter: 1740 [(35%)]	Loss: 11.449633	soft_Loss: 4.200774	MMD_Loss: 0.016093	Tri_Loss: 6.934808	TEST_domain_Loss: 0.713437
+Train iter: 1750 [(35%)]	Loss: 11.617182	soft_Loss: 4.333751	MMD_Loss: 0.019494	Tri_Loss: 6.958225	TEST_domain_Loss: 0.714777
+Train iter: 1760 [(35%)]	Loss: 11.610976	soft_Loss: 4.209059	MMD_Loss: 0.017941	Tri_Loss: 7.091249	TEST_domain_Loss: 0.701485
+Train iter: 1770 [(35%)]	Loss: 11.456349	soft_Loss: 4.051700	MMD_Loss: 0.023951	Tri_Loss: 7.066560	TEST_domain_Loss: 0.713977
+Train iter: 1780 [(36%)]	Loss: 11.600430	soft_Loss: 4.198253	MMD_Loss: 0.018430	Tri_Loss: 7.079432	TEST_domain_Loss: 0.696861
+Train iter: 1790 [(36%)]	Loss: 11.313779	soft_Loss: 4.180466	MMD_Loss: 0.017595	Tri_Loss: 6.776196	TEST_domain_Loss: 0.708012
+Train iter: 1800 [(36%)]	Loss: 11.440041	soft_Loss: 4.199669	MMD_Loss: 0.014864	Tri_Loss: 6.870480	TEST_domain_Loss: 0.721287
+
+load9_train set: Average loss: 0.0000, Accuracy: 19670/28800 (68.30%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 581/2400 (24.21%), Accuracy: 555/2400 (23.12%), Accuracy: 542/2400 (22.58%), Accuracy: 580/2400 (24.17%)
+
+learning rate 0.0000
+Train iter: 1810 [(36%)]	Loss: 11.526569	soft_Loss: 4.227606	MMD_Loss: 0.019756	Tri_Loss: 6.925453	TEST_domain_Loss: 0.716074
+Train iter: 1820 [(36%)]	Loss: 11.517803	soft_Loss: 4.163596	MMD_Loss: 0.013922	Tri_Loss: 6.950766	TEST_domain_Loss: 0.745844
+Train iter: 1830 [(37%)]	Loss: 11.567566	soft_Loss: 4.187394	MMD_Loss: 0.015290	Tri_Loss: 6.979903	TEST_domain_Loss: 0.735955
+Train iter: 1840 [(37%)]	Loss: 11.590542	soft_Loss: 4.265471	MMD_Loss: 0.020311	Tri_Loss: 6.924054	TEST_domain_Loss: 0.722402
+Train iter: 1850 [(37%)]	Loss: 11.658410	soft_Loss: 4.093554	MMD_Loss: 0.014823	Tri_Loss: 7.212007	TEST_domain_Loss: 0.686750
+Train iter: 1860 [(37%)]	Loss: 11.417593	soft_Loss: 4.104042	MMD_Loss: 0.019327	Tri_Loss: 6.928687	TEST_domain_Loss: 0.694326
+Train iter: 1870 [(37%)]	Loss: 11.690910	soft_Loss: 4.257613	MMD_Loss: 0.016111	Tri_Loss: 7.003300	TEST_domain_Loss: 0.739628
+Train iter: 1880 [(38%)]	Loss: 11.420990	soft_Loss: 4.005957	MMD_Loss: 0.017515	Tri_Loss: 7.031442	TEST_domain_Loss: 0.686859
+Train iter: 1890 [(38%)]	Loss: 11.184356	soft_Loss: 3.966445	MMD_Loss: 0.016222	Tri_Loss: 6.780085	TEST_domain_Loss: 0.724902
+Train iter: 1900 [(38%)]	Loss: 11.404863	soft_Loss: 4.095366	MMD_Loss: 0.018054	Tri_Loss: 6.907551	TEST_domain_Loss: 0.686974
+
+load9_train set: Average loss: 0.0000, Accuracy: 19832/28800 (68.86%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 577/2400 (24.04%), Accuracy: 544/2400 (22.67%), Accuracy: 545/2400 (22.71%), Accuracy: 604/2400 (25.17%)
+
+learning rate 0.0000
+Train iter: 1910 [(38%)]	Loss: 11.150705	soft_Loss: 4.053289	MMD_Loss: 0.018921	Tri_Loss: 6.678487	TEST_domain_Loss: 0.687424
+Train iter: 1920 [(38%)]	Loss: 11.406927	soft_Loss: 4.016010	MMD_Loss: 0.024643	Tri_Loss: 6.973828	TEST_domain_Loss: 0.686960
+Train iter: 1930 [(39%)]	Loss: 11.431936	soft_Loss: 4.065187	MMD_Loss: 0.015618	Tri_Loss: 6.968798	TEST_domain_Loss: 0.670556
+Train iter: 1940 [(39%)]	Loss: 11.688363	soft_Loss: 4.115708	MMD_Loss: 0.016587	Tri_Loss: 7.151243	TEST_domain_Loss: 0.694878
+Train iter: 1950 [(39%)]	Loss: 11.345270	soft_Loss: 4.066400	MMD_Loss: 0.014998	Tri_Loss: 6.886579	TEST_domain_Loss: 0.651152
+Train iter: 1960 [(39%)]	Loss: 11.289202	soft_Loss: 4.089904	MMD_Loss: 0.017652	Tri_Loss: 6.751938	TEST_domain_Loss: 0.693115
+Train iter: 1970 [(39%)]	Loss: 11.408864	soft_Loss: 3.987367	MMD_Loss: 0.019541	Tri_Loss: 6.944086	TEST_domain_Loss: 0.723563
+Train iter: 1980 [(40%)]	Loss: 11.159631	soft_Loss: 4.017470	MMD_Loss: 0.022613	Tri_Loss: 6.665301	TEST_domain_Loss: 0.704462
+Train iter: 1990 [(40%)]	Loss: 11.424025	soft_Loss: 4.031044	MMD_Loss: 0.014451	Tri_Loss: 6.978388	TEST_domain_Loss: 0.656679
+Train iter: 2000 [(40%)]	Loss: 11.488981	soft_Loss: 4.089788	MMD_Loss: 0.021219	Tri_Loss: 6.934747	TEST_domain_Loss: 0.693450
+
+load9_train set: Average loss: 0.0000, Accuracy: 20172/28800 (70.04%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 590/2400 (24.58%), Accuracy: 550/2400 (22.92%), Accuracy: 549/2400 (22.88%), Accuracy: 601/2400 (25.04%)
+
+learning rate 0.0000
+Train iter: 2010 [(40%)]	Loss: 11.362867	soft_Loss: 4.084959	MMD_Loss: 0.017164	Tri_Loss: 6.815242	TEST_domain_Loss: 0.686500
+Train iter: 2020 [(40%)]	Loss: 11.013154	soft_Loss: 3.929802	MMD_Loss: 0.016867	Tri_Loss: 6.612641	TEST_domain_Loss: 0.683134
+Train iter: 2030 [(41%)]	Loss: 11.435970	soft_Loss: 3.984764	MMD_Loss: 0.018194	Tri_Loss: 6.994824	TEST_domain_Loss: 0.676021
+Train iter: 2040 [(41%)]	Loss: 11.282914	soft_Loss: 3.843840	MMD_Loss: 0.022347	Tri_Loss: 6.980179	TEST_domain_Loss: 0.669402
+Train iter: 2050 [(41%)]	Loss: 11.158125	soft_Loss: 3.956471	MMD_Loss: 0.018293	Tri_Loss: 6.720992	TEST_domain_Loss: 0.682103
+Train iter: 2060 [(41%)]	Loss: 11.595721	soft_Loss: 3.999630	MMD_Loss: 0.015834	Tri_Loss: 7.180854	TEST_domain_Loss: 0.629479
+Train iter: 2070 [(41%)]	Loss: 11.521984	soft_Loss: 4.135188	MMD_Loss: 0.017516	Tri_Loss: 6.878015	TEST_domain_Loss: 0.707417
+Train iter: 2080 [(42%)]	Loss: 11.125221	soft_Loss: 3.903507	MMD_Loss: 0.022390	Tri_Loss: 6.734509	TEST_domain_Loss: 0.672492
+Train iter: 2090 [(42%)]	Loss: 11.572293	soft_Loss: 4.048704	MMD_Loss: 0.015384	Tri_Loss: 7.028481	TEST_domain_Loss: 0.691998
+Train iter: 2100 [(42%)]	Loss: 10.927403	soft_Loss: 3.809478	MMD_Loss: 0.018506	Tri_Loss: 6.628817	TEST_domain_Loss: 0.667018
+
+load9_train set: Average loss: 0.0000, Accuracy: 20460/28800 (71.04%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 612/2400 (25.50%), Accuracy: 575/2400 (23.96%), Accuracy: 550/2400 (22.92%), Accuracy: 598/2400 (24.92%)
+
+learning rate 0.0000
+Train iter: 2110 [(42%)]	Loss: 11.399310	soft_Loss: 3.992599	MMD_Loss: 0.017364	Tri_Loss: 6.906782	TEST_domain_Loss: 0.683167
+Train iter: 2120 [(42%)]	Loss: 11.179600	soft_Loss: 3.955273	MMD_Loss: 0.017603	Tri_Loss: 6.733848	TEST_domain_Loss: 0.664657
+Train iter: 2130 [(43%)]	Loss: 11.352484	soft_Loss: 3.937151	MMD_Loss: 0.018981	Tri_Loss: 6.924520	TEST_domain_Loss: 0.665217
+Train iter: 2140 [(43%)]	Loss: 11.749033	soft_Loss: 4.068637	MMD_Loss: 0.022299	Tri_Loss: 7.159826	TEST_domain_Loss: 0.694395
+Train iter: 2150 [(43%)]	Loss: 11.056454	soft_Loss: 3.809542	MMD_Loss: 0.017493	Tri_Loss: 6.768526	TEST_domain_Loss: 0.642580
+Train iter: 2160 [(43%)]	Loss: 11.085513	soft_Loss: 3.924859	MMD_Loss: 0.019448	Tri_Loss: 6.590908	TEST_domain_Loss: 0.723825
+Train iter: 2170 [(43%)]	Loss: 11.485342	soft_Loss: 3.991066	MMD_Loss: 0.017308	Tri_Loss: 6.988393	TEST_domain_Loss: 0.668885
+Train iter: 2180 [(44%)]	Loss: 11.099033	soft_Loss: 3.838359	MMD_Loss: 0.021245	Tri_Loss: 6.739640	TEST_domain_Loss: 0.670395
+Train iter: 2190 [(44%)]	Loss: 11.036385	soft_Loss: 3.767566	MMD_Loss: 0.023851	Tri_Loss: 6.722290	TEST_domain_Loss: 0.689583
+Train iter: 2200 [(44%)]	Loss: 11.238216	soft_Loss: 3.838272	MMD_Loss: 0.015676	Tri_Loss: 6.849982	TEST_domain_Loss: 0.700826
+
+load9_train set: Average loss: 0.0000, Accuracy: 20763/28800 (72.09%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 610/2400 (25.42%), Accuracy: 554/2400 (23.08%), Accuracy: 557/2400 (23.21%), Accuracy: 635/2400 (26.46%)
+
+learning rate 0.0000
+Train iter: 2210 [(44%)]	Loss: 11.063250	soft_Loss: 3.846101	MMD_Loss: 0.016139	Tri_Loss: 6.663104	TEST_domain_Loss: 0.696753
+Train iter: 2220 [(44%)]	Loss: 11.000834	soft_Loss: 3.822098	MMD_Loss: 0.021506	Tri_Loss: 6.631189	TEST_domain_Loss: 0.681161
+Train iter: 2230 [(45%)]	Loss: 11.374132	soft_Loss: 3.948227	MMD_Loss: 0.013890	Tri_Loss: 6.910006	TEST_domain_Loss: 0.660292
+Train iter: 2240 [(45%)]	Loss: 11.005372	soft_Loss: 3.838556	MMD_Loss: 0.017693	Tri_Loss: 6.631418	TEST_domain_Loss: 0.666731
+Train iter: 2250 [(45%)]	Loss: 11.531387	soft_Loss: 3.951488	MMD_Loss: 0.017961	Tri_Loss: 7.063176	TEST_domain_Loss: 0.654362
+Train iter: 2260 [(45%)]	Loss: 11.089145	soft_Loss: 3.802458	MMD_Loss: 0.024942	Tri_Loss: 6.770857	TEST_domain_Loss: 0.637292
+Train iter: 2270 [(45%)]	Loss: 10.930076	soft_Loss: 3.740886	MMD_Loss: 0.021607	Tri_Loss: 6.654875	TEST_domain_Loss: 0.653724
+Train iter: 2280 [(46%)]	Loss: 11.084167	soft_Loss: 3.953247	MMD_Loss: 0.015018	Tri_Loss: 6.564512	TEST_domain_Loss: 0.687636
+Train iter: 2290 [(46%)]	Loss: 11.212252	soft_Loss: 3.985807	MMD_Loss: 0.014403	Tri_Loss: 6.661312	TEST_domain_Loss: 0.686257
+Train iter: 2300 [(46%)]	Loss: 11.078374	soft_Loss: 3.806983	MMD_Loss: 0.022139	Tri_Loss: 6.694776	TEST_domain_Loss: 0.688167
+
+load9_train set: Average loss: 0.0000, Accuracy: 20604/28800 (71.54%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 616/2400 (25.67%), Accuracy: 559/2400 (23.29%), Accuracy: 560/2400 (23.33%), Accuracy: 635/2400 (26.46%)
+
+learning rate 0.0000
+Train iter: 2310 [(46%)]	Loss: 11.261499	soft_Loss: 3.880550	MMD_Loss: 0.016525	Tri_Loss: 6.827146	TEST_domain_Loss: 0.670821
+Train iter: 2320 [(46%)]	Loss: 10.952026	soft_Loss: 3.835731	MMD_Loss: 0.015183	Tri_Loss: 6.529805	TEST_domain_Loss: 0.696518
+Train iter: 2330 [(47%)]	Loss: 11.287399	soft_Loss: 3.886727	MMD_Loss: 0.014789	Tri_Loss: 6.863202	TEST_domain_Loss: 0.651680
+Train iter: 2340 [(47%)]	Loss: 11.258765	soft_Loss: 3.872740	MMD_Loss: 0.020496	Tri_Loss: 6.814441	TEST_domain_Loss: 0.676764
+Train iter: 2350 [(47%)]	Loss: 11.121294	soft_Loss: 3.828503	MMD_Loss: 0.022901	Tri_Loss: 6.701016	TEST_domain_Loss: 0.690083
+Train iter: 2360 [(47%)]	Loss: 10.728693	soft_Loss: 3.621044	MMD_Loss: 0.019362	Tri_Loss: 6.576427	TEST_domain_Loss: 0.628427
+Train iter: 2370 [(47%)]	Loss: 11.165833	soft_Loss: 3.782534	MMD_Loss: 0.019114	Tri_Loss: 6.788068	TEST_domain_Loss: 0.694057
+Train iter: 2380 [(48%)]	Loss: 10.844776	soft_Loss: 3.709953	MMD_Loss: 0.014593	Tri_Loss: 6.576898	TEST_domain_Loss: 0.655294
+Train iter: 2390 [(48%)]	Loss: 10.822962	soft_Loss: 3.631755	MMD_Loss: 0.023397	Tri_Loss: 6.615471	TEST_domain_Loss: 0.662890
+Train iter: 2400 [(48%)]	Loss: 11.015446	soft_Loss: 3.749721	MMD_Loss: 0.014544	Tri_Loss: 6.696942	TEST_domain_Loss: 0.663805
+
+load9_train set: Average loss: 0.0000, Accuracy: 21078/28800 (73.19%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 606/2400 (25.25%), Accuracy: 577/2400 (24.04%), Accuracy: 533/2400 (22.21%), Accuracy: 621/2400 (25.88%)
+
+learning rate 0.0000
+Train iter: 2410 [(48%)]	Loss: 11.010788	soft_Loss: 3.681877	MMD_Loss: 0.022113	Tri_Loss: 6.759318	TEST_domain_Loss: 0.656012
+Train iter: 2420 [(48%)]	Loss: 11.007977	soft_Loss: 3.728663	MMD_Loss: 0.023785	Tri_Loss: 6.684368	TEST_domain_Loss: 0.676411
+Train iter: 2430 [(49%)]	Loss: 10.894072	soft_Loss: 3.717202	MMD_Loss: 0.018745	Tri_Loss: 6.605981	TEST_domain_Loss: 0.654043
+Train iter: 2440 [(49%)]	Loss: 11.233786	soft_Loss: 3.828745	MMD_Loss: 0.013747	Tri_Loss: 6.800313	TEST_domain_Loss: 0.693734
+Train iter: 2450 [(49%)]	Loss: 10.729799	soft_Loss: 3.595849	MMD_Loss: 0.020563	Tri_Loss: 6.590434	TEST_domain_Loss: 0.620686
+Train iter: 2460 [(49%)]	Loss: 10.739882	soft_Loss: 3.597388	MMD_Loss: 0.026888	Tri_Loss: 6.566698	TEST_domain_Loss: 0.644465
+Train iter: 2470 [(49%)]	Loss: 11.132042	soft_Loss: 3.748993	MMD_Loss: 0.014791	Tri_Loss: 6.802641	TEST_domain_Loss: 0.662476
+Train iter: 2480 [(50%)]	Loss: 10.317705	soft_Loss: 3.435351	MMD_Loss: 0.029962	Tri_Loss: 6.302163	TEST_domain_Loss: 0.638424
+Train iter: 2490 [(50%)]	Loss: 11.227814	soft_Loss: 3.730632	MMD_Loss: 0.032873	Tri_Loss: 6.922019	TEST_domain_Loss: 0.637254
+Train iter: 2500 [(50%)]	Loss: 10.891251	soft_Loss: 3.550427	MMD_Loss: 0.012979	Tri_Loss: 6.773070	TEST_domain_Loss: 0.645611
+
+load9_train set: Average loss: 0.0000, Accuracy: 21213/28800 (73.66%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 603/2400 (25.12%), Accuracy: 559/2400 (23.29%), Accuracy: 544/2400 (22.67%), Accuracy: 635/2400 (26.46%)
+
+learning rate 0.0000
+Train iter: 2510 [(50%)]	Loss: 11.027153	soft_Loss: 3.811241	MMD_Loss: 0.025027	Tri_Loss: 6.636152	TEST_domain_Loss: 0.642144
+Train iter: 2520 [(50%)]	Loss: 11.018572	soft_Loss: 3.752148	MMD_Loss: 0.014853	Tri_Loss: 6.743848	TEST_domain_Loss: 0.594669
+Train iter: 2530 [(51%)]	Loss: 11.242807	soft_Loss: 3.863020	MMD_Loss: 0.020009	Tri_Loss: 6.791127	TEST_domain_Loss: 0.654546
+Train iter: 2540 [(51%)]	Loss: 10.933362	soft_Loss: 3.640728	MMD_Loss: 0.019604	Tri_Loss: 6.712761	TEST_domain_Loss: 0.643500
+Train iter: 2550 [(51%)]	Loss: 10.602680	soft_Loss: 3.600721	MMD_Loss: 0.018242	Tri_Loss: 6.424562	TEST_domain_Loss: 0.637239
+Train iter: 2560 [(51%)]	Loss: 10.868511	soft_Loss: 3.727965	MMD_Loss: 0.012753	Tri_Loss: 6.519139	TEST_domain_Loss: 0.686260
+Train iter: 2570 [(51%)]	Loss: 10.880107	soft_Loss: 3.633450	MMD_Loss: 0.021233	Tri_Loss: 6.653656	TEST_domain_Loss: 0.649511
+Train iter: 2580 [(52%)]	Loss: 10.894138	soft_Loss: 3.710110	MMD_Loss: 0.016544	Tri_Loss: 6.622600	TEST_domain_Loss: 0.620689
+Train iter: 2590 [(52%)]	Loss: 10.999765	soft_Loss: 3.617162	MMD_Loss: 0.018345	Tri_Loss: 6.756043	TEST_domain_Loss: 0.684042
+Train iter: 2600 [(52%)]	Loss: 10.777479	soft_Loss: 3.499912	MMD_Loss: 0.031274	Tri_Loss: 6.636634	TEST_domain_Loss: 0.682824
+
+load9_train set: Average loss: 0.0000, Accuracy: 21560/28800 (74.86%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 602/2400 (25.08%), Accuracy: 561/2400 (23.38%), Accuracy: 561/2400 (23.38%), Accuracy: 622/2400 (25.92%)
+
+learning rate 0.0000
+Train iter: 2610 [(52%)]	Loss: 10.657501	soft_Loss: 3.579309	MMD_Loss: 0.022150	Tri_Loss: 6.519949	TEST_domain_Loss: 0.606462
+Train iter: 2620 [(52%)]	Loss: 10.604856	soft_Loss: 3.588371	MMD_Loss: 0.016096	Tri_Loss: 6.417320	TEST_domain_Loss: 0.650908
+Train iter: 2630 [(53%)]	Loss: 10.723737	soft_Loss: 3.508341	MMD_Loss: 0.020200	Tri_Loss: 6.629011	TEST_domain_Loss: 0.634917
+Train iter: 2640 [(53%)]	Loss: 10.905458	soft_Loss: 3.658398	MMD_Loss: 0.018608	Tri_Loss: 6.671352	TEST_domain_Loss: 0.624892
+Train iter: 2650 [(53%)]	Loss: 10.989922	soft_Loss: 3.636209	MMD_Loss: 0.013862	Tri_Loss: 6.706297	TEST_domain_Loss: 0.700309
+Train iter: 2660 [(53%)]	Loss: 10.572163	soft_Loss: 3.460942	MMD_Loss: 0.019454	Tri_Loss: 6.538321	TEST_domain_Loss: 0.617305
+Train iter: 2670 [(53%)]	Loss: 10.889069	soft_Loss: 3.646258	MMD_Loss: 0.018551	Tri_Loss: 6.678898	TEST_domain_Loss: 0.609294
+Train iter: 2680 [(54%)]	Loss: 10.706337	soft_Loss: 3.573402	MMD_Loss: 0.015102	Tri_Loss: 6.532443	TEST_domain_Loss: 0.646661
+Train iter: 2690 [(54%)]	Loss: 10.800200	soft_Loss: 3.580654	MMD_Loss: 0.020129	Tri_Loss: 6.642543	TEST_domain_Loss: 0.617993
+Train iter: 2700 [(54%)]	Loss: 10.516922	soft_Loss: 3.479735	MMD_Loss: 0.018463	Tri_Loss: 6.427815	TEST_domain_Loss: 0.648877
+
+load9_train set: Average loss: 0.0000, Accuracy: 21593/28800 (74.98%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 605/2400 (25.21%), Accuracy: 544/2400 (22.67%), Accuracy: 541/2400 (22.54%), Accuracy: 639/2400 (26.62%)
+
+learning rate 0.0000
+Train iter: 2710 [(54%)]	Loss: 11.110252	soft_Loss: 3.732786	MMD_Loss: 0.014318	Tri_Loss: 6.771270	TEST_domain_Loss: 0.651696
+Train iter: 2720 [(54%)]	Loss: 10.670834	soft_Loss: 3.538073	MMD_Loss: 0.019221	Tri_Loss: 6.578990	TEST_domain_Loss: 0.591568
+Train iter: 2730 [(55%)]	Loss: 10.526464	soft_Loss: 3.371421	MMD_Loss: 0.014799	Tri_Loss: 6.541403	TEST_domain_Loss: 0.654380
+Train iter: 2740 [(55%)]	Loss: 10.816172	soft_Loss: 3.587531	MMD_Loss: 0.021189	Tri_Loss: 6.651942	TEST_domain_Loss: 0.610924
+Train iter: 2750 [(55%)]	Loss: 10.723056	soft_Loss: 3.489146	MMD_Loss: 0.023069	Tri_Loss: 6.634951	TEST_domain_Loss: 0.630089
+Train iter: 2760 [(55%)]	Loss: 10.915401	soft_Loss: 3.647197	MMD_Loss: 0.025170	Tri_Loss: 6.628142	TEST_domain_Loss: 0.667983
+Train iter: 2770 [(55%)]	Loss: 10.841515	soft_Loss: 3.589913	MMD_Loss: 0.016916	Tri_Loss: 6.645452	TEST_domain_Loss: 0.641348
+Train iter: 2780 [(56%)]	Loss: 10.632755	soft_Loss: 3.517726	MMD_Loss: 0.021268	Tri_Loss: 6.496714	TEST_domain_Loss: 0.647028
+Train iter: 2790 [(56%)]	Loss: 10.693183	soft_Loss: 3.632439	MMD_Loss: 0.015615	Tri_Loss: 6.469176	TEST_domain_Loss: 0.624698
+Train iter: 2800 [(56%)]	Loss: 10.720575	soft_Loss: 3.592563	MMD_Loss: 0.018940	Tri_Loss: 6.529938	TEST_domain_Loss: 0.627390
+
+load9_train set: Average loss: 0.0000, Accuracy: 21797/28800 (75.68%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 617/2400 (25.71%), Accuracy: 550/2400 (22.92%), Accuracy: 557/2400 (23.21%), Accuracy: 629/2400 (26.21%)
+
+learning rate 0.0000
+Train iter: 2810 [(56%)]	Loss: 10.787845	soft_Loss: 3.586600	MMD_Loss: 0.020805	Tri_Loss: 6.573564	TEST_domain_Loss: 0.654507
+Train iter: 2820 [(56%)]	Loss: 10.905132	soft_Loss: 3.624026	MMD_Loss: 0.014611	Tri_Loss: 6.669103	TEST_domain_Loss: 0.644718
+Train iter: 2830 [(57%)]	Loss: 10.831842	soft_Loss: 3.618099	MMD_Loss: 0.014828	Tri_Loss: 6.546890	TEST_domain_Loss: 0.697570
+Train iter: 2840 [(57%)]	Loss: 10.808760	soft_Loss: 3.527732	MMD_Loss: 0.017886	Tri_Loss: 6.645113	TEST_domain_Loss: 0.663362
+Train iter: 2850 [(57%)]	Loss: 10.850298	soft_Loss: 3.678543	MMD_Loss: 0.015068	Tri_Loss: 6.535031	TEST_domain_Loss: 0.665342
+Train iter: 2860 [(57%)]	Loss: 10.728289	soft_Loss: 3.532888	MMD_Loss: 0.018473	Tri_Loss: 6.596390	TEST_domain_Loss: 0.623786
+Train iter: 2870 [(57%)]	Loss: 10.871365	soft_Loss: 3.556359	MMD_Loss: 0.020614	Tri_Loss: 6.703147	TEST_domain_Loss: 0.634337
+Train iter: 2880 [(58%)]	Loss: 10.421816	soft_Loss: 3.428104	MMD_Loss: 0.016339	Tri_Loss: 6.407038	TEST_domain_Loss: 0.610689
+Train iter: 2890 [(58%)]	Loss: 10.545387	soft_Loss: 3.477515	MMD_Loss: 0.026530	Tri_Loss: 6.461042	TEST_domain_Loss: 0.620253
+Train iter: 2900 [(58%)]	Loss: 10.859769	soft_Loss: 3.564137	MMD_Loss: 0.016279	Tri_Loss: 6.700638	TEST_domain_Loss: 0.619265
+
+load9_train set: Average loss: 0.0000, Accuracy: 22005/28800 (76.41%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 600/2400 (25.00%), Accuracy: 561/2400 (23.38%), Accuracy: 568/2400 (23.67%), Accuracy: 610/2400 (25.42%)
+
+learning rate 0.0000
+Train iter: 2910 [(58%)]	Loss: 10.247004	soft_Loss: 3.335254	MMD_Loss: 0.017156	Tri_Loss: 6.325262	TEST_domain_Loss: 0.606864
+Train iter: 2920 [(58%)]	Loss: 10.776819	soft_Loss: 3.656400	MMD_Loss: 0.012865	Tri_Loss: 6.540689	TEST_domain_Loss: 0.604881
+Train iter: 2930 [(59%)]	Loss: 10.989950	soft_Loss: 3.550501	MMD_Loss: 0.018335	Tri_Loss: 6.815750	TEST_domain_Loss: 0.644223
+Train iter: 2940 [(59%)]	Loss: 10.632014	soft_Loss: 3.427791	MMD_Loss: 0.030097	Tri_Loss: 6.585148	TEST_domain_Loss: 0.625852
+Train iter: 2950 [(59%)]	Loss: 10.563482	soft_Loss: 3.476929	MMD_Loss: 0.024059	Tri_Loss: 6.461588	TEST_domain_Loss: 0.636343
+Train iter: 2960 [(59%)]	Loss: 10.585913	soft_Loss: 3.464521	MMD_Loss: 0.020515	Tri_Loss: 6.512492	TEST_domain_Loss: 0.623377
+Train iter: 2970 [(59%)]	Loss: 10.409687	soft_Loss: 3.368539	MMD_Loss: 0.021926	Tri_Loss: 6.427554	TEST_domain_Loss: 0.625530
+Train iter: 2980 [(60%)]	Loss: 10.674250	soft_Loss: 3.524545	MMD_Loss: 0.017285	Tri_Loss: 6.525826	TEST_domain_Loss: 0.640268
+Train iter: 2990 [(60%)]	Loss: 10.764755	soft_Loss: 3.446262	MMD_Loss: 0.016486	Tri_Loss: 6.723464	TEST_domain_Loss: 0.612545
+Train iter: 3000 [(60%)]	Loss: 10.323290	soft_Loss: 3.258147	MMD_Loss: 0.017814	Tri_Loss: 6.459551	TEST_domain_Loss: 0.619809
+
+load9_train set: Average loss: 0.0000, Accuracy: 21980/28800 (76.32%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 596/2400 (24.83%), Accuracy: 560/2400 (23.33%), Accuracy: 533/2400 (22.21%), Accuracy: 640/2400 (26.67%)
+
+learning rate 0.0000
+Train iter: 3010 [(60%)]	Loss: 10.884375	soft_Loss: 3.568456	MMD_Loss: 0.016200	Tri_Loss: 6.672885	TEST_domain_Loss: 0.659260
+Train iter: 3020 [(60%)]	Loss: 10.743163	soft_Loss: 3.501656	MMD_Loss: 0.019279	Tri_Loss: 6.633296	TEST_domain_Loss: 0.620542
+Train iter: 3030 [(61%)]	Loss: 10.801462	soft_Loss: 3.557010	MMD_Loss: 0.022265	Tri_Loss: 6.576956	TEST_domain_Loss: 0.675970
+Train iter: 3040 [(61%)]	Loss: 10.632812	soft_Loss: 3.415463	MMD_Loss: 0.025778	Tri_Loss: 6.661074	TEST_domain_Loss: 0.561029
+Train iter: 3050 [(61%)]	Loss: 10.335868	soft_Loss: 3.308800	MMD_Loss: 0.030684	Tri_Loss: 6.381202	TEST_domain_Loss: 0.643880
+Train iter: 3060 [(61%)]	Loss: 10.757349	soft_Loss: 3.401431	MMD_Loss: 0.021085	Tri_Loss: 6.741294	TEST_domain_Loss: 0.623208
+Train iter: 3070 [(61%)]	Loss: 10.587588	soft_Loss: 3.511741	MMD_Loss: 0.020244	Tri_Loss: 6.460375	TEST_domain_Loss: 0.623099
+Train iter: 3080 [(62%)]	Loss: 10.792251	soft_Loss: 3.494247	MMD_Loss: 0.019148	Tri_Loss: 6.649625	TEST_domain_Loss: 0.657345
+Train iter: 3090 [(62%)]	Loss: 10.444278	soft_Loss: 3.392242	MMD_Loss: 0.026524	Tri_Loss: 6.444276	TEST_domain_Loss: 0.607974
+Train iter: 3100 [(62%)]	Loss: 10.608988	soft_Loss: 3.515884	MMD_Loss: 0.011795	Tri_Loss: 6.474575	TEST_domain_Loss: 0.633008
+
+load9_train set: Average loss: 0.0000, Accuracy: 22213/28800 (77.13%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 612/2400 (25.50%), Accuracy: 562/2400 (23.42%), Accuracy: 560/2400 (23.33%), Accuracy: 656/2400 (27.33%)
+
+learning rate 0.0000
+Train iter: 3110 [(62%)]	Loss: 10.186373	soft_Loss: 3.235003	MMD_Loss: 0.018597	Tri_Loss: 6.363211	TEST_domain_Loss: 0.594902
+Train iter: 3120 [(62%)]	Loss: 10.426390	soft_Loss: 3.405410	MMD_Loss: 0.015083	Tri_Loss: 6.409621	TEST_domain_Loss: 0.621282
+Train iter: 3130 [(63%)]	Loss: 10.817883	soft_Loss: 3.547396	MMD_Loss: 0.018873	Tri_Loss: 6.659627	TEST_domain_Loss: 0.617467
+Train iter: 3140 [(63%)]	Loss: 10.837955	soft_Loss: 3.560068	MMD_Loss: 0.018643	Tri_Loss: 6.646771	TEST_domain_Loss: 0.637401
+Train iter: 3150 [(63%)]	Loss: 10.946880	soft_Loss: 3.606756	MMD_Loss: 0.017521	Tri_Loss: 6.719598	TEST_domain_Loss: 0.627703
+Train iter: 3160 [(63%)]	Loss: 10.648973	soft_Loss: 3.435895	MMD_Loss: 0.022375	Tri_Loss: 6.570347	TEST_domain_Loss: 0.644048
+Train iter: 3170 [(63%)]	Loss: 10.714046	soft_Loss: 3.442316	MMD_Loss: 0.029817	Tri_Loss: 6.656190	TEST_domain_Loss: 0.609274
+Train iter: 3180 [(64%)]	Loss: 10.488014	soft_Loss: 3.422337	MMD_Loss: 0.022885	Tri_Loss: 6.424385	TEST_domain_Loss: 0.640669
+Train iter: 3190 [(64%)]	Loss: 10.143518	soft_Loss: 3.242197	MMD_Loss: 0.017082	Tri_Loss: 6.330504	TEST_domain_Loss: 0.575219
+Train iter: 3200 [(64%)]	Loss: 10.493517	soft_Loss: 3.310472	MMD_Loss: 0.015616	Tri_Loss: 6.583766	TEST_domain_Loss: 0.605556
+
+load9_train set: Average loss: 0.0000, Accuracy: 22307/28800 (77.45%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 613/2400 (25.54%), Accuracy: 573/2400 (23.88%), Accuracy: 547/2400 (22.79%), Accuracy: 642/2400 (26.75%)
+
+learning rate 0.0000
+Train iter: 3210 [(64%)]	Loss: 10.296906	soft_Loss: 3.284017	MMD_Loss: 0.017216	Tri_Loss: 6.427529	TEST_domain_Loss: 0.589103
+Train iter: 3220 [(64%)]	Loss: 10.637573	soft_Loss: 3.333719	MMD_Loss: 0.020534	Tri_Loss: 6.669238	TEST_domain_Loss: 0.635408
+Train iter: 3230 [(65%)]	Loss: 10.457233	soft_Loss: 3.299671	MMD_Loss: 0.019342	Tri_Loss: 6.539505	TEST_domain_Loss: 0.619209
+Train iter: 3240 [(65%)]	Loss: 10.620207	soft_Loss: 3.316396	MMD_Loss: 0.030923	Tri_Loss: 6.675818	TEST_domain_Loss: 0.617611
+Train iter: 3250 [(65%)]	Loss: 10.784807	soft_Loss: 3.426016	MMD_Loss: 0.023324	Tri_Loss: 6.761576	TEST_domain_Loss: 0.594263
+Train iter: 3260 [(65%)]	Loss: 10.665429	soft_Loss: 3.523978	MMD_Loss: 0.018308	Tri_Loss: 6.523768	TEST_domain_Loss: 0.618628
+Train iter: 3270 [(65%)]	Loss: 10.584776	soft_Loss: 3.292058	MMD_Loss: 0.016474	Tri_Loss: 6.690170	TEST_domain_Loss: 0.605421
+Train iter: 3280 [(66%)]	Loss: 10.627749	soft_Loss: 3.482089	MMD_Loss: 0.021300	Tri_Loss: 6.525563	TEST_domain_Loss: 0.617310
+Train iter: 3290 [(66%)]	Loss: 10.556908	soft_Loss: 3.343923	MMD_Loss: 0.014059	Tri_Loss: 6.581296	TEST_domain_Loss: 0.635910
+Train iter: 3300 [(66%)]	Loss: 10.783854	soft_Loss: 3.488442	MMD_Loss: 0.018227	Tri_Loss: 6.683901	TEST_domain_Loss: 0.611494
+
+load9_train set: Average loss: 0.0000, Accuracy: 22507/28800 (78.15%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 586/2400 (24.42%), Accuracy: 558/2400 (23.25%), Accuracy: 551/2400 (22.96%), Accuracy: 600/2400 (25.00%)
+
+learning rate 0.0000
+Train iter: 3310 [(66%)]	Loss: 10.635021	soft_Loss: 3.424551	MMD_Loss: 0.019003	Tri_Loss: 6.568451	TEST_domain_Loss: 0.640560
+Train iter: 3320 [(66%)]	Loss: 10.386263	soft_Loss: 3.336440	MMD_Loss: 0.019647	Tri_Loss: 6.414735	TEST_domain_Loss: 0.632239
+Train iter: 3330 [(67%)]	Loss: 10.690689	soft_Loss: 3.527412	MMD_Loss: 0.014345	Tri_Loss: 6.570196	TEST_domain_Loss: 0.595587
+Train iter: 3340 [(67%)]	Loss: 10.172770	soft_Loss: 3.218297	MMD_Loss: 0.023007	Tri_Loss: 6.333422	TEST_domain_Loss: 0.613989
+Train iter: 3350 [(67%)]	Loss: 10.181633	soft_Loss: 3.197335	MMD_Loss: 0.018141	Tri_Loss: 6.391907	TEST_domain_Loss: 0.590011
+Train iter: 3360 [(67%)]	Loss: 10.182161	soft_Loss: 3.224300	MMD_Loss: 0.018121	Tri_Loss: 6.365628	TEST_domain_Loss: 0.589497
+Train iter: 3370 [(67%)]	Loss: 10.752291	soft_Loss: 3.389111	MMD_Loss: 0.017902	Tri_Loss: 6.731876	TEST_domain_Loss: 0.629348
+Train iter: 3380 [(68%)]	Loss: 10.436169	soft_Loss: 3.304577	MMD_Loss: 0.029238	Tri_Loss: 6.545903	TEST_domain_Loss: 0.571676
+Train iter: 3390 [(68%)]	Loss: 10.638084	soft_Loss: 3.416274	MMD_Loss: 0.017872	Tri_Loss: 6.565413	TEST_domain_Loss: 0.653470
+Train iter: 3400 [(68%)]	Loss: 10.215135	soft_Loss: 3.253992	MMD_Loss: 0.022132	Tri_Loss: 6.351663	TEST_domain_Loss: 0.601530
+
+load9_train set: Average loss: 0.0000, Accuracy: 22599/28800 (78.47%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 614/2400 (25.58%), Accuracy: 550/2400 (22.92%), Accuracy: 558/2400 (23.25%), Accuracy: 637/2400 (26.54%)
+
+learning rate 0.0000
+Train iter: 3410 [(68%)]	Loss: 10.926817	soft_Loss: 3.444146	MMD_Loss: 0.019045	Tri_Loss: 6.811949	TEST_domain_Loss: 0.666576
+Train iter: 3420 [(68%)]	Loss: 10.004469	soft_Loss: 3.235559	MMD_Loss: 0.017286	Tri_Loss: 6.179650	TEST_domain_Loss: 0.585221
+Train iter: 3430 [(69%)]	Loss: 10.567915	soft_Loss: 3.355819	MMD_Loss: 0.015392	Tri_Loss: 6.589952	TEST_domain_Loss: 0.620595
+Train iter: 3440 [(69%)]	Loss: 10.126855	soft_Loss: 3.206714	MMD_Loss: 0.029174	Tri_Loss: 6.347213	TEST_domain_Loss: 0.556852
+Train iter: 3450 [(69%)]	Loss: 10.409953	soft_Loss: 3.369287	MMD_Loss: 0.025669	Tri_Loss: 6.426295	TEST_domain_Loss: 0.601694
+Train iter: 3460 [(69%)]	Loss: 10.479256	soft_Loss: 3.303699	MMD_Loss: 0.017104	Tri_Loss: 6.545516	TEST_domain_Loss: 0.625889
+Train iter: 3470 [(69%)]	Loss: 10.276107	soft_Loss: 3.258020	MMD_Loss: 0.016625	Tri_Loss: 6.417513	TEST_domain_Loss: 0.596396
+Train iter: 3480 [(70%)]	Loss: 10.764778	soft_Loss: 3.446281	MMD_Loss: 0.020846	Tri_Loss: 6.696230	TEST_domain_Loss: 0.614159
+Train iter: 3490 [(70%)]	Loss: 10.617104	soft_Loss: 3.292979	MMD_Loss: 0.016341	Tri_Loss: 6.676452	TEST_domain_Loss: 0.643772
+Train iter: 3500 [(70%)]	Loss: 10.291065	soft_Loss: 3.261838	MMD_Loss: 0.038061	Tri_Loss: 6.403594	TEST_domain_Loss: 0.599308
+
+load9_train set: Average loss: 0.0000, Accuracy: 22664/28800 (78.69%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 621/2400 (25.88%), Accuracy: 576/2400 (24.00%), Accuracy: 571/2400 (23.79%), Accuracy: 631/2400 (26.29%)
+
+learning rate 0.0000
+Train iter: 3510 [(70%)]	Loss: 9.916500	soft_Loss: 3.083795	MMD_Loss: 0.019587	Tri_Loss: 6.242928	TEST_domain_Loss: 0.581376
+Train iter: 3520 [(70%)]	Loss: 10.276801	soft_Loss: 3.230322	MMD_Loss: 0.018748	Tri_Loss: 6.426389	TEST_domain_Loss: 0.612625
+Train iter: 3530 [(71%)]	Loss: 10.373085	soft_Loss: 3.221914	MMD_Loss: 0.023880	Tri_Loss: 6.521221	TEST_domain_Loss: 0.617301
+Train iter: 3540 [(71%)]	Loss: 10.331644	soft_Loss: 3.246422	MMD_Loss: 0.020797	Tri_Loss: 6.458328	TEST_domain_Loss: 0.616996
+Train iter: 3550 [(71%)]	Loss: 10.245754	soft_Loss: 3.240140	MMD_Loss: 0.014554	Tri_Loss: 6.416369	TEST_domain_Loss: 0.585295
+Train iter: 3560 [(71%)]	Loss: 10.284631	soft_Loss: 3.196599	MMD_Loss: 0.034311	Tri_Loss: 6.457480	TEST_domain_Loss: 0.606733
+Train iter: 3570 [(71%)]	Loss: 10.349301	soft_Loss: 3.338708	MMD_Loss: 0.012909	Tri_Loss: 6.334743	TEST_domain_Loss: 0.672998
+Train iter: 3580 [(72%)]	Loss: 10.043018	soft_Loss: 3.068463	MMD_Loss: 0.021260	Tri_Loss: 6.391610	TEST_domain_Loss: 0.571643
+Train iter: 3590 [(72%)]	Loss: 9.957067	soft_Loss: 3.178481	MMD_Loss: 0.027184	Tri_Loss: 6.193626	TEST_domain_Loss: 0.567245
+Train iter: 3600 [(72%)]	Loss: 10.132531	soft_Loss: 3.082335	MMD_Loss: 0.016925	Tri_Loss: 6.446124	TEST_domain_Loss: 0.596791
+
+load9_train set: Average loss: 0.0000, Accuracy: 22796/28800 (79.15%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 614/2400 (25.58%), Accuracy: 559/2400 (23.29%), Accuracy: 552/2400 (23.00%), Accuracy: 642/2400 (26.75%)
+
+learning rate 0.0000
+Train iter: 3610 [(72%)]	Loss: 10.178555	soft_Loss: 3.197390	MMD_Loss: 0.015588	Tri_Loss: 6.360240	TEST_domain_Loss: 0.614662
+Train iter: 3620 [(72%)]	Loss: 10.632203	soft_Loss: 3.409737	MMD_Loss: 0.016525	Tri_Loss: 6.613535	TEST_domain_Loss: 0.601911
+Train iter: 3630 [(73%)]	Loss: 10.145853	soft_Loss: 3.229172	MMD_Loss: 0.028914	Tri_Loss: 6.287990	TEST_domain_Loss: 0.608654
+Train iter: 3640 [(73%)]	Loss: 10.087534	soft_Loss: 3.182424	MMD_Loss: 0.018197	Tri_Loss: 6.249224	TEST_domain_Loss: 0.646323
+Train iter: 3650 [(73%)]	Loss: 10.481058	soft_Loss: 3.264012	MMD_Loss: 0.019877	Tri_Loss: 6.572965	TEST_domain_Loss: 0.633106
+Train iter: 3660 [(73%)]	Loss: 10.680717	soft_Loss: 3.408041	MMD_Loss: 0.017938	Tri_Loss: 6.689710	TEST_domain_Loss: 0.573906
+Train iter: 3670 [(73%)]	Loss: 10.222996	soft_Loss: 3.125751	MMD_Loss: 0.020351	Tri_Loss: 6.494782	TEST_domain_Loss: 0.590563
+Train iter: 3680 [(74%)]	Loss: 10.206064	soft_Loss: 3.125517	MMD_Loss: 0.018775	Tri_Loss: 6.468664	TEST_domain_Loss: 0.601357
+Train iter: 3690 [(74%)]	Loss: 10.637325	soft_Loss: 3.403070	MMD_Loss: 0.015449	Tri_Loss: 6.624147	TEST_domain_Loss: 0.602935
+Train iter: 3700 [(74%)]	Loss: 10.134336	soft_Loss: 3.231568	MMD_Loss: 0.035415	Tri_Loss: 6.259585	TEST_domain_Loss: 0.615459
+
+load9_train set: Average loss: 0.0000, Accuracy: 22865/28800 (79.39%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 625/2400 (26.04%), Accuracy: 573/2400 (23.88%), Accuracy: 566/2400 (23.58%), Accuracy: 640/2400 (26.67%)
+
+learning rate 0.0000
+Train iter: 3710 [(74%)]	Loss: 10.345247	soft_Loss: 3.220289	MMD_Loss: 0.018252	Tri_Loss: 6.498145	TEST_domain_Loss: 0.616365
+Train iter: 3720 [(74%)]	Loss: 9.909883	soft_Loss: 3.072566	MMD_Loss: 0.020047	Tri_Loss: 6.273535	TEST_domain_Loss: 0.551123
+Train iter: 3730 [(75%)]	Loss: 10.068693	soft_Loss: 3.121899	MMD_Loss: 0.019713	Tri_Loss: 6.355906	TEST_domain_Loss: 0.578512
+Train iter: 3740 [(75%)]	Loss: 10.253492	soft_Loss: 3.121121	MMD_Loss: 0.021214	Tri_Loss: 6.509639	TEST_domain_Loss: 0.608884
+Train iter: 3750 [(75%)]	Loss: 10.053731	soft_Loss: 3.074360	MMD_Loss: 0.016882	Tri_Loss: 6.381397	TEST_domain_Loss: 0.588166
+Train iter: 3760 [(75%)]	Loss: 10.017388	soft_Loss: 3.136892	MMD_Loss: 0.014839	Tri_Loss: 6.237984	TEST_domain_Loss: 0.634450
+Train iter: 3770 [(75%)]	Loss: 10.184082	soft_Loss: 3.201070	MMD_Loss: 0.018890	Tri_Loss: 6.381401	TEST_domain_Loss: 0.589519
+Train iter: 3780 [(76%)]	Loss: 10.194216	soft_Loss: 3.138271	MMD_Loss: 0.018069	Tri_Loss: 6.433754	TEST_domain_Loss: 0.610839
+Train iter: 3790 [(76%)]	Loss: 10.050058	soft_Loss: 3.050396	MMD_Loss: 0.012582	Tri_Loss: 6.431270	TEST_domain_Loss: 0.562387
+Train iter: 3800 [(76%)]	Loss: 10.152186	soft_Loss: 3.230073	MMD_Loss: 0.013345	Tri_Loss: 6.299623	TEST_domain_Loss: 0.615461
+
+load9_train set: Average loss: 0.0000, Accuracy: 23082/28800 (80.15%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 618/2400 (25.75%), Accuracy: 572/2400 (23.83%), Accuracy: 575/2400 (23.96%), Accuracy: 635/2400 (26.46%)
+
+learning rate 0.0000
+Train iter: 3810 [(76%)]	Loss: 10.333887	soft_Loss: 3.187035	MMD_Loss: 0.017502	Tri_Loss: 6.533441	TEST_domain_Loss: 0.602334
+Train iter: 3820 [(76%)]	Loss: 10.183078	soft_Loss: 3.203414	MMD_Loss: 0.031724	Tri_Loss: 6.362488	TEST_domain_Loss: 0.591598
+Train iter: 3830 [(77%)]	Loss: 10.432628	soft_Loss: 3.249352	MMD_Loss: 0.015247	Tri_Loss: 6.561356	TEST_domain_Loss: 0.612868
+Train iter: 3840 [(77%)]	Loss: 10.140997	soft_Loss: 3.190535	MMD_Loss: 0.022113	Tri_Loss: 6.371602	TEST_domain_Loss: 0.562651
+Train iter: 3850 [(77%)]	Loss: 10.450088	soft_Loss: 3.221810	MMD_Loss: 0.017556	Tri_Loss: 6.618830	TEST_domain_Loss: 0.597899
+Train iter: 3860 [(77%)]	Loss: 9.947565	soft_Loss: 3.015098	MMD_Loss: 0.018652	Tri_Loss: 6.382577	TEST_domain_Loss: 0.536918
+Train iter: 3870 [(77%)]	Loss: 9.986139	soft_Loss: 3.066581	MMD_Loss: 0.020333	Tri_Loss: 6.305790	TEST_domain_Loss: 0.598938
+Train iter: 3880 [(78%)]	Loss: 10.374344	soft_Loss: 3.226677	MMD_Loss: 0.020324	Tri_Loss: 6.524442	TEST_domain_Loss: 0.608481
+Train iter: 3890 [(78%)]	Loss: 10.019315	soft_Loss: 3.071543	MMD_Loss: 0.018994	Tri_Loss: 6.353847	TEST_domain_Loss: 0.580257
+Train iter: 3900 [(78%)]	Loss: 10.175467	soft_Loss: 3.147388	MMD_Loss: 0.019119	Tri_Loss: 6.453991	TEST_domain_Loss: 0.560271
+
+load9_train set: Average loss: 0.0000, Accuracy: 23142/28800 (80.35%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 619/2400 (25.79%), Accuracy: 582/2400 (24.25%), Accuracy: 561/2400 (23.38%), Accuracy: 638/2400 (26.58%)
+
+learning rate 0.0000
+Train iter: 3910 [(78%)]	Loss: 10.108521	soft_Loss: 3.153156	MMD_Loss: 0.029569	Tri_Loss: 6.320391	TEST_domain_Loss: 0.610504
+Train iter: 3920 [(78%)]	Loss: 10.070318	soft_Loss: 3.141484	MMD_Loss: 0.016268	Tri_Loss: 6.295806	TEST_domain_Loss: 0.621728
+Train iter: 3930 [(79%)]	Loss: 10.089713	soft_Loss: 3.143984	MMD_Loss: 0.023614	Tri_Loss: 6.327597	TEST_domain_Loss: 0.599418
+Train iter: 3940 [(79%)]	Loss: 10.130615	soft_Loss: 3.001024	MMD_Loss: 0.017149	Tri_Loss: 6.571573	TEST_domain_Loss: 0.545852
+Train iter: 3950 [(79%)]	Loss: 10.223546	soft_Loss: 3.231326	MMD_Loss: 0.029793	Tri_Loss: 6.401497	TEST_domain_Loss: 0.565697
+Train iter: 3960 [(79%)]	Loss: 9.909903	soft_Loss: 2.989111	MMD_Loss: 0.016773	Tri_Loss: 6.358263	TEST_domain_Loss: 0.550387
+Train iter: 3970 [(79%)]	Loss: 10.343262	soft_Loss: 3.180851	MMD_Loss: 0.020844	Tri_Loss: 6.536232	TEST_domain_Loss: 0.610004
+Train iter: 3980 [(80%)]	Loss: 10.043468	soft_Loss: 2.986719	MMD_Loss: 0.015467	Tri_Loss: 6.484700	TEST_domain_Loss: 0.561119
+Train iter: 3990 [(80%)]	Loss: 10.174498	soft_Loss: 3.166595	MMD_Loss: 0.019273	Tri_Loss: 6.404685	TEST_domain_Loss: 0.588341
+Train iter: 4000 [(80%)]	Loss: 10.179798	soft_Loss: 3.136869	MMD_Loss: 0.017021	Tri_Loss: 6.439477	TEST_domain_Loss: 0.590762
+
+load9_train set: Average loss: 0.0000, Accuracy: 23278/28800 (80.83%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 607/2400 (25.29%), Accuracy: 573/2400 (23.88%), Accuracy: 575/2400 (23.96%), Accuracy: 649/2400 (27.04%)
+
+learning rate 0.0000
+Train iter: 4010 [(80%)]	Loss: 9.732036	soft_Loss: 2.956132	MMD_Loss: 0.017021	Tri_Loss: 6.173292	TEST_domain_Loss: 0.589661
+Train iter: 4020 [(80%)]	Loss: 9.955427	soft_Loss: 3.031247	MMD_Loss: 0.021622	Tri_Loss: 6.325456	TEST_domain_Loss: 0.581193
+Train iter: 4030 [(81%)]	Loss: 10.141772	soft_Loss: 3.197994	MMD_Loss: 0.016683	Tri_Loss: 6.325916	TEST_domain_Loss: 0.605186
+Train iter: 4040 [(81%)]	Loss: 10.287477	soft_Loss: 3.255579	MMD_Loss: 0.017945	Tri_Loss: 6.398890	TEST_domain_Loss: 0.619035
+Train iter: 4050 [(81%)]	Loss: 10.252902	soft_Loss: 3.182903	MMD_Loss: 0.023004	Tri_Loss: 6.444169	TEST_domain_Loss: 0.606752
+Train iter: 4060 [(81%)]	Loss: 9.961995	soft_Loss: 3.017970	MMD_Loss: 0.015536	Tri_Loss: 6.349937	TEST_domain_Loss: 0.582338
+Train iter: 4070 [(81%)]	Loss: 9.967556	soft_Loss: 3.019475	MMD_Loss: 0.019172	Tri_Loss: 6.339576	TEST_domain_Loss: 0.593042
+Train iter: 4080 [(82%)]	Loss: 10.241596	soft_Loss: 3.229368	MMD_Loss: 0.018468	Tri_Loss: 6.435928	TEST_domain_Loss: 0.561522
+Train iter: 4090 [(82%)]	Loss: 10.115780	soft_Loss: 3.141032	MMD_Loss: 0.021796	Tri_Loss: 6.313762	TEST_domain_Loss: 0.642740
+Train iter: 4100 [(82%)]	Loss: 9.812295	soft_Loss: 3.026243	MMD_Loss: 0.016561	Tri_Loss: 6.217164	TEST_domain_Loss: 0.555751
+
+load9_train set: Average loss: 0.0000, Accuracy: 23334/28800 (81.02%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 605/2400 (25.21%), Accuracy: 583/2400 (24.29%), Accuracy: 561/2400 (23.38%), Accuracy: 630/2400 (26.25%)
+
+learning rate 0.0000
+Train iter: 4110 [(82%)]	Loss: 10.026490	soft_Loss: 3.106503	MMD_Loss: 0.023567	Tri_Loss: 6.300211	TEST_domain_Loss: 0.599614
+Train iter: 4120 [(82%)]	Loss: 10.007066	soft_Loss: 2.978892	MMD_Loss: 0.015811	Tri_Loss: 6.432926	TEST_domain_Loss: 0.582840
+Train iter: 4130 [(83%)]	Loss: 10.342167	soft_Loss: 3.189680	MMD_Loss: 0.016167	Tri_Loss: 6.537174	TEST_domain_Loss: 0.602536
+Train iter: 4140 [(83%)]	Loss: 9.834326	soft_Loss: 2.975577	MMD_Loss: 0.028147	Tri_Loss: 6.235779	TEST_domain_Loss: 0.597998
+Train iter: 4150 [(83%)]	Loss: 9.568645	soft_Loss: 2.895762	MMD_Loss: 0.019031	Tri_Loss: 6.059552	TEST_domain_Loss: 0.597322
+Train iter: 4160 [(83%)]	Loss: 9.976877	soft_Loss: 2.969027	MMD_Loss: 0.023862	Tri_Loss: 6.339712	TEST_domain_Loss: 0.647376
+Train iter: 4170 [(83%)]	Loss: 10.378763	soft_Loss: 3.221184	MMD_Loss: 0.020261	Tri_Loss: 6.547678	TEST_domain_Loss: 0.592776
+Train iter: 4180 [(84%)]	Loss: 9.798855	soft_Loss: 2.935663	MMD_Loss: 0.015553	Tri_Loss: 6.303529	TEST_domain_Loss: 0.547068
+Train iter: 4190 [(84%)]	Loss: 10.151932	soft_Loss: 3.098779	MMD_Loss: 0.018008	Tri_Loss: 6.469731	TEST_domain_Loss: 0.568389
+Train iter: 4200 [(84%)]	Loss: 10.096269	soft_Loss: 2.998969	MMD_Loss: 0.020234	Tri_Loss: 6.521518	TEST_domain_Loss: 0.558490
+
+load9_train set: Average loss: 0.0000, Accuracy: 23439/28800 (81.39%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 599/2400 (24.96%), Accuracy: 567/2400 (23.62%), Accuracy: 557/2400 (23.21%), Accuracy: 629/2400 (26.21%)
+
+learning rate 0.0000
+Train iter: 4210 [(84%)]	Loss: 9.851881	soft_Loss: 2.980108	MMD_Loss: 0.020757	Tri_Loss: 6.322837	TEST_domain_Loss: 0.530974
+Train iter: 4220 [(84%)]	Loss: 9.917588	soft_Loss: 3.085113	MMD_Loss: 0.017407	Tri_Loss: 6.270019	TEST_domain_Loss: 0.547765
+Train iter: 4230 [(85%)]	Loss: 9.858258	soft_Loss: 2.981307	MMD_Loss: 0.023839	Tri_Loss: 6.253444	TEST_domain_Loss: 0.602326
+Train iter: 4240 [(85%)]	Loss: 9.901270	soft_Loss: 2.982361	MMD_Loss: 0.021118	Tri_Loss: 6.328174	TEST_domain_Loss: 0.572253
+Train iter: 4250 [(85%)]	Loss: 10.131334	soft_Loss: 3.204108	MMD_Loss: 0.013762	Tri_Loss: 6.316693	TEST_domain_Loss: 0.599347
+Train iter: 4260 [(85%)]	Loss: 10.151136	soft_Loss: 3.049290	MMD_Loss: 0.024533	Tri_Loss: 6.474167	TEST_domain_Loss: 0.605739
+Train iter: 4270 [(85%)]	Loss: 9.742362	soft_Loss: 2.904127	MMD_Loss: 0.016857	Tri_Loss: 6.211759	TEST_domain_Loss: 0.612053
+Train iter: 4280 [(86%)]	Loss: 9.887038	soft_Loss: 3.058582	MMD_Loss: 0.019777	Tri_Loss: 6.188924	TEST_domain_Loss: 0.622134
+Train iter: 4290 [(86%)]	Loss: 10.083512	soft_Loss: 3.069066	MMD_Loss: 0.026649	Tri_Loss: 6.408937	TEST_domain_Loss: 0.581277
+Train iter: 4300 [(86%)]	Loss: 9.860711	soft_Loss: 2.939043	MMD_Loss: 0.019433	Tri_Loss: 6.338302	TEST_domain_Loss: 0.566273
+
+load9_train set: Average loss: 0.0000, Accuracy: 23569/28800 (81.84%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 618/2400 (25.75%), Accuracy: 573/2400 (23.88%), Accuracy: 557/2400 (23.21%), Accuracy: 629/2400 (26.21%)
+
+learning rate 0.0000
+Train iter: 4310 [(86%)]	Loss: 9.984127	soft_Loss: 2.985523	MMD_Loss: 0.017526	Tri_Loss: 6.380402	TEST_domain_Loss: 0.602985
+Train iter: 4320 [(86%)]	Loss: 10.599094	soft_Loss: 3.297167	MMD_Loss: 0.016596	Tri_Loss: 6.684577	TEST_domain_Loss: 0.603124
+Train iter: 4330 [(87%)]	Loss: 9.647608	soft_Loss: 2.912453	MMD_Loss: 0.016375	Tri_Loss: 6.122579	TEST_domain_Loss: 0.598330
+Train iter: 4340 [(87%)]	Loss: 9.878390	soft_Loss: 3.061161	MMD_Loss: 0.028000	Tri_Loss: 6.201787	TEST_domain_Loss: 0.589559
+Train iter: 4350 [(87%)]	Loss: 9.967331	soft_Loss: 3.037503	MMD_Loss: 0.038661	Tri_Loss: 6.315474	TEST_domain_Loss: 0.577810
+Train iter: 4360 [(87%)]	Loss: 9.390796	soft_Loss: 2.766488	MMD_Loss: 0.019158	Tri_Loss: 6.055892	TEST_domain_Loss: 0.551242
+Train iter: 4370 [(87%)]	Loss: 9.455928	soft_Loss: 2.860911	MMD_Loss: 0.018171	Tri_Loss: 6.039864	TEST_domain_Loss: 0.538920
+Train iter: 4380 [(88%)]	Loss: 9.931871	soft_Loss: 2.955705	MMD_Loss: 0.014925	Tri_Loss: 6.372658	TEST_domain_Loss: 0.590586
+Train iter: 4390 [(88%)]	Loss: 10.130111	soft_Loss: 3.082395	MMD_Loss: 0.021268	Tri_Loss: 6.427798	TEST_domain_Loss: 0.600632
+Train iter: 4400 [(88%)]	Loss: 9.717165	soft_Loss: 2.792359	MMD_Loss: 0.019426	Tri_Loss: 6.340075	TEST_domain_Loss: 0.567221
+
+load9_train set: Average loss: 0.0000, Accuracy: 23707/28800 (82.32%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 611/2400 (25.46%), Accuracy: 571/2400 (23.79%), Accuracy: 552/2400 (23.00%), Accuracy: 622/2400 (25.92%)
+
+learning rate 0.0000
+Train iter: 4410 [(88%)]	Loss: 9.769583	soft_Loss: 2.851929	MMD_Loss: 0.017259	Tri_Loss: 6.294002	TEST_domain_Loss: 0.608257
+Train iter: 4420 [(88%)]	Loss: 9.669565	soft_Loss: 2.847744	MMD_Loss: 0.021448	Tri_Loss: 6.173876	TEST_domain_Loss: 0.628291
+Train iter: 4430 [(89%)]	Loss: 10.054960	soft_Loss: 2.987430	MMD_Loss: 0.030091	Tri_Loss: 6.485275	TEST_domain_Loss: 0.554014
+Train iter: 4440 [(89%)]	Loss: 10.021242	soft_Loss: 3.036884	MMD_Loss: 0.020389	Tri_Loss: 6.357258	TEST_domain_Loss: 0.608486
+Train iter: 4450 [(89%)]	Loss: 9.813337	soft_Loss: 3.001523	MMD_Loss: 0.016040	Tri_Loss: 6.197234	TEST_domain_Loss: 0.600234
+Train iter: 4460 [(89%)]	Loss: 9.868062	soft_Loss: 2.911377	MMD_Loss: 0.022895	Tri_Loss: 6.366002	TEST_domain_Loss: 0.569496
+Train iter: 4470 [(89%)]	Loss: 9.649393	soft_Loss: 2.938991	MMD_Loss: 0.023964	Tri_Loss: 6.067035	TEST_domain_Loss: 0.621000
+Train iter: 4480 [(90%)]	Loss: 9.964155	soft_Loss: 3.042691	MMD_Loss: 0.023499	Tri_Loss: 6.283350	TEST_domain_Loss: 0.616236
+Train iter: 4490 [(90%)]	Loss: 9.979740	soft_Loss: 3.014899	MMD_Loss: 0.018453	Tri_Loss: 6.393213	TEST_domain_Loss: 0.554790
+Train iter: 4500 [(90%)]	Loss: 9.578082	soft_Loss: 2.820252	MMD_Loss: 0.016012	Tri_Loss: 6.183997	TEST_domain_Loss: 0.559350
+
+load9_train set: Average loss: 0.0000, Accuracy: 23696/28800 (82.28%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 620/2400 (25.83%), Accuracy: 584/2400 (24.33%), Accuracy: 560/2400 (23.33%), Accuracy: 649/2400 (27.04%)
+
+learning rate 0.0000
+Train iter: 4510 [(90%)]	Loss: 9.446682	soft_Loss: 2.862910	MMD_Loss: 0.015905	Tri_Loss: 6.048845	TEST_domain_Loss: 0.520489
+Train iter: 4520 [(90%)]	Loss: 10.047423	soft_Loss: 3.079978	MMD_Loss: 0.018788	Tri_Loss: 6.361685	TEST_domain_Loss: 0.588485
+Train iter: 4530 [(91%)]	Loss: 9.539067	soft_Loss: 2.810032	MMD_Loss: 0.023384	Tri_Loss: 6.164725	TEST_domain_Loss: 0.542365
+Train iter: 4540 [(91%)]	Loss: 10.016433	soft_Loss: 2.930092	MMD_Loss: 0.013324	Tri_Loss: 6.497717	TEST_domain_Loss: 0.576783
+Train iter: 4550 [(91%)]	Loss: 9.831907	soft_Loss: 2.882796	MMD_Loss: 0.026686	Tri_Loss: 6.340572	TEST_domain_Loss: 0.583275
+Train iter: 4560 [(91%)]	Loss: 9.682661	soft_Loss: 2.910788	MMD_Loss: 0.019102	Tri_Loss: 6.165030	TEST_domain_Loss: 0.589095
+Train iter: 4570 [(91%)]	Loss: 9.885391	soft_Loss: 2.916314	MMD_Loss: 0.019270	Tri_Loss: 6.407650	TEST_domain_Loss: 0.543536
+Train iter: 4580 [(92%)]	Loss: 9.478674	soft_Loss: 2.774183	MMD_Loss: 0.020133	Tri_Loss: 6.126416	TEST_domain_Loss: 0.559235
+Train iter: 4590 [(92%)]	Loss: 9.962071	soft_Loss: 3.101890	MMD_Loss: 0.011732	Tri_Loss: 6.192449	TEST_domain_Loss: 0.657279
+Train iter: 4600 [(92%)]	Loss: 9.438073	soft_Loss: 2.757333	MMD_Loss: 0.028595	Tri_Loss: 6.111199	TEST_domain_Loss: 0.542186
+
+load9_train set: Average loss: 0.0000, Accuracy: 23754/28800 (82.48%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 627/2400 (26.12%), Accuracy: 577/2400 (24.04%), Accuracy: 570/2400 (23.75%), Accuracy: 662/2400 (27.58%)
+
+learning rate 0.0000
+Train iter: 4610 [(92%)]	Loss: 9.479655	soft_Loss: 2.794263	MMD_Loss: 0.015146	Tri_Loss: 6.119717	TEST_domain_Loss: 0.551744
+Train iter: 4620 [(92%)]	Loss: 9.654055	soft_Loss: 2.846636	MMD_Loss: 0.019766	Tri_Loss: 6.224570	TEST_domain_Loss: 0.564296
+Train iter: 4630 [(93%)]	Loss: 9.980917	soft_Loss: 3.008712	MMD_Loss: 0.017138	Tri_Loss: 6.383779	TEST_domain_Loss: 0.572506
+Train iter: 4640 [(93%)]	Loss: 9.965777	soft_Loss: 3.026565	MMD_Loss: 0.014969	Tri_Loss: 6.352624	TEST_domain_Loss: 0.572807
+Train iter: 4650 [(93%)]	Loss: 9.344393	soft_Loss: 2.570657	MMD_Loss: 0.015477	Tri_Loss: 6.245702	TEST_domain_Loss: 0.513700
+Train iter: 4660 [(93%)]	Loss: 9.952596	soft_Loss: 2.968694	MMD_Loss: 0.018189	Tri_Loss: 6.414101	TEST_domain_Loss: 0.552765
+Train iter: 4670 [(93%)]	Loss: 9.563520	soft_Loss: 2.829999	MMD_Loss: 0.022265	Tri_Loss: 6.199301	TEST_domain_Loss: 0.513050
+Train iter: 4680 [(94%)]	Loss: 9.606035	soft_Loss: 2.845102	MMD_Loss: 0.014288	Tri_Loss: 6.193770	TEST_domain_Loss: 0.553944
+Train iter: 4690 [(94%)]	Loss: 10.280378	soft_Loss: 3.095355	MMD_Loss: 0.015311	Tri_Loss: 6.619966	TEST_domain_Loss: 0.550867
+Train iter: 4700 [(94%)]	Loss: 9.961263	soft_Loss: 3.000616	MMD_Loss: 0.018002	Tri_Loss: 6.389298	TEST_domain_Loss: 0.554406
+
+load9_train set: Average loss: 0.0000, Accuracy: 23928/28800 (83.08%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 606/2400 (25.25%), Accuracy: 574/2400 (23.92%), Accuracy: 552/2400 (23.00%), Accuracy: 633/2400 (26.38%)
+
+learning rate 0.0000
+Train iter: 4710 [(94%)]	Loss: 9.899821	soft_Loss: 2.895224	MMD_Loss: 0.018849	Tri_Loss: 6.382972	TEST_domain_Loss: 0.603815
+Train iter: 4720 [(94%)]	Loss: 9.831014	soft_Loss: 2.965170	MMD_Loss: 0.014028	Tri_Loss: 6.263995	TEST_domain_Loss: 0.588819
+Train iter: 4730 [(95%)]	Loss: 9.625082	soft_Loss: 2.852495	MMD_Loss: 0.020964	Tri_Loss: 6.195604	TEST_domain_Loss: 0.556987
+Train iter: 4740 [(95%)]	Loss: 9.744248	soft_Loss: 2.865832	MMD_Loss: 0.016144	Tri_Loss: 6.268761	TEST_domain_Loss: 0.594472
+Train iter: 4750 [(95%)]	Loss: 9.552797	soft_Loss: 2.757179	MMD_Loss: 0.023232	Tri_Loss: 6.205284	TEST_domain_Loss: 0.568035
+Train iter: 4760 [(95%)]	Loss: 9.613583	soft_Loss: 2.834269	MMD_Loss: 0.018261	Tri_Loss: 6.201994	TEST_domain_Loss: 0.559972
+Train iter: 4770 [(95%)]	Loss: 10.011351	soft_Loss: 3.038951	MMD_Loss: 0.016852	Tri_Loss: 6.364787	TEST_domain_Loss: 0.591678
+Train iter: 4780 [(96%)]	Loss: 9.340870	soft_Loss: 2.780574	MMD_Loss: 0.020500	Tri_Loss: 5.975529	TEST_domain_Loss: 0.565112
+Train iter: 4790 [(96%)]	Loss: 9.904292	soft_Loss: 2.928933	MMD_Loss: 0.016112	Tri_Loss: 6.382592	TEST_domain_Loss: 0.577539
+Train iter: 4800 [(96%)]	Loss: 9.732917	soft_Loss: 2.849723	MMD_Loss: 0.015372	Tri_Loss: 6.305341	TEST_domain_Loss: 0.563336
+
+load9_train set: Average loss: 0.0000, Accuracy: 23988/28800 (83.29%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 615/2400 (25.62%), Accuracy: 576/2400 (24.00%), Accuracy: 555/2400 (23.12%), Accuracy: 632/2400 (26.33%)
+
+learning rate 0.0000
+Train iter: 4810 [(96%)]	Loss: 9.654226	soft_Loss: 2.893159	MMD_Loss: 0.027599	Tri_Loss: 6.211609	TEST_domain_Loss: 0.522688
+Train iter: 4820 [(96%)]	Loss: 9.817366	soft_Loss: 2.913410	MMD_Loss: 0.023890	Tri_Loss: 6.297002	TEST_domain_Loss: 0.583886
+Train iter: 4830 [(97%)]	Loss: 9.434260	soft_Loss: 2.797396	MMD_Loss: 0.025271	Tri_Loss: 6.066340	TEST_domain_Loss: 0.546031
+Train iter: 4840 [(97%)]	Loss: 9.904012	soft_Loss: 2.976824	MMD_Loss: 0.023211	Tri_Loss: 6.303772	TEST_domain_Loss: 0.600996
+Train iter: 4850 [(97%)]	Loss: 9.541092	soft_Loss: 2.734572	MMD_Loss: 0.012417	Tri_Loss: 6.253117	TEST_domain_Loss: 0.541754
+Train iter: 4860 [(97%)]	Loss: 9.705942	soft_Loss: 2.999158	MMD_Loss: 0.020503	Tri_Loss: 6.124465	TEST_domain_Loss: 0.562555
+Train iter: 4870 [(97%)]	Loss: 9.459328	soft_Loss: 2.758340	MMD_Loss: 0.015714	Tri_Loss: 6.137612	TEST_domain_Loss: 0.548386
+Train iter: 4880 [(98%)]	Loss: 9.768628	soft_Loss: 2.882759	MMD_Loss: 0.027467	Tri_Loss: 6.283022	TEST_domain_Loss: 0.576107
+Train iter: 4890 [(98%)]	Loss: 9.707961	soft_Loss: 2.857460	MMD_Loss: 0.020696	Tri_Loss: 6.296222	TEST_domain_Loss: 0.534297
+Train iter: 4900 [(98%)]	Loss: 9.397646	soft_Loss: 2.752117	MMD_Loss: 0.016818	Tri_Loss: 6.101653	TEST_domain_Loss: 0.527737
+
+load9_train set: Average loss: 0.0000, Accuracy: 24079/28800 (83.61%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 626/2400 (26.08%), Accuracy: 584/2400 (24.33%), Accuracy: 569/2400 (23.71%), Accuracy: 645/2400 (26.88%)
+
+learning rate 0.0000
+Train iter: 4910 [(98%)]	Loss: 9.739025	soft_Loss: 2.936154	MMD_Loss: 0.016183	Tri_Loss: 6.217443	TEST_domain_Loss: 0.569922
+Train iter: 4920 [(98%)]	Loss: 9.837746	soft_Loss: 2.852595	MMD_Loss: 0.019372	Tri_Loss: 6.410090	TEST_domain_Loss: 0.556374
+Train iter: 4930 [(99%)]	Loss: 9.694755	soft_Loss: 2.792081	MMD_Loss: 0.015579	Tri_Loss: 6.297089	TEST_domain_Loss: 0.590665
+Train iter: 4940 [(99%)]	Loss: 9.500346	soft_Loss: 2.806815	MMD_Loss: 0.023979	Tri_Loss: 6.116327	TEST_domain_Loss: 0.553854
+Train iter: 4950 [(99%)]	Loss: 10.074802	soft_Loss: 2.992548	MMD_Loss: 0.016862	Tri_Loss: 6.492228	TEST_domain_Loss: 0.573817
+Train iter: 4960 [(99%)]	Loss: 9.845389	soft_Loss: 2.917342	MMD_Loss: 0.020533	Tri_Loss: 6.366582	TEST_domain_Loss: 0.541560
+Train iter: 4970 [(99%)]	Loss: 9.478876	soft_Loss: 2.778427	MMD_Loss: 0.023431	Tri_Loss: 6.126130	TEST_domain_Loss: 0.551482
+Train iter: 4980 [(100%)]	Loss: 9.959636	soft_Loss: 2.923141	MMD_Loss: 0.016372	Tri_Loss: 6.440256	TEST_domain_Loss: 0.580476
+Train iter: 4990 [(100%)]	Loss: 9.436539	soft_Loss: 2.738347	MMD_Loss: 0.015605	Tri_Loss: 6.109613	TEST_domain_Loss: 0.573540
+Train iter: 5000 [(100%)]	Loss: 10.108699	soft_Loss: 2.953637	MMD_Loss: 0.016467	Tri_Loss: 6.559553	TEST_domain_Loss: 0.579639
+
+load9_train set: Average loss: 0.0000, Accuracy: 24141/28800 (83.82%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 601/2400 (25.04%), Accuracy: 578/2400 (24.08%), Accuracy: 546/2400 (22.75%), Accuracy: 637/2400 (26.54%)
+
+(2400, 3200)
+DGNIS(
+  (sharedNet1): CNN(
+    (layer1): Sequential(
+      (0): Conv1d(1, 16, kernel_size=(64,), stride=(1,))
+      (1): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer2): Sequential(
+      (0): Conv1d(16, 32, kernel_size=(16,), stride=(1,))
+      (1): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer3): Sequential(
+      (0): Conv1d(32, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer4): Sequential(
+      (0): Conv1d(64, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): AdaptiveMaxPool1d(output_size=4)
+    )
+  )
+  (sharedNet2): CNN(
+    (layer1): Sequential(
+      (0): Conv1d(1, 16, kernel_size=(64,), stride=(1,))
+      (1): BatchNorm1d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer2): Sequential(
+      (0): Conv1d(16, 32, kernel_size=(16,), stride=(1,))
+      (1): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer3): Sequential(
+      (0): Conv1d(32, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (layer4): Sequential(
+      (0): Conv1d(64, 64, kernel_size=(5,), stride=(1,))
+      (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): AdaptiveMaxPool1d(output_size=4)
+    )
+  )
+  (cls_fc_1): Linear(in_features=256, out_features=12, bias=True)
+  (cls_fc_2): Linear(in_features=256, out_features=12, bias=True)
+  (cls_fc_3): Linear(in_features=256, out_features=12, bias=True)
+  (test_domain_fc): Linear(in_features=256, out_features=3, bias=True)
+)
+learning rate 0.0001
+Train iter: 10 [(0%)]	Loss: 10.535236	soft_Loss: 9.080927	MMD_Loss: 0.191365	Tri_Loss: 17.587032	TEST_domain_Loss: 1.276531
+Train iter: 20 [(0%)]	Loss: 9.821148	soft_Loss: 8.272450	MMD_Loss: 0.200875	Tri_Loss: 18.079235	TEST_domain_Loss: 1.183144
+Train iter: 30 [(1%)]	Loss: 9.252309	soft_Loss: 7.593920	MMD_Loss: 0.189902	Tri_Loss: 17.257477	TEST_domain_Loss: 1.135125
+Train iter: 40 [(1%)]	Loss: 9.194562	soft_Loss: 7.357677	MMD_Loss: 0.196333	Tri_Loss: 17.110859	TEST_domain_Loss: 1.144967
+Train iter: 50 [(1%)]	Loss: 9.302021	soft_Loss: 7.204609	MMD_Loss: 0.203971	Tri_Loss: 17.785603	TEST_domain_Loss: 1.198681
+Train iter: 60 [(1%)]	Loss: 9.422893	soft_Loss: 7.280061	MMD_Loss: 0.204423	Tri_Loss: 17.166348	TEST_domain_Loss: 1.101834
+Train iter: 70 [(1%)]	Loss: 9.531164	soft_Loss: 7.204800	MMD_Loss: 0.201850	Tri_Loss: 17.355892	TEST_domain_Loss: 1.099326
+Train iter: 80 [(2%)]	Loss: 9.229962	soft_Loss: 6.792095	MMD_Loss: 0.154904	Tri_Loss: 16.608553	TEST_domain_Loss: 1.099645
+Train iter: 90 [(2%)]	Loss: 9.499359	soft_Loss: 6.884587	MMD_Loss: 0.202947	Tri_Loss: 16.701916	TEST_domain_Loss: 1.097430
+Train iter: 100 [(2%)]	Loss: 9.627844	soft_Loss: 6.906382	MMD_Loss: 0.197164	Tri_Loss: 16.285597	TEST_domain_Loss: 1.078658
+
+load9_train set: Average loss: 0.0000, Accuracy: 6464/28800 (22.44%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 388/2400 (16.17%), Accuracy: 384/2400 (16.00%), Accuracy: 273/2400 (11.38%), Accuracy: 379/2400 (15.79%)
+
+learning rate 0.0001
+Train iter: 110 [(2%)]	Loss: 9.662489	soft_Loss: 6.712849	MMD_Loss: 0.220854	Tri_Loss: 16.815212	TEST_domain_Loss: 1.083195
+Train iter: 120 [(2%)]	Loss: 9.477692	soft_Loss: 6.504360	MMD_Loss: 0.231769	Tri_Loss: 15.882131	TEST_domain_Loss: 1.048893
+Train iter: 130 [(3%)]	Loss: 9.831853	soft_Loss: 6.580828	MMD_Loss: 0.168538	Tri_Loss: 16.775726	TEST_domain_Loss: 1.060596
+Train iter: 140 [(3%)]	Loss: 9.759560	soft_Loss: 6.593917	MMD_Loss: 0.163733	Tri_Loss: 15.005508	TEST_domain_Loss: 1.055716
+Train iter: 150 [(3%)]	Loss: 10.044075	soft_Loss: 6.522592	MMD_Loss: 0.310947	Tri_Loss: 16.182711	TEST_domain_Loss: 1.065826
+Train iter: 160 [(3%)]	Loss: 9.874686	soft_Loss: 6.367559	MMD_Loss: 0.178336	Tri_Loss: 15.588630	TEST_domain_Loss: 1.005721
+Train iter: 170 [(3%)]	Loss: 10.102692	soft_Loss: 6.389421	MMD_Loss: 0.160371	Tri_Loss: 15.820080	TEST_domain_Loss: 1.022466
+Train iter: 180 [(4%)]	Loss: 9.815970	soft_Loss: 6.119150	MMD_Loss: 0.169127	Tri_Loss: 14.728809	TEST_domain_Loss: 1.043783
+Train iter: 190 [(4%)]	Loss: 10.366041	soft_Loss: 6.470071	MMD_Loss: 0.163971	Tri_Loss: 15.151110	TEST_domain_Loss: 1.020621
+Train iter: 200 [(4%)]	Loss: 10.180751	soft_Loss: 6.144509	MMD_Loss: 0.115607	Tri_Loss: 14.954041	TEST_domain_Loss: 1.061865
+
+load9_train set: Average loss: 0.0000, Accuracy: 9676/28800 (33.60%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 461/2400 (19.21%), Accuracy: 448/2400 (18.67%), Accuracy: 361/2400 (15.04%), Accuracy: 446/2400 (18.58%)
+
+learning rate 0.0001
+Train iter: 210 [(4%)]	Loss: 9.948210	soft_Loss: 6.072835	MMD_Loss: 0.161645	Tri_Loss: 13.709469	TEST_domain_Loss: 1.004519
+Train iter: 220 [(4%)]	Loss: 10.043983	soft_Loss: 5.983251	MMD_Loss: 0.133061	Tri_Loss: 14.010409	TEST_domain_Loss: 0.998415
+Train iter: 230 [(5%)]	Loss: 10.163971	soft_Loss: 5.865787	MMD_Loss: 0.175028	Tri_Loss: 14.396267	TEST_domain_Loss: 1.004658
+Train iter: 240 [(5%)]	Loss: 10.096436	soft_Loss: 5.879361	MMD_Loss: 0.136016	Tri_Loss: 13.669016	TEST_domain_Loss: 0.966049
+Train iter: 250 [(5%)]	Loss: 10.464565	soft_Loss: 5.942246	MMD_Loss: 0.100279	Tri_Loss: 14.178129	TEST_domain_Loss: 1.025270
+Train iter: 260 [(5%)]	Loss: 9.979808	soft_Loss: 5.613574	MMD_Loss: 0.130945	Tri_Loss: 13.202101	TEST_domain_Loss: 0.975701
+Train iter: 270 [(5%)]	Loss: 10.493061	soft_Loss: 5.899820	MMD_Loss: 0.120695	Tri_Loss: 13.541063	TEST_domain_Loss: 0.991662
+Train iter: 280 [(6%)]	Loss: 10.389856	soft_Loss: 5.646995	MMD_Loss: 0.114053	Tri_Loss: 13.604010	TEST_domain_Loss: 0.999133
+Train iter: 290 [(6%)]	Loss: 10.540115	soft_Loss: 5.714918	MMD_Loss: 0.124649	Tri_Loss: 13.405092	TEST_domain_Loss: 1.007987
+Train iter: 300 [(6%)]	Loss: 10.384430	soft_Loss: 5.735747	MMD_Loss: 0.099692	Tri_Loss: 12.481138	TEST_domain_Loss: 0.983729
+
+load9_train set: Average loss: 0.0000, Accuracy: 11457/28800 (39.78%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 492/2400 (20.50%), Accuracy: 451/2400 (18.79%), Accuracy: 446/2400 (18.58%), Accuracy: 462/2400 (19.25%)
+
+learning rate 0.0001
+Train iter: 310 [(6%)]	Loss: 10.275324	soft_Loss: 5.622703	MMD_Loss: 0.142522	Tri_Loss: 12.265676	TEST_domain_Loss: 0.924738
+Train iter: 320 [(6%)]	Loss: 10.485307	soft_Loss: 5.628709	MMD_Loss: 0.107854	Tri_Loss: 12.432997	TEST_domain_Loss: 0.975117
+Train iter: 330 [(7%)]	Loss: 10.502403	soft_Loss: 5.547235	MMD_Loss: 0.098503	Tri_Loss: 12.413734	TEST_domain_Loss: 0.969760
+Train iter: 340 [(7%)]	Loss: 10.833833	soft_Loss: 5.691128	MMD_Loss: 0.097181	Tri_Loss: 12.719289	TEST_domain_Loss: 0.945601
+Train iter: 350 [(7%)]	Loss: 10.629824	soft_Loss: 5.658639	MMD_Loss: 0.100359	Tri_Loss: 11.824817	TEST_domain_Loss: 0.959848
+Train iter: 360 [(7%)]	Loss: 11.194133	soft_Loss: 5.838762	MMD_Loss: 0.072599	Tri_Loss: 12.583323	TEST_domain_Loss: 0.986368
+Train iter: 370 [(7%)]	Loss: 10.357525	soft_Loss: 5.300493	MMD_Loss: 0.128867	Tri_Loss: 11.572706	TEST_domain_Loss: 0.914773
+Train iter: 380 [(8%)]	Loss: 10.847519	soft_Loss: 5.500150	MMD_Loss: 0.097895	Tri_Loss: 12.001679	TEST_domain_Loss: 0.958763
+Train iter: 390 [(8%)]	Loss: 10.926016	soft_Loss: 5.511143	MMD_Loss: 0.102704	Tri_Loss: 11.920377	TEST_domain_Loss: 0.949979
+Train iter: 400 [(8%)]	Loss: 10.746270	soft_Loss: 5.388796	MMD_Loss: 0.111985	Tri_Loss: 11.517310	TEST_domain_Loss: 0.938935
+
+load9_train set: Average loss: 0.0000, Accuracy: 12632/28800 (43.86%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 498/2400 (20.75%), Accuracy: 459/2400 (19.12%), Accuracy: 448/2400 (18.67%), Accuracy: 488/2400 (20.33%)
+
+learning rate 0.0001
+Train iter: 410 [(8%)]	Loss: 11.127279	soft_Loss: 5.415690	MMD_Loss: 0.123577	Tri_Loss: 12.271593	TEST_domain_Loss: 0.896405
+Train iter: 420 [(8%)]	Loss: 10.634773	soft_Loss: 5.392653	MMD_Loss: 0.092426	Tri_Loss: 10.808589	TEST_domain_Loss: 0.915175
+Train iter: 430 [(9%)]	Loss: 11.025415	soft_Loss: 5.382775	MMD_Loss: 0.086859	Tri_Loss: 11.547853	TEST_domain_Loss: 0.926844
+Train iter: 440 [(9%)]	Loss: 11.018722	soft_Loss: 5.389191	MMD_Loss: 0.073493	Tri_Loss: 11.307035	TEST_domain_Loss: 0.922038
+Train iter: 450 [(9%)]	Loss: 10.926832	soft_Loss: 5.378632	MMD_Loss: 0.055607	Tri_Loss: 10.896075	TEST_domain_Loss: 0.927696
+Train iter: 460 [(9%)]	Loss: 11.146617	soft_Loss: 5.492066	MMD_Loss: 0.067448	Tri_Loss: 10.923935	TEST_domain_Loss: 0.927330
+Train iter: 470 [(9%)]	Loss: 11.080691	soft_Loss: 5.544250	MMD_Loss: 0.051469	Tri_Loss: 10.430983	TEST_domain_Loss: 0.943038
+Train iter: 480 [(10%)]	Loss: 11.384597	soft_Loss: 5.349138	MMD_Loss: 0.072780	Tri_Loss: 11.364340	TEST_domain_Loss: 0.931717
+Train iter: 490 [(10%)]	Loss: 10.878193	soft_Loss: 5.266316	MMD_Loss: 0.055654	Tri_Loss: 10.291338	TEST_domain_Loss: 0.912103
+Train iter: 500 [(10%)]	Loss: 10.957752	soft_Loss: 5.073887	MMD_Loss: 0.065017	Tri_Loss: 10.631910	TEST_domain_Loss: 0.940631
+
+load9_train set: Average loss: 0.0000, Accuracy: 13568/28800 (47.11%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 511/2400 (21.29%), Accuracy: 491/2400 (20.46%), Accuracy: 459/2400 (19.12%), Accuracy: 452/2400 (18.83%)
+
+learning rate 0.0001
+Train iter: 510 [(10%)]	Loss: 11.249260	soft_Loss: 5.393030	MMD_Loss: 0.061808	Tri_Loss: 10.481676	TEST_domain_Loss: 0.901372
+Train iter: 520 [(10%)]	Loss: 10.697294	soft_Loss: 5.086708	MMD_Loss: 0.089193	Tri_Loss: 9.776241	TEST_domain_Loss: 0.897868
+Train iter: 530 [(11%)]	Loss: 10.952890	soft_Loss: 5.011419	MMD_Loss: 0.044587	Tri_Loss: 10.360117	TEST_domain_Loss: 0.891225
+Train iter: 540 [(11%)]	Loss: 10.885405	soft_Loss: 5.101580	MMD_Loss: 0.050242	Tri_Loss: 9.854744	TEST_domain_Loss: 0.900786
+Train iter: 550 [(11%)]	Loss: 11.355456	soft_Loss: 5.368009	MMD_Loss: 0.079774	Tri_Loss: 10.118252	TEST_domain_Loss: 0.883129
+Train iter: 560 [(11%)]	Loss: 11.186659	soft_Loss: 5.222616	MMD_Loss: 0.048926	Tri_Loss: 9.910584	TEST_domain_Loss: 0.904837
+Train iter: 570 [(11%)]	Loss: 11.072925	soft_Loss: 5.109060	MMD_Loss: 0.048109	Tri_Loss: 9.809506	TEST_domain_Loss: 0.883650
+Train iter: 580 [(12%)]	Loss: 11.318380	soft_Loss: 5.274104	MMD_Loss: 0.059829	Tri_Loss: 9.831453	TEST_domain_Loss: 0.874446
+Train iter: 590 [(12%)]	Loss: 10.914921	soft_Loss: 5.127105	MMD_Loss: 0.050712	Tri_Loss: 9.135042	TEST_domain_Loss: 0.920325
+Train iter: 600 [(12%)]	Loss: 11.195501	soft_Loss: 5.064616	MMD_Loss: 0.046132	Tri_Loss: 9.806404	TEST_domain_Loss: 0.839584
+
+load9_train set: Average loss: 0.0000, Accuracy: 14334/28800 (49.77%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 527/2400 (21.96%), Accuracy: 462/2400 (19.25%), Accuracy: 484/2400 (20.17%), Accuracy: 489/2400 (20.38%)
+
+learning rate 0.0001
+Train iter: 610 [(12%)]	Loss: 11.660583	soft_Loss: 5.329983	MMD_Loss: 0.046764	Tri_Loss: 9.966346	TEST_domain_Loss: 0.882196
+Train iter: 620 [(12%)]	Loss: 11.491863	soft_Loss: 5.222650	MMD_Loss: 0.046647	Tri_Loss: 9.738235	TEST_domain_Loss: 0.876491
+Train iter: 630 [(13%)]	Loss: 11.519093	soft_Loss: 5.108427	MMD_Loss: 0.057204	Tri_Loss: 9.850895	TEST_domain_Loss: 0.881428
+Train iter: 640 [(13%)]	Loss: 11.377232	soft_Loss: 5.111754	MMD_Loss: 0.056030	Tri_Loss: 9.473185	TEST_domain_Loss: 0.882428
+Train iter: 650 [(13%)]	Loss: 11.104292	soft_Loss: 4.998015	MMD_Loss: 0.037440	Tri_Loss: 9.085114	TEST_domain_Loss: 0.891186
+Train iter: 660 [(13%)]	Loss: 11.234219	soft_Loss: 5.114605	MMD_Loss: 0.043276	Tri_Loss: 8.990611	TEST_domain_Loss: 0.894744
+Train iter: 670 [(13%)]	Loss: 11.490599	soft_Loss: 5.065794	MMD_Loss: 0.038020	Tri_Loss: 9.393703	TEST_domain_Loss: 0.907437
+Train iter: 680 [(14%)]	Loss: 11.064413	soft_Loss: 4.933810	MMD_Loss: 0.032126	Tri_Loss: 8.895829	TEST_domain_Loss: 0.849545
+Train iter: 690 [(14%)]	Loss: 11.328702	soft_Loss: 4.927779	MMD_Loss: 0.036382	Tri_Loss: 9.247568	TEST_domain_Loss: 0.849288
+Train iter: 700 [(14%)]	Loss: 11.413246	soft_Loss: 5.187602	MMD_Loss: 0.041008	Tri_Loss: 8.798867	TEST_domain_Loss: 0.883108
+
+load9_train set: Average loss: 0.0000, Accuracy: 14926/28800 (51.83%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 560/2400 (23.33%), Accuracy: 506/2400 (21.08%), Accuracy: 513/2400 (21.38%), Accuracy: 498/2400 (20.75%)
+
+learning rate 0.0001
+Train iter: 710 [(14%)]	Loss: 11.516617	soft_Loss: 5.032054	MMD_Loss: 0.038099	Tri_Loss: 9.193761	TEST_domain_Loss: 0.846880
+Train iter: 720 [(14%)]	Loss: 11.232492	soft_Loss: 5.006683	MMD_Loss: 0.045908	Tri_Loss: 8.640007	TEST_domain_Loss: 0.867386
+Train iter: 730 [(15%)]	Loss: 11.771418	soft_Loss: 5.145412	MMD_Loss: 0.034505	Tri_Loss: 9.105315	TEST_domain_Loss: 0.931301
+Train iter: 740 [(15%)]	Loss: 11.509070	soft_Loss: 4.946345	MMD_Loss: 0.045548	Tri_Loss: 9.041389	TEST_domain_Loss: 0.845723
+Train iter: 750 [(15%)]	Loss: 11.363146	soft_Loss: 4.966576	MMD_Loss: 0.040423	Tri_Loss: 8.716423	TEST_domain_Loss: 0.834670
+Train iter: 760 [(15%)]	Loss: 11.344053	soft_Loss: 5.056087	MMD_Loss: 0.033828	Tri_Loss: 8.469427	TEST_domain_Loss: 0.836724
+Train iter: 770 [(15%)]	Loss: 11.218145	soft_Loss: 4.812744	MMD_Loss: 0.046005	Tri_Loss: 8.556740	TEST_domain_Loss: 0.840033
+Train iter: 780 [(16%)]	Loss: 11.488422	soft_Loss: 4.993182	MMD_Loss: 0.032420	Tri_Loss: 8.650711	TEST_domain_Loss: 0.827702
+Train iter: 790 [(16%)]	Loss: 11.382066	soft_Loss: 4.992522	MMD_Loss: 0.037725	Tri_Loss: 8.416229	TEST_domain_Loss: 0.823384
+Train iter: 800 [(16%)]	Loss: 11.644053	soft_Loss: 5.152457	MMD_Loss: 0.028901	Tri_Loss: 8.407427	TEST_domain_Loss: 0.889563
+
+load9_train set: Average loss: 0.0000, Accuracy: 15937/28800 (55.34%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 516/2400 (21.50%), Accuracy: 483/2400 (20.12%), Accuracy: 492/2400 (20.50%), Accuracy: 493/2400 (20.54%)
+
+learning rate 0.0000
+Train iter: 810 [(16%)]	Loss: 11.460594	soft_Loss: 4.836894	MMD_Loss: 0.036752	Tri_Loss: 8.583503	TEST_domain_Loss: 0.851662
+Train iter: 820 [(16%)]	Loss: 11.405033	soft_Loss: 4.828310	MMD_Loss: 0.029759	Tri_Loss: 8.500933	TEST_domain_Loss: 0.817910
+Train iter: 830 [(17%)]	Loss: 11.311045	soft_Loss: 4.871147	MMD_Loss: 0.027692	Tri_Loss: 8.243408	TEST_domain_Loss: 0.811611
+Train iter: 840 [(17%)]	Loss: 11.193909	soft_Loss: 4.790225	MMD_Loss: 0.034816	Tri_Loss: 8.055420	TEST_domain_Loss: 0.855327
+Train iter: 850 [(17%)]	Loss: 11.353098	soft_Loss: 4.759431	MMD_Loss: 0.037842	Tri_Loss: 8.310287	TEST_domain_Loss: 0.824529
+Train iter: 860 [(17%)]	Loss: 11.243254	soft_Loss: 4.744837	MMD_Loss: 0.047931	Tri_Loss: 8.066521	TEST_domain_Loss: 0.848667
+Train iter: 870 [(17%)]	Loss: 11.775275	soft_Loss: 5.058572	MMD_Loss: 0.027607	Tri_Loss: 8.349970	TEST_domain_Loss: 0.840887
+Train iter: 880 [(18%)]	Loss: 11.565358	soft_Loss: 4.850650	MMD_Loss: 0.032367	Tri_Loss: 8.274481	TEST_domain_Loss: 0.846591
+Train iter: 890 [(18%)]	Loss: 11.670223	soft_Loss: 4.918041	MMD_Loss: 0.025044	Tri_Loss: 8.251019	TEST_domain_Loss: 0.864642
+Train iter: 900 [(18%)]	Loss: 11.593353	soft_Loss: 4.844663	MMD_Loss: 0.026377	Tri_Loss: 8.233006	TEST_domain_Loss: 0.832513
+
+load9_train set: Average loss: 0.0000, Accuracy: 16486/28800 (57.24%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 544/2400 (22.67%), Accuracy: 521/2400 (21.71%), Accuracy: 526/2400 (21.92%), Accuracy: 517/2400 (21.54%)
+
+learning rate 0.0000
+Train iter: 910 [(18%)]	Loss: 11.454582	soft_Loss: 4.748461	MMD_Loss: 0.027354	Tri_Loss: 8.088305	TEST_domain_Loss: 0.853659
+Train iter: 920 [(18%)]	Loss: 11.430153	soft_Loss: 4.810601	MMD_Loss: 0.023644	Tri_Loss: 7.947164	TEST_domain_Loss: 0.833563
+Train iter: 930 [(19%)]	Loss: 11.400660	soft_Loss: 4.801412	MMD_Loss: 0.022381	Tri_Loss: 7.930120	TEST_domain_Loss: 0.789199
+Train iter: 940 [(19%)]	Loss: 11.341398	soft_Loss: 4.688754	MMD_Loss: 0.024231	Tri_Loss: 7.879264	TEST_domain_Loss: 0.841818
+Train iter: 950 [(19%)]	Loss: 11.604103	soft_Loss: 4.933165	MMD_Loss: 0.028236	Tri_Loss: 7.899550	TEST_domain_Loss: 0.806097
+Train iter: 960 [(19%)]	Loss: 11.307041	soft_Loss: 4.752457	MMD_Loss: 0.023760	Tri_Loss: 7.694802	TEST_domain_Loss: 0.809837
+Train iter: 970 [(19%)]	Loss: 11.989899	soft_Loss: 4.984204	MMD_Loss: 0.022555	Tri_Loss: 8.225472	TEST_domain_Loss: 0.830360
+Train iter: 980 [(20%)]	Loss: 11.566783	soft_Loss: 4.764136	MMD_Loss: 0.017264	Tri_Loss: 7.932788	TEST_domain_Loss: 0.815734
+Train iter: 990 [(20%)]	Loss: 11.518362	soft_Loss: 4.836349	MMD_Loss: 0.022581	Tri_Loss: 7.757943	TEST_domain_Loss: 0.789338
+Train iter: 1000 [(20%)]	Loss: 11.817466	soft_Loss: 4.796571	MMD_Loss: 0.024371	Tri_Loss: 8.143566	TEST_domain_Loss: 0.800241
+
+load9_train set: Average loss: 0.0000, Accuracy: 16767/28800 (58.22%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 561/2400 (23.38%), Accuracy: 533/2400 (22.21%), Accuracy: 506/2400 (21.08%), Accuracy: 534/2400 (22.25%)
+
+learning rate 0.0000
+Train iter: 1010 [(20%)]	Loss: 11.057974	soft_Loss: 4.404941	MMD_Loss: 0.026375	Tri_Loss: 7.643085	TEST_domain_Loss: 0.780052
+Train iter: 1020 [(20%)]	Loss: 11.424379	soft_Loss: 4.692057	MMD_Loss: 0.020852	Tri_Loss: 7.658848	TEST_domain_Loss: 0.819978
+Train iter: 1030 [(21%)]	Loss: 11.425795	soft_Loss: 4.613272	MMD_Loss: 0.028171	Tri_Loss: 7.760254	TEST_domain_Loss: 0.784996
+Train iter: 1040 [(21%)]	Loss: 11.785727	soft_Loss: 4.937683	MMD_Loss: 0.020674	Tri_Loss: 7.757479	TEST_domain_Loss: 0.797511
+Train iter: 1050 [(21%)]	Loss: 11.723900	soft_Loss: 4.798491	MMD_Loss: 0.018682	Tri_Loss: 7.774015	TEST_domain_Loss: 0.833029
+Train iter: 1060 [(21%)]	Loss: 11.739476	soft_Loss: 4.834332	MMD_Loss: 0.021669	Tri_Loss: 7.775948	TEST_domain_Loss: 0.778838
+Train iter: 1070 [(21%)]	Loss: 11.654482	soft_Loss: 4.822712	MMD_Loss: 0.015185	Tri_Loss: 7.605024	TEST_domain_Loss: 0.815910
+Train iter: 1080 [(22%)]	Loss: 11.375676	soft_Loss: 4.591167	MMD_Loss: 0.024340	Tri_Loss: 7.514391	TEST_domain_Loss: 0.804793
+Train iter: 1090 [(22%)]	Loss: 11.698956	soft_Loss: 4.770636	MMD_Loss: 0.018558	Tri_Loss: 7.695470	TEST_domain_Loss: 0.781180
+Train iter: 1100 [(22%)]	Loss: 11.525400	soft_Loss: 4.711308	MMD_Loss: 0.021311	Tri_Loss: 7.506924	TEST_domain_Loss: 0.787748
+
+load9_train set: Average loss: 0.0000, Accuracy: 17206/28800 (59.74%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 549/2400 (22.88%), Accuracy: 555/2400 (23.12%), Accuracy: 524/2400 (21.83%), Accuracy: 556/2400 (23.17%)
+
+learning rate 0.0000
+Train iter: 1110 [(22%)]	Loss: 11.413927	soft_Loss: 4.651771	MMD_Loss: 0.021873	Tri_Loss: 7.422756	TEST_domain_Loss: 0.776211
+Train iter: 1120 [(22%)]	Loss: 11.645905	soft_Loss: 4.669265	MMD_Loss: 0.030383	Tri_Loss: 7.668023	TEST_domain_Loss: 0.759647
+Train iter: 1130 [(23%)]	Loss: 11.715919	soft_Loss: 4.781084	MMD_Loss: 0.020869	Tri_Loss: 7.547613	TEST_domain_Loss: 0.796652
+Train iter: 1140 [(23%)]	Loss: 11.331400	soft_Loss: 4.532015	MMD_Loss: 0.017364	Tri_Loss: 7.400364	TEST_domain_Loss: 0.758282
+Train iter: 1150 [(23%)]	Loss: 11.892731	soft_Loss: 4.770797	MMD_Loss: 0.019048	Tri_Loss: 7.744912	TEST_domain_Loss: 0.772923
+Train iter: 1160 [(23%)]	Loss: 11.625587	soft_Loss: 4.669430	MMD_Loss: 0.021347	Tri_Loss: 7.496334	TEST_domain_Loss: 0.783842
+Train iter: 1170 [(23%)]	Loss: 11.870005	soft_Loss: 4.834499	MMD_Loss: 0.017563	Tri_Loss: 7.568782	TEST_domain_Loss: 0.782292
+Train iter: 1180 [(24%)]	Loss: 11.461199	soft_Loss: 4.512192	MMD_Loss: 0.031185	Tri_Loss: 7.422346	TEST_domain_Loss: 0.781571
+Train iter: 1190 [(24%)]	Loss: 11.480988	soft_Loss: 4.601803	MMD_Loss: 0.024166	Tri_Loss: 7.344109	TEST_domain_Loss: 0.759252
+Train iter: 1200 [(24%)]	Loss: 11.768354	soft_Loss: 4.591120	MMD_Loss: 0.015320	Tri_Loss: 7.603780	TEST_domain_Loss: 0.825536
+
+load9_train set: Average loss: 0.0000, Accuracy: 17679/28800 (61.39%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 561/2400 (23.38%), Accuracy: 530/2400 (22.08%), Accuracy: 530/2400 (22.08%), Accuracy: 572/2400 (23.83%)
+
+learning rate 0.0000
+Train iter: 1210 [(24%)]	Loss: 11.873666	soft_Loss: 4.787532	MMD_Loss: 0.016648	Tri_Loss: 7.536386	TEST_domain_Loss: 0.766665
+Train iter: 1220 [(24%)]	Loss: 11.356759	soft_Loss: 4.402297	MMD_Loss: 0.018231	Tri_Loss: 7.359183	TEST_domain_Loss: 0.759986
+Train iter: 1230 [(25%)]	Loss: 11.640200	soft_Loss: 4.640038	MMD_Loss: 0.019688	Tri_Loss: 7.417298	TEST_domain_Loss: 0.733911
+Train iter: 1240 [(25%)]	Loss: 11.640199	soft_Loss: 4.574555	MMD_Loss: 0.019466	Tri_Loss: 7.455077	TEST_domain_Loss: 0.746249
+Train iter: 1250 [(25%)]	Loss: 11.541101	soft_Loss: 4.575035	MMD_Loss: 0.020620	Tri_Loss: 7.277451	TEST_domain_Loss: 0.775232
+Train iter: 1260 [(25%)]	Loss: 11.676464	soft_Loss: 4.668042	MMD_Loss: 0.020590	Tri_Loss: 7.312651	TEST_domain_Loss: 0.767364
+Train iter: 1270 [(25%)]	Loss: 11.508421	soft_Loss: 4.432340	MMD_Loss: 0.023144	Tri_Loss: 7.428590	TEST_domain_Loss: 0.713808
+Train iter: 1280 [(26%)]	Loss: 11.694782	soft_Loss: 4.481618	MMD_Loss: 0.018384	Tri_Loss: 7.537696	TEST_domain_Loss: 0.741495
+Train iter: 1290 [(26%)]	Loss: 11.493678	soft_Loss: 4.522749	MMD_Loss: 0.017615	Tri_Loss: 7.176727	TEST_domain_Loss: 0.790077
+Train iter: 1300 [(26%)]	Loss: 11.733831	soft_Loss: 4.731251	MMD_Loss: 0.018072	Tri_Loss: 7.200601	TEST_domain_Loss: 0.782082
+
+load9_train set: Average loss: 0.0000, Accuracy: 18031/28800 (62.61%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 571/2400 (23.79%), Accuracy: 543/2400 (22.62%), Accuracy: 547/2400 (22.79%), Accuracy: 591/2400 (24.62%)
+
+learning rate 0.0000
+Train iter: 1310 [(26%)]	Loss: 11.573775	soft_Loss: 4.576544	MMD_Loss: 0.021545	Tri_Loss: 7.207831	TEST_domain_Loss: 0.749059
+Train iter: 1320 [(26%)]	Loss: 11.570265	soft_Loss: 4.469340	MMD_Loss: 0.016710	Tri_Loss: 7.291234	TEST_domain_Loss: 0.766516
+Train iter: 1330 [(27%)]	Loss: 11.496706	soft_Loss: 4.426431	MMD_Loss: 0.023038	Tri_Loss: 7.302487	TEST_domain_Loss: 0.702568
+Train iter: 1340 [(27%)]	Loss: 12.160428	soft_Loss: 4.698337	MMD_Loss: 0.015612	Tri_Loss: 7.651618	TEST_domain_Loss: 0.778779
+Train iter: 1350 [(27%)]	Loss: 11.629194	soft_Loss: 4.533143	MMD_Loss: 0.017295	Tri_Loss: 7.235896	TEST_domain_Loss: 0.756377
+Train iter: 1360 [(27%)]	Loss: 11.851927	soft_Loss: 4.620871	MMD_Loss: 0.018086	Tri_Loss: 7.309807	TEST_domain_Loss: 0.808941
+Train iter: 1370 [(27%)]	Loss: 11.576715	soft_Loss: 4.374951	MMD_Loss: 0.021868	Tri_Loss: 7.326003	TEST_domain_Loss: 0.745248
+Train iter: 1380 [(28%)]	Loss: 11.533575	soft_Loss: 4.419413	MMD_Loss: 0.021673	Tri_Loss: 7.165298	TEST_domain_Loss: 0.782791
+Train iter: 1390 [(28%)]	Loss: 11.640505	soft_Loss: 4.489925	MMD_Loss: 0.015276	Tri_Loss: 7.201980	TEST_domain_Loss: 0.776509
+Train iter: 1400 [(28%)]	Loss: 11.544849	soft_Loss: 4.464355	MMD_Loss: 0.022772	Tri_Loss: 7.112589	TEST_domain_Loss: 0.763190
+
+load9_train set: Average loss: 0.0000, Accuracy: 18415/28800 (63.94%)
+
+
+load9_train set: Average loss: 0.0000, Accuracy: 550/2400 (22.92%), Accuracy: 525/2400 (21.88%), Accuracy: 522/2400 (21.75%), Accuracy: 590/2400 (24.58%)
+
+learning rate 0.0000
+Train iter: 1410 [(28%)]	Loss: 11.659294	soft_Loss: 4.499506	MMD_Loss: 0.020616	Tri_Loss: 7.225614	TEST_domain_Loss: 0.728802
