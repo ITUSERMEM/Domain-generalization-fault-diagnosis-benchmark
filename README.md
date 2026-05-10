@@ -58,4 +58,4 @@ The current code is the initial version, and we will integrate it into a complet
 | DGNIS | PU | [6,7,8]→9 | 27.75% | 15.79% | 24.69±2.70% | ✅ |
 | DGNIS | PU | [6,7,9]→8 | 44.75% | 14.67% | 35.47±8.11% | ✅ |
 | DGNIS | PU | [6,8,9]→7 | 39.83% | 11.96% | 32.79±6.88% | ✅ |
-| DGNIS | PU | [7,8,9]→6 | 42.67% | 13.50% | 33.03±8.72% | 🔄 |
+| DGNIS | PU | [7,8,9]→6 | 45.25% | 13.50% | 34.33±9.37% | 🔄 |
