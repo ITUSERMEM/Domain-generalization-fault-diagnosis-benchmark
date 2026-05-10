@@ -256,7 +256,7 @@ def get_parameter_number(net):
 if __name__ == '__main__':
     # setup_seed(seed)
     iteration = 5000
-    batch_size = 256
+    batch_size = 1024
     Glr = 0.0001
     mar=5
     FFT=False
@@ -312,7 +312,7 @@ if __name__ == '__main__':
                 if cuda:
                     torch.cuda.manual_seed(seed)
 
-                kwargs = {'num_workers': 0, 'pin_memory': False} if cuda else {}
+                kwargs = {'num_workers': 16, 'pin_memory': True} if cuda else {}
 
                 src_loader = data_loader_1d.load_training(root_path, src_name1, src_name2, src_name3, src, FFT,
                                                           class_num,
