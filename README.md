@@ -53,4 +53,4 @@ The current code is the initial version, and we will integrate it into a complet
 | CNN-C | CWRU | [1,2,3]→0 | 100.00% | 89.50% | 98.73±1.19% | 🔄 |
 | DGNIS | CWRU | [0,1,2]→3 | 99.65% | 38.40% | 94.81±11.99% | ✅ |
 | DGNIS | CWRU | [0,1,3]→2 | 99.95% | 38.80% | 95.34±11.65% | ✅ |
-| DGNIS | CWRU | [0,2,3]→1 | 95.25% | 35.55% | 88.96±11.50% | 🔄 |
+| DGNIS | CWRU | [0,2,3]→1 | 95.25% | 35.50% | 89.44±10.93% | ✅ |
