@@ -57,4 +57,4 @@ The current code is the initial version, and we will integrate it into a complet
 | DGNIS | CWRU | [1,2,3]→0 | 98.70% | 33.10% | 91.83±12.71% | ✅ |
 | DGNIS | PU | [6,7,8]→9 | 27.75% | 15.79% | 24.69±2.70% | ✅ |
 | DGNIS | PU | [6,7,9]→8 | 44.75% | 14.67% | 35.47±8.11% | ✅ |
-| DGNIS | PU | [6,8,9]→7 | 39.83% | 12.00% | 32.76±6.88% | 🔄 |
+| DGNIS | PU | [6,8,9]→7 | 39.83% | 11.96% | 32.54±7.12% | 🔄 |
